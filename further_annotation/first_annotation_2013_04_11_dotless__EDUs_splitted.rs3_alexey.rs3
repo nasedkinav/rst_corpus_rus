@@ -1,0 +1,98 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="34" relname="span">##### Компания Google заявила о своих планах превратить домен .search,</segment>
+		<segment id="2" parent="1" relname="background">на который ранее подала заявку, в бесточечный домен http://search/.</segment>
+		<segment id="3" parent="34" relname="elaboration">Об этом сообщил портал TechCrunc</segment>
+		<segment id="4" parent="36" relname="span">##### О своих намерениях поисковик известил письмом организацию ICANN,</segment>
+		<segment id="5" parent="4" relname="background">занимающуюся регулированием вопросов функционирования Интернета.</segment>
+		<segment id="6" parent="7" relname="attribution">Google подчеркнул,</segment>
+		<segment id="7" parent="37" relname="span">что не собирается использовать домен только для своих нужд.</segment>
+		<segment id="8" parent="38" relname="contrast">Напротив, компания пообещала перенаправлять запросы с него на поисковые сервисы по выбору пользователя.</segment>
+		<segment id="9" parent="39" relname="joint">О реакции представителей ICANN на публикацию письма и его содержание пока неизвестно.</segment>
+		<segment id="10" parent="47" relname="elaboration">##### Ранее ICANN высказалась против бесточечных доменов.</segment>
+		<segment id="11" parent="12" relname="interpretation-evaluation">С точки зрения организации,</segment>
+		<segment id="12" parent="41" relname="span">такие адреса могут оказаться недоступными для некоторых пользователей.</segment>
+		<segment id="13" parent="44" relname="interpretation-evaluation">Мнения экспертов индустрии на этот счет разделились.</segment>
+		<segment id="14" parent="15" relname="interpretation-evaluation">Большинство из них соглашается,</segment>
+		<segment id="15" parent="42" relname="span">что бесточечные домены могут привести к таким проблемам, как недоступность почтовых SMTP-серверов.</segment>
+		<segment id="16" parent="43" relname="contrast">В то же время, на форумах ICANN появилось много призывов не создавать «ненужные запреты».</segment>
+		<segment id="17" parent="18" relname="elaboration">##### В 2012 году компания Google подала 100 заявок на доменные зоны первого уровня,</segment>
+		<segment id="18" parent="50" relname="span">среди которых такие адреса как .google, .gmail, .youtube, .android, а также .lol, .wow, .love и другие.</segment>
+		<segment id="19" parent="49" relname="span">В письме ICANN поисковик пообещал также открыть для других компаний домены .cloud, .blog и .app в случае,</segment>
+		<segment id="20" parent="19" relname="condition">если ему предоставят права на них.</segment>
+		<segment id="21" parent="51" relname="span">Для будущего менеджмента подобных «открытых» доменов и предоставления к ним доступа Google создал отдельное подразделение Charleston Road Registry,</segment>
+		<segment id="22" parent="21" relname="attribution">от имени которого и было отправлено письмо.</segment>
+		<segment id="23" parent="55" relname="elaboration">##### ICANN открыла прием заявок на домены первого уровня в начале 2012 года.</segment>
+		<segment id="24" parent="54" relname="joint">Всего организация получила почти две тысячи предложений от более чем 500 компаний.</segment>
+		<segment id="25" parent="26" relname="interpretation-evaluation">ICANN занята рассмотрением заявок,</segment>
+		<segment id="26" parent="53" relname="span">выбирая, кому она предоставит права на доменные имена.</segment>
+		<segment id="27" parent="54" relname="joint">Информация о заявках содержится в открытом доступе.</segment>
+		<segment id="28" parent="61" relname="elaboration">##### Принятая на сегодняшний день структура доменных имен состоит из домена первого (верхнего) уровня и отделенного от него точкой домена второго уровня (наименование сайта или организации).</segment>
+		<segment id="29" parent="59" relname="span">Домены верхнего уровня до нововведений ICANN делились на стандартные (.com, .net., .org и некоторые другие), инфраструктурные (.arpa) и региональные</segment>
+		<segment id="30" parent="29" relname="elaboration">например, .ru, .ua, .uk и прочие, закрепленные за конкретными странами)</segment>
+		<segment id="31" parent="60" relname="joint">Благодаря инициативе ICANN список имен первого уровня значительно расширится.</segment>
+		<segment id="32" parent="57" relname="joint">В то же время, бесточечные домены пока не классифицируются ICANN</segment>
+		<segment id="33" parent="57" relname="joint">и не рассматриваются ей для массового пользования.</segment>
+		<group id="34" type="span" parent="35" relname="span"/>
+		<group id="35" type="span" relname="antithesis"/>
+		<group id="36" type="span" parent="39" relname="joint"/>
+		<group id="37" type="span" parent="38" relname="contrast"/>
+		<group id="38" type="multinuc" parent="39" relname="joint"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="40" type="span" relname="antithesis"/>
+		<group id="41" type="span" parent="46" relname="joint"/>
+		<group id="42" type="span" parent="43" relname="contrast"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" relname="antithesis"/>
+		<group id="49" type="span" parent="52" relname="joint"/>
+		<group id="50" type="span" parent="52" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="52" type="multinuc" relname="antithesis"/>
+		<group id="53" type="span" parent="54" relname="joint"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="55" type="span" parent="56" relname="span"/>
+		<group id="56" type="span" relname="antithesis"/>
+		<group id="57" type="multinuc" parent="58" relname="span"/>
+		<group id="58" type="span" parent="60" relname="joint"/>
+		<group id="59" type="span" parent="60" relname="joint"/>
+		<group id="60" type="multinuc" parent="61" relname="span"/>
+		<group id="61" type="span" parent="62" relname="span"/>
+		<group id="62" type="span" relname="antithesis"/>
+  </body>
+</rst>

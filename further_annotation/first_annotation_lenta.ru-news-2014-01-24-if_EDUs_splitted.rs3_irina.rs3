@@ -1,0 +1,112 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="49" relname="span">##### В Ивано-Франковске (областном центре на западе Украины) сторонники оппозиции ворвались в здание областной администрации,</segment>
+		<segment id="2" parent="1" relname="attribution">передает ТСН.</segment>
+		<segment id="3" parent="43" relname="attribution">##### Сообщается,</segment>
+		<segment id="4" parent="43" relname="span">что они направились на пятый этаж,</segment>
+		<segment id="5" parent="4" relname="elaboration">где находится кабинет губернатора Василия Чуднова.</segment>
+		<segment id="6" parent="45" relname="contrast">Однако на рабочем месте чиновника не было.</segment>
+		<segment id="7" parent="8" relname="attribution">По сведениям местного издания Firtka,</segment>
+		<segment id="8" parent="46" relname="span">в кабинете была включена прямая трансляция с митинга, проходящего на улице.</segment>
+		<segment id="9" parent="10" relname="attribution">Издание полагает,</segment>
+		<segment id="10" parent="47" relname="span">что чиновник, наблюдая за происходящим, «заблаговременно покинул помещение».</segment>
+		<segment id="11" parent="52" relname="span">##### У здания администрации,</segment>
+		<segment id="12" parent="11" relname="attribution">по данным новостной службы,</segment>
+		<segment id="13" parent="53" relname="same-unit">собрались около пяти тысяч человек.</segment>
+		<segment id="14" parent="15" relname="attribution">##### Как заявил агентству «Укринформ» лидер общественной организации «Солидарность» Андрей Микитин,</segment>
+		<segment id="15" parent="54" relname="span">внутри уже находятся до полутора тысяч митингующих.</segment>
+		<segment id="16" parent="54" relname="elaboration">Они заблокировали все выходы из здания.</segment>
+		<segment id="17" parent="18" relname="attribution">Firtka сообщает,</segment>
+		<segment id="18" parent="57" relname="span">что в захваченном здании будет действовать «областной штаб национального сопротивления».</segment>
+		<segment id="19" parent="64" relname="sequence">##### Ранее между сотрудниками милиции и митингующими, пытавшимися попасть в областную администрацию, произошли стычки.</segment>
+		<segment id="20" parent="64" relname="sequence">Сдержать толпу милиционеры не смогли.</segment>
+		<segment id="21" parent="63" relname="sequence">После того, как здание было захвачено оппозицией,</segment>
+		<segment id="22" parent="60" relname="span">остававшиеся там правоохранители,</segment>
+		<segment id="23" parent="22" relname="attribution">как сообщается,</segment>
+		<segment id="24" parent="61" relname="same-unit">стали покидать его через задний вход.</segment>
+		<segment id="25" parent="69" relname="sequence">##### 23 января сторонники оппозиции начали захватывать областные администрации на западе Украины.</segment>
+		<segment id="26" parent="69" relname="sequence">Им удалось занять административные здания во Львове, Ровно и Тернополе.</segment>
+		<segment id="27" parent="69" relname="sequence">Попытки штурма были предприняты также в Житомире, Черкассах и Черновцах.</segment>
+		<segment id="28" parent="71" relname="span">##### Митингующие требовали отставки губернаторов,</segment>
+		<segment id="29" parent="28" relname="elaboration">назначенных президентом Украины Виктором Януковичем.</segment>
+		<segment id="30" parent="31" relname="attribution">Как стало известно 24 января,</segment>
+		<segment id="31" parent="70" relname="span">покинуть свой пост согласился глава Волынской области Борис Климчук</segment>
+		<segment id="32" parent="70" relname="elaboration">принять такое решение его вынудили сторонники оппозиции, собравшиеся у здания администрации в Луцке)</segment>
+		<segment id="33" parent="75" relname="span">Уволиться согласились также заместители губернатора Ровенской области Василия Берташа</segment>
+		<segment id="34" parent="33" relname="elaboration">сам он в настоящее время находится в отпуске)</segment>
+		<segment id="35" parent="74" relname="contrast">Заявление об отставке под давлением оппозиции написал и львовский губернатор Олег Сало,</segment>
+		<segment id="36" parent="74" relname="contrast">однако позднее он назвал это заявление недействительным.</segment>
+		<segment id="37" parent="80" relname="span">##### Захват администраций последовал за обострением обстановки в Киеве,</segment>
+		<segment id="38" parent="37" relname="elaboration">где проходит «Евромайдан»</segment>
+		<segment id="39" parent="38" relname="elaboration">— кампания в поддержку евроинтеграции и за смену власти в стране.</segment>
+		<segment id="40" parent="79" relname="joint">Антиправительственные митинги, организованные оппозицией, вылились в беспорядки и столкновения с милицией.</segment>
+		<segment id="41" parent="78" relname="joint">В стычках пострадали сотни людей,</segment>
+		<segment id="42" parent="78" relname="joint">несколько активистов оппозиции погибли.</segment>
+		<group id="43" type="span" parent="44" relname="span"/>
+		<group id="44" type="span" parent="45" relname="contrast"/>
+		<group id="45" type="multinuc" parent="50" relname="joint"/>
+		<group id="46" type="span" parent="48" relname="sequence"/>
+		<group id="47" type="span" parent="48" relname="sequence"/>
+		<group id="48" type="multinuc" parent="50" relname="joint"/>
+		<group id="49" type="span" parent="51" relname="preparation"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="51" type="span" relname="antithesis"/>
+		<group id="52" type="span" parent="53" relname="same-unit"/>
+		<group id="53" type="multinuc" parent="58" relname="span"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="55" type="span" parent="56" relname="joint"/>
+		<group id="56" type="multinuc" parent="59" relname="span"/>
+		<group id="57" type="span" parent="56" relname="joint"/>
+		<group id="58" type="span" parent="59" relname="preparation"/>
+		<group id="59" type="span" relname="antithesis"/>
+		<group id="60" type="span" parent="61" relname="same-unit"/>
+		<group id="61" type="multinuc" parent="63" relname="sequence"/>
+		<group id="63" type="multinuc" parent="67" relname="sequence"/>
+		<group id="64" type="multinuc" parent="67" relname="sequence"/>
+		<group id="67" type="multinuc" relname="antithesis"/>
+		<group id="69" type="multinuc" relname="antithesis"/>
+		<group id="70" type="span" parent="73" relname="span"/>
+		<group id="71" type="span" parent="72" relname="sequence"/>
+		<group id="72" type="multinuc" relname="antithesis"/>
+		<group id="73" type="span" parent="72" relname="sequence"/>
+		<group id="74" type="multinuc" parent="77" relname="span"/>
+		<group id="75" type="span" parent="72" relname="sequence"/>
+		<group id="77" type="span" parent="72" relname="sequence"/>
+		<group id="78" type="multinuc" parent="79" relname="joint"/>
+		<group id="79" type="multinuc" parent="81" relname="sequence"/>
+		<group id="80" type="span" parent="81" relname="sequence"/>
+		<group id="81" type="multinuc" relname="antithesis"/>
+  </body>
+</rst>

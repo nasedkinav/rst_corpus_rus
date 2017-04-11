@@ -1,0 +1,121 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="44" relname="span">##### Установлена личность молодого человека,</segment>
+		<segment id="2" parent="1" relname="elaboration">захватившего заложников в московской школе номер 263:</segment>
+		<segment id="3" parent="45" relname="span">это ученик 11 или 10 класса той же школы.</segment>
+		<segment id="4" parent="45" relname="attribution">Об этом 3 февраля сообщается на сайте газеты «Коммерсантъ».</segment>
+		<segment id="5" parent="6" relname="attribution">##### В МВД заявили,</segment>
+		<segment id="6" parent="47" relname="span">что преступник задержан.</segment>
+		<segment id="7" parent="48" relname="span">Все заложники (от 20 до 29 учеников 10 класса) освобождены,</segment>
+		<segment id="8" parent="7" relname="elaboration">никто из них не пострадал.</segment>
+		<segment id="9" parent="49" relname="span">Источник в правоохранительных органах сообщил агентству «Интерфакс»,</segment>
+		<segment id="10" parent="9" relname="elaboration">что мотивом преступления, по предварительным данным, стал конфликт в школе.</segment>
+		<segment id="11" parent="54" relname="attribution">##### При этом один из школьников рассказал телеканалу Life News,</segment>
+		<segment id="12" parent="53" relname="joint">что захватчик заложников был лучшим учеником в классе.</segment>
+		<segment id="13" parent="53" relname="joint">Ни в какие конфликты он вовлечен не был.</segment>
+		<segment id="14" parent="59" relname="attribution">Также ученики рассказали,</segment>
+		<segment id="15" parent="58" relname="joint">что на входе в школу размещен турникет для входа по карточкам.</segment>
+		<segment id="16" parent="56" relname="background">Некоторое время назад карточки поменяли,</segment>
+		<segment id="17" parent="18" relname="cause-effect">ученикам не дали новых карточек,</segment>
+		<segment id="18" parent="56" relname="span">и турникет не работал.</segment>
+		<segment id="19" parent="76" relname="elaboration">##### Точной информации о погибших и пострадавших полицейских и учителе пока нет.</segment>
+		<segment id="20" parent="64" relname="contrast">Некоторые источники сообщают о двух раненых полицейских,</segment>
+		<segment id="21" parent="22" relname="attribution">другие источники —</segment>
+		<segment id="22" parent="63" relname="span">об убитом полицейском, его раненом коллеге и раненом учителе.</segment>
+		<segment id="23" parent="24" relname="attribution">Также сообщалось,</segment>
+		<segment id="24" parent="65" relname="span">что раненый учитель якобы скончался.</segment>
+		<segment id="25" parent="26" relname="elaboration">Журналистам Life News стало известно имя предположительно погибшего полицейского,</segment>
+		<segment id="26" parent="67" relname="span">это старший сержант Сергей Бусюев или Бушуев.</segment>
+		<segment id="27" parent="68" relname="span">Имя погибшего или раненого учителя — Андрей Кириллов,</segment>
+		<segment id="28" parent="27" relname="elaboration">он преподавал географию.</segment>
+		<segment id="29" parent="69" relname="joint">Ученики отзываются о нем хорошо,</segment>
+		<segment id="30" parent="69" relname="joint">конфликтов с захватчиком заложников у него не было.</segment>
+		<segment id="31" parent="85" relname="sequence">##### Старшеклассник ворвался в школу в районе Отрадное днем 3 февраля.</segment>
+		<segment id="32" parent="33" relname="elaboration">Угрожая оружием охраннику,</segment>
+		<segment id="33" parent="79" relname="span">он заставил его пройти вместе с ним в кабинет биологии,</segment>
+		<segment id="34" parent="33" relname="background">где проходил урок у десятого класса.</segment>
+		<segment id="35" parent="85" relname="sequence">Охранник успел вызвать полицию с помощью «тревожной кнопки».</segment>
+		<segment id="36" parent="80" relname="joint">Преступник открыл огонь из окна по прибывшим полицейским</segment>
+		<segment id="37" parent="80" relname="joint">и взял в заложники учеников.</segment>
+		<segment id="38" parent="85" relname="sequence">На место прибыли дополнительные наряды полиции, скорой помощи, вертолет МЧС, спасатели с бронещитом, защищающим от взрывов, машина Следственного комитета РФ и лично глава МВД РФ Владимир Колокольцев.</segment>
+		<segment id="39" parent="85" relname="sequence">Учеников из школы эвакуировали.</segment>
+		<segment id="40" parent="41" relname="attribution">По одним данным,</segment>
+		<segment id="41" parent="82" relname="span">их разместили в соседней школе номер 1459.</segment>
+		<segment id="42" parent="43" relname="attribution">По другим данным,</segment>
+		<segment id="43" parent="83" relname="span">эта школа, наоборот, на всякий случай также была эвакуирована.</segment>
+		<group id="44" type="span" parent="3" relname="elaboration"/>
+		<group id="45" type="span" parent="46" relname="span"/>
+		<group id="46" type="span" relname="antithesis"/>
+		<group id="47" type="span" parent="51" relname="elaboration"/>
+		<group id="48" type="span" parent="50" relname="joint"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" relname="antithesis"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="54" type="span" parent="55" relname="span"/>
+		<group id="55" type="span" parent="61" relname="joint"/>
+		<group id="56" type="span" parent="57" relname="span"/>
+		<group id="57" type="span" parent="58" relname="joint"/>
+		<group id="58" type="multinuc" parent="59" relname="span"/>
+		<group id="59" type="span" parent="60" relname="span"/>
+		<group id="60" type="span" parent="61" relname="joint"/>
+		<group id="61" type="multinuc" parent="62" relname="span"/>
+		<group id="62" type="span" relname="antithesis"/>
+		<group id="63" type="span" parent="64" relname="contrast"/>
+		<group id="64" type="multinuc" parent="66" relname="contrast"/>
+		<group id="65" type="span" parent="66" relname="contrast"/>
+		<group id="66" type="multinuc" parent="74" relname="span"/>
+		<group id="67" type="span" parent="72" relname="joint"/>
+		<group id="68" type="span" parent="71" relname="span"/>
+		<group id="69" type="multinuc" parent="70" relname="span"/>
+		<group id="70" type="span" parent="68" relname="evaluation"/>
+		<group id="71" type="span" parent="72" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="span"/>
+		<group id="73" type="span" parent="75" relname="joint"/>
+		<group id="74" type="span" parent="75" relname="joint"/>
+		<group id="75" type="multinuc" parent="76" relname="span"/>
+		<group id="76" type="span" parent="77" relname="span"/>
+		<group id="77" type="span" relname="antithesis"/>
+		<group id="79" type="span" parent="85" relname="sequence"/>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="81" type="span" parent="85" relname="sequence"/>
+		<group id="82" type="span" parent="84" relname="contrast"/>
+		<group id="83" type="span" parent="84" relname="contrast"/>
+		<group id="84" type="multinuc" parent="85" relname="sequence"/>
+		<group id="85" type="multinuc" parent="86" relname="span"/>
+		<group id="86" type="span" relname="antithesis"/>
+  </body>
+</rst>

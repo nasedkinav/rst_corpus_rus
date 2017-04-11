@@ -1,0 +1,74 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="22" relname="span">##### Межпланетный зонд «Розетта» Европейского космического агентства (ESA) вечером 20 января 2014 года выйдет из режима гибернации после 2,5 лет «спячки»,</segment>
+		<segment id="2" parent="1" relname="attribution">говорится в сообщении Европейской южной обсерватории (ESO).</segment>
+		<segment id="3" parent="36" relname="span">После «пробуждения» зонд начнет подготовку к исследованию кометы 67P/CG Чурюмова-Герасименко,</segment>
+		<segment id="4" parent="3" relname="elaboration">запланированному на август текущего года.</segment>
+		<segment id="5" parent="6" relname="attribution">##### Как сообщает "Английское название"</segment>
+		<segment id="6" parent="39" relname="span">сигнал на «пробуждение» «Розетты» планировалось отправить в 10 утра по времени Гринвича (14:00 по времени Москвы).</segment>
+		<segment id="7" parent="41" relname="joint">После пробуждения зонд должен будет выйти на связь с Землей.</segment>
+		<segment id="8" parent="41" relname="joint">Как ожидается, Сигнал с «Розетты» придет на Землю не позднее 18:30 по времени Гринвича (22:30 по московскому времени).</segment>
+		<segment id="9" parent="41" relname="joint">Прямая трансляция «пробуждения» зонда ведется на сайте Европейского космического агентства.</segment>
+		<segment id="10" parent="32" relname="span">##### Зонд «Розетта» был переведен в режим гибернации в июне 2011 года.</segment>
+		<segment id="11" parent="10" relname="background">На тот момент он находился на расстоянии 549 миллионов километров от Солнца.</segment>
+		<segment id="12" parent="24" relname="span">Поводом для перевода зонда в «спячку» стала</segment>
+		<segment id="13" parent="12" relname="cause-effect">недостаточная для работы приборов мощность аккумуляторов.</segment>
+		<segment id="14" parent="26" relname="contrast">В сентябре 2012 года «Розетта» достигла орбиты Юпитера,</segment>
+		<segment id="15" parent="26" relname="contrast">однако этой планеты зонд не «увидел».</segment>
+		<segment id="16" parent="47" relname="background">##### 67P/CG представляет собой короткопериодическую комету с периодом обращения вокруг Солнца 6,6 года.</segment>
+		<segment id="17" parent="35" relname="sequence">После сближения с кометой в августе 2014 года</segment>
+		<segment id="18" parent="34" relname="span">с борта «Розетты» стартует зонд Philae Lander,</segment>
+		<segment id="19" parent="18" relname="elaboration">который должен будет опуститься на комету Чурюмова-Герасименко диаметром около четырех километров.</segment>
+		<segment id="20" parent="45" relname="span">Последний снимок кометы был сделан «Очень большим телескопом» (VLT) 5 октября 2013 года.</segment>
+		<segment id="21" parent="20" relname="background">На тот момент она находилась на расстоянии около 500 миллионов километров от Солнца.</segment>
+		<group id="22" type="span" parent="38" relname="joint"/>
+		<group id="24" type="span" parent="33" relname="joint"/>
+		<group id="26" type="multinuc" parent="27" relname="span"/>
+		<group id="27" type="span" parent="33" relname="joint"/>
+		<group id="32" type="span" parent="33" relname="joint"/>
+		<group id="33" type="multinuc" relname="antithesis"/>
+		<group id="34" type="span" parent="35" relname="sequence"/>
+		<group id="35" type="multinuc" parent="44" relname="span"/>
+		<group id="36" type="span" parent="38" relname="joint"/>
+		<group id="38" type="multinuc" relname="antithesis"/>
+		<group id="39" type="span" parent="41" relname="joint"/>
+		<group id="41" type="multinuc" relname="antithesis"/>
+		<group id="44" type="span" parent="46" relname="joint"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="47" type="span" parent="48" relname="span"/>
+		<group id="48" type="span" relname="antithesis"/>
+  </body>
+</rst>

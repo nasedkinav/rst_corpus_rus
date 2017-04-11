@@ -1,0 +1,104 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">##### Основатель файлообменника Megaupload Ким Дотком (Kim Dotcom) объявил</segment>
+		<segment id="2" parent="36" relname="span">о запуске собственного музыкального сервиса под названием Baboom.</segment>
+		<segment id="3" parent="36" relname="background">Сообщение об этом 20 января появилось в твиттере Доткома.</segment>
+		<segment id="4" parent="38" relname="joint">##### Идет последняя синхронизация серверов.</segment>
+		<segment id="5" parent="38" relname="joint">Почти готов нажать на кнопку запуска»</segment>
+		<segment id="6" parent="39" relname="attribution">написал в микроблоге Ким Дотком.</segment>
+		<segment id="7" parent="42" relname="attribution">Ранее в опубликованном им на сайте "Английское название" пресс-релизе, уточнялось,</segment>
+		<segment id="8" parent="40" relname="sequence">что сервис начнет работу в тестовом режиме</segment>
+		<segment id="9" parent="41" relname="span">музыка появится на сайте только после запуска полной версии,</segment>
+		<segment id="10" parent="9" relname="elaboration">появление которой ожидается через несколько месяцев.</segment>
+		<segment id="11" parent="45" relname="cause-effect">##### По информации издания The National Business Review, в ближайшее время на "Английское название" будет выложен альбом самого Доткома под названием «Good Times».</segment>
+		<segment id="12" parent="43" relname="joint">Это позволит пользователям понять, как устроен сервис,</segment>
+		<segment id="13" parent="43" relname="joint">как можно находить</segment>
+		<segment id="14" parent="43" relname="joint">и скачивать с его помощью музыку»</segment>
+		<segment id="15" parent="44" relname="attribution">заявил Дотком.</segment>
+		<segment id="16" parent="48" relname="contrast">По его словам, Baboom станет своего рода «сочетанием iTunes и сервиса Spotify»,</segment>
+		<segment id="17" parent="48" relname="contrast">однако будет использовать более справедливую модель распределения прибыли между музыкантами и правообладателями.</segment>
+		<segment id="18" parent="19" relname="attribution">##### Ранее проживающий в Новой Зеландии Ким Дотком намеревался объявить</segment>
+		<segment id="19" parent="53" relname="span">о запуске Baboom</segment>
+		<segment id="20" parent="54" relname="same-unit">во время презентации своего музыкального альбома на стадионе в Окленде.</segment>
+		<segment id="21" parent="56" relname="joint">Презентация должна была пройти 20 января.</segment>
+		<segment id="22" parent="56" relname="joint">В общей сложности ее планировало посетить около 25 тысяч человек.</segment>
+		<segment id="23" parent="24" relname="attribution">Однако из-за планов Доткома также объявить на концерте</segment>
+		<segment id="24" parent="57" relname="span">о создании собственной политической партии,</segment>
+		<segment id="25" parent="58" relname="span">мероприятие было отменено по требованию властей страны.</segment>
+		<segment id="26" parent="25" relname="evidence">Избирательная комиссия Новой Зеландии посчитала, что раздача бесплатной еды и презентация альбома могут использоваться Доткомом для незаконной политической агитации.</segment>
+		<segment id="27" parent="66" relname="background">##### Ким Дотком известен как создатель сервиса обмена файлами Megaupload.</segment>
+		<segment id="28" parent="61" relname="sequence">В 2012 году по запросу США Дотком был арестован новозеландской полицией.</segment>
+		<segment id="29" parent="61" relname="sequence">Сайт Megaupload был закрыт.</segment>
+		<segment id="30" parent="62" relname="joint">Позже Дотком был выпущен под залог</segment>
+		<segment id="31" parent="63" relname="span">и занялся разработкой нового файлообменника</segment>
+		<segment id="32" parent="31" relname="elaboration">— Mega.</segment>
+		<segment id="33" parent="65" relname="span">В настоящее время судом Новой Зеландии рассматривается вопрос об экстрадиции Кима Доткома в Америку,</segment>
+		<segment id="34" parent="33" relname="evidence">где его обвиняют в нарушении авторских прав и мошенничестве.</segment>
+		<segment id="35" parent="64" relname="joint">Слушания по делу о его выдаче должны состояться в апреле 2014 года.</segment>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="52" relname="span"/>
+		<group id="38" type="multinuc" parent="39" relname="span"/>
+		<group id="39" type="span" parent="49" relname="span"/>
+		<group id="40" type="multinuc" parent="42" relname="span"/>
+		<group id="41" type="span" parent="40" relname="sequence"/>
+		<group id="42" type="span" parent="46" relname="span"/>
+		<group id="43" type="multinuc" parent="44" relname="span"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="47" relname="span"/>
+		<group id="46" type="span" parent="51" relname="joint"/>
+		<group id="47" type="span" parent="50" relname="joint"/>
+		<group id="48" type="multinuc" parent="50" relname="joint"/>
+		<group id="49" type="span" parent="37" relname="evidence"/>
+		<group id="50" type="multinuc" parent="51" relname="joint"/>
+		<group id="51" type="multinuc" parent="68" relname="joint"/>
+		<group id="52" type="span" parent="68" relname="joint"/>
+		<group id="53" type="span" parent="54" relname="same-unit"/>
+		<group id="54" type="multinuc" parent="55" relname="span"/>
+		<group id="55" type="span" parent="60" relname="span"/>
+		<group id="56" type="multinuc" parent="55" relname="background"/>
+		<group id="57" type="span" parent="25" relname="cause-effect"/>
+		<group id="58" type="span" parent="59" relname="contrast"/>
+		<group id="59" type="multinuc" parent="68" relname="joint"/>
+		<group id="60" type="span" parent="59" relname="contrast"/>
+		<group id="61" type="multinuc" parent="66" relname="span"/>
+		<group id="62" type="multinuc" parent="61" relname="sequence"/>
+		<group id="63" type="span" parent="62" relname="joint"/>
+		<group id="64" type="multinuc" parent="61" relname="sequence"/>
+		<group id="65" type="span" parent="64" relname="joint"/>
+		<group id="66" type="span" parent="67" relname="span"/>
+		<group id="67" type="span" parent="68" relname="joint"/>
+		<group id="68" type="multinuc" relname="antithesis"/>
+  </body>
+</rst>

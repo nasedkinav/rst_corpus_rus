@@ -1,0 +1,214 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="206" relname="preparation">##### КЕМБРИДЖ –</segment>
+		<segment id="2" parent="106" relname="preparation">Террористическая атака в Мумбаи в прошлом месяце была направлена не только против экономики и чувства безопасности Индии.</segment>
+		<segment id="3" parent="106" relname="span">Она преследовала и более широкую цель,</segment>
+		<segment id="4" parent="105" relname="span">которая заключалась в том, чтобы пошатнуть индо-пакистанское потепление в отношениях,</segment>
+		<segment id="5" parent="4" relname="elaboration">которое продолжалось с 2004 года.</segment>
+		<segment id="6" parent="104" relname="joint">Нападавшие не скрывали своих лиц</segment>
+		<segment id="7" parent="104" relname="joint">и не взрывали себя с помощью поясов смертников.</segment>
+		<segment id="8" parent="108" relname="contrast">Они не ставили перед собой цель действовать анонимно,</segment>
+		<segment id="9" parent="108" relname="contrast">а хотели, чтобы к ним относились, как к защитникам благородного дела.</segment>
+		<segment id="10" parent="100" relname="joint">Если этот мотив не будет полностью осознан,</segment>
+		<segment id="11" parent="100" relname="joint">а его корни не будут раскрыты во всем регионе,</segment>
+		<segment id="12" parent="102" relname="span">это нападение может оказаться началом уничтожения всей Южной Азии.</segment>
+		<segment id="13" parent="98" relname="span">##### Региональный конфликт,</segment>
+		<segment id="14" parent="13" relname="elaboration">в котором участвуют все государства региона и все больше негосударственных участников,</segment>
+		<segment id="15" parent="97" relname="span">привел к появлению большого количества обученных бойцов,</segment>
+		<segment id="16" parent="15" relname="elaboration">которые ждут призыва к славе.</segment>
+		<segment id="17" parent="113" relname="background">Внутри Индии и Пакистана экономические различия и чувство социальной несправедливости создали плодородную почву для конфликта.</segment>
+		<segment id="18" parent="111" relname="span">Использование религиозного пыла и злоупотребление им,</segment>
+		<segment id="19" parent="18" relname="elaboration">будь это «джихад» или «индусский фундаментализм»,</segment>
+		<segment id="20" parent="112" relname="same-unit">подрывает основу общей гармонии во всей Южной Азии.</segment>
+		<segment id="21" parent="96" relname="span">##### Самое сильное проявление сегодняшних проблем можно проследить в Афганистане,</segment>
+		<segment id="22" parent="21" relname="elaboration">трагедия которого никогда не ограничивалась рамками обозначенных границ страны.</segment>
+		<segment id="23" parent="196" relname="span">Динамика региона изменилась,</segment>
+		<segment id="24" parent="23" relname="cause-effect">когда афганские борцы за свободу 1980-х годов преступным способом были преобразованы в «моджахедов»;</segment>
+		<segment id="25" parent="196" relname="elaboration">в этом вместе участвовали как Запад, так и мусульманский мир.</segment>
+		<segment id="26" parent="116" relname="span">Пакистан,</segment>
+		<segment id="27" parent="26" relname="elaboration">который всегда чувствовал угрозу со стороны Индии,</segment>
+		<segment id="28" parent="118" relname="same-unit">оказался в центре этого преобразования.</segment>
+		<segment id="29" parent="122" relname="attribution">Запад полагал,</segment>
+		<segment id="30" parent="121" relname="sequence">что после падения советской империи</segment>
+		<segment id="31" parent="121" relname="sequence">регион будет развиваться дальше,</segment>
+		<segment id="32" parent="124" relname="joint">однако он</segment>
+		<segment id="33" parent="124" relname="joint">– а теперь все больше и мировое сообщество</segment>
+		<segment id="34" parent="127" relname="same-unit">продолжает платить огромную цену за этот нечестивый проект.</segment>
+		<segment id="35" parent="154" relname="span">##### Все беды двух десятилетий Южной Азии можно приписать афганским годам джихада:</segment>
+		<segment id="36" parent="132" relname="joint">расцвет Талибана,</segment>
+		<segment id="37" parent="132" relname="joint">доминирование спонсируемых пакистанцами религиозных фанатиков в рамках движения за свободу Кашмира</segment>
+		<segment id="38" parent="132" relname="joint">и последующее распространение сектантского конфликта на территории Пакистана.</segment>
+		<segment id="39" parent="193" relname="span">В Афганистане вооруженные силы и спецслужбы Пакистана стремились найти «стратегическую глубину» против Индии.</segment>
+		<segment id="40" parent="136" relname="span">Более того, они хотели отомстить Индии</segment>
+		<segment id="41" parent="135" relname="span">за ее поддержку восстания в 1960-х и 1970-х годах,</segment>
+		<segment id="42" parent="41" relname="elaboration">которое привело к независимости Бангладеша от Пакистана.</segment>
+		<segment id="43" parent="190" relname="span">##### В этом вопросе Индия не является безупречной.</segment>
+		<segment id="44" parent="189" relname="span">Она преследовала двойную стратегию,</segment>
+		<segment id="45" parent="186" relname="span">приводя доводы в пользу того, что в Кашмире все было хорошо</segment>
+		<segment id="46" parent="45" relname="interpretation-evaluation">(явная ложь),</segment>
+		<segment id="47" parent="187" relname="joint">и поддерживая этническую конфронтацию в Пакистане.</segment>
+		<segment id="48" parent="192" relname="joint">Жестокие войны спецслужб между Службой разведки Пакистана (ISI) и Отделом исследований и анализа Индии (RAW) стали суровой действительностью в Южной Азии.</segment>
+		<segment id="49" parent="137" relname="span">##### Лашкар-и-Тайба (LET, Армия за чистоту), воинственная группировка в Пакистане,</segment>
+		<segment id="50" parent="49" relname="elaboration">которая поддерживает мятеж в индийской части провинции Кашмир,</segment>
+		<segment id="51" parent="139" relname="same-unit">была продуктом этих лет.</segment>
+		<segment id="52" parent="53" relname="attribution">Согласно индийским экспертам,</segment>
+		<segment id="53" parent="95" relname="span">эта группировка замешана в нападениях на Мумбаи.</segment>
+		<segment id="54" parent="94" relname="span">Запрет Пакистана на ее офисы по всей стране по существу подтверждает это заключение,</segment>
+		<segment id="55" parent="54" relname="concession">хотя Пакистан публично требует больше доказательств.</segment>
+		<segment id="56" parent="142" relname="span">##### LET была вооруженным крылом организации Ахле Хадит,</segment>
+		<segment id="57" parent="141" relname="span">южно-азиатской версии фундаментализма в саудовском стиле,</segment>
+		<segment id="58" parent="57" relname="elaboration">целью которого было нанести удар по индийским силам в Кашмире.</segment>
+		<segment id="59" parent="144" relname="sequence">Хотя группировка была запрещена бывшим пакистанским президентом Первезом Мушаррафом</segment>
+		<segment id="60" parent="144" relname="sequence">после террористических нападений на Соединенные Штаты 11 сентября 2001 года,</segment>
+		<segment id="61" parent="147" relname="joint">некоторые ее члены ушли в подполье,</segment>
+		<segment id="62" parent="146" relname="span">а другие вступили в Джамаат-уд-Дава (JuD, Партия для обращения в свою веру)</segment>
+		<segment id="63" parent="62" relname="elaboration">– организацию, которая управляет религиозными образовательными центрами и благотворительными учреждениями.</segment>
+		<segment id="64" parent="65" relname="cause-effect">##### Учитывая ее укоренившиеся связи с разведывательными подразделениями Пакистана,</segment>
+		<segment id="65" parent="180" relname="span">эта группировка никогда не была серьезной мишенью.</segment>
+		<segment id="66" parent="182" relname="sequence">Фактически, она даже принимала участие в спасательных операциях на пакистанской стороне Кашмира</segment>
+		<segment id="67" parent="182" relname="sequence">после разрушительного землетрясения, которое произошло там в 2005 году.</segment>
+		<segment id="68" parent="159" relname="span">##### Но военные стратеги Пакистана не смогли понять, что у таких группировок как LET и JuD есть также и своя местная программа действий</segment>
+		<segment id="69" parent="68" relname="elaboration">– преобразование Пакистана в теократию.</segment>
+		<segment id="70" parent="91" relname="span">Хафиз Саид,</segment>
+		<segment id="71" parent="70" relname="elaboration">основатель LET и в настоящее время глава JuD,</segment>
+		<segment id="72" parent="92" relname="same-unit">когда-то гордо заявил:</segment>
+		<segment id="73" parent="162" relname="joint">“Мы верим в столкновение цивилизаций,</segment>
+		<segment id="74" parent="160" relname="span">и наш джихад продолжится до тех пор,</segment>
+		<segment id="75" parent="74" relname="condition">пока Ислам не станет господствующей религией”.</segment>
+		<segment id="76" parent="179" relname="joint">##### JuD, наряду со многими другими аналогично мыслящими группировками, внушила радикальные взгляды тысячам молодых пакистанцев.</segment>
+		<segment id="77" parent="177" relname="span">Через свои печатные и Интернет издания она также постоянно подвергала сомнению учения суфийских мистиков,</segment>
+		<segment id="78" parent="77" relname="elaboration">которые изначально внедрили Ислам в Южную Азию, поддерживая плюрализм и любовь к человечеству.</segment>
+		<segment id="79" parent="80" relname="concession">##### Даже требуя принять строгие меры против JuD,</segment>
+		<segment id="80" parent="167" relname="span">Индия должна признать, что Пакистан сам является жертвой террора.</segment>
+		<segment id="81" parent="176" relname="span">Любая военная конфронтация с Пакистаном всего лишь укрепит пакистанских радикалов.</segment>
+		<segment id="82" parent="90" relname="span">Индия также должна заглянуть внутрь,</segment>
+		<segment id="83" parent="82" relname="cause-effect">поскольку насилие в отношении мусульман в Гуджарате и действия индусских фундаменталистских группировок потенциально создали возможности для вербовки мусульманских экстремистов внутри Индии.</segment>
+		<segment id="84" parent="175" relname="joint">Мирное разрешение Кашмирского конфликта только поможет улучшить мирные перспективы в Южной Азии.</segment>
+		<segment id="85" parent="170" relname="span">##### Для Пакистана необходимы согласованные и продолжительные усилия против всех экстремистских группировок, работающих в стране.</segment>
+		<segment id="86" parent="85" relname="elaboration">Боевики всех мастей должны быть полностью и прозрачно выведены из строя.</segment>
+		<segment id="87" parent="88" relname="purpose">Одинаково важным для Пакистана является расширение и реформа его общественной системы образования и улучшение основных услуг,</segment>
+		<segment id="88" parent="169" relname="span">чтобы радикальные группы не могли завлечь молодых людей в свои образовательные сети и сети благосостояния.</segment>
+		<segment id="89" parent="173" relname="cause-effect">Иначе, статус-кво может стать серьезной угрозой для будущего Пакистана, а также и всей Южной Азии.</segment>
+		<group id="90" type="span" parent="175" relname="joint"/>
+		<group id="91" type="span" parent="92" relname="same-unit"/>
+		<group id="92" type="multinuc" parent="93" relname="span"/>
+		<group id="93" type="span" parent="163" relname="attribution"/>
+		<group id="94" type="span" parent="95" relname="evidence"/>
+		<group id="95" type="span" parent="185" relname="span"/>
+		<group id="96" type="span" parent="200" relname="preparation"/>
+		<group id="97" type="span" parent="113" relname="span"/>
+		<group id="98" type="span" parent="97" relname="cause-effect"/>
+		<group id="100" type="multinuc" parent="101" relname="span"/>
+		<group id="101" type="span" parent="12" relname="condition"/>
+		<group id="102" type="span" parent="205" relname="joint"/>
+		<group id="104" type="multinuc" parent="109" relname="joint"/>
+		<group id="105" type="span" parent="3" relname="elaboration"/>
+		<group id="106" type="span" parent="110" relname="span"/>
+		<group id="108" type="multinuc" parent="109" relname="joint"/>
+		<group id="109" type="multinuc" parent="205" relname="joint"/>
+		<group id="110" type="span" parent="205" relname="joint"/>
+		<group id="111" type="span" parent="112" relname="same-unit"/>
+		<group id="112" type="multinuc" parent="115" relname="span"/>
+		<group id="113" type="span" parent="114" relname="span"/>
+		<group id="114" type="span" parent="203" relname="joint"/>
+		<group id="115" type="span" parent="203" relname="joint"/>
+		<group id="116" type="span" parent="118" relname="same-unit"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="119" type="span" parent="199" relname="joint"/>
+		<group id="121" type="multinuc" parent="122" relname="span"/>
+		<group id="122" type="span" parent="155" relname="span"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="125" type="span" parent="127" relname="same-unit"/>
+		<group id="127" type="multinuc" parent="156" relname="span"/>
+		<group id="132" type="multinuc" parent="153" relname="span"/>
+		<group id="135" type="span" parent="40" relname="cause-effect"/>
+		<group id="136" type="span" parent="39" relname="elaboration"/>
+		<group id="137" type="span" parent="139" relname="same-unit"/>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="140" type="span" relname="antithesis"/>
+		<group id="141" type="span" parent="56" relname="elaboration"/>
+		<group id="142" type="span" parent="151" relname="joint"/>
+		<group id="144" type="multinuc" parent="145" relname="span"/>
+		<group id="145" type="span" parent="148" relname="concession"/>
+		<group id="146" type="span" parent="147" relname="joint"/>
+		<group id="147" type="multinuc" parent="148" relname="span"/>
+		<group id="148" type="span" parent="149" relname="span"/>
+		<group id="149" type="span" parent="151" relname="joint"/>
+		<group id="151" type="multinuc" relname="antithesis"/>
+		<group id="153" type="span" parent="35" relname="elaboration"/>
+		<group id="154" type="span" parent="195" relname="joint"/>
+		<group id="155" type="span" parent="158" relname="contrast"/>
+		<group id="156" type="span" parent="158" relname="contrast"/>
+		<group id="158" type="multinuc" parent="199" relname="joint"/>
+		<group id="159" type="span" parent="166" relname="joint"/>
+		<group id="160" type="span" parent="162" relname="joint"/>
+		<group id="162" type="multinuc" parent="163" relname="span"/>
+		<group id="163" type="span" parent="164" relname="span"/>
+		<group id="164" type="span" parent="166" relname="joint"/>
+		<group id="166" type="multinuc" relname="antithesis"/>
+		<group id="167" type="span" parent="81" relname="cause-effect"/>
+		<group id="169" type="span" parent="172" relname="joint"/>
+		<group id="170" type="span" parent="172" relname="joint"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" relname="antithesis"/>
+		<group id="175" type="multinuc" relname="antithesis"/>
+		<group id="176" type="span" parent="175" relname="joint"/>
+		<group id="177" type="span" parent="179" relname="joint"/>
+		<group id="179" type="multinuc" relname="antithesis"/>
+		<group id="180" type="span" parent="184" relname="span"/>
+		<group id="182" type="multinuc" parent="183" relname="span"/>
+		<group id="183" type="span" parent="180" relname="evidence"/>
+		<group id="184" type="span" relname="antithesis"/>
+		<group id="185" type="span" relname="antithesis"/>
+		<group id="186" type="span" parent="187" relname="joint"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="188" type="span" parent="44" relname="evidence"/>
+		<group id="189" type="span" parent="43" relname="elaboration"/>
+		<group id="190" type="span" parent="192" relname="joint"/>
+		<group id="192" type="multinuc" relname="antithesis"/>
+		<group id="193" type="span" parent="195" relname="joint"/>
+		<group id="195" type="multinuc" relname="antithesis"/>
+		<group id="196" type="span" parent="197" relname="span"/>
+		<group id="197" type="span" parent="199" relname="joint"/>
+		<group id="199" type="multinuc" parent="200" relname="span"/>
+		<group id="200" type="span" parent="201" relname="span"/>
+		<group id="201" type="span" relname="antithesis"/>
+		<group id="203" type="multinuc" relname="antithesis"/>
+		<group id="205" type="multinuc" parent="206" relname="span"/>
+		<group id="206" type="span" parent="207" relname="span"/>
+		<group id="207" type="span" relname="antithesis"/>
+  </body>
+</rst>

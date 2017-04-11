@@ -1,0 +1,182 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="87" relname="preparation">##### ПИТСБУРГ</segment>
+		<segment id="2" parent="3" relname="background">Примерно шесть месяцев назад, в момент наибольшего волнения относительно глобального финансового и экономического кризиса,</segment>
+		<segment id="3" parent="84" relname="span">лидеры «Большой Двадцатки» провели исторический саммит в Лондоне.</segment>
+		<segment id="4" parent="86" relname="joint">Их коллективные обязательства относительно стимулирования, регулирования и реструктуризации глобальной экономической деятельности помогли успокоить многих людей во всем мире.</segment>
+		<segment id="5" parent="83" relname="span">##### Многие из обсуждавшихся на лондонском саммите проблем до сих пор еще актуальны.</segment>
+		<segment id="6" parent="80" relname="contrast">Быть может, уровень беспокойства в залах заседаний и на фондовых биржах и снизился,</segment>
+		<segment id="7" parent="80" relname="contrast">однако ежедневная трагедия борьбы за выживание продолжается и сегодня.</segment>
+		<segment id="8" parent="81" relname="elaboration">В самом деле, для многих людей в деревнях и на улицах наименее развитых стран мира, особенно в Африке, эта проблема стала даже острее.</segment>
+		<segment id="9" parent="10" relname="attribution">##### Организация Объединенных Наций и Всемирный банк предсказывают,</segment>
+		<segment id="10" parent="89" relname="span">что прямое и косвенное воздействие экономического кризиса будет еще долгое время ощущаться в развивающемся мире.</segment>
+		<segment id="11" parent="91" relname="joint">Рабочие места исчезли,</segment>
+		<segment id="12" parent="91" relname="joint">источники дохода утеряны,</segment>
+		<segment id="13" parent="91" relname="joint">а возможности упущены.</segment>
+		<segment id="14" parent="15" relname="cause-effect">К сотням миллионов тех, кто уже жил за чертой бедности, добавились еще десятки миллионов,</segment>
+		<segment id="15" parent="92" relname="span">что полностью изменило ситуацию с достижением глобальных Целей Развития Тысячелетия.</segment>
+		<segment id="16" parent="95" relname="attribution">##### На лондонском саммите «Большой Двадцатки» было признано,</segment>
+		<segment id="17" parent="95" relname="span">что наиболее бедные страны и люди мира не должны страдать из-за кризиса,</segment>
+		<segment id="18" parent="17" relname="elaboration">ответственность за который они не несут.</segment>
+		<segment id="19" parent="20" relname="background">Учитывая это,</segment>
+		<segment id="20" parent="97" relname="span">лидеры «Большой Двадцатки» утвердили амбициозную программу, направленную на всесторонний широкомасштабный ответ.</segment>
+		<segment id="21" parent="22" relname="condition">Если питсбургский саммит не станет разочаровывающим окончанием господства «Большой Двадцатки» в качестве форума, предпринимающего решительные действия,</segment>
+		<segment id="22" parent="98" relname="span">то выработанный импульс будет необходимо поддержать.</segment>
+		<segment id="23" parent="100" relname="joint">Помочь это сделать могут четыре проблемы.</segment>
+		<segment id="24" parent="105" relname="span">##### Во-первых, лидеры «Большой Двадцатки» должны следовать своим обязательствам, данным относительно Глобального плана по восстановлению и реформам.</segment>
+		<segment id="25" parent="103" relname="background">Признав свою «коллективную ответственность за смягчение социального воздействия кризиса и минимизацию долгосрочного отрицательного эффекта на глобальный потенциал»,</segment>
+		<segment id="26" parent="102" relname="joint">группа должна теперь определить, какой объем поддержки получили развивающиеся страны</segment>
+		<segment id="27" parent="102" relname="joint">или какой объем поддержки стал для них доступен.</segment>
+		<segment id="28" parent="110" relname="preparation">##### Некоторые позитивные признаки уже можно заметить.</segment>
+		<segment id="29" parent="30" relname="attribution">Например, в июле Международный валютный фонд похвально объявил</segment>
+		<segment id="30" parent="109" relname="span">о существенном увеличении объемов льготного кредитования наименее развитым странам.</segment>
+		<segment id="31" parent="108" relname="span">Некоторым из них, включая Эфиопию, Малави и Южную Африку, уже были предоставлены Специальные права заимствования,</segment>
+		<segment id="32" parent="31" relname="purpose">с целью помочь им справиться с экономическим кризисом.</segment>
+		<segment id="33" parent="116" relname="cause-effect">Тем не менее, некоторые слабо защищенные страны до сих пор пытаются самостоятельно финансировать антициклические инвестиции и увеличение объема услуг социальной защиты.</segment>
+		<segment id="34" parent="116" relname="span">Из-за этого возникают вопросы относительно строгости критериев выбора Всемирного банка, а также используемых им моделей распределения,</segment>
+		<segment id="35" parent="34" relname="elaboration">которые могут препятствовать поддержке наиболее нуждающихся.</segment>
+		<segment id="36" parent="119" relname="span">##### Это делает акцент на вторую область действий</segment>
+		<segment id="37" parent="36" relname="elaboration">– гарантии относительно того, что развивающиеся страны, включая наименее развитые, будут иметь более значимый голос в глобальных финансовых учреждениях и укреплении региональных институтов, вроде Африканского банка развития.</segment>
+		<segment id="38" parent="120" relname="span">Равноправная и справедливая глобальная архитектура означает предоставление голоса не только главным развивающимся экономическим системам</segment>
+		<segment id="39" parent="38" relname="elaboration">– она также означает и систематическое подключение к диалогу других развивающихся стран.</segment>
+		<segment id="40" parent="125" relname="attribution">##### Такие Бреттон-Вудские учреждения, как Всемирный банк и Международный валютный фонд признают,</segment>
+		<segment id="41" parent="124" relname="joint">что включение в их состав большего количества членов, позволило бы им лучше соответствовать реалиям и разнообразию сегодняшнего глобального сообщества,</segment>
+		<segment id="42" parent="124" relname="joint">а также сделало бы их эффективным средством в борьбе за адаптацию к изменению климата и сокращению бедности.</segment>
+		<segment id="43" parent="127" relname="span">Однако необходимо ускорить темп принятия изменений,</segment>
+		<segment id="44" parent="43" relname="purpose">чтобы гарантировать то, что, в частности, Международный валютный фонд будет в состоянии приспособиться к пост-кризисным проблемам.</segment>
+		<segment id="45" parent="131" relname="span">##### Это ведет к необходимости расширения наблюдательного мандата Международного валютного фонда за рамки макроэкономической и валютной политики,</segment>
+		<segment id="46" parent="45" relname="purpose">таким образом, чтобы он мог заниматься более масштабными финансовыми и нормативными проблемами.</segment>
+		<segment id="47" parent="130" relname="span">Это означает установление политического совета очень высокого уровня</segment>
+		<segment id="48" parent="47" relname="purpose">для принятия стратегических решений, крайне необходимых для глобальной стабильности.</segment>
+		<segment id="49" parent="129" relname="span">Также это требует преобразования системы голосования</segment>
+		<segment id="50" parent="49" relname="purpose">для гарантии того, что решения будут пользоваться поддержкой большинства членов.</segment>
+		<segment id="51" parent="137" relname="span">##### Архитектурная и институциональная реформа должна быть дополнена третьим достижением:</segment>
+		<segment id="52" parent="136" relname="span">соглашением относительно графика рассмотрения разнообразных необъективных торговых правил, систем раздутого субсидирования, принципов интеллектуальной собственности и других форм рыночных искажений,</segment>
+		<segment id="53" parent="52" relname="elaboration">создающих серьезные неудобства в развивающемся мире.</segment>
+		<segment id="54" parent="135" relname="span">В этом вопросе «Большая Двадцатка» могла бы играть наиболее конструктивную роль,</segment>
+		<segment id="55" parent="54" relname="elaboration">в особенности, когда дело касается возрождения Дохийкого раунда торговых переговоров, снижения пошлин, тарифов и квот на экспорт из наименее развитых стран, а также постепенной отмены внутригосударственных субсидий.</segment>
+		<segment id="56" parent="140" relname="span">##### Наконец, «Большая Двадцатка» также могла бы помочь в решении проблемы изменения климата.</segment>
+		<segment id="57" parent="56" relname="background">Ее члены несут ответственность за подавляющую часть всех выбросов парниковых газов;</segment>
+		<segment id="58" parent="140" relname="elaboration">соглашение, заключенное между ними в Питсбурге, могло бы сыграть важную роль в том, чтобы декабрьская Международная конференция по изменению климата в Копенгагене не завершилась простым сотрясанием воздуха.</segment>
+		<segment id="59" parent="150" relname="joint">##### Необходимо достичь прогресса в становлении целей относительно сокращения выброса газов, а также в отношении более широкого обмена знаниями и технологиями.</segment>
+		<segment id="60" parent="147" relname="purpose">Ради уменьшения воздействия на окружающую среду,</segment>
+		<segment id="61" parent="147" relname="span">нам также необходимо найти способ обеспечить финансирование адаптации и минимизации воздействия</segment>
+		<segment id="62" parent="145" relname="joint">чтобы защитить людей от влияния климатических изменений</segment>
+		<segment id="63" parent="143" relname="span">и позволить расти экономическим системам,</segment>
+		<segment id="64" parent="142" relname="span">сокращая при этом уровень загрязнения атмосферы)</segment>
+		<segment id="65" parent="64" relname="background">при этом принимая меры против торгового протекционизма.</segment>
+		<segment id="66" parent="161" relname="background">##### Многочисленные задачи нашего времени сложны и запутаны.</segment>
+		<segment id="67" parent="68" relname="cause-effect">Саммит «Большой Двадцатки» в Лондоне откликнулся на проблемы и особые обстоятельства развивающегося мира,</segment>
+		<segment id="68" parent="161" relname="span">что привело к определенным значимым размышлениям.</segment>
+		<segment id="69" parent="159" relname="attribution">Скептики опасаются,</segment>
+		<segment id="70" parent="158" relname="same-unit">что теперь,</segment>
+		<segment id="71" parent="156" relname="cause-effect">когда стало понятно, что коллективная финансовая угроза может быть устранена независимо от того, правильным было это решение или нет)</segment>
+		<segment id="72" parent="156" relname="span">питсбургский саммит может привести к появлению слабого компромисса,</segment>
+		<segment id="73" parent="154" relname="contrast">отражающего скорее противоречивые национальные интересы,</segment>
+		<segment id="74" parent="154" relname="contrast">а не ощущение безотлагательности решения проблемы изменения климата, хронической бедности и неэффективного глобального управления.</segment>
+		<segment id="75" parent="152" relname="joint">Лидерам «Большой Двадцатки» вновь необходимо справиться с трудным внутренним давлением,</segment>
+		<segment id="76" parent="152" relname="joint">выйти за рамки узкой программы действий</segment>
+		<segment id="77" parent="152" relname="joint">и сопротивляться популистским искушениям</segment>
+		<segment id="78" parent="152" relname="joint">и тем самым доказать, что скептики заблуждаются.</segment>
+		<group id="80" type="multinuc" parent="81" relname="span"/>
+		<group id="81" type="span" parent="82" relname="span"/>
+		<group id="82" type="span" parent="5" relname="elaboration"/>
+		<group id="83" type="span" relname="antithesis"/>
+		<group id="84" type="span" parent="86" relname="joint"/>
+		<group id="86" type="multinuc" parent="87" relname="span"/>
+		<group id="87" type="span" parent="88" relname="span"/>
+		<group id="88" type="span" relname="antithesis"/>
+		<group id="89" type="span" parent="94" relname="span"/>
+		<group id="91" type="multinuc" parent="93" relname="span"/>
+		<group id="92" type="span" parent="91" relname="joint"/>
+		<group id="93" type="span" parent="89" relname="elaboration"/>
+		<group id="94" type="span" relname="antithesis"/>
+		<group id="95" type="span" parent="96" relname="span"/>
+		<group id="96" type="span" parent="100" relname="joint"/>
+		<group id="97" type="span" parent="100" relname="joint"/>
+		<group id="98" type="span" parent="100" relname="joint"/>
+		<group id="100" type="multinuc" relname="antithesis"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="104" type="span" parent="24" relname="elaboration"/>
+		<group id="105" type="span" relname="antithesis"/>
+		<group id="108" type="span" parent="109" relname="elaboration"/>
+		<group id="109" type="span" parent="110" relname="span"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="118" relname="contrast"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" parent="118" relname="contrast"/>
+		<group id="118" type="multinuc" relname="antithesis"/>
+		<group id="119" type="span" parent="122" relname="joint"/>
+		<group id="120" type="span" parent="122" relname="joint"/>
+		<group id="122" type="multinuc" relname="antithesis"/>
+		<group id="124" type="multinuc" parent="125" relname="span"/>
+		<group id="125" type="span" parent="126" relname="span"/>
+		<group id="126" type="span" parent="128" relname="joint"/>
+		<group id="127" type="span" parent="128" relname="joint"/>
+		<group id="128" type="multinuc" relname="antithesis"/>
+		<group id="129" type="span" parent="134" relname="joint"/>
+		<group id="130" type="span" parent="131" relname="elaboration"/>
+		<group id="131" type="span" parent="132" relname="span"/>
+		<group id="132" type="span" parent="134" relname="joint"/>
+		<group id="134" type="multinuc" relname="antithesis"/>
+		<group id="135" type="span" parent="139" relname="joint"/>
+		<group id="136" type="span" parent="51" relname="elaboration"/>
+		<group id="137" type="span" parent="139" relname="joint"/>
+		<group id="139" type="multinuc" relname="antithesis"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" relname="antithesis"/>
+		<group id="142" type="span" parent="63" relname="background"/>
+		<group id="143" type="span" parent="145" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="146" type="span" parent="61" relname="purpose"/>
+		<group id="147" type="span" parent="148" relname="span"/>
+		<group id="148" type="span" parent="150" relname="joint"/>
+		<group id="150" type="multinuc" relname="antithesis"/>
+		<group id="152" type="multinuc" parent="164" relname="span"/>
+		<group id="154" type="multinuc" parent="155" relname="span"/>
+		<group id="155" type="span" parent="72" relname="elaboration"/>
+		<group id="156" type="span" parent="157" relname="span"/>
+		<group id="157" type="span" parent="158" relname="same-unit"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="159" type="span" parent="160" relname="span"/>
+		<group id="160" type="span" parent="162" relname="elaboration"/>
+		<group id="161" type="span" parent="162" relname="span"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="166" relname="joint"/>
+		<group id="164" type="span" parent="166" relname="joint"/>
+		<group id="166" type="multinuc" relname="antithesis"/>
+  </body>
+</rst>

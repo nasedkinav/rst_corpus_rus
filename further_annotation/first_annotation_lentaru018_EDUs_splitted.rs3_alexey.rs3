@@ -1,0 +1,93 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="cause-effect">##### Выходец из Нигерии решил остаться на ПМЖ в Израиле,</segment>
+		<segment id="2" parent="31" relname="span">поскольку на родине его якобы преследует опасный призрак.</segment>
+		<segment id="3" parent="32" relname="attribution">Как пишет Israel Hayom в пятницу,</segment>
+		<segment id="4" parent="32" relname="span">17 января, 59-летний Стэнли Аониматци подал соответствующие документы в окружной суд в Иерусалиме,</segment>
+		<segment id="5" parent="4" relname="elaboration">который в ближайшее время должен рассмотреть его бумаги.</segment>
+		<segment id="6" parent="7" relname="elaboration">##### В заявлении Аониматци сказано,</segment>
+		<segment id="7" parent="35" relname="span">что он бежал из Нигерии в 2009 году.</segment>
+		<segment id="8" parent="36" relname="span">Двумя годами ранее скончался его отец,</segment>
+		<segment id="9" parent="8" relname="elaboration">который был «надзирателем» опасного духа.</segment>
+		<segment id="10" parent="38" relname="span">Самому Стэнли жители деревни предложили взять на себя обязанности его умершего родственника по надзору за призраком.</segment>
+		<segment id="11" parent="41" relname="span">##### Мужчина, однако, отказался,</segment>
+		<segment id="12" parent="11" relname="elaboration">но когда он попытался уехать из деревни,</segment>
+		<segment id="13" parent="39" relname="joint">он попал в автомобильную аварию</segment>
+		<segment id="14" parent="39" relname="joint">и получил травмы голеностопа и головы.</segment>
+		<segment id="15" parent="16" relname="interpretation-evaluation">По мнению Аониматци,</segment>
+		<segment id="16" parent="43" relname="span">ДТП подстроил тот самый обозлившийся на него дух:</segment>
+		<segment id="17" parent="18" relname="elaboration">«Это происшествие доказывало,</segment>
+		<segment id="18" parent="44" relname="span">что я должен вернуться в деревню и служить ему».</segment>
+		<segment id="19" parent="48" relname="span">##### После аварии друзья посоветовали ему уехать из страны,</segment>
+		<segment id="20" parent="19" relname="elaboration">объяснив, что дух будет преследовать его до тех пор,</segment>
+		<segment id="21" parent="49" relname="span">пока он находится в Нигерии.</segment>
+		<segment id="22" parent="50" relname="joint">Поэтому он оформил туристическую визу в Израиль</segment>
+		<segment id="23" parent="50" relname="joint">и въехал по ней в страну,</segment>
+		<segment id="24" parent="50" relname="joint">где теперь хочет получить статус беженца.</segment>
+		<segment id="25" parent="26" relname="interpretation-evaluation">##### В прокуратуре же считают,</segment>
+		<segment id="26" parent="55" relname="span">что запрос Аониматци не должен быть удовлетворен,</segment>
+		<segment id="27" parent="56" relname="span">так как боязнь призрака не соотносится с положениями Конвенции ООН о статусе беженцев.</segment>
+		<segment id="28" parent="53" relname="span">В ведомстве опасность,</segment>
+		<segment id="29" parent="28" relname="elaboration">о которой говорит нигериец,</segment>
+		<segment id="30" parent="54" relname="same-unit">была названа плодом «лихорадочного ума заявителя».</segment>
+		<group id="31" type="span" parent="33" relname="elaboration"/>
+		<group id="32" type="span" parent="33" relname="span"/>
+		<group id="33" type="span" parent="34" relname="span"/>
+		<group id="34" type="span" relname="antithesis"/>
+		<group id="35" type="span" parent="37" relname="span"/>
+		<group id="36" type="span" parent="35" relname="background"/>
+		<group id="37" type="span" parent="10" relname="cause-effect"/>
+		<group id="38" type="span" relname="antithesis"/>
+		<group id="39" type="multinuc" parent="40" relname="span"/>
+		<group id="40" type="span" parent="42" relname="span"/>
+		<group id="41" type="span" parent="40" relname="background"/>
+		<group id="42" type="span" parent="46" relname="joint"/>
+		<group id="43" type="span" parent="44" relname="evidence"/>
+		<group id="44" type="span" parent="45" relname="span"/>
+		<group id="45" type="span" parent="46" relname="joint"/>
+		<group id="46" type="multinuc" parent="47" relname="span"/>
+		<group id="47" type="span" relname="antithesis"/>
+		<group id="48" type="span" parent="21" relname="background"/>
+		<group id="49" type="span" parent="51" relname="evidence"/>
+		<group id="50" type="multinuc" parent="51" relname="span"/>
+		<group id="51" type="span" parent="52" relname="span"/>
+		<group id="52" type="span" relname="antithesis"/>
+		<group id="53" type="span" parent="54" relname="same-unit"/>
+		<group id="54" type="multinuc" parent="57" relname="joint"/>
+		<group id="55" type="span" parent="27" relname="cause-effect"/>
+		<group id="56" type="span" parent="57" relname="joint"/>
+		<group id="57" type="multinuc" relname="antithesis"/>
+  </body>
+</rst>

@@ -1,0 +1,137 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="preparation">##### ВЕЛЛИНГТОН.</segment>
+		<segment id="2" parent="58" relname="span">Парацетамол (известный в Соединённых Штатах как ацетаминофен) – одно из самых распространённых лекарств в мире.</segment>
+		<segment id="3" parent="4" relname="cause-effect">Вследствие своей безопасности</segment>
+		<segment id="4" parent="57" relname="span">он является предпочтительным препаратом для снятия жара и болевых синдромов.</segment>
+		<segment id="5" parent="60" relname="span">Однако 10 лет назад была высказана гипотеза о том, что использование парацетамола может увеличить риск развития астмы.</segment>
+		<segment id="6" parent="7" relname="cause-effect">Высказывалось предположение, что переход в США в 80-х гг. с применения аспирина на парацетамол среди детей мог стать причиной</segment>
+		<segment id="7" parent="59" relname="span">увеличения числа детей, заболевших астмой в течение данного периода.</segment>
+		<segment id="8" parent="62" relname="attribution">##### По мнению исследователей,</segment>
+		<segment id="9" parent="10" relname="cause-effect">замена аспирина на парацетамол могла привести к более сильной аллергической иммунной реакции,</segment>
+		<segment id="10" parent="62" relname="span">что повысило бы подверженность астме и другим аллергическим расстройствам.</segment>
+		<segment id="11" parent="65" relname="span">С тех пор несколько эпидемиологических исследований выявили связь между астмой и использованием парацетамола во время беременности, в детстве и среди взрослого населения.</segment>
+		<segment id="12" parent="11" relname="elaboration">Данные исследования привели к выводу о том, что использование парацетамола может представлять собой значительный фактор риска в развитии астмы.</segment>
+		<segment id="13" parent="66" relname="span">##### Последние свидетельства в поддержку данной гипотезы были получены в ходе масштабного международного эпидемиологического исследования детской астмы,</segment>
+		<segment id="14" parent="13" relname="elaboration">недавно опубликованного в медицинском журнале Ланцет (The Lancet).</segment>
+		<segment id="15" parent="67" relname="span">В данном анализе под названием «Международное исследование астмы и аллергии среди детей» (сокращённо «ISAAC») участвовало более 200�000 шести- и семилетних детей из 73 исследовательских центров 31 страны мира.</segment>
+		<segment id="16" parent="15" relname="elaboration">Родители или опекуны детей заполняли письменные опросы о текущих симптомах астмы, ринита (аллергии на пыльцу) и экземы, а также о некоторых факторах риска, в том числе, об использовании парацетамола для лечения жара на первом году жизни ребёнка и о частоте использования парацетамола за последний год.</segment>
+		<segment id="17" parent="72" relname="span">##### Исследованием было установлено, что применение парацетамола для снятия жара на первом году жизни было связано с астматическими симптомами у шести- и семилетних детей.</segment>
+		<segment id="18" parent="68" relname="joint">Данная связь прослеживалась во всех основных регионах мира;</segment>
+		<segment id="19" parent="68" relname="joint">в процентном отношении риск составил 46% после корректировки на другие факторы риска.</segment>
+		<segment id="20" parent="71" relname="joint">##### Также, была выявлена зависимость между дозировкой парацетамола, использовавшегося в течение последнего года, и симптомами астмы у детей в возрасте 6-7 лет.</segment>
+		<segment id="21" parent="71" relname="joint">Аналогичные зависимости наблюдались и между использованием парацетамола и риском тяжёлых астматических симптомов.</segment>
+		<segment id="22" parent="71" relname="joint">Число случаев астмы, которые можно связать с применением парацетамола, оказалось между 22% и 38%.</segment>
+		<segment id="23" parent="75" relname="evidence">##### Использование парацетамола, как на первом году жизни ребёнка, так и среди шести- и семилетних детей, оказалось также связано и с повышенным риском возникновения симптомов ринита и экземы.</segment>
+		<segment id="24" parent="74" relname="joint">Это говорит о том, что потенциальное негативное воздействие парацетамола не ограничивается исключительно дыхательными путями,</segment>
+		<segment id="25" parent="74" relname="joint">а может проявляться и на других органах.</segment>
+		<segment id="26" parent="76" relname="contrast">##### Установление потенциальных механизмов, лежащих в основе связи между приёмом парацетамола и возникновением астмы (и других аллергических расстройств), не входило в задачи данного исследования.</segment>
+		<segment id="27" parent="76" relname="contrast">Но другие исследователи выдвинули предположения о вероятных механизмах, связанных, в первую очередь, с отрицательным воздействием парацетамола на способность организма противостоять воздействию оксидантов и с его потенциальным провоцированием аллергических иммунных реакций.</segment>
+		<segment id="28" parent="77" relname="attribution">##### Авторы подчёркивают,</segment>
+		<segment id="29" parent="83" relname="span">что установить причинно-следственную связь с помощью подобного ретроспективного исследования не представляется возможным</segment>
+		<segment id="30" parent="29" relname="cause-effect">вследствие многочисленных потенциальных косвенных воздействий.</segment>
+		<segment id="31" parent="80" relname="span">Например, известно, что вирусные инфекции дыхательных путей среди детей младшего возраста,</segment>
+		<segment id="32" parent="31" relname="elaboration">такие как респираторно-синцитиальный вирус (РСВ),</segment>
+		<segment id="33" parent="81" relname="same-unit">имеют отношение к повышенному риску заболевания астмой через несколько лет,</segment>
+		<segment id="34" parent="82" relname="joint">и, соответственно, использование парацетамола такими детьми вносит путаницу в исследование.</segment>
+		<segment id="35" parent="90" relname="sequence">##### Данное исследование обострило споры о том, следует ли вообще сбивать жар у детей.</segment>
+		<segment id="36" parent="90" relname="sequence">Данный вопрос был детально рассмотрен исследовательской группой во главе с Фионой Рассел в бюллетене Всемирной организации здравоохранения.</segment>
+		<segment id="37" parent="89" relname="attribution">Данная группа исследователей выдвигает мнение о том,</segment>
+		<segment id="38" parent="88" relname="attribution">что имеющиеся на сегодняшний день научные свидетельства подтверждают,</segment>
+		<segment id="39" parent="87" relname="joint">что жар является всеобще распространённой, древней и, как правило, полезной реакцией на инфекцию,</segment>
+		<segment id="40" parent="85" relname="joint">и что его подавление в большинстве случаев приносит либо мало пользы,</segment>
+		<segment id="41" parent="85" relname="joint">либо вовсе не приносит никакой пользы.</segment>
+		<segment id="42" parent="43" relname="attribution">##### Они считают,</segment>
+		<segment id="43" parent="93" relname="span">что, напротив, сбивание жара может в некоторых случаях приводить к неблагоприятным эффектам,</segment>
+		<segment id="44" parent="45" relname="attribution">и делают вывод о том,</segment>
+		<segment id="45" parent="94" relname="span">что пропагандировать широкое применение медикаментов для подавления жара не следует.</segment>
+		<segment id="46" parent="96" relname="joint">Они рекомендуют ограничить использование подобных препаратов среди детей случаями довольно высокой температуры, явного недомогания или сильных болевых ощущений.</segment>
+		<segment id="47" parent="97" relname="condition">##### По крайней мере, ни у кого не вызывает сомнений необходимость проведения рандомизированного контролируемого исследования долговременных эффектов неоднократного использования парацетамола среди детей.</segment>
+		<segment id="48" parent="97" relname="span">Лишь в этом случае появится возможность разработать рекомендации по использованию парацетамола,</segment>
+		<segment id="49" parent="48" relname="elaboration">основанные на конкретных свидетельствах.</segment>
+		<segment id="50" parent="98" relname="condition">##### До тех пор, пока не появятся результаты подобного исследования,</segment>
+		<segment id="51" parent="98" relname="span">парацетамол останется предпочтительным лекарством для снижения болевых ощущений у детей в соответствии с рекомендациями ВОЗ,</segment>
+		<segment id="52" parent="51" relname="elaboration">предлагающей применять его среди детей в случае высокой температуры (38,5Co и выше).</segment>
+		<segment id="53" parent="100" relname="span">##### Использование аспирина среди детей младшего возраста противопоказано вследствие риска гепатоцеребрального синдрома</segment>
+		<segment id="54" parent="53" relname="elaboration">– редкого, но серьёзного осложнения.</segment>
+		<segment id="55" parent="102" relname="span">Парацетамол также по-прежнему является предпочтительным препаратом для снижения болевых ощущений и жара среди детей и взрослых с астмой,</segment>
+		<segment id="56" parent="55" relname="cause-effect">поскольку аспирин и другие нестероидные противовоспалительные медикаменты могут спровоцировать приступ астмы среди больных с повышенной чувствительностью к подобным медикаментам.</segment>
+		<group id="57" type="span" parent="2" relname="elaboration"/>
+		<group id="58" type="span" parent="61" relname="contrast"/>
+		<group id="59" type="span" parent="5" relname="elaboration"/>
+		<group id="60" type="span" parent="61" relname="contrast"/>
+		<group id="61" type="multinuc" relname="antithesis"/>
+		<group id="62" type="span" parent="63" relname="span"/>
+		<group id="63" type="span" parent="64" relname="sequence"/>
+		<group id="64" type="multinuc" relname="antithesis"/>
+		<group id="65" type="span" parent="64" relname="sequence"/>
+		<group id="66" type="span" relname="antithesis"/>
+		<group id="67" type="span" parent="66" relname="elaboration"/>
+		<group id="68" type="multinuc" parent="69" relname="span"/>
+		<group id="69" type="span" parent="17" relname="elaboration"/>
+		<group id="71" type="multinuc" parent="73" relname="span"/>
+		<group id="72" type="span" parent="103" relname="joint"/>
+		<group id="73" type="span" parent="103" relname="joint"/>
+		<group id="74" type="multinuc" parent="75" relname="span"/>
+		<group id="75" type="span" relname="antithesis"/>
+		<group id="76" type="multinuc" parent="78" relname="span"/>
+		<group id="77" type="span" parent="79" relname="span"/>
+		<group id="78" type="span" relname="antithesis"/>
+		<group id="79" type="span" parent="78" relname="elaboration"/>
+		<group id="80" type="span" parent="81" relname="same-unit"/>
+		<group id="81" type="multinuc" parent="82" relname="joint"/>
+		<group id="82" type="multinuc" parent="84" relname="span"/>
+		<group id="83" type="span" parent="77" relname="span"/>
+		<group id="84" type="span" parent="83" relname="elaboration"/>
+		<group id="85" type="multinuc" parent="87" relname="joint"/>
+		<group id="87" type="multinuc" parent="88" relname="span"/>
+		<group id="88" type="span" parent="89" relname="span"/>
+		<group id="89" type="span" parent="91" relname="span"/>
+		<group id="90" type="multinuc" parent="92" relname="span"/>
+		<group id="91" type="span" parent="92" relname="elaboration"/>
+		<group id="92" type="span" relname="antithesis"/>
+		<group id="93" type="span" parent="95" relname="joint"/>
+		<group id="94" type="span" parent="95" relname="joint"/>
+		<group id="95" type="multinuc" parent="96" relname="joint"/>
+		<group id="96" type="multinuc" relname="antithesis"/>
+		<group id="97" type="span" relname="antithesis"/>
+		<group id="98" type="span" relname="antithesis"/>
+		<group id="99" type="multinuc" parent="101" relname="joint"/>
+		<group id="100" type="span" parent="99" relname="comparison"/>
+		<group id="101" type="multinuc" relname="antithesis"/>
+		<group id="102" type="span" parent="101" relname="joint"/>
+		<group id="103" type="multinuc" relname="antithesis"/>
+  </body>
+</rst>

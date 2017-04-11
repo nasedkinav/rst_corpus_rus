@@ -1,0 +1,192 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="90" relname="preparation">##### ВАШИНГТОН, ОКРУГ КОЛУМБИЯ.</segment>
+		<segment id="2" parent="82" relname="background">Когда мировые лидеры соберутся в Питсбурге на саммит G-20,</segment>
+		<segment id="3" parent="81" relname="joint">они сделают переучет воздействия стимулирующих мер, принятых до сих пор,</segment>
+		<segment id="4" parent="81" relname="joint">а также обсудят, как скоординировать</segment>
+		<segment id="5" parent="81" relname="joint">и выйти надлежащим образом из этих мер.</segment>
+		<segment id="6" parent="79" relname="joint">Им понадобится укрепить международные директивы для потребностей в капитале для больших многонациональных банков,</segment>
+		<segment id="7" parent="78" relname="span">а также выработать меры борьбы с развращенными материальными стимулами,</segment>
+		<segment id="8" parent="7" relname="elaboration">которые привели к безответственному принятию рисков в финансовом секторе.</segment>
+		<segment id="9" parent="85" relname="contrast">Однако самый большой отпечаток, который они могли бы оставить, заключается в расширении мандата Международного валютного фонда после окончания кризиса.</segment>
+		<segment id="10" parent="98" relname="span">##### Значимость МВФ сильно выросла за время кризиса.</segment>
+		<segment id="11" parent="92" relname="span">Он успешно действовал для поддержания согласованных бюджетных и монетарных стимулов,</segment>
+		<segment id="12" parent="11" relname="elaboration">которые помогли предотвратить циклический крах.</segment>
+		<segment id="13" parent="93" relname="cause-effect">Его ресурсы утроились,</segment>
+		<segment id="14" parent="93" relname="span">что помогло ему прийти на помощь таким разным странам, как Исландия, Пакистан и Украина,</segment>
+		<segment id="15" parent="14" relname="elaboration">которые были отрезаны от международных рынков капитала.</segment>
+		<segment id="16" parent="96" relname="joint">Также фонд помог странам с низким уровнем дохода большими займами с беспрецедентными нулевыми процентными ставками.</segment>
+		<segment id="17" parent="100" relname="joint">##### G-20 показала лидерство в предоставлении политической и финансовой поддержки этим изменениям,</segment>
+		<segment id="18" parent="100" relname="joint">и МВФ ответил быстро.</segment>
+		<segment id="19" parent="106" relname="span">Тем не менее, есть настоящий риск того, что политический импульс рассеется по мере медленного восстановления мировой экономики.</segment>
+		<segment id="20" parent="19" relname="interpretation-evaluation">##### Было бы большой ошибкой позволить произойти этому.</segment>
+		<segment id="21" parent="102" relname="evidence">Этот кризис показал,</segment>
+		<segment id="22" parent="23" relname="cause-effect">что экономическая взаимозависимость выросла до такой степени,</segment>
+		<segment id="23" parent="102" relname="span">что координации политики нельзя избежать.</segment>
+		<segment id="24" parent="101" relname="span">Необходимо предоставить МВФ четкий мандат, обеспечивающий политическое влияние,</segment>
+		<segment id="25" parent="24" relname="purpose">чтобы помочь ему в предотвращении повторения таких кризисов.</segment>
+		<segment id="26" parent="155" relname="span">##### Лидеры G-20 должны предоставить МВФ полномочия,</segment>
+		<segment id="27" parent="26" relname="purpose">чтобы он мог охранять международную финансовую стабильность.</segment>
+		<segment id="28" parent="158" relname="joint">Все кризисы последних двадцати лет брали свое начало не столько в ошибочной монетарной политике и смещенных обменных курсах, сколько во взрывной динамике финансовых рынков.</segment>
+		<segment id="29" parent="156" relname="span">Усиленная роль в обеспечении финансовой стабильности стала бы логическим дополнением к существующему, но очень узкому мандату МВФ наблюдения за международной монетарной системой.</segment>
+		<segment id="30" parent="29" relname="elaboration">Обе функции очевидно взаимосвязаны.</segment>
+		<segment id="31" parent="154" relname="joint">##### Усиленная роль обеспечения финансовой стабильности не подразумевает, что МВФ станет контролером.</segment>
+		<segment id="32" parent="146" relname="span">Скорее, фонд должен основываться на результатах работы Комитета по финансовой стабильности (КФС), многостороннего органа установления правил, учрежденного G-20.</segment>
+		<segment id="33" parent="32" relname="elaboration">Этот орган состоит из министров финансов, центральных банкиров и контролеров из стран G-20.</segment>
+		<segment id="34" parent="143" relname="joint">МВФ может помочь наблюдать за тем, соблюдают ли страны согласованные обязательства в КФС,</segment>
+		<segment id="35" parent="142" relname="span">а также предупреждать лидеров о пробелах в системе регулирования и уязвимости финансовой системы,</segment>
+		<segment id="36" parent="35" relname="elaboration">которые нужно урегулировать.</segment>
+		<segment id="37" parent="139" relname="purpose">##### Однако для эффективного исполнения такого усиленного мандата</segment>
+		<segment id="38" parent="139" relname="span">МВФ нуждается в сильной политической поддержке,</segment>
+		<segment id="39" parent="38" relname="elaboration">которой будут следовать страны также по собственному совету фонда.</segment>
+		<segment id="40" parent="141" relname="span">Этого не хватало в прошлом,</segment>
+		<segment id="41" parent="40" relname="cause-effect">поскольку у МВФ не было достаточно инструментов для приведения в исполнение политических действий.</segment>
+		<segment id="42" parent="148" relname="span">##### Кроме того, лидеры G-20 должны взять на себя обязательства на дальнейшую координацию политики,</segment>
+		<segment id="43" parent="147" relname="span">например, организуя процесс рецензирования,</segment>
+		<segment id="44" parent="43" relname="elaboration">в котором министры будут ответственны друг перед другом за свою экономическую политику и политику в финансовом секторе.</segment>
+		<segment id="45" parent="149" relname="span">МВФ сделает свой вклад в этот процесс анализом,</segment>
+		<segment id="46" parent="45" relname="elaboration">концентрируясь на экономической взаимозависимости и переливании энергии из одной экономики в другую.</segment>
+		<segment id="47" parent="163" relname="span">##### Такое наблюдение можно построить на данных, обнаруженных системой раннего обнаружения,</segment>
+		<segment id="48" parent="47" relname="elaboration">которую ввел МВФ вместе с КФС.</segment>
+		<segment id="49" parent="162" relname="joint">Эта система предупреждает министров о событиях с низким уровнем риска, но с высоким уровнем воздействия,</segment>
+		<segment id="50" parent="162" relname="joint">а также дает им советы, какие соответствующие меры нужно предпринять.</segment>
+		<segment id="51" parent="167" relname="joint">МФВ может отслеживать, как страны следуют этим политическим советам, вытекающим из этой системы.</segment>
+		<segment id="52" parent="177" relname="preparation">##### Глобальная стабильность должна быть обеспечена лучшим образом функционирующей международной монетарной системой.</segment>
+		<segment id="53" parent="176" relname="joint">МВФ должен анализировать, как правильно уходить от долларовой системы к многополярной системе.</segment>
+		<segment id="54" parent="169" relname="span">Специальные права заимствования</segment>
+		<segment id="55" parent="168" relname="span">– выпущенная МВФ резервная валюта,</segment>
+		<segment id="56" parent="55" relname="elaboration">основанная на корзине, в которую входят доллар, евро, иена и фунт стерлингов –</segment>
+		<segment id="57" parent="171" relname="same-unit">может сыграть в этом полезную роль.</segment>
+		<segment id="58" parent="59" relname="condition">Также, как только Китай сделает свою валюту конвертируемой,</segment>
+		<segment id="59" parent="172" relname="span">нужно будет включить в эту корзину и юань.)</segment>
+		<segment id="60" parent="129" relname="span">##### Многополярная система может помочь в лучшем регулировании глобальных дисбалансов,</segment>
+		<segment id="61" parent="114" relname="span">когда существующая система,</segment>
+		<segment id="62" parent="61" relname="elaboration">основанная на долларе,</segment>
+		<segment id="63" parent="117" relname="span">просто создает большие дисбалансы,</segment>
+		<segment id="64" parent="63" relname="cause-effect">по мере того как страны накапливают большие долларовые резервы.</segment>
+		<segment id="65" parent="128" relname="span">Необходимость в таком накоплении уменьшится,</segment>
+		<segment id="66" parent="127" relname="span">если МВФ перерастет в институт страхового типа,</segment>
+		<segment id="67" parent="66" relname="elaboration">у которого будут наготове кредитные линии СПЗ.</segment>
+		<segment id="68" parent="120" relname="span">##### Сегодняшний политический импульс должен быть использован</segment>
+		<segment id="69" parent="68" relname="purpose">для того, чтобы добиться сильной роли для МВФ после кризиса.</segment>
+		<segment id="70" parent="121" relname="span">Координация международной политики,</segment>
+		<segment id="71" parent="70" relname="elaboration">которая была эффективна в предотвращении финансового краха,</segment>
+		<segment id="72" parent="123" relname="same-unit">должна продолжить свое действий и после кризиса,</segment>
+		<segment id="73" parent="124" relname="elaboration">предпочтительно в форме процесса рецензирования G-20 при поддержке анализа МВФ.</segment>
+		<segment id="74" parent="75" relname="preparation">##### Однако продолжающаяся политическая поддержка МВФ должна основываться на честности в самом институте.</segment>
+		<segment id="75" parent="137" relname="span">Квоты и влияние в международных финансовых институтах должны быть основаны на экономическом весе стран, а также способности сделать финансовый вклад.</segment>
+		<segment id="76" parent="134" relname="span">Следовательно, предстоящий пересмотр квот должен придать больше веса странам, которые сегодня не представлены в достаточной степени,</segment>
+		<segment id="77" parent="76" relname="elaboration">особенно динамически развивающимся экономикам мира.</segment>
+		<group id="78" type="span" parent="79" relname="joint"/>
+		<group id="79" type="multinuc" parent="83" relname="span"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="82" type="span" parent="86" relname="span"/>
+		<group id="83" type="span" parent="85" relname="contrast"/>
+		<group id="85" type="multinuc" parent="88" relname="span"/>
+		<group id="86" type="span" parent="89" relname="joint"/>
+		<group id="88" type="span" parent="89" relname="joint"/>
+		<group id="89" type="multinuc" parent="90" relname="span"/>
+		<group id="90" type="span" parent="91" relname="span"/>
+		<group id="91" type="span" relname="antithesis"/>
+		<group id="92" type="span" parent="96" relname="joint"/>
+		<group id="93" type="span" parent="94" relname="span"/>
+		<group id="94" type="span" parent="96" relname="joint"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="97" type="span" parent="10" relname="elaboration"/>
+		<group id="98" type="span" relname="antithesis"/>
+		<group id="100" type="multinuc" parent="107" relname="span"/>
+		<group id="101" type="span" parent="105" relname="joint"/>
+		<group id="102" type="span" parent="103" relname="span"/>
+		<group id="103" type="span" parent="105" relname="joint"/>
+		<group id="105" type="multinuc" parent="112" relname="span"/>
+		<group id="106" type="span" parent="109" relname="contrast"/>
+		<group id="107" type="span" parent="109" relname="contrast"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="110" type="span" parent="113" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="joint"/>
+		<group id="113" type="multinuc" relname="antithesis"/>
+		<group id="114" type="span" parent="118" relname="same-unit"/>
+		<group id="117" type="span" parent="118" relname="same-unit"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="119" type="span" parent="60" relname="background"/>
+		<group id="120" type="span" parent="126" relname="joint"/>
+		<group id="121" type="span" parent="123" relname="same-unit"/>
+		<group id="123" type="multinuc" parent="124" relname="span"/>
+		<group id="124" type="span" parent="125" relname="span"/>
+		<group id="125" type="span" parent="126" relname="joint"/>
+		<group id="126" type="multinuc" relname="antithesis"/>
+		<group id="127" type="span" parent="65" relname="condition"/>
+		<group id="128" type="span" parent="131" relname="joint"/>
+		<group id="129" type="span" parent="131" relname="joint"/>
+		<group id="131" type="multinuc" relname="antithesis"/>
+		<group id="134" type="span" parent="136" relname="span"/>
+		<group id="136" type="span" parent="138" relname="span"/>
+		<group id="137" type="span" parent="136" relname="cause-effect"/>
+		<group id="138" type="span" relname="antithesis"/>
+		<group id="139" type="span" parent="140" relname="span"/>
+		<group id="140" type="span" parent="145" relname="joint"/>
+		<group id="141" type="span" parent="145" relname="joint"/>
+		<group id="142" type="span" parent="143" relname="joint"/>
+		<group id="143" type="multinuc" parent="151" relname="span"/>
+		<group id="145" type="multinuc" relname="antithesis"/>
+		<group id="146" type="span" parent="152" relname="span"/>
+		<group id="147" type="span" parent="42" relname="elaboration"/>
+		<group id="148" type="span" parent="150" relname="joint"/>
+		<group id="149" type="span" parent="150" relname="joint"/>
+		<group id="150" type="multinuc" relname="antithesis"/>
+		<group id="151" type="span" parent="146" relname="elaboration"/>
+		<group id="152" type="span" parent="154" relname="joint"/>
+		<group id="154" type="multinuc" relname="antithesis"/>
+		<group id="155" type="span" parent="160" relname="span"/>
+		<group id="156" type="span" parent="158" relname="joint"/>
+		<group id="158" type="multinuc" parent="159" relname="span"/>
+		<group id="159" type="span" parent="155" relname="evidence"/>
+		<group id="160" type="span" relname="antithesis"/>
+		<group id="162" type="multinuc" parent="164" relname="span"/>
+		<group id="163" type="span" parent="165" relname="span"/>
+		<group id="164" type="span" parent="163" relname="elaboration"/>
+		<group id="165" type="span" parent="167" relname="joint"/>
+		<group id="167" type="multinuc" relname="antithesis"/>
+		<group id="168" type="span" parent="54" relname="elaboration"/>
+		<group id="169" type="span" parent="171" relname="same-unit"/>
+		<group id="171" type="multinuc" parent="173" relname="span"/>
+		<group id="172" type="span" parent="173" relname="elaboration"/>
+		<group id="173" type="span" parent="174" relname="span"/>
+		<group id="174" type="span" parent="176" relname="joint"/>
+		<group id="176" type="multinuc" parent="177" relname="span"/>
+		<group id="177" type="span" parent="178" relname="span"/>
+		<group id="178" type="span" relname="antithesis"/>
+  </body>
+</rst>

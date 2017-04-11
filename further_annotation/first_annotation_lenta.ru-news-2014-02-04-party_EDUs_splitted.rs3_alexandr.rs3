@@ -1,0 +1,110 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="42" relname="span">##### В одном из районов Киева оппозиция запретила правящую Партию регионов, а также Компартию Украины.</segment>
+		<segment id="2" parent="1" relname="attribution">Об этом сообщил в Facebook депутат от оппозиционной националистической партии «Свобода» Андрей Ильенко.</segment>
+		<segment id="3" parent="41" relname="span">Решение о запрете приняла так называемая «народная рада» Деснянского района,</segment>
+		<segment id="4" parent="3" relname="elaboration">созданная сторонниками оппозиции.</segment>
+		<segment id="5" parent="6" relname="attribution">##### Как сообщили в партии «Свобода»,</segment>
+		<segment id="6" parent="47" relname="span">в понедельник, 3 февраля, ее сторонники провели пикет возле администрации Деснянского района.</segment>
+		<segment id="7" parent="45" relname="span">Депутат Ильенко,</segment>
+		<segment id="8" parent="7" relname="elaboration">принимавший участие в пикете,</segment>
+		<segment id="9" parent="44" relname="joint">обвинил чиновников в коррупции</segment>
+		<segment id="10" parent="44" relname="joint">и потребовал, чтобы администрация «прекратила свою деятельность».</segment>
+		<segment id="11" parent="12" relname="cause-effect">##### После того, как требования пикетчиков выполнены не были,</segment>
+		<segment id="12" parent="51" relname="span">они объявили о создании «народной рады».</segment>
+		<segment id="13" parent="52" relname="joint">Ее заседание состоялось в приемной депутата Ильенко.</segment>
+		<segment id="14" parent="50" relname="joint">В ходе этого заседания и было решено запретить партию власти на территории района,</segment>
+		<segment id="15" parent="49" relname="span">кроме того, решено было создать «отряды самообороны»,</segment>
+		<segment id="16" parent="15" relname="elaboration">которые будут противостоять «титушкам» (провокаторам) и «бандитам в погонах».</segment>
+		<segment id="17" parent="55" relname="joint">##### В чем конкретно будет выражаться запрет на деятельность Партии регионов и Компартии Украины, не уточняется.</segment>
+		<segment id="18" parent="19" relname="interpretation-evaluation">Неясно также,</segment>
+		<segment id="19" parent="56" relname="span">как оппозиция планирует следить за его соблюдением.</segment>
+		<segment id="20" parent="60" relname="span">##### Ранее ПР и КПУ запретили в Тернопольской и Ивано-Франковской областях.</segment>
+		<segment id="21" parent="57" relname="span">Соответствующие решения были приняты областными советами,</segment>
+		<segment id="22" parent="21" relname="elaboration">состоящими в том числе из представителей «Свободы».</segment>
+		<segment id="23" parent="59" relname="span">Кроме того, в Хмельницкой и Полтавской областях о запрете объявили так называемые «народные рады»</segment>
+		<segment id="24" parent="23" relname="elaboration">— альтернативные структуры, созданные сторонниками оппозиции.</segment>
+		<segment id="25" parent="61" relname="sequence">##### В Киеве оппозиционеры в конце прошлого года захватили часть здания мэрии</segment>
+		<segment id="26" parent="61" relname="sequence">позднее они объявили о создании в столице «народной рады»)</segment>
+		<segment id="27" parent="63" relname="span">В новом году протестующие стали захватывать здания областных администраций.</segment>
+		<segment id="28" parent="62" relname="span">Главным образом, это происходило на западе страны,</segment>
+		<segment id="29" parent="28" relname="elaboration">где протестное движение пользуется существенной поддержкой.</segment>
+		<segment id="30" parent="66" relname="span">##### В Крыму, в свою очередь, местные власти,</segment>
+		<segment id="31" parent="30" relname="elaboration">осудившие протестное движение,</segment>
+		<segment id="32" parent="65" relname="same-unit">запретили партию «Свобода».</segment>
+		<segment id="33" parent="67" relname="sequence">Позднее это решение было обжаловано прокуратурой.</segment>
+		<segment id="34" parent="72" relname="joint">##### Оппозиционная кампания под лозунгами евроинтеграции и смены власти на Украине продолжается уже более двух месяцев.</segment>
+		<segment id="35" parent="68" relname="joint">В столкновениях между сторонниками оппозиции и правоохранителями пострадали сотни людей,</segment>
+		<segment id="36" parent="68" relname="joint">с обеих сторон также есть погибшие.</segment>
+		<segment id="37" parent="71" relname="joint">Власти на этом фоне пытаются вести переговоры с оппозицией,</segment>
+		<segment id="38" parent="70" relname="span">они пошли на определенные уступки</segment>
+		<segment id="39" parent="38" relname="elaboration">в частности, было отправлено в отставку правительство)</segment>
+		<segment id="40" parent="69" relname="contrast">но добиться прекращения противостояния не смогли.</segment>
+		<group id="41" type="span" parent="42" relname="elaboration"/>
+		<group id="42" type="span" parent="43" relname="span"/>
+		<group id="43" type="span" relname="antithesis"/>
+		<group id="44" type="multinuc" parent="46" relname="same-unit"/>
+		<group id="45" type="span" parent="46" relname="same-unit"/>
+		<group id="46" type="multinuc" parent="53" relname="joint"/>
+		<group id="47" type="span" parent="54" relname="background"/>
+		<group id="49" type="span" parent="50" relname="joint"/>
+		<group id="50" type="multinuc" parent="52" relname="joint"/>
+		<group id="51" type="span" parent="52" relname="joint"/>
+		<group id="52" type="multinuc" parent="53" relname="joint"/>
+		<group id="53" type="multinuc" parent="54" relname="span"/>
+		<group id="54" type="span" relname="antithesis"/>
+		<group id="55" type="multinuc" parent="53" relname="joint"/>
+		<group id="56" type="span" parent="55" relname="joint"/>
+		<group id="57" type="span" parent="20" relname="evidence"/>
+		<group id="58" type="multinuc" relname="antithesis"/>
+		<group id="59" type="span" parent="58" relname="joint"/>
+		<group id="60" type="span" parent="58" relname="joint"/>
+		<group id="61" type="multinuc" parent="64" relname="sequence"/>
+		<group id="62" type="span" parent="27" relname="elaboration"/>
+		<group id="63" type="span" parent="64" relname="sequence"/>
+		<group id="64" type="multinuc" parent="75" relname="comparison"/>
+		<group id="65" type="multinuc" parent="67" relname="sequence"/>
+		<group id="66" type="span" parent="65" relname="same-unit"/>
+		<group id="67" type="multinuc" parent="75" relname="comparison"/>
+		<group id="68" type="multinuc" parent="72" relname="joint"/>
+		<group id="69" type="multinuc" parent="71" relname="joint"/>
+		<group id="70" type="span" parent="69" relname="contrast"/>
+		<group id="71" type="multinuc" parent="73" relname="span"/>
+		<group id="72" type="multinuc" parent="73" relname="background"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="74" type="span" relname="antithesis"/>
+		<group id="75" type="multinuc" relname="antithesis"/>
+  </body>
+</rst>

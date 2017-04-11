@@ -1,0 +1,77 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="24" relname="span">##### В Нью-Джерси скончалась самка двугорбого верблюда, которая в течение нескольких лет предсказывала результаты спортивных состязаний,</segment>
+		<segment id="2" parent="1" relname="attribution">сообщает Associated Press.</segment>
+		<segment id="3" parent="29" relname="span">##### 26-летнее животное было решено усыпить</segment>
+		<segment id="4" parent="28" relname="span">в связи с ухудшившимся состоянием его здоровья:</segment>
+		<segment id="5" parent="4" relname="elaboration">верблюдиха страдала от артрита.</segment>
+		<segment id="6" parent="25" relname="attribution">Как рассказали в зоопарке в Лайси-Тауншипе,</segment>
+		<segment id="7" parent="8" relname="cause-effect">в последнее время болезнь самки по кличке Принцессы настолько обострилась,</segment>
+		<segment id="8" parent="25" relname="span">что она не могла стоять на ногах.</segment>
+		<segment id="9" parent="33" relname="joint">##### Принцесса жила в зоопарке в течение десяти лет.</segment>
+		<segment id="10" parent="27" relname="span">Она прославилась,</segment>
+		<segment id="11" parent="10" relname="cause-effect">верно угадывая победителей в тех или иных спортивных состязаниях.</segment>
+		<segment id="12" parent="36" relname="preparation">Предсказания делались следующим образом:</segment>
+		<segment id="13" parent="35" relname="joint">смотритель верблюдихи приносил ей печенины из муки грубого помола с названиями команд-соперниц, нанесенными на них.</segment>
+		<segment id="14" parent="34" relname="span">Животному предлагалось выбрать одно из них:</segment>
+		<segment id="15" parent="14" relname="elaboration">«команда», которую Принцесса съедала, объявлялась потенциальным победителем.</segment>
+		<segment id="16" parent="38" relname="span">##### Самым удачным для нее был 2008 год,</segment>
+		<segment id="17" parent="16" relname="elaboration">когда она сделала верный прогноз в 17 случаях из 22.</segment>
+		<segment id="18" parent="39" relname="joint">В 2013 году она предсказала победу клуба Национальной футбольной лиги (НФЛ) «Балтимор Рейвенс» в матче за Супербоул.</segment>
+		<segment id="19" parent="44" relname="span">##### Одним из самых известных животных-предсказателей спортивных результатов был осьминог Пауль из немецкого аквариума.</segment>
+		<segment id="20" parent="42" relname="joint">Он прославился своими прогнозами матчей во время чемпионата мира по футболу в ЮАР в 2010 году.</segment>
+		<segment id="21" parent="42" relname="joint">В конце октября того же года моллюск скончался в возрасте, предположительно, двух лет.</segment>
+		<segment id="22" parent="40" relname="span">##### Осьминог Пауль стал предтечей традиции доверять предсказание итогов того или иного мероприятия животным.</segment>
+		<segment id="23" parent="22" relname="elaboration">В разных странах оракулами выступали краб, енот, хряк, опоссум, дикобраз и другие представители фауны.</segment>
+		<group id="24" type="span" relname="antithesis"/>
+		<group id="25" type="span" parent="26" relname="span"/>
+		<group id="26" type="span" parent="31" relname="joint"/>
+		<group id="27" type="span" parent="33" relname="joint"/>
+		<group id="28" type="span" parent="3" relname="cause-effect"/>
+		<group id="29" type="span" parent="31" relname="joint"/>
+		<group id="31" type="multinuc" relname="antithesis"/>
+		<group id="33" type="multinuc" relname="antithesis"/>
+		<group id="34" type="span" parent="35" relname="joint"/>
+		<group id="35" type="multinuc" parent="36" relname="span"/>
+		<group id="36" type="span" parent="37" relname="span"/>
+		<group id="37" type="span" parent="33" relname="joint"/>
+		<group id="38" type="span" parent="39" relname="joint"/>
+		<group id="39" type="multinuc" relname="antithesis"/>
+		<group id="40" type="span" relname="antithesis"/>
+		<group id="42" type="multinuc" parent="43" relname="span"/>
+		<group id="43" type="span" parent="19" relname="elaboration"/>
+		<group id="44" type="span" relname="antithesis"/>
+  </body>
+</rst>

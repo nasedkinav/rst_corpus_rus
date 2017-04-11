@@ -1,0 +1,132 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="107" relname="preparation">##### Кембридж.</segment>
+		<segment id="2" parent="3" relname="cause-effect">Следом за глобальным финансовым крахом прошлого года</segment>
+		<segment id="3" parent="104" relname="span">сегодня появилось широко распространённое признание того, что недостаточная защита инвесторов может значительно повлиять на развитие фондовых рынков и экономик, а также на работу отдельных фирм.</segment>
+		<segment id="4" parent="106" relname="joint">Усиленный акцент на улучшение корпоративного управления создал спрос на надежные стандарты оценки управления акционерными компаниями открытого типа во всем мире.</segment>
+		<segment id="5" parent="106" relname="joint">Чиновники Всемирного банка и финансовые экономисты приложили значительные усилия для разработки таких стандартов.</segment>
+		<segment id="6" parent="65" relname="span">##### Идея создания единых мировых критериев для оценки управления акционерных компаний открытого типа, несомненно, привлекательна.</segment>
+		<segment id="7" parent="6" relname="cause-effect">Как инвесторы, так и компании открытого типа работают во все более интегрируемом глобальном рынке капитала.</segment>
+		<segment id="8" parent="66" relname="contrast">Однако поиск единых глобальных стандартов управления проходит в неправильном направлении.</segment>
+		<segment id="9" parent="51" relname="span">##### За последнее десятилетие глобальные стандарты управления,</segment>
+		<segment id="10" parent="9" relname="elaboration">в основном разработанные в США,</segment>
+		<segment id="11" parent="52" relname="span">все больше использовались,</segment>
+		<segment id="12" parent="11" relname="purpose">чтобы оценить, как страны и компании во всем мире защищают миноритарных инвесторов.</segment>
+		<segment id="13" parent="58" relname="span">Однако эти усилия не предусмотрели фундаментальных различий между контролируемыми компаниями, у которых есть контролирующий акционер, и фирмами, в собственности которых участвуют многие, у которых нет такого контролера.</segment>
+		<segment id="14" parent="56" relname="contrast">В то время как фирмы общественной собственности доминируют на рынках капитала в США и Великобритании,</segment>
+		<segment id="15" parent="56" relname="contrast">контролируемые компании доминируют в большинстве других стран.</segment>
+		<segment id="16" parent="64" relname="span">##### Фирмы общественной собственности и контролируемые компании значительно отличаются проблемами управления, которые стоят перед их инвесторами.</segment>
+		<segment id="17" parent="62" relname="contrast">В фирмах общественной собственности вопросы возникают в отношении оппортунизма менеджеров, которые де-факто выполняют контролирующие функции;</segment>
+		<segment id="18" parent="62" relname="contrast">в контролируемых фирмах вопросы возникают в отношении оппортунизма владельца акций за счет миноритарных акционеров.</segment>
+		<segment id="19" parent="20" relname="cause-effect">##### Поскольку основные проблемы управления в двух типах фирм значительно отличаются,</segment>
+		<segment id="20" parent="67" relname="span">меры, которые приведут к выгоде инвесторов в фирмах общественной собственности, могут оказаться неуместными или даже вредными для контролируемых фирм, и наоборот.</segment>
+		<segment id="21" parent="103" relname="span">В результате, применение единого стандарта для оценки защиты инвесторов во всем мире не достигнет своей цели в отношении фирм общественной собственности, контролируемых фирм, или и тех и других.</segment>
+		<segment id="22" parent="71" relname="preparation">##### Рассмотрим, например, корпоративную систему управления и фактор-систему (Corporate Governance Quotient system), разработанную американской фирмой «RiskMetrics», доминирующей мировой акционерной консалтинговой фирмой.</segment>
+		<segment id="23" parent="68" relname="span">Система «RiskMetrics»,</segment>
+		<segment id="24" parent="23" relname="elaboration">которая используется институциональными инвесторами во всем мире,</segment>
+		<segment id="25" parent="70" relname="same-unit">придает значительный вес мероприятиям, управляющим прениями для контроля.</segment>
+		<segment id="26" parent="75" relname="contrast">##### Эти мероприятия действительно важны для инвесторов в фирмах общественной собственности.</segment>
+		<segment id="27" parent="73" relname="condition">Когда у компании есть контролирующий акционер, тем не менее,</segment>
+		<segment id="28" parent="29" relname="cause-effect">контролирующие прения невозможны,</segment>
+		<segment id="29" parent="73" relname="span">и, таким образом, мероприятия, управляющие такими прениями, являются неуместными.</segment>
+		<segment id="30" parent="94" relname="joint">##### Инвесторы и государственные чиновники в странах, в которых доминируют контролируемые компании, должны прекратить использовать глобальные стандарты управления, основанные на опыте разработчика с фирмами общественной собственности в США.</segment>
+		<segment id="31" parent="94" relname="joint">Они должны стремиться к разработке стандартов, подходящих для контролируемых фирм.</segment>
+		<segment id="32" parent="102" relname="span">##### Очевидно, что оценки контролируемых фирм не должны придавать значительный вес мероприятиям, управляющим прениями для корпоративного контроля.</segment>
+		<segment id="33" parent="76" relname="span">Подобным образом, мероприятия, которые делают совет директоров более зависимым от пожеланий большинства акционеров,</segment>
+		<segment id="34" parent="33" relname="elaboration">такие как облегчение замены акционерами директоров,</segment>
+		<segment id="35" parent="96" relname="contrast">могут послужить интересам инвесторов в фирмах общественной собственности,</segment>
+		<segment id="36" parent="96" relname="contrast">однако являются непродуктивными для инвесторов в контролируемых фирмах.</segment>
+		<segment id="37" parent="77" relname="span">В контролируемых фирмах,</segment>
+		<segment id="38" parent="37" relname="elaboration">в которых вопросы касаются отдаления миноритарных акционеров,</segment>
+		<segment id="39" parent="79" relname="same-unit">увеличение зависимости директоров от контролера, вероятнее всего, еще больше увеличит уязвимость миноритарных инвесторов.</segment>
+		<segment id="40" parent="81" relname="span">##### Кроме того, в странах, в которых присутствует много контролируемых фирм, пристальное внимание следует уделять сделкам со связанными с банком лицами, а также использованию корпоративных возможностей</segment>
+		<segment id="41" parent="40" relname="elaboration">– основных путей, по которым активы можно направить в обратную сторону от миноритарных инвесторов в таких фирмах.</segment>
+		<segment id="42" parent="85" relname="purpose">Для решения таких проблем,</segment>
+		<segment id="43" parent="82" relname="span">мероприятия, которые дают миноритарным акционерам право вето в сделках со связанными с банком лицами</segment>
+		<segment id="44" parent="43" relname="elaboration">– мероприятия, которые не гарантируются в фирмах общественной собственности –</segment>
+		<segment id="45" parent="84" relname="same-unit">могут быть очень ценными.</segment>
+		<segment id="46" parent="88" relname="joint">##### В заключение, при оценке контролируемых компаний независимость директоров не должна оцениваться в основном от степени их независимости от компании, в совете директоров которой они работают.</segment>
+		<segment id="47" parent="88" relname="joint">Скорее пристальное внимание следует уделять их независимости от контролирующего акционера.</segment>
+		<segment id="48" parent="49" relname="purpose">##### Для улучшения корпоративного управления и защиты инвесторов</segment>
+		<segment id="49" parent="89" relname="span">государственные чиновники и инвесторы в странах, в которых на рынках капитала доминируют контролируемые компании, должны с осторожностью относиться к глобальным стандартам управления, разработанным для американских компаний.</segment>
+		<segment id="50" parent="90" relname="joint">Они должны акцентировать свое внимание на специальных проблемах контролируемых компаний, а не правилах, которые могут способствовать лучшей защите миноритарных инвесторов в таких компаниях.</segment>
+		<group id="51" type="span" parent="54" relname="same-unit"/>
+		<group id="52" type="span" parent="54" relname="same-unit"/>
+		<group id="54" type="multinuc" parent="60" relname="span"/>
+		<group id="56" type="multinuc" parent="57" relname="span"/>
+		<group id="57" type="span" parent="13" relname="elaboration"/>
+		<group id="58" type="span" parent="59" relname="contrast"/>
+		<group id="59" type="multinuc" relname="antithesis"/>
+		<group id="60" type="span" parent="59" relname="contrast"/>
+		<group id="62" type="multinuc" parent="63" relname="span"/>
+		<group id="63" type="span" parent="16" relname="elaboration"/>
+		<group id="64" type="span" relname="antithesis"/>
+		<group id="65" type="span" parent="66" relname="contrast"/>
+		<group id="66" type="multinuc" relname="antithesis"/>
+		<group id="67" type="span" parent="21" relname="cause-effect"/>
+		<group id="68" type="span" parent="70" relname="same-unit"/>
+		<group id="70" type="multinuc" parent="71" relname="span"/>
+		<group id="71" type="span" parent="72" relname="span"/>
+		<group id="72" type="span" relname="antithesis"/>
+		<group id="73" type="span" parent="74" relname="span"/>
+		<group id="74" type="span" parent="75" relname="contrast"/>
+		<group id="75" type="multinuc" relname="antithesis"/>
+		<group id="76" type="span" parent="99" relname="same-unit"/>
+		<group id="77" type="span" parent="79" relname="same-unit"/>
+		<group id="79" type="multinuc" parent="80" relname="span"/>
+		<group id="80" type="span" parent="100" relname="elaboration"/>
+		<group id="81" type="span" parent="92" relname="joint"/>
+		<group id="82" type="span" parent="84" relname="same-unit"/>
+		<group id="84" type="multinuc" parent="85" relname="span"/>
+		<group id="85" type="span" parent="86" relname="span"/>
+		<group id="86" type="span" parent="92" relname="joint"/>
+		<group id="88" type="multinuc" relname="antithesis"/>
+		<group id="89" type="span" parent="90" relname="joint"/>
+		<group id="90" type="multinuc" relname="antithesis"/>
+		<group id="92" type="multinuc" relname="antithesis"/>
+		<group id="94" type="multinuc" relname="antithesis"/>
+		<group id="96" type="multinuc" parent="97" relname="span"/>
+		<group id="97" type="span" parent="99" relname="same-unit"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="100" type="span" parent="101" relname="span"/>
+		<group id="101" type="span" parent="32" relname="elaboration"/>
+		<group id="102" type="span" relname="antithesis"/>
+		<group id="103" type="span" relname="antithesis"/>
+		<group id="104" type="span" parent="106" relname="joint"/>
+		<group id="106" type="multinuc" parent="107" relname="span"/>
+		<group id="107" type="span" parent="108" relname="span"/>
+		<group id="108" type="span" relname="antithesis"/>
+  </body>
+</rst>

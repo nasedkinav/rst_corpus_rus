@@ -1,0 +1,134 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="59" relname="preparation">##### Нью-Йорк</segment>
+		<segment id="2" parent="59" relname="span">- Глобальный экономический спад спровоцировал в Африке кризис развития,</segment>
+		<segment id="3" parent="58" relname="joint">который демонстрирует уязвимость континента не только перед экономическим спадом,</segment>
+		<segment id="4" parent="58" relname="joint">но и перед изменением климата.</segment>
+		<segment id="5" parent="63" relname="span">Изменяющиеся погодные условия уже затронули миллионы африканцев,</segment>
+		<segment id="6" parent="61" relname="joint">уменьшив продовольственную безопасность,</segment>
+		<segment id="7" parent="61" relname="joint">ускорив распространение болезней вроде малярии</segment>
+		<segment id="8" parent="61" relname="joint">и вызвав массовую миграцию.</segment>
+		<segment id="9" parent="64" relname="span">В опасности оказались средства к существованию и жизни миллионов людей.</segment>
+		<segment id="10" parent="65" relname="preparation">##### Как это ни парадоксально, но кризис вместе с тем предоставляет Африке и уникальную возможность.</segment>
+		<segment id="11" parent="65" relname="span">Безотлагательность усилий по борьбе с изменением климата выявляет интересные перспективы в сфере уменьшения отрицательных последствий,</segment>
+		<segment id="12" parent="11" relname="elaboration">особенно в области возобновляемой энергии и низкоуглеродистого роста.</segment>
+		<segment id="13" parent="67" relname="joint">Существует реальная возможность подтолкнуть страны к новой модели развития,</segment>
+		<segment id="14" parent="66" relname="joint">которая принесет пользу не только Африке,</segment>
+		<segment id="15" parent="66" relname="joint">но и всему миру.</segment>
+		<segment id="16" parent="69" relname="span">##### Вместе с тем, адаптация к изменению климата имеет особое значение.</segment>
+		<segment id="17" parent="16" relname="elaboration">Для Африки она означает развитие «защиты от климатических воздействий» через увеличение урожайности, инвестиции в стойкие к климату зерновые культуры и инфраструктуру, развитие сбора дождевой воды и расширение медицинских мер контроля в ожидании увеличения трансмиссивных болезней.</segment>
+		<segment id="18" parent="19" relname="purpose">Чтобы приспособиться к изменению климата,</segment>
+		<segment id="19" parent="70" relname="span">Африке нужны дополнительные ресурсы и намного большие обязательства в отношении помощи.</segment>
+		<segment id="20" parent="77" relname="span">##### Финансирование адаптации к климату будет огромным вызовом,</segment>
+		<segment id="21" parent="74" relname="span">особенно в связи с тем, что оно повлечет за собой дополнительные расходы поверх традиционной помощи в развитии</segment>
+		<segment id="22" parent="21" relname="background">- в то время, когда бюджеты иностранной помощи и так испытывают давление.</segment>
+		<segment id="23" parent="75" relname="span">Оценки необходимых объемов помощи развивающимися странами,</segment>
+		<segment id="24" parent="23" relname="purpose">чтобы те могли приспособиться к этим вызовам,</segment>
+		<segment id="25" parent="76" relname="same-unit">варьируются между 50 и 100 миллиардами долларов в год.</segment>
+		<segment id="26" relname="antithesis">Именно поэтому так важно предложение британского премьер-министра Гордона Брауна о создании фонда для борьбы с изменением климата.</segment>
+		<segment id="27" parent="80" relname="span">##### Отказ от действий сегодня увеличит затраты в будущем,</segment>
+		<segment id="28" parent="27" relname="elaboration">причем как финансовые, так и гуманитарные.</segment>
+		<segment id="29" parent="79" relname="span">Мы все проиграем,</segment>
+		<segment id="30" parent="29" relname="condition">если экономические и социальные успехи Африки за прошлое десятилетие будут аннулированы.</segment>
+		<segment id="31" parent="81" relname="comparison">Развивающиеся рынки могут исчезнуть,</segment>
+		<segment id="32" parent="81" relname="comparison">а инвестиционные возможности испариться,</segment>
+		<segment id="33" parent="83" relname="sequence">в то время как увеличится риск политической нестабильности.</segment>
+		<segment id="34" parent="86" relname="span">##### Каждое падение процентного пункта роста имеет прямые социальные последствия,</segment>
+		<segment id="35" parent="34" relname="elaboration">которые отражаются либо на недостатке пищи и детской смертности, либо на школьной посещаемости.</segment>
+		<segment id="36" parent="84" relname="span">Каждый человек,</segment>
+		<segment id="37" parent="36" relname="elaboration">которого подтолкнули обратно к бедности,</segment>
+		<segment id="38" parent="85" relname="same-unit">является еще одним шагом в сторону от достижения Целей Развития Тысячелетия.</segment>
+		<segment id="39" parent="40" relname="background">##### Учитывая все эти причины,</segment>
+		<segment id="40" parent="88" relname="span">необходимо отметить особую важность продолжительных обязательств и поддержки Африки со стороны всех ее партнеров,</segment>
+		<segment id="41" parent="40" relname="elaboration">включая страны «Большой восьмерки».</segment>
+		<segment id="42" parent="43" relname="attribution">Как сообщается в статистическом отчете DATA этого года организации ONE, выступающей в защиту интересов Африки,</segment>
+		<segment id="43" parent="89" relname="span">многие дарители соблюдают свои обязательства о помощи,</segment>
+		<segment id="44" parent="43" relname="concession">несмотря на экономический спад.</segment>
+		<segment id="45" parent="90" relname="joint">##### Эти страны признают практическую ценность инвестиций в развитие Африки, а также моральный и политический долг сдерживать свои обещания.</segment>
+		<segment id="46" parent="91" relname="span">Они признают, что Африка принимает на себя основной удар экономических и климатических кризисов,</segment>
+		<segment id="47" parent="46" relname="concession">даже несмотря на то, что она меньше всех ответственна за их появление.</segment>
+		<segment id="48" parent="94" relname="span">Прискорбно, однако, что не все страны «Большой восьмерки» придерживаются такого мнения.</segment>
+		<segment id="49" parent="93" relname="span">Италия, где в этом году пройдет саммит «Большой восьмерки», запаздывает с выполнением своих обязательств,</segment>
+		<segment id="50" parent="49" relname="elaboration">в то время как она должна подавать пример всем остальным странам.</segment>
+		<segment id="51" parent="95" relname="span">##### Мы все в равной степени нуждаемся в решениях,</segment>
+		<segment id="52" parent="51" relname="elaboration">которые могли бы помочь предотвратить экологическую катастрофу.</segment>
+		<segment id="53" parent="95" relname="interpretation-evaluation">Для этого будет необходимо появление смелого политического лидера и беспрецедентная солидарность между богатыми и бедными странами.</segment>
+		<segment id="54" parent="97" relname="elaboration">На саммите «Большой восьмерки» в этом году можно добиться крупных успехов в решении вопросов поддержки сельского хозяйства, инвестиций в «зеленые» технологии и укрепление системы здравоохранения.</segment>
+		<segment id="55" parent="96" relname="joint">Мы надеемся, что лидеры «Большой восьмерки» продемонстрируют свою дальновидность</segment>
+		<segment id="56" parent="96" relname="joint">и включат вопросы Африки в свое обсуждение.</segment>
+		<segment id="57" parent="100" relname="interpretation-evaluation">В этот ответственный момент международные партнеры Африки не должны от нее отворачиваться.</segment>
+		<group id="58" type="multinuc" parent="2" relname="elaboration"/>
+		<group id="59" type="span" parent="62" relname="span"/>
+		<group id="61" type="multinuc" parent="5" relname="elaboration"/>
+		<group id="62" type="span" parent="64" relname="preparation"/>
+		<group id="63" type="span" parent="9" relname="cause-effect"/>
+		<group id="64" type="span" relname="antithesis"/>
+		<group id="65" type="span" parent="68" relname="span"/>
+		<group id="66" type="multinuc" parent="13" relname="elaboration"/>
+		<group id="67" type="multinuc" parent="73" relname="joint"/>
+		<group id="68" type="span" parent="67" relname="joint"/>
+		<group id="69" type="span" parent="72" relname="joint"/>
+		<group id="70" type="span" parent="72" relname="joint"/>
+		<group id="72" type="multinuc" parent="73" relname="joint"/>
+		<group id="73" type="multinuc" relname="antithesis"/>
+		<group id="74" type="span" parent="20" relname="elaboration"/>
+		<group id="75" type="span" parent="76" relname="same-unit"/>
+		<group id="76" type="multinuc" parent="77" relname="elaboration"/>
+		<group id="77" type="span" parent="78" relname="span"/>
+		<group id="78" type="span" parent="26" relname="evidence"/>
+		<group id="79" type="span" relname="antithesis"/>
+		<group id="80" type="span" relname="antithesis"/>
+		<group id="81" type="multinuc" parent="82" relname="span"/>
+		<group id="82" type="span" parent="83" relname="sequence"/>
+		<group id="83" type="multinuc" parent="79" relname="elaboration"/>
+		<group id="84" type="span" parent="85" relname="same-unit"/>
+		<group id="85" type="multinuc" parent="87" relname="joint"/>
+		<group id="86" type="span" parent="87" relname="joint"/>
+		<group id="87" type="multinuc" relname="antithesis"/>
+		<group id="88" type="span" relname="antithesis"/>
+		<group id="89" type="span" parent="88" relname="interpretation-evaluation"/>
+		<group id="90" type="multinuc" parent="92" relname="contrast"/>
+		<group id="91" type="span" parent="90" relname="joint"/>
+		<group id="92" type="multinuc" relname="antithesis"/>
+		<group id="93" type="span" parent="48" relname="evidence"/>
+		<group id="94" type="span" parent="92" relname="contrast"/>
+		<group id="95" type="span" parent="97" relname="span"/>
+		<group id="96" type="multinuc" parent="99" relname="joint"/>
+		<group id="97" type="span" parent="98" relname="span"/>
+		<group id="98" type="span" parent="99" relname="joint"/>
+		<group id="99" type="multinuc" parent="100" relname="span"/>
+		<group id="100" type="span" relname="antithesis"/>
+  </body>
+</rst>

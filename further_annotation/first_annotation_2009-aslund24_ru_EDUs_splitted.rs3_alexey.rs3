@@ -1,0 +1,235 @@
+<rst>
+	<header>
+		<relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="joint" type="multinuc" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+		</relations>
+	</header>
+	<body>
+		<segment id="1" parent="2" relname="attribution">##### СТОКГОЛЬМ – Российский премьер-министр Владимир Путин недавно объявил о том,</segment>
+		<segment id="2" parent="96" relname="span">что Россия, Белоруссия и Казахстан прекратили свои раздельные переговоры о вступлении во Всемирную Торговую Организацию.</segment>
+		<segment id="3" parent="97" relname="contrast">Вместо этого они хотят вступить во всемирную организацию торговли в качестве единого таможенного союза.</segment>
+		<segment id="4" parent="5" relname="elaboration">В действительности, это означает, что Россия, кажется, временно отказывается от вступления в ВТО</segment>
+		<segment id="5" parent="99" relname="span">– что является существенным изменением курса российской стратегии.</segment>
+		<segment id="6" parent="103" relname="elaboration">##### Заявление Путина прозвучало как гром среди ясного неба.</segment>
+		<segment id="7" parent="102" relname="contrast">За два дня до этого торговый представитель США Рон Кирк и торговый уполномоченный Европейского Союза Кэтрин Эштон завершили успешные переговоры по вступлению России в ВТО с первым заместителем Путина Игорем Шуваловым, министром финансов Алексеем Кудриным и министром экономического развития Эльвирой Набиуллиной.</segment>
+		<segment id="8" parent="9" relname="attribution">Еще 3 июня Путин заявил о том,</segment>
+		<segment id="9" parent="101" relname="span">что он уверен в “быстром вступлении России в ВТО”.</segment>
+		<segment id="10" parent="11" relname="elaboration">##### Руководители Белоруссии или Казахстана, кажется, одинаково удивились заявлению Путина,</segment>
+		<segment id="11" parent="105" relname="span">тем более что Россия только что запретила почти весь импорт молочных продуктов из Белоруссии в качестве протекционистского тактического хода.</segment>
+		<segment id="12" parent="106" relname="span">После 16 лет переговоров Россия казалась уверенной во вступлении в ВТО в течение пары месяцев.</segment>
+		<segment id="13" parent="116" relname="elaboration">##### Действительно, оставалось всего три трудных препятствия.</segment>
+		<segment id="14" parent="15" relname="cause-effect">Во-первых, Украина требует двустороннего протокола по доступу к рынку,</segment>
+		<segment id="15" parent="114" relname="span">в результате которого России пришлось бы снять приблизительно 100 торговых санкций, прежде всего в сельском хозяйстве.</segment>
+		<segment id="16" parent="110" relname="elaboration">Второе препятствие – это пограничный контроль с Грузией, главным образом, политическая проблема:</segment>
+		<segment id="17" parent="108" relname="span">являются ли Абхазия и Южная Осетия независимыми,</segment>
+		<segment id="18" parent="17" relname="attribution">как утверждает Россия,</segment>
+		<segment id="19" parent="107" relname="span">или частью Грузии,</segment>
+		<segment id="20" parent="19" relname="attribution">как считает остальная часть мира.</segment>
+		<segment id="21" parent="22" relname="elaboration">И наконец, ЕС настаивает на том,</segment>
+		<segment id="22" parent="112" relname="span">чтобы Россия отменила запланированные запретные тарифы на экспорт древесины.</segment>
+		<segment id="23" parent="112" relname="background">Только грузинская проблема является действительно серьезной.</segment>
+		<segment id="24" parent="123" relname="elaboration">##### Таможенный союз с Белоруссией и Казахстаном не является альтернативой для вступления России в ВТО.</segment>
+		<segment id="25" parent="118" relname="joint">Никакие страны никогда не вступали в ВТО коллективно,</segment>
+		<segment id="26" parent="118" relname="joint">к тому же с юридической точки зрения это невозможно,</segment>
+		<segment id="27" parent="119" relname="attribution">говорит глава ВТО Паскаль Лами.</segment>
+		<segment id="28" parent="29" relname="background">Кроме того, в то время как таможенный союз был провозглашен в 1995 году, самое раннее,</segment>
+		<segment id="29" parent="121" relname="span">когда он может быть сформирован – это июль 2011 года, что является маловероятным.</segment>
+		<segment id="30" parent="31" relname="background">##### Будучи преимущественно экспортером товаров широкого потребления,</segment>
+		<segment id="31" parent="125" relname="span">у России меньше потребности в ВТО, чем у таких производителей, как Китай.</segment>
+		<segment id="32" parent="126" relname="span">И все же пятую часть экспорта России составляют металлы и химикалии,</segment>
+		<segment id="33" parent="32" relname="background">которые чувствительны к антидемпинговым мерам.</segment>
+		<segment id="34" parent="129" relname="span">Ряд исследований Всемирного Банка и российских исследований показал,</segment>
+		<segment id="35" parent="128" relname="span">что Россия может прибавить 0,5-1,0 процентные точки в экономическом росте в течение пяти лет,</segment>
+		<segment id="36" parent="35" relname="condition">если она вступит в ВТО.</segment>
+		<segment id="37" parent="140" relname="background">##### Членство также важно для международного статуса России.</segment>
+		<segment id="38" parent="132" relname="background">Она – единственная страна Большой Двадцатки,</segment>
+		<segment id="39" parent="40" relname="background">не являющаяся членом ВТО,</segment>
+		<segment id="40" parent="132" relname="span">которая составляет 96% глобальной торговли. ВТО также представляет выбор экономической и политической стратегии.</segment>
+		<segment id="41" parent="134" relname="sequence">Перед тем, как уйти в отставку с поста президента в мае 2008 года,</segment>
+		<segment id="42" parent="134" relname="sequence">Путин представил свою программу “Россия 2020”.</segment>
+		<segment id="43" parent="44" relname="elaboration">В сердце ее была “стратегия новшества”,</segment>
+		<segment id="44" parent="136" relname="span">основанная на проведении большего количества рыночных реформ и вкладывании инвестиций в человеческий капитал,</segment>
+		<segment id="45" parent="137" relname="span">что приведет к ежегодному росту в 6-7%.</segment>
+		<segment id="46" parent="139" relname="joint">В своей риторике президент Дмитрий Медведев и его технократы приняли это видение.</segment>
+		<segment id="47" parent="48" relname="elaboration">##### Но Путин и его силовики</segment>
+		<segment id="48" parent="142" relname="span">(политические союзники, основа власти которых находится в аппарате безопасности)</segment>
+		<segment id="49" parent="143" relname="same-unit">кажется, предпочитают “стратегию инерции”, худший из сценариев России 2020.</segment>
+		<segment id="50" parent="146" relname="interpretation-evaluation">Эта стратегия означает государственный капитализм,</segment>
+		<segment id="51" parent="145" relname="joint">живущий за счет энергетического богатства России,</segment>
+		<segment id="52" parent="145" relname="joint">и не делающий ничего для сокращения процветающего бюрократизма и коррупции в России.</segment>
+		<segment id="53" parent="54" relname="cause-effect">##### Изменив курс по вопросу о вступлении в ВТО,</segment>
+		<segment id="54" parent="153" relname="span">Путин вновь показал себя властелином России.</segment>
+		<segment id="55" parent="151" relname="background">Он сделал то же самое прошлым летом,</segment>
+		<segment id="56" parent="150" relname="joint">набросившись на успешную горнодобывающую и металлургическую компанию Мечел</segment>
+		<segment id="57" parent="150" relname="joint">и спровоцировав войну в Грузии.</segment>
+		<segment id="58" parent="165" relname="elaboration">##### В течение зимы плохой выбор политики в отношении финансового кризиса Путиным подорвали его власть.</segment>
+		<segment id="59" parent="156" relname="contrast">Вместо того, чтобы защитить частные предприятия России,</segment>
+		<segment id="60" parent="158" relname="elaboration">он устроил внутреннее замораживание ликвидности,</segment>
+		<segment id="61" parent="157" relname="contrast">которое привело к резкому падению ВВП на 9,5% в первом квартале 2009 года,</segment>
+		<segment id="62" parent="157" relname="contrast">несмотря на огромные инвалютные резервы России.</segment>
+		<segment id="63" parent="162" relname="elaboration">Прагматически настроенные технократы приняли на себя ведение дел,</segment>
+		<segment id="64" parent="65" relname="elaboration">но последующее удвоение цен на нефть сигнализирует о том,</segment>
+		<segment id="65" parent="161" relname="span">что опасность для экономики России пока отступила,</segment>
+		<segment id="66" parent="162" relname="span">так что силовики вновь принимают на себя командование.</segment>
+		<segment id="67" parent="178" relname="elaboration">##### Вопрос состоит в том, каким будет их следующий шаг.</segment>
+		<segment id="68" parent="169" relname="attribution">Известный российский военный аналитик Павел Фельгенхауэр настаивает на том,</segment>
+		<segment id="69" parent="169" relname="span">что их главная цель – покончить с Грузией и ее президентом, Михаилом Саакашвили,</segment>
+		<segment id="70" parent="167" relname="joint">который остается у власти</segment>
+		<segment id="71" parent="167" relname="joint">и продолжает проявлять непокорство.</segment>
+		<segment id="72" parent="171" relname="span">Грузия не получила никакой военной поддержки</segment>
+		<segment id="73" parent="72" relname="evidence">и является фактически незащищенной.</segment>
+		<segment id="74" parent="172" relname="joint">Кремль продолжает свое пропагандистское наступление на Грузию</segment>
+		<segment id="75" parent="172" relname="joint">и наложил вето на продление мандата для наблюдателей ООН в Грузии и Абхазии.</segment>
+		<segment id="76" parent="175" relname="joint">Главный российский военный маневр, Кавказ 2009, находится в стадии реализации.</segment>
+		<segment id="77" parent="175" relname="joint">Последний такой маневр, Кавказ 2008, сопровождался вторжением в Грузию.</segment>
+		<segment id="78" parent="185" relname="background">##### В течение последней части этого маневра 6-8 июля президент США Барак Обама должен встретиться в Москве с президентом Медведевым.</segment>
+		<segment id="79" parent="180" relname="joint">Медведев очевидно надеется протянуть руку</segment>
+		<segment id="80" parent="180" relname="joint">и улучшить статус России и свой собственный статус в мире.</segment>
+		<segment id="81" parent="182" relname="joint">Однако, силовики предпочитают изолированную и авторитарную Россию,</segment>
+		<segment id="82" parent="182" relname="joint">притом чтобы власть была надежно сосредоточена в их руках.</segment>
+		<segment id="83" parent="187" relname="contrast">##### Кремль хочет заключить новое стратегическое соглашение о контроле над вооружением,</segment>
+		<segment id="84" parent="187" relname="contrast">но силовики больше ничего не хотят.</segment>
+		<segment id="85" parent="189" relname="contrast">Администрация Обамы надеялась на окончательный прорыв в переговорах о вступлении России в ВТО,</segment>
+		<segment id="86" parent="189" relname="contrast">но действия Путина устранили перспективы для такого исхода.</segment>
+		<segment id="87" parent="88" relname="interpretation-evaluation">США также хотят прогресса в вопросе о территориальной целостности бывших советских государств, типа Грузии,</segment>
+		<segment id="88" parent="191" relname="span">но это тоже маловероятно.</segment>
+		<segment id="89" parent="90" relname="interpretation-evaluation">Путин или его сотрудники, кажется, подставляют Медведева,</segment>
+		<segment id="90" parent="192" relname="span">что говорит о том, что их ревность к ограниченной власти Медведева сильнее их интереса защитить национальные интересы России.</segment>
+		<segment id="91" parent="194" relname="elaboration">##### И все же еще есть надежда на то,</segment>
+		<segment id="92" parent="93" relname="cause-effect">что Путин столкнется с достаточно отрицательной реакцией,</segment>
+		<segment id="93" parent="194" relname="span">чтобы изменить свою позицию по вступлению в ВТО.</segment>
+		<segment id="94" parent="95" relname="elaboration">В конце концов, он приостановил переговоры о вступлении России в ВТО после войны в Грузии в августе 2008 года только для того,</segment>
+		<segment id="95" parent="196" relname="span">чтобы позволить им вновь начаться весной этого года.</segment>
+		<group id="96" type="span" parent="97" relname="contrast"/>
+		<group id="97" type="multinuc" parent="98" relname="span"/>
+		<group id="98" type="span" parent="100" relname="span"/>
+		<group id="99" type="span" parent="98" relname="interpretation-evaluation"/>
+		<group id="100" type="span" relname="antithesis"/>
+		<group id="101" type="span" parent="102" relname="contrast"/>
+		<group id="102" type="multinuc" parent="103" relname="span"/>
+		<group id="103" type="span" parent="104" relname="span"/>
+		<group id="104" type="span" relname="antithesis"/>
+		<group id="105" type="span" parent="12" relname="elaboration"/>
+		<group id="106" type="span" relname="antithesis"/>
+		<group id="107" type="span" parent="109" relname="contrast"/>
+		<group id="108" type="span" parent="109" relname="contrast"/>
+		<group id="109" type="multinuc" parent="110" relname="span"/>
+		<group id="110" type="span" parent="111" relname="span"/>
+		<group id="111" type="span" parent="115" relname="joint"/>
+		<group id="112" type="span" parent="113" relname="span"/>
+		<group id="113" type="span" parent="115" relname="joint"/>
+		<group id="114" type="span" parent="115" relname="joint"/>
+		<group id="115" type="multinuc" parent="116" relname="span"/>
+		<group id="116" type="span" parent="117" relname="span"/>
+		<group id="117" type="span" relname="antithesis"/>
+		<group id="118" type="multinuc" parent="119" relname="span"/>
+		<group id="119" type="span" parent="120" relname="span"/>
+		<group id="120" type="span" parent="122" relname="joint"/>
+		<group id="121" type="span" parent="122" relname="joint"/>
+		<group id="122" type="multinuc" parent="123" relname="span"/>
+		<group id="123" type="span" parent="124" relname="span"/>
+		<group id="124" type="span" relname="antithesis"/>
+		<group id="125" type="span" parent="127" relname="contrast"/>
+		<group id="126" type="span" parent="127" relname="contrast"/>
+		<group id="127" type="multinuc" parent="130" relname="span"/>
+		<group id="128" type="span" parent="34" relname="evaluation"/>
+		<group id="129" type="span" parent="131" relname="joint"/>
+		<group id="130" type="span" parent="131" relname="joint"/>
+		<group id="131" type="multinuc" parent="174" relname="span"/>
+		<group id="132" type="span" parent="133" relname="span"/>
+		<group id="133" type="span" parent="139" relname="joint"/>
+		<group id="134" type="multinuc" parent="135" relname="span"/>
+		<group id="135" type="span" parent="137" relname="elaboration"/>
+		<group id="136" type="span" parent="45" relname="cause-effect"/>
+		<group id="137" type="span" parent="138" relname="span"/>
+		<group id="138" type="span" parent="139" relname="joint"/>
+		<group id="139" type="multinuc" parent="140" relname="span"/>
+		<group id="140" type="span" parent="141" relname="span"/>
+		<group id="141" type="span" relname="antithesis"/>
+		<group id="142" type="span" parent="143" relname="same-unit"/>
+		<group id="143" type="multinuc" parent="144" relname="span"/>
+		<group id="144" type="span" parent="148" relname="joint"/>
+		<group id="145" type="multinuc" parent="146" relname="span"/>
+		<group id="146" type="span" parent="147" relname="span"/>
+		<group id="147" type="span" parent="148" relname="joint"/>
+		<group id="148" type="multinuc" parent="149" relname="span"/>
+		<group id="149" type="span" relname="antithesis"/>
+		<group id="150" type="multinuc" parent="151" relname="span"/>
+		<group id="151" type="span" parent="152" relname="span"/>
+		<group id="152" type="span" parent="154" relname="joint"/>
+		<group id="153" type="span" parent="154" relname="joint"/>
+		<group id="154" type="multinuc" parent="155" relname="span"/>
+		<group id="155" type="span" relname="antithesis"/>
+		<group id="156" type="multinuc" parent="160" relname="span"/>
+		<group id="157" type="multinuc" parent="158" relname="span"/>
+		<group id="158" type="span" parent="159" relname="span"/>
+		<group id="159" type="span" parent="156" relname="contrast"/>
+		<group id="160" type="span" parent="164" relname="joint"/>
+		<group id="161" type="span" parent="66" relname="concession"/>
+		<group id="162" type="span" parent="163" relname="span"/>
+		<group id="163" type="span" parent="164" relname="joint"/>
+		<group id="164" type="multinuc" parent="165" relname="span"/>
+		<group id="165" type="span" parent="166" relname="span"/>
+		<group id="166" type="span" relname="antithesis"/>
+		<group id="167" type="multinuc" parent="168" relname="span"/>
+		<group id="168" type="span" parent="69" relname="background"/>
+		<group id="169" type="span" parent="170" relname="span"/>
+		<group id="170" type="span" parent="177" relname="joint"/>
+		<group id="171" type="span" parent="177" relname="joint"/>
+		<group id="172" type="multinuc" parent="173" relname="span"/>
+		<group id="173" type="span" parent="177" relname="joint"/>
+		<group id="174" type="span" relname="antithesis"/>
+		<group id="175" type="multinuc" parent="176" relname="span"/>
+		<group id="176" type="span" parent="177" relname="joint"/>
+		<group id="177" type="multinuc" parent="178" relname="span"/>
+		<group id="178" type="span" parent="179" relname="span"/>
+		<group id="179" type="span" relname="antithesis"/>
+		<group id="180" type="multinuc" parent="181" relname="span"/>
+		<group id="181" type="span" parent="184" relname="contrast"/>
+		<group id="182" type="multinuc" parent="183" relname="span"/>
+		<group id="183" type="span" parent="184" relname="contrast"/>
+		<group id="184" type="multinuc" parent="185" relname="span"/>
+		<group id="185" type="span" parent="186" relname="span"/>
+		<group id="186" type="span" relname="antithesis"/>
+		<group id="187" type="multinuc" parent="188" relname="span"/>
+		<group id="188" type="span" parent="193" relname="joint"/>
+		<group id="189" type="multinuc" parent="190" relname="span"/>
+		<group id="190" type="span" parent="193" relname="joint"/>
+		<group id="191" type="span" parent="193" relname="joint"/>
+		<group id="192" type="span" parent="193" relname="joint"/>
+		<group id="193" type="multinuc" parent="199" relname="span"/>
+		<group id="194" type="span" parent="195" relname="span"/>
+		<group id="195" type="span" parent="197" relname="joint"/>
+		<group id="196" type="span" parent="197" relname="joint"/>
+		<group id="197" type="multinuc" parent="198" relname="span"/>
+		<group id="198" type="span" relname="antithesis"/>
+		<group id="199" type="span" relname="antithesis"/>
+  </body>
+</rst>
