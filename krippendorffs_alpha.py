@@ -7,7 +7,7 @@ from collections import defaultdict
 
 
 def parse_relations(path, debug=False):
-    tree = xmltodict.parse(open(path), 'utf-8')
+    tree = xmltodict.parse(open(path, mode='rb'), encoding='utf-8')
 
     segment_id = set()
     group_id = set()
@@ -24,7 +24,7 @@ def parse_relations(path, debug=False):
         segment_id.add(_id)
         nodes[_id] = {
             'relname': s['@relname'] if parent else None,  # relation
-            'text': s['#text'] if '#text' in s else u'',  # edu text
+            'text': s['#text'] if '#text' in s else '',  # edu text
             'covered_segments': set()  # id of child segments
         }
         if parent:
@@ -65,7 +65,7 @@ def parse_relations(path, debug=False):
     root = [_id for _id in total_id if not edge_child_to_parent[_id]]
     rel_types = {r['@name']: r['@type'] for r in tree['rst']['header']['relations']['rel']}
     relations = {}
-    for _id, n in nodes.iteritems():
+    for _id, n in nodes.items():
         rel_name = n['relname']
         if _id in root or rel_name == 'span':
             # root nodes cannot have a parent relation
@@ -84,29 +84,29 @@ def parse_relations(path, debug=False):
                 # for group get all covered segments, for segment - only it
                 multi_ss.update(nodes[child]['covered_segments'] if child in group_id else {child})
 
-            str_multi = u' '.join([nodes[s]['text'] for s in sorted(multi_ss)])
-            relations[u'multi: %s' % str_multi] = rel_name
+            str_multi = ' '.join([nodes[s]['text'] for s in sorted(multi_ss)])
+            relations['multi: %s' % str_multi] = rel_name
 
         elif rel_types[rel_name] == 'rst':
             # for group get all covered segments, for segment - only it
             ss = n['covered_segments'] if _id in group_id else {_id}
-            str_from = u' '.join([nodes[s]['text'] for s in sorted(ss)])
+            str_from = ' '.join([nodes[s]['text'] for s in sorted(ss)])
 
             parent_id = edge_child_to_parent[_id]
             parent = nodes[parent_id]
             # for group get all covered segments, for segment - only it
             parent_ss = parent['covered_segments'] if parent_id in group_id else {parent_id}
             parent_ss.difference_update(ss)  # exclude current node covered segments
-            str_to = u' '.join([nodes[s]['text'] for s in sorted(parent_ss)])
+            str_to = ' '.join([nodes[s]['text'] for s in sorted(parent_ss)])
 
-            relations[u'from: %s\nto: %s' % (str_from, str_to)] = rel_name
+            relations['from: %s\nto: %s' % (str_from, str_to)] = rel_name
         else:
             raise Exception("Undefined relation name '%s'" % rel_name)
 
     if debug:
-        for rel_name, rel_type in relations.iteritems():
-            print u'%s\nrel: %s\n' % (rel_name, rel_type)
-        print len(relations)
+        for rel_name, rel_type in relations.items():
+            print('%s\nrel: %s\n' % (rel_name, rel_type))
+        print(len(relations))
 
     return relations
 
@@ -117,14 +117,14 @@ def calculate_alpha(path):
     annotations = os.listdir(path)  # distinct annotations
 
     for a in annotations:
-        for u_key, rel_name in parse_relations(os.path.join(path, a)).iteritems():
+        for u_key, rel_name in parse_relations(os.path.join(path, a)).items():
             units[u_key][a] = rel_name
             distinct_rel_type.add(rel_name)
 
     distinct_rel_type = sorted(distinct_rel_type)
 
     # count number of annotators within unit
-    for u_key, u_data in units.iteritems():
+    for u_key, u_data in units.items():
         units[u_key]['m'] = len(u_data.keys())
 
     # coincidences matrix
@@ -136,7 +136,7 @@ def calculate_alpha(path):
                 coincidences[r1][r2] = 0
 
             # loop through each unit and count the number of pairs (r1, r2) available in annotators codes
-            for u_key, u_data in units.iteritems():
+            for u_key, u_data in units.items():
                 if u_data['m'] < 2:
                     # no comparison in such cases
                     continue
@@ -163,7 +163,7 @@ def calculate_alpha(path):
 
     alpha = float((n - 1) * diagonal_sum - chance_agreement_numerator) / (n * (n - 1) - chance_agreement_numerator)
 
-    print '\n'.join(annotations + ["Alpha: %.6f" % alpha])
+    print('\n'.join(annotations + ["Alpha: %.6f" % alpha]))
 
 
 if __name__ == '__main__':
