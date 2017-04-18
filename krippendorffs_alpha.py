@@ -167,7 +167,7 @@ def calculate_alpha(path):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) < 2 or not os.path.exists(sys.argv[1]):
+    if len(sys.argv) < 2 or sum([os.path.exists(path) for path in sys.argv[1:]]) != len(sys.argv) - 1:
         sys.exit("You should provide path to the directories where annotations to be analysed are located")
 
     for _dir in sys.argv[1:]:
