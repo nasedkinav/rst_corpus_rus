@@ -1,0 +1,119 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Главной сенсацией выборов стало то,</segment>
+		<segment id="2" relname="antithesis">что сенсация не состоялась.</segment>
+		<segment id="3" relname="antithesis">Поражение лейбористов сенсацией не стало,</segment>
+		<segment id="4" relname="antithesis">оно могло бы быть гораздо более сокрушительным.</segment>
+		<segment id="5" relname="antithesis">Сенсация в том,</segment>
+		<segment id="6" relname="antithesis">что либерал-демократы,</segment>
+		<segment id="7" relname="antithesis">коим прочили второе, а то и первое место,</segment>
+		<segment id="8" relname="antithesis">остались на своём традиционном третьем месте.</segment>
+		<segment id="9" relname="antithesis">Более того, они даже не смогут стать «делателями королей».</segment>
+		<segment id="10" relname="antithesis">В целом получилось так,</segment>
+		<segment id="11" relname="antithesis">что проиграли все.</segment>
+		<segment id="12" relname="antithesis">В первую очередь — вся Британия,</segment>
+		<segment id="13" relname="antithesis">получившая «подвешенный» парламент.</segment>
+		<segment id="14" relname="antithesis">##### Хотя англосаксы считаются</segment>
+		<segment id="15" relname="antithesis">точнее, провозглашают себя)</segment>
+		<segment id="16" relname="antithesis">некими оплотами классической демократии,</segment>
+		<segment id="17" relname="antithesis">их избирательные системы весьма своеобразны.</segment>
+		<segment id="18" relname="antithesis">Например, американская система выборщиков,</segment>
+		<segment id="19" parent="18" relname="elaboration">из-за которой кандидат в президенты может получить больше голосов,</segment>
+		<segment id="20" relname="antithesis">чем его оппонент,</segment>
+		<segment id="21" relname="antithesis">но тем не менее проиграть.</segment>
+		<segment id="22" relname="antithesis">Британская система тоже не вполне совершенна</segment>
+		<segment id="23" relname="antithesis">в каждом из 650 избирательных округов выигрывает тот кандидат,</segment>
+		<segment id="24" parent="23" relname="elaboration">который получил простое большинство голосов.</segment>
+		<segment id="25" relname="antithesis">Из-за этого теряется огромное количество голосов.</segment>
+		<segment id="26" relname="antithesis">Вполне очевидно,</segment>
+		<segment id="27" relname="antithesis">что французская система голосования в два тура или российская пропорциональная система гораздо справедливее</segment>
+		<segment id="28" relname="antithesis">к российской системе, разумеется, слово «справедливая» относится лишь формально,</segment>
+		<segment id="29" relname="antithesis">к практике наших «выборов» это слово не имеет ни малейшего отношения).</segment>
+		<segment id="30" relname="antithesis">##### Либерал-демократы постоянно становятся жертвой этой системы,</segment>
+		<segment id="31" parent="30" relname="cause-effect">поскольку их голоса «размазаны» по стране,</segment>
+		<segment id="32" relname="antithesis">округов,</segment>
+		<segment id="33" relname="antithesis">где они имеют большинство,</segment>
+		<segment id="34" relname="antithesis">— менее 10%.</segment>
+		<segment id="35" relname="antithesis">В итоге пропали впустую успехи их лидера Ника Клегга в ходе нынешних предвыборных дебатов.</segment>
+		<segment id="36" relname="antithesis">Либерал-демократы даже потеряли места по сравнению с выборами 2005 года</segment>
+		<segment id="37" relname="antithesis">было 62,</segment>
+		<segment id="38" relname="antithesis">стало 57).</segment>
+		<segment id="39" relname="antithesis">##### Более того, они даже не смогут стать «делателями королей».</segment>
+		<segment id="40" relname="antithesis">В мировой парламентской практике есть масса примеров того,</segment>
+		<segment id="41" relname="antithesis">как небольшая партия становилась, по сути, самой главной,</segment>
+		<segment id="42" parent="41" relname="cause-effect">поскольку именно её немногочисленные голоса обеспечивали решающее большинство при вступлении в коалицию с одной из крупных партий.</segment>
+		<segment id="43" relname="antithesis">В итоге крупные вынуждены заискивать перед мелкими,</segment>
+		<segment id="44" parent="43" relname="elaboration">которые из-за этого получают влияние,</segment>
+		<segment id="45" relname="antithesis">непропорциональное своей истинной популярности.</segment>
+		<segment id="46" relname="antithesis">Либерал-демократы, наоборот, даже таким способом не смогут добиться влияния, как раз пропорционального их популярности.</segment>
+		<segment id="47" parent="48" relname="condition">Потому что даже суммирования их мест и 258 мест лейбористов (пока ещё формально правящих) не хватит для обеспечения большинства.</segment>
+		<segment id="48" relname="antithesis">А консерваторы уже заявили об отказе входить в коалицию с либералами.</segment>
+		<segment id="49" relname="antithesis">##### Консерваторы и их лидер Дэвид Кэмерон оказываются своеобразными недопобедителями.</segment>
+		<segment id="50" relname="antithesis">Им ещё с конца прошлого года все предсказывали возвращение к власти после 13-летнего перерыва.</segment>
+		<segment id="51" relname="antithesis">Но они не добрали 20 мест до единоличного большинства в 326.</segment>
+		<segment id="52" relname="antithesis">##### Тем более нечего радоваться лейбористам.</segment>
+		<segment id="53" relname="antithesis">То,</segment>
+		<segment id="54" relname="antithesis">что они могли потерять ещё больше мест, — утешение крайне слабое.</segment>
+		<segment id="55" relname="antithesis">##### В общем, как-то так получилось,</segment>
+		<segment id="56" relname="antithesis">что проиграли все.</segment>
+		<segment id="57" relname="antithesis">В том числе и Британия в целом,</segment>
+		<segment id="58" relname="antithesis">получившая впервые с 1974 года «подвешенный» парламент без большинства.</segment>
+		<segment id="59" relname="antithesis">Соответственно, теперь возникает вопрос о том,</segment>
+		<segment id="60" relname="antithesis">кто с кем составит коалицию.</segment>
+		<segment id="61" relname="antithesis">##### Вариант «большой коалиции» (консерваторы плюс лейбористы),</segment>
+		<segment id="62" relname="antithesis">подобной той,</segment>
+		<segment id="63" relname="antithesis">что была в Германии в 2005—2009 годах, никем,</segment>
+		<segment id="64" relname="antithesis">видимо, даже не рассматривается.</segment>
+		<segment id="65" relname="antithesis">В коалицию с либерал-демократами,</segment>
+		<segment id="66" relname="antithesis">как было сказано выше,</segment>
+		<segment id="67" relname="antithesis">консерваторы не собираются по идейным соображениям,</segment>
+		<segment id="68" relname="antithesis">а лейбористам такая коалиция ничего не даст,</segment>
+		<segment id="69" relname="antithesis">голосов всё равно не хватит до большинства.</segment>
+		<segment id="70" relname="antithesis">Таким образом, «делателями королей» могут стать мелкие партии,</segment>
+		<segment id="71" relname="antithesis">получившие 28 мест.</segment>
+		<segment id="72" relname="antithesis">Причём их голоса надо брать «оптом» как консерваторам,</segment>
+		<segment id="73" relname="antithesis">так и лейбористам+либералам.</segment>
+		<segment id="74" relname="antithesis">##### Но,</segment>
+		<segment id="75" relname="antithesis">похоже, что оптом не получится,</segment>
+		<segment id="76" parent="75" relname="cause-effect">поскольку голоса «мелочи» поделились между ультраправыми,</segment>
+		<segment id="77" relname="antithesis">союз с которыми неприемлем для лейбористов и либералов,</segment>
+		<segment id="78" relname="antithesis">шотландскими и уэльскими сепаратистами,</segment>
+		<segment id="79" relname="antithesis">дружить с которыми явно не пристало консерваторам.</segment>
+		<segment id="80" relname="antithesis">##### В итоге получилось поистине «Разъединённое королевство».</segment>
+		<segment id="81" relname="antithesis">Вполне вероятно,</segment>
+		<segment id="82" relname="antithesis">что в этом году британцам вновь придётся голосовать.</segment>
+		<segment id="83" relname="antithesis">Прямо Молдавия какая-то.</segment>
+    </body>
+</rst>

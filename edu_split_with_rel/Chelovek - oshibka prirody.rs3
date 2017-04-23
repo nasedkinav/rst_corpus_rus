@@ -1,0 +1,200 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Человек - ошибка природы</segment>
+		<segment id="2" relname="antithesis">##### Дмитрий Серков</segment>
+		<segment id="3" relname="antithesis">##### В Москве прошла Всемирная конференция по изменению климата,</segment>
+		<segment id="4" relname="antithesis">многие из участников которой поставили под сомнение не только дальнейшее развитие человеческой цивилизации, но и ее существование ...</segment>
+		<segment id="5" relname="antithesis">##### Пессимистический настрой ученых основан не только на оценке масштабов разворачивающегося на планете Земля экологического кризиса.</segment>
+		<segment id="6" relname="antithesis">Куда больше представителей науки беспокоит беспомощность человечества перед будущим.</segment>
+		<segment id="7" relname="antithesis">Дальнейшее развитие цивилизации толкает людей в пропасть,</segment>
+		<segment id="8" relname="antithesis">уверен академик РАН, профессор, доктор физико-математических наук,</segment>
+		<segment id="9" relname="antithesis">заведующий лабораторией механики природных процессов Института механики МГУ Самвел Григорян.</segment>
+		<segment id="10" relname="antithesis">Выводы,</segment>
+		<segment id="11" parent="10" relname="elaboration">которые изложил ученый в своем докладе "О природе глобального экологического кризиса на Земле",</segment>
+		<segment id="12" relname="antithesis">вполне можно назвать квинтэссенцией множества выступлений его коллег,</segment>
+		<segment id="13" relname="antithesis">озабоченных проблемой климатической изменчивости.</segment>
+		<segment id="14" relname="antithesis">##### Математики могут с помощью формул описать все - работу механизмов, движение космических тел, жизнь человека.</segment>
+		<segment id="15" relname="antithesis">А вот заложен ли в поведении природы некий математический алгоритм или его придумал человек исключительно для оправдания своих действий?</segment>
+		<segment id="16" relname="antithesis">Академик Григорян честно признается,</segment>
+		<segment id="17" relname="antithesis">что не знает точного ответа на этот вопрос.</segment>
+		<segment id="18" relname="antithesis">##### Сегодня,</segment>
+		<segment id="19" relname="antithesis">когда неизбежность экологической катастрофы очевидна,</segment>
+		<segment id="20" relname="antithesis">ученые всего мира судорожно пытаются разработать математическую модель прогнозирования климатических изменений</segment>
+		<segment id="21" relname="antithesis">##### При этом Самвел Григорян относительно будущего человечества придерживается весьма пессимистической позиции.</segment>
+		<segment id="22" relname="antithesis">Основана она,</segment>
+		<segment id="23" relname="antithesis">по его утверждению,</segment>
+		<segment id="24" relname="antithesis">на ужасающем опыте: "Люди всегда хотели создать рай на земле,</segment>
+		<segment id="25" relname="antithesis">стремились к обилию пищи и комфортной жизни.</segment>
+		<segment id="26" relname="antithesis">На пути к этой цели человек,</segment>
+		<segment id="27" relname="antithesis">главным отличием которого от иных живых форм на Земле является наличие интеллекта,</segment>
+		<segment id="28" relname="antithesis">постоянно создавал различные устройства и процессы для облегчения и улучшения условий своего существования,</segment>
+		<segment id="29" relname="antithesis">быстро вовлек в этот процесс для его интенсификации несолнечные источники энергии,</segment>
+		<segment id="30" relname="antithesis">а в результате человечество получило неустойчивую технологическую основу современной цивилизации".</segment>
+		<segment id="31" relname="antithesis">##### Григорян считает,</segment>
+		<segment id="32" relname="antithesis">что в течение весьма длительного времени существования живой материи на планете ее биомасса строго определялась количеством поступающей на Землю солнечной энергии.</segment>
+		<segment id="33" relname="antithesis">С изменением климата и других условий обитания менялись состав и разнообразие живых форм.</segment>
+		<segment id="34" relname="antithesis">Появление человека на этот процесс не влияло до тех пор,</segment>
+		<segment id="35" relname="antithesis">пока им не были обнаружены легкодоступные и обильные источники несолнечной энергии - уголь, газ, нефть, а затем и атомная энергия.</segment>
+		<segment id="36" relname="antithesis">##### Достичь всеобщего благоденствия человеку так и не удалось.</segment>
+		<segment id="37" relname="antithesis">Причиной неудачи,</segment>
+		<segment id="38" relname="antithesis">по мнению ученого,</segment>
+		<segment id="39" relname="antithesis">является чисто биологический фактор: наличие у всех живых форм, включая человека, избыточной способности к размножению - необходимого условия для устойчивого существования этих форм.</segment>
+		<segment id="40" relname="antithesis">При изменении объемов экологических ниш этот фактор срабатывает автоматически,</segment>
+		<segment id="41" relname="antithesis">и ниши постоянно оказываются предельно заполненными,</segment>
+		<segment id="42" relname="antithesis">так что значительная часть их обитателей балансирует на грани физического выживания.</segment>
+		<segment id="43" relname="antithesis">Попытка построения рая в человеческой нише за счет несолнечных источников энергии по этой причине провалилась:</segment>
+		<segment id="44" relname="antithesis">пропорционально все нарастающему количеству такой энергии возросло число людей на Земле,</segment>
+		<segment id="45" relname="antithesis">однако большинство из них по-прежнему живет впроголодь.</segment>
+		<segment id="46" relname="antithesis">##### Но в то же время эта попытка привела к резко нарастающим отрицательным для всего живого изменениям в среде его обитания,</segment>
+		<segment id="47" parent="46" relname="elaboration">которые могут достичь масштабов катастрофы.</segment>
+		<segment id="48" relname="antithesis">И этот процесс постоянно усугубляется.</segment>
+		<segment id="49" relname="antithesis">По математическим расчетам Григоряна, для того чтобы человечество могло вписаться в естественные циклы биосферы,</segment>
+		<segment id="50" relname="antithesis">население планеты должно быть уменьшено раз в десять.</segment>
+		<segment id="51" relname="antithesis">Понятно, что это вряд ли возможно.</segment>
+		<segment id="52" relname="antithesis">##### "Технологическая основа современной цивилизации крайне неустойчива,</segment>
+		<segment id="53" relname="antithesis">- говорит Самвел Григорян. - Она "висит" на нефтегазовой "аорте", и даже небольшие нарушения в ее работе в состоянии породить глобальные потрясения в жизни человечества".</segment>
+		<segment id="54" relname="antithesis">##### Попытка построения людьми рая на земле провалилась,</segment>
+		<segment id="55" relname="antithesis">и сегодня венец творения природы - человек</segment>
+		<segment id="56" relname="antithesis">стоит на пороге катастрофы</segment>
+		<segment id="57" relname="antithesis">##### Принципиальная невозможность построения всеобщей гармонии за счет неограниченного роста потребления несолнечной энергии диктует возможное решение проблемы надвигающейся катастрофы.</segment>
+		<segment id="58" relname="antithesis">Понятно, что человеку необходимо ограничить потребление энергии.</segment>
+		<segment id="59" relname="antithesis">Но до каких пределов?</segment>
+		<segment id="60" relname="antithesis">##### "Установление "высоты" такого энергетического барьера</segment>
+		<segment id="61" relname="antithesis">это задача науки, одна из труднейших и важнейших, - считает академик Григорян. - Реализация же этой ограничительной меры - административно-организационная.</segment>
+		<segment id="62" relname="antithesis">Понятно, что эта задача - одна из глобальных задач человечества.</segment>
+		<segment id="63" parent="64" relname="condition">Если человек способен ее решить,</segment>
+		<segment id="64" relname="antithesis">тогда он действительно homo sapiens.</segment>
+		<segment id="65" parent="66" relname="condition">Если же нет</segment>
+		<segment id="66" relname="antithesis">а на сей счет есть большие сомнения</segment>
+		<segment id="67" relname="antithesis">история человечества свидетельствует,</segment>
+		<segment id="68" relname="antithesis">что оно очень часто действовало не лучшим образом)</segment>
+		<segment id="69" relname="antithesis">то надо будет с горечью признать,</segment>
+		<segment id="70" relname="antithesis">что человек - единственное в природе существо,</segment>
+		<segment id="71" relname="antithesis">наделенное мощным интеллектом,</segment>
+		<segment id="72" relname="antithesis">- не есть вершина достижений живой природы, а ее грубая ошибка!</segment>
+		<segment id="73" relname="antithesis">Печально,</segment>
+		<segment id="74" relname="antithesis">по мнению ученого,</segment>
+		<segment id="75" relname="antithesis">то,</segment>
+		<segment id="76" relname="antithesis">что понимание серьезности угрозы глобальной катастрофы придет только после того, как закончатся сырьевые запасы, и тогда в борьбе за свое дальнейшее существование люди попытаются начать поиск альтернативы.</segment>
+		<segment id="77" relname="antithesis">Однако прозрение может прийти слишком поздно.</segment>
+		<segment id="78" relname="antithesis">##### Как образец гармоничного сосуществования человека и природы академик привел пример развития древнекитайской цивилизации: "Она создавалась тысячелетиями,</segment>
+		<segment id="79" relname="antithesis">и основой ее были земля, вода, воздух и физическая сила животных и человека.</segment>
+		<segment id="80" relname="antithesis">До сих пор на территории,</segment>
+		<segment id="81" relname="antithesis">где проживает пятая часть населения Земли,</segment>
+		<segment id="82" relname="antithesis">есть районы,</segment>
+		<segment id="83" relname="antithesis">где не используются традиционные энергетические источники</segment>
+		<segment id="84" relname="antithesis">уже несколько сотен лет культивируются одни и те же земли.</segment>
+		<segment id="85" relname="antithesis">Эти места глобальный экологический кризис затронет в последнюю очередь".</segment>
+		<segment id="86" relname="antithesis">##### По глубокому убеждению Григоряна, единственным способом изучения динамики развития климата и проблем глобальной экологии сегодня могут быть методы математического моделирования и анализ предшествующих этапов развития природы.</segment>
+		<segment id="87" relname="antithesis">В лаборатории механики природных процессов,</segment>
+		<segment id="88" parent="87" relname="elaboration">которой он руководит,</segment>
+		<segment id="89" relname="antithesis">оценили роль антропогенного фактора на современном этапе эволюции биосферы,</segment>
+		<segment id="90" relname="antithesis">и выяснилось,</segment>
+		<segment id="91" relname="antithesis">что человечество производит по меньшей мере в 2000 раз больше отбросов органического происхождения,</segment>
+		<segment id="92" relname="antithesis">чем вся остальная биосфера.</segment>
+		<segment id="93" relname="antithesis">##### "Мир живет во власти странных иллюзий, - продолжает академик Григорян. - Существует представление, будто необдуманное использование природных ресурсов может продолжаться неограниченно долгое время и без каких-либо последствий.</segment>
+		<segment id="94" relname="antithesis">Это большое заблуждение.</segment>
+		<segment id="95" relname="antithesis">Некоторые ученые говорят:</segment>
+		<segment id="96" relname="antithesis">надо стремиться осваивать Вселенную в поисках новых видов энергии.</segment>
+		<segment id="97" relname="antithesis">Уверен,</segment>
+		<segment id="98" relname="antithesis">что природа живой материи резко воспротивится этому".</segment>
+		<segment id="99" relname="antithesis">##### Научный мир сегодня ожесточенно спорит о том,</segment>
+		<segment id="100" relname="antithesis">как меняется климат на Земле</segment>
+		<segment id="101" relname="antithesis">к чему могут привести такие изменения.</segment>
+		<segment id="102" relname="antithesis">Экологи пугают перспективой,</segment>
+		<segment id="103" relname="antithesis">что будущие поколения ожидает незавидная участь - жизнь на отравленных кислотой пустырях.</segment>
+		<segment id="104" relname="antithesis">Как математик Григорян не может заниматься измышлениями,</segment>
+		<segment id="105" relname="antithesis">он оперирует только фактами</segment>
+		<segment id="106" parent="107" relname="attribution">потому утверждает,</segment>
+		<segment id="107" relname="antithesis">что сценарий будущего может быть совершенно иным.</segment>
+		<segment id="108" relname="antithesis">По его мнению,</segment>
+		<segment id="109" relname="antithesis">сегодня правильнее было бы говорить не об изменении климата, а о планомерном его уничтожении.</segment>
+		<segment id="110" relname="antithesis">Уничтожение лесов, опустынивание, сокращение пастбищ</segment>
+		<segment id="111" relname="antithesis">это не изменение климата,</segment>
+		<segment id="112" relname="antithesis">как пытаются представить некоторые ученые, а результат ненормального развития человечества.</segment>
+		<segment id="113" relname="antithesis">Но человек тем не менее продолжает действовать как хищник,</segment>
+		<segment id="114" relname="antithesis">и чем сильнее он становится,</segment>
+		<segment id="115" relname="antithesis">тем более опасен.</segment>
+		<segment id="116" relname="antithesis">Единственное,</segment>
+		<segment id="117" relname="antithesis">что,</segment>
+		<segment id="118" relname="antithesis">по мнению ученого,</segment>
+		<segment id="119" relname="antithesis">может спасти планету,</segment>
+		<segment id="120" relname="antithesis">- это природа:</segment>
+		<segment id="121" relname="antithesis">"Она все равно сильнее человека и возьмет свое.</segment>
+		<segment id="122" relname="antithesis">Биологическая машина планеты просто не даст ее уничтожить.</segment>
+		<segment id="123" relname="antithesis">В природе ведь все совершенно!</segment>
+		<segment id="124" relname="antithesis">Возьмите хоть муравья или березу.</segment>
+		<segment id="125" relname="antithesis">Они - предел совершенства!</segment>
+		<segment id="126" relname="antithesis">И потому окружающая нас природа неуничтожима.</segment>
+		<segment id="127" relname="antithesis">Весь фокус в том,</segment>
+		<segment id="128" relname="antithesis">что человеческой цивилизации уже не найдется места в таком совершенном мире.</segment>
+		<segment id="129" relname="antithesis">Она изживет сама себя.</segment>
+		<segment id="130" relname="antithesis">И только мы сами будем виноваты в том,</segment>
+		<segment id="131" relname="antithesis">что наш интеллект все время был направлен на уничтожение того,</segment>
+		<segment id="132" relname="antithesis">что его создало".</segment>
+		<segment id="133" relname="antithesis">##### Сегодня,</segment>
+		<segment id="134" relname="antithesis">по мнению Самвела Григоряна,</segment>
+		<segment id="135" relname="antithesis">люди должны,</segment>
+		<segment id="136" relname="antithesis">подобно далеким кроманьонским предкам,</segment>
+		<segment id="137" relname="antithesis">снова воспринимать себя частью окружающей природы: "Но есть принципиальное отличие человека,</segment>
+		<segment id="138" relname="antithesis">принадлежащего современному обществу, от нашего доледникового предка:</segment>
+		<segment id="139" relname="antithesis">мы обладаем набором знаний и потому способны ставить себе цели развития.</segment>
+		<segment id="140" relname="antithesis">Когда-то я ввел в обиход термин "коэволюция человека и биосферы".</segment>
+		<segment id="141" relname="antithesis">Он означает такое поведение человечества и каждого человека в отдельности,</segment>
+		<segment id="142" parent="141" relname="elaboration">которое способно обеспечить совместное развитие биосферы и человечества.</segment>
+		<segment id="143" relname="antithesis">Сегодняшний уровень развития науки и наших технических возможностей делает принципиально реализуемым этот режим коэволюции.</segment>
+		<segment id="144" relname="antithesis">Другими словами, у нас есть исторический шанс быть не покорителями природы, а ее детьми".</segment>
+		<segment id="145" relname="antithesis">##### Выводы Самвела Григоряна о будущем нашей планеты, безусловно, выдают в нем сторонника версии об антропологическом воздействии на природу.</segment>
+		<segment id="146" relname="antithesis">Он так и говорит: "Достоверным чаще всего бывает то,</segment>
+		<segment id="147" relname="antithesis">что приносит заведомый вред".</segment>
+		<segment id="148" relname="antithesis">То есть губительная деятельность человечества не вызывает у него сомнений.</segment>
+		<segment id="149" relname="antithesis">Конечно же,</segment>
+		<segment id="150" relname="antithesis">многие не согласны с таким подходом.</segment>
+		<segment id="151" relname="antithesis">##### Например, директор Института глобального климата и экологии Росгидромета и РАН академик Юрий Израэль в беседе с корреспондентом "Итогов" выразил уверенность,</segment>
+		<segment id="152" relname="antithesis">что обрушившиеся в последнее время на планету природные катаклизмы вовсе не результат человеческой деятельности, а всего лишь отголосок происходящих циклических изменений климата.</segment>
+		<segment id="153" relname="antithesis">Одни циклы исчисляются столетиями, другие несколькими годами.</segment>
+		<segment id="154" relname="antithesis">И для каждого из них,</segment>
+		<segment id="155" relname="antithesis">по мнению Юрия Израэля,</segment>
+		<segment id="156" relname="antithesis">характерны те или иные погодные проявления.</segment>
+		<segment id="157" relname="antithesis">Например, последний ураган в США - это явление, характерное для пятилетних циклов, а серия наводнений,</segment>
+		<segment id="158" relname="antithesis">произошедших за два последних года,</segment>
+		<segment id="159" relname="antithesis">скорее всего может быть отнесена к столетним периодам изменения климата.</segment>
+		<segment id="160" relname="antithesis">Антропогенные факторы,</segment>
+		<segment id="161" relname="antithesis">как полагает известный ученый,</segment>
+		<segment id="162" relname="antithesis">тут ни при чем,</segment>
+		<segment id="163" relname="antithesis">они не могут привести к глобальной катастрофе,</segment>
+		<segment id="164" parent="163" relname="cause-effect">поскольку человеческая цивилизация в своем влиянии на природу все же еще не настолько всемогуща.</segment>
+    </body>
+</rst>

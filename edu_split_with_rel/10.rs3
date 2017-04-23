@@ -1,0 +1,115 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Как сообщили «Ведомости»,</segment>
+		<segment id="2" relname="antithesis">правительство внесло в Госдуму пакет поправок в законодательство по помощи регионам в связи с потерями,</segment>
+		<segment id="3" parent="2" relname="elaboration">которые они несут из-за кризиса.</segment>
+		<segment id="4" relname="antithesis">Общая стоимость помощи — около 100 млрд рублей.</segment>
+		<segment id="5" relname="antithesis">Однако налоговые доходы регионов,</segment>
+		<segment id="6" relname="antithesis">по данным Минфина,</segment>
+		<segment id="7" relname="antithesis">могут снизиться в 2009 году на 700—800 млрд рублей.</segment>
+		<segment id="8" relname="antithesis">##### Доходы от налога на прибыль снизятся на 25—30%,</segment>
+		<segment id="9" relname="antithesis">от подоходного — на 5—10%</segment>
+		<segment id="10" relname="antithesis">Еще около 100 млрд рублей регионы потеряют из-за налоговых нововведений — снижения налога на прибыль с 24 до 20%,</segment>
+		<segment id="11" relname="antithesis">увеличения предельной амортизационной премии с 10 до 30% (по 3—7-й амортизационным группам) и имущественного вычета при покупке квартиры с 1 млн до 2 млн рублей.</segment>
+		<segment id="12" relname="antithesis">##### Поправки передают регионам 0,5% налога на прибыль</segment>
+		<segment id="13" relname="antithesis">их доля вырастет с 17,5 до 18%)</segment>
+		<segment id="14" relname="antithesis">и 100% акцизов на горюче-смазочные материалы (сейчас — 60%).</segment>
+		<segment id="15" relname="antithesis">Это пополнит региональные бюджеты на 43,1 млрд и 59,4 млрд рублей соответственно,</segment>
+		<segment id="16" relname="antithesis">говорится в пояснительной записке к законопроекту.</segment>
+		<segment id="17" relname="antithesis">##### Губернатор Пермского края Олег Чиркунов поддерживает передачу налогов,</segment>
+		<segment id="18" relname="antithesis">«но этих средств не хватит для восстановления предкризисного уровня».</segment>
+		<segment id="19" relname="antithesis">Бюджет края на следующий год уже пересмотрен,</segment>
+		<segment id="20" relname="antithesis">отметил Чиркунов:</segment>
+		<segment id="21" relname="antithesis">доходная часть снижена на 35%,</segment>
+		<segment id="22" relname="antithesis">половина этой суммы выпадает из-за снижения поступлений налога на прибыль.</segment>
+		<segment id="23" relname="antithesis">##### Директор Института региональных финансов Булат Столяров допускает,</segment>
+		<segment id="24" relname="antithesis">что выпадающие доходы регионов могут достигнуть 1,5 трлн рублей.</segment>
+		<segment id="25" relname="antithesis">В следующем году у предприятий прибыли почти не будет,</segment>
+		<segment id="26" relname="antithesis">говорит он,</segment>
+		<segment id="27" relname="antithesis">стоило бы передать регионам часть НДС, а не налога на прибыль.</segment>
+		<segment id="28" relname="antithesis">##### Кроме того, в ближайшее время будут подготовлены поправки в Бюджетный кодекс,</segment>
+		<segment id="29" relname="antithesis">разрешающие регионам предоставлять гарантии по банковским кредитам в размере 50—</segment>
+		<segment id="30" relname="antithesis">0%,</segment>
+		<segment id="31" relname="antithesis">рассказал вице-премьер Алексей Кудрин.</segment>
+		<segment id="32" relname="antithesis">##### Однако реальная глубина кризиса,</segment>
+		<segment id="33" relname="antithesis">охватившего российские промышленные районы,</segment>
+		<segment id="34" relname="antithesis">непонятна до конца и правительству.</segment>
+		<segment id="35" relname="antithesis">Екатеринбургский сайт "Английское название" публикует сенсационные материалы о ситуации на уральских предприятиях,</segment>
+		<segment id="36" relname="antithesis">составленные профсоюзными организациями.</segment>
+		<segment id="37" relname="antithesis">Из них следует,</segment>
+		<segment id="38" relname="antithesis">что кризис ударил Свердловскую область под дых.</segment>
+		<segment id="39" relname="antithesis">##### Уже сейчас на предприятиях Среднего Урала тяжелейшая ситуация, но в январе всё будет еще хуже</segment>
+		<segment id="40" relname="antithesis">большинство заводов-гигантов анонсируют новые сокращения заработной платы.</segment>
+		<segment id="41" relname="antithesis">##### До сегодняшнего дня экономический кризис на Урале не имел своего лица.</segment>
+		<segment id="42" relname="antithesis">Да,</segment>
+		<segment id="43" relname="antithesis">региональные власти раньше федеральных признали серьезные проблемы на заводах,</segment>
+		<segment id="44" relname="antithesis">но иначе и быть не могло — свердловское правительство физически ближе к директорам предприятий и рабочим металлургических предприятий,</segment>
+		<segment id="45" relname="antithesis">моментально почувствовавшим неладное.</segment>
+		<segment id="46" relname="antithesis">Впрочем, даже в этой ситуации уральские политики старались сохранить лицо,</segment>
+		<segment id="47" relname="antithesis">советуя перетерпеть</segment>
+		<segment id="48" relname="antithesis">переждать.</segment>
+		<segment id="49" relname="antithesis">С таким подходом общей картины кризиса не было ни у кого: вот проблемы в банках,</segment>
+		<segment id="50" relname="antithesis">вот на УГМК продлили ноябрьские праздники,</segment>
+		<segment id="51" relname="antithesis">но в целом всё отлично и якобы все сокращения касаются только управленцев,</segment>
+		<segment id="52" relname="antithesis">простые люди не страдают.</segment>
+		<segment id="53" relname="antithesis">##### Но теперь ситуация иная.</segment>
+		<segment id="54" relname="antithesis">В распоряжении "Английское название" оказалась сводная информация,</segment>
+		<segment id="55" relname="antithesis">подготовленная Федерацией профсоюзов Свердловской области по данным членских организаций.</segment>
+		<segment id="56" relname="antithesis">Это значит,</segment>
+		<segment id="57" relname="antithesis">что ячейки ФПСО отзвонились в Екатеринбург</segment>
+		<segment id="58" relname="antithesis">рассказали руководству региональной федерации,</segment>
+		<segment id="59" relname="antithesis">что происходит на местах.</segment>
+		<segment id="60" relname="antithesis">В той информации,</segment>
+		<segment id="61" parent="60" relname="elaboration">которой мы обладаем,</segment>
+		<segment id="62" relname="antithesis">описана ситуация на 46 заводах,</segment>
+		<segment id="63" relname="antithesis">но в нее попали и самые крупные предприятия (НТМК, Уралмашзавод и т.д.).</segment>
+		<segment id="64" relname="antithesis">##### Главный вывод — ситуация критическая.</segment>
+		<segment id="65" relname="antithesis">На 12 предприятиях (25%) уже появилась задолженность по заработной плате,</segment>
+		<segment id="66" relname="antithesis">на 13 либо уже проведены,</segment>
+		<segment id="67" relname="antithesis">либо в январе-феврале 2009 года начнутся сокращения рабочих.</segment>
+		<segment id="68" relname="antithesis">Лишь единицы заводов не изменили графика работы,</segment>
+		<segment id="69" relname="antithesis">большинство же сократили и рабочую неделю, и рабочий день.</segment>
+		<segment id="70" relname="antithesis">Профсоюзы отмечают и нарушения:</segment>
+		<segment id="71" relname="antithesis">«Фанком» сократил раздел коллективного договора «Социальные гарантии»,</segment>
+		<segment id="72" relname="antithesis">Уральская гидрогеологическая экспедиция не согласовала приказ об изменении режима рабочего времени с профкомом,</segment>
+		<segment id="73" relname="antithesis">на Буланашском машзаводе 51 человек уволен якобы по собственному желанию».</segment>
+		<segment id="74" relname="antithesis">##### Но самое неприятное впереди</segment>
+		<segment id="75" relname="antithesis">с января предприятия-гиганты обещают сократить средний размер заработной платы.</segment>
+		<segment id="76" relname="antithesis">Где-то (СУМЗ) на 27%, где-то на 90% (СинТЗ).</segment>
+		<segment id="77" relname="antithesis">Не будем обобщать</segment>
+		<segment id="78" relname="antithesis">данные по самым большим заводам и случаи наибольшего сокращения указаны в приведенной ниже таблице.</segment>
+		<segment id="79" relname="antithesis">Сделать выводы и прогнозы каждый сможет самостоятельно.</segment>
+    </body>
+</rst>

@@ -1,0 +1,197 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### В России бизнес на протяжении многих лет поставлен в экстремальные условия</segment>
+		<segment id="2" relname="antithesis">всем собственникам бизнеса приходится в них работать.</segment>
+		<segment id="3" relname="antithesis">Поэтому не удивительно,</segment>
+		<segment id="4" relname="antithesis">что за прошедшие годы реформ и наших тренировок выживания в этих условиях, в бизнесе сформировались свои, российские, принципы управления.</segment>
+		<segment id="5" relname="antithesis">Но время идет,</segment>
+		<segment id="6" relname="antithesis">а способы решения проблем остаются на уровне середины 90-х годов:</segment>
+		<segment id="7" relname="antithesis">все хочется верить в то,</segment>
+		<segment id="8" relname="antithesis">что достаточно собрать акционеров,</segment>
+		<segment id="9" relname="antithesis">заслушать управляющих менеджеров</segment>
+		<segment id="10" relname="antithesis">принять решение по очередной проблеме.</segment>
+		<segment id="11" relname="antithesis">Рынок же,</segment>
+		<segment id="12" relname="antithesis">кроме внутренней проработки проблем требует сил и средств для разведки, сбора и обработки многочисленных источников внешней информации.</segment>
+		<segment id="13" relname="antithesis">##### Книг, статей написано много,</segment>
+		<segment id="14" relname="antithesis">в одной терминологии запутаться можно: конкурентная разведка, промышленный шпионаж, маркетинговая разведка,</segment>
+		<segment id="15" relname="antithesis">украинским соседям понравилось английское слово "бенчмаркинг".</segment>
+		<segment id="16" relname="antithesis">Попробуем расшифровать,</segment>
+		<segment id="17" relname="antithesis">что все это значит и,</segment>
+		<segment id="18" relname="antithesis">возможно, бизнесу не надо прибегать к этим премудростям,</segment>
+		<segment id="19" relname="antithesis">жилось ведь</segment>
+		<segment id="20" relname="antithesis">без этого хорошо.</segment>
+		<segment id="21" relname="antithesis">##### Начнем с промышленного шпионажа.</segment>
+		<segment id="22" relname="antithesis">Что такое "промышленный"</segment>
+		<segment id="23" relname="antithesis">это понятно,</segment>
+		<segment id="24" relname="antithesis">а вот "шпионаж"?</segment>
+		<segment id="25" relname="antithesis">Дело в том,</segment>
+		<segment id="26" relname="antithesis">что шпионаж предполагает передачу, похищение или сбор с целью передачи иностранному государству, или его агентуре, сведений,</segment>
+		<segment id="27" relname="antithesis">составляющих государственную или военную тайну,</segment>
+		<segment id="28" relname="antithesis">поэтому промышленным шпионажем должны заниматься соответствующие органы,</segment>
+		<segment id="29" relname="antithesis">уполномоченные на это государством.</segment>
+		<segment id="30" relname="antithesis">##### Маркетинговая разведка - понятие очень широкое, слово "маркетинг" подразумевает не только изучение конкурентов, но и продвижение продукта, ценообразование, рекламу,</segment>
+		<segment id="31" relname="antithesis">начиная с начальной стадии существования продукта до его продажи.</segment>
+		<segment id="32" relname="antithesis">##### "Бенчмаркинг" (benchmarking) в переводе с английского языка подразумевает сравнение эффективности системы, числа,</segment>
+		<segment id="33" relname="antithesis">с каким-то установленным,</segment>
+		<segment id="34" relname="antithesis">принятым значением.</segment>
+		<segment id="35" relname="antithesis">##### Конкурентная разведка</segment>
+		<segment id="36" relname="antithesis">это узкое направление,</segment>
+		<segment id="37" parent="36" relname="elaboration">которое должно отвечать основной цели -- построению системы борьбы с конкурентами, т.е. создания комплекса мероприятий по получению и обработке данных о конкуренте: имущественных, финансовых и управленческих ресурсах, возможностях и уязвимости, а также о ближайших и стратегических планах.</segment>
+		<segment id="38" relname="antithesis">##### Такие данные можно добывать штатными силами и средствами,</segment>
+		<segment id="39" relname="antithesis">либо получать от компаний,</segment>
+		<segment id="40" parent="39" relname="elaboration">которые работают в этом направлении.</segment>
+		<segment id="41" relname="antithesis">Главное одно:</segment>
+		<segment id="42" parent="41" relname="purpose">чтобы сведения были достоверными.</segment>
+		<segment id="43" relname="antithesis">Получить же достоверную информацию о работе предприятий из финансовой отчетности невозможно и статистика Госкомстата, Таможенного комитета подходит лишь для выявления изменений в динамике рынков.</segment>
+		<segment id="44" relname="antithesis">##### Крупному бизнесу проще, он имеет возможность содержать большие информационно-аналитические отделы для проведения разведки,</segment>
+		<segment id="45" relname="antithesis">а вот средний и малый такой возможности лишен,</segment>
+		<segment id="46" relname="antithesis">нет денег.</segment>
+		<segment id="47" relname="antithesis">Но,</segment>
+		<segment id="48" relname="antithesis">оказывается, дело не только в недостатке финансов на проведение такой работы,</segment>
+		<segment id="49" relname="antithesis">а,</segment>
+		<segment id="50" relname="antithesis">в большинстве случаев, в оценке видения развития бизнеса.</segment>
+		<segment id="51" relname="antithesis">Причины здесь такие.</segment>
+		<segment id="52" relname="antithesis">##### Причина первая - переоценка собственного опыта.</segment>
+		<segment id="53" relname="antithesis">Удачно складывающаяся обстановка в предыдущие годы на незаполненных рынках,</segment>
+		<segment id="54" relname="antithesis">быстрое развитие, большие прибыли стали нормой.</segment>
+		<segment id="55" relname="antithesis">Например, в 90-е годы, торговый бизнес можно было начинать,</segment>
+		<segment id="56" relname="antithesis">продавая любой зарубежный товар в России,</segment>
+		<segment id="57" relname="antithesis">при этом получать неплохую прибыль.</segment>
+		<segment id="58" relname="antithesis">Да и кризис 1998 года помог удалить с российского рынка зарубежных производителей-конкурентов.</segment>
+		<segment id="59" relname="antithesis">Поэтому,</segment>
+		<segment id="60" relname="antithesis">для бизнесменов значимость собственного опыта в бизнесе в большинстве случаев становится определяющей.</segment>
+		<segment id="61" relname="antithesis">##### Вторая причина - завышенная оценка знания рынка.</segment>
+		<segment id="62" parent="63" relname="attribution">По практике работы с фирмами можно сказать,</segment>
+		<segment id="63" relname="antithesis">что ошибка в оценке объемов рынков составляет от 20 до 50%.</segment>
+		<segment id="64" relname="antithesis">Знания о конкурентах чаще всего фирмы получают из СМИ,</segment>
+		<segment id="65" relname="antithesis">на выставках,</segment>
+		<segment id="66" relname="antithesis">через дилеров,</segment>
+		<segment id="67" relname="antithesis">а такие сведения иногда бывают достаточно противоречивыми.</segment>
+		<segment id="68" relname="antithesis">Один из дилеров на рынке строительных материалов,</segment>
+		<segment id="69" relname="antithesis">например, в доверительной беседе,</segment>
+		<segment id="70" relname="antithesis">говоря об объеме продаваемого товара у других дилеров,</segment>
+		<segment id="71" relname="antithesis">называл цифры заниженные в разы,</segment>
+		<segment id="72" relname="antithesis">при этом еще давал неверную информацию по логистике.</segment>
+		<segment id="73" relname="antithesis">Одновременно,</segment>
+		<segment id="74" relname="antithesis">другой дилер,</segment>
+		<segment id="75" relname="antithesis">на том же рынке, говоря о тех же объемах продаж давал прямо противоположную информацию.</segment>
+		<segment id="76" relname="antithesis">При этом один и другой искренне верили в правильность сведений,</segment>
+		<segment id="77" parent="76" relname="elaboration">которыми располагали.</segment>
+		<segment id="78" parent="79" relname="attribution">Читатель скажет,</segment>
+		<segment id="79" relname="antithesis">что это вы про дилеров, вот собственникам бизнеса всё известно.</segment>
+		<segment id="80" relname="antithesis">Хочу разочаровать читателя,</segment>
+		<segment id="81" relname="antithesis">собственникам бизнеса информация о конкуренте известна в исключительно редких случаях,</segment>
+		<segment id="82" relname="antithesis">потому что она устаревает практически еженедельно.</segment>
+		<segment id="83" relname="antithesis">Один собственник крупного торгового бизнеса стучал по столу</segment>
+		<segment id="84" relname="antithesis">со словами "у меня вся таможня подкуплена",</segment>
+		<segment id="85" relname="antithesis">пытался доказать правильность его сведений по импорту.</segment>
+		<segment id="86" relname="antithesis">К сожалению, оказался неправ.</segment>
+		<segment id="87" relname="antithesis">##### Третья причина вызвана предыдущими двумя</segment>
+		<segment id="88" relname="antithesis">выражается в нежелании платить высокую цену за информацию.</segment>
+		<segment id="89" relname="antithesis">Казалось бы, простая арифметика - при годовом обороте в $3 млн. в бюджете на поиск информации необходимо выделять примерно $10 тыс., а при годовом обороте $30 млн. -- 30-100 тыс.</segment>
+		<segment id="90" relname="antithesis">Соберет информацию фирма своими силами или пригласит внешнюю помощь</segment>
+		<segment id="91" relname="antithesis">это другой вопрос.</segment>
+		<segment id="92" relname="antithesis">Главное, что такие цифры вызывают удивление: "Зачем?</segment>
+		<segment id="93" relname="antithesis">Затраты на рекламу</segment>
+		<segment id="94" relname="antithesis">понятно, а за информацию</segment>
+		<segment id="95" relname="antithesis">не понятно.</segment>
+		<segment id="96" relname="antithesis">Ответ здесь такой: российский рынок очень медленно,</segment>
+		<segment id="97" relname="antithesis">но несомненно входит в период,</segment>
+		<segment id="98" parent="97" relname="elaboration">который характеризуется наступлением и действием рыночных законов:</segment>
+		<segment id="99" relname="antithesis">концентрация продавцов на рынке увеличивается,</segment>
+		<segment id="100" relname="antithesis">рыночные барьеры входа растут,</segment>
+		<segment id="101" relname="antithesis">конкурентная борьба усиливается,</segment>
+		<segment id="102" relname="antithesis">а прибыль уже не может составлять 300-1000 % в год,</segment>
+		<segment id="103" relname="antithesis">хотя кое-где еще</segment>
+		<segment id="104" relname="antithesis">сохраняется.</segment>
+		<segment id="105" relname="antithesis">##### Четвертая причина</segment>
+		<segment id="106" relname="antithesis">это причина,</segment>
+		<segment id="107" parent="106" relname="elaboration">которую я бы назвала "молодостью управления",</segment>
+		<segment id="108" relname="antithesis">и которая не зависит от стажа управления бизнесом,</segment>
+		<segment id="109" relname="antithesis">-- нежелание терять время на исследование.</segment>
+		<segment id="110" relname="antithesis">Приходит в голову идея,</segment>
+		<segment id="111" relname="antithesis">есть деньги для ее реализации,</segment>
+		<segment id="112" relname="antithesis">почему бы не попробовать</segment>
+		<segment id="113" relname="antithesis">побыстрее ее осуществить,</segment>
+		<segment id="114" relname="antithesis">а то вдруг конкурент появится.</segment>
+		<segment id="115" relname="antithesis">А может эту идею не в данный момент,</segment>
+		<segment id="116" relname="antithesis">а именно через год запускать надо?</segment>
+		<segment id="117" relname="antithesis">На такие рассуждения и обоснование идеи бизнесмен уже не хочет тратить время.</segment>
+		<segment id="118" relname="antithesis">Риск,</segment>
+		<segment id="119" relname="antithesis">конечно, дело хорошее,</segment>
+		<segment id="120" relname="antithesis">куда без него.</segment>
+		<segment id="121" relname="antithesis">Но риск риску рознь.</segment>
+		<segment id="122" relname="antithesis">Хорошая идея должна не только "родиться",</segment>
+		<segment id="123" relname="antithesis">но и "стать на ноги",</segment>
+		<segment id="124" parent="123" relname="purpose">чтобы сразу "делать уверенные шаги",</segment>
+		<segment id="125" relname="antithesis">а на это необходимо время.</segment>
+		<segment id="126" relname="antithesis">##### Методов конкурентной разведки очень много.</segment>
+		<segment id="127" relname="antithesis">На такие исследования иногда уходит месяц, иногда год и более.</segment>
+		<segment id="128" relname="antithesis">Для человека,</segment>
+		<segment id="129" parent="128" relname="elaboration">который не знаком с такими методами,</segment>
+		<segment id="130" relname="antithesis">методы разведки представляются как запрещенные: взлом компьютера, "прослушка", подкуп сотрудников.</segment>
+		<segment id="131" relname="antithesis">Это не так.</segment>
+		<segment id="132" relname="antithesis">Основные методы основаны на логике и сборе легальной информации.</segment>
+		<segment id="133" relname="antithesis">А вот методы сбора отличаются кардинально:</segment>
+		<segment id="134" relname="antithesis">это и беседы с сотрудниками фирмы конкурента (темы любые: о погоде, об учебе и заодно о товаре), беседа по телефону с менеджерами</segment>
+		<segment id="135" relname="antithesis">в большинстве случаев при правильной беседе можно узнать сразу половину всей интересующей информации, это резюме сотрудников,</segment>
+		<segment id="136" parent="135" relname="elaboration">в которых они могут раскрыть часть информации,</segment>
+		<segment id="137" parent="136" relname="purpose">чтобы понравиться новому работодателю,</segment>
+		<segment id="138" relname="antithesis">это интернет,</segment>
+		<segment id="139" parent="138" relname="elaboration">в котором те же менеджеры проводят часы в форумах,</segment>
+		<segment id="140" relname="antithesis">это и черновики,</segment>
+		<segment id="141" parent="140" relname="elaboration">которые сотнями удаляются из офисов.</segment>
+		<segment id="142" relname="antithesis">Часть методов основана на наблюдении,</segment>
+		<segment id="143" parent="142" relname="elaboration">которое в исследовании конкурентов применяется широко.</segment>
+		<segment id="144" relname="antithesis">##### Для проверки достоверности собранных результатов обязательно необходимо провести встречный сбор информации.</segment>
+		<segment id="145" relname="antithesis">Например, для определения реальных объемов перевозимых через таможню товаров, при помощи обработки больших объемов статистической данных,</segment>
+		<segment id="146" relname="antithesis">необходимо сформировать поправочные коэффициенты укрытия объемов товара.</segment>
+		<segment id="147" relname="antithesis">Причем они будут значительно отличаться в зависимости от рынка, от вида товара, от поставщика.</segment>
+		<segment id="148" relname="antithesis">Поэтому уже не удивительно,</segment>
+		<segment id="149" relname="antithesis">когда данные таможни не совпадают с реальными объемами перевозки в 5 и более раз.</segment>
+		<segment id="150" relname="antithesis">##### В заключение хочется сказать о потребителе,</segment>
+		<segment id="151" relname="antithesis">именно потребитель,</segment>
+		<segment id="152" parent="151" relname="elaboration">на которого</segment>
+		<segment id="153" relname="antithesis">нацелен любой бизнес,</segment>
+		<segment id="154" relname="antithesis">всегда даст уточняющую информацию по конкурентам.</segment>
+		<segment id="155" relname="antithesis">И здесь,</segment>
+		<segment id="156" relname="antithesis">к великой радости,</segment>
+		<segment id="157" relname="antithesis">можно создавать новые методы исследований,</segment>
+		<segment id="158" relname="antithesis">потому что потребителя ни один собственник бизнеса не может спрятать,</segment>
+		<segment id="159" relname="antithesis">он у всех на виду.</segment>
+		<segment id="160" relname="antithesis">Поэтому информация от потребителя завершит круг сбора информации,</segment>
+		<segment id="161" relname="antithesis">а при умелом использовании всех собранных данных можно выйти на реальную стоимость бизнеса конкурента, на инвестиции вложенные в его бизнес, на организационную структуру фирмы, на ежедневный доход конкурента и многое другое.</segment>
+    </body>
+</rst>

@@ -1,0 +1,265 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Ядерное оружие утрачивает своё военное и политическое значение.</segment>
+		<segment id="2" relname="antithesis">Сегодня нужнее всего оно КНДР и России.</segment>
+		<segment id="3" relname="antithesis">Увы, Россия оказалась в такой ситуации,</segment>
+		<segment id="4" relname="antithesis">когда ядерное оружие ей крайне необходимо,</segment>
+		<segment id="5" relname="antithesis">но применить его она не сможет ни при каких обстоятельствах.</segment>
+		<segment id="6" relname="antithesis">##### Неоднократно звучавшие в последнее время заявления президента США Барака Обамы о том,</segment>
+		<segment id="7" relname="antithesis">что его целью является всемирное полное ядерное разоружение,</segment>
+		<segment id="8" relname="antithesis">возрождают несколько забытый вопрос о реальной роли ядерного оружия в современном мире.</segment>
+		<segment id="9" relname="antithesis">##### В общем, давно уже ясно,</segment>
+		<segment id="10" relname="antithesis">что роль эта не военная, а политическая.</segment>
+		<segment id="11" relname="antithesis">Последствия даже ограниченного применения ядерного оружия настолько фатальны,</segment>
+		<segment id="12" relname="antithesis">что делают это применение невозможным, все его узкие военные выгоды нивелируются гуманитарной и экологической катастрофой.</segment>
+		<segment id="13" relname="antithesis">Соответственно, возможность использования ядерного оружия в бою постепенно перестала рассматриваться всерьёз.</segment>
+		<segment id="14" relname="antithesis">Из-за чего понемногу стала размываться и его политическая роль.</segment>
+		<segment id="15" relname="antithesis">И всё более создаётся впечатление,</segment>
+		<segment id="16" relname="antithesis">что ядерное оружие полностью утратило смысл.</segment>
+		<segment id="17" relname="antithesis">##### Данное впечатление усиливается фактом быстрого развития высокоточного оружия,</segment>
+		<segment id="18" parent="17" relname="elaboration">которое позволяет решить большинство задач,</segment>
+		<segment id="19" relname="antithesis">ранее возлагавшихся на ядерное оружие,</segment>
+		<segment id="20" relname="antithesis">только без гуманитарной и экологической катастроф и даже без тех потерь,</segment>
+		<segment id="21" parent="20" relname="elaboration">которыми сопровождалось в последние десятилетия применение обычного оружия.</segment>
+		<segment id="22" relname="antithesis">Правда, проблема в том,</segment>
+		<segment id="23" relname="antithesis">что в развитии ВТО впереди планеты всей, включая даже собственных союзников по НАТО,</segment>
+		<segment id="24" relname="antithesis">находятся США.</segment>
+		<segment id="25" relname="antithesis">Для них, по сути, ядерное оружие уже морально устарело.</segment>
+		<segment id="26" relname="antithesis">Отсюда и естественное желание от него избавиться.</segment>
+		<segment id="27" relname="antithesis">Ведь только ядерное оружие представляет собой сегодня угрозу для территории США.</segment>
+		<segment id="28" relname="antithesis">Исчезни оно</segment>
+		<segment id="29" relname="antithesis">и Штаты станут неуязвимыми.</segment>
+		<segment id="30" relname="antithesis">И практически непобедимыми.</segment>
+		<segment id="31" relname="antithesis">##### Совершенно утратило смысл ядерное оружие для Великобритании и Франции.</segment>
+		<segment id="32" relname="antithesis">На эти страны некому нападать, соответственно, нет страны или группы стран,</segment>
+		<segment id="33" relname="antithesis">в отношении которых надо осуществлять ядерное сдерживание.</segment>
+		<segment id="34" relname="antithesis">Совершенно невозможно представить,</segment>
+		<segment id="35" parent="34" relname="purpose">чтобы англичане или французы нанесли бы по кому-то ядерный удар первыми.</segment>
+		<segment id="36" relname="antithesis">Кроме того, по крайней мере Великобритания прикрыта американским «ядерным зонтиком».</segment>
+		<segment id="37" relname="antithesis">Поэтому она вполне может добровольно отказаться от ядерного оружия.</segment>
+		<segment id="38" relname="antithesis">Париж же будет держаться за ненужную ядерную дубинку исключительно по соображениям статуса и престижа,</segment>
+		<segment id="39" relname="antithesis">демонстрируя свою несомненную принадлежность к «клубу великих и независимых».</segment>
+		<segment id="40" relname="antithesis">Причём независимость свою Франция демонстрирует в первую очередь американцам.</segment>
+		<segment id="41" relname="antithesis">Но в любом случае европейцы ядерное оружие не применят никогда.</segment>
+		<segment id="42" relname="antithesis">##### На другом полюсе — Индия и Пакистан,</segment>
+		<segment id="43" relname="antithesis">находящиеся в состоянии перманентной конфронтации</segment>
+		<segment id="44" relname="antithesis">создавшие ядерное оружие</segment>
+		<segment id="45" relname="antithesis">первую очередь для сдерживания друг друга (Индии,</segment>
+		<segment id="46" relname="antithesis">впрочем, надо сдерживать ещё и Китай)</segment>
+		<segment id="47" relname="antithesis">то есть для целей абсолютно практических.</segment>
+		<segment id="48" relname="antithesis">Кажется, что именно со стороны этих стран применение ядерного оружия наиболее реально.</segment>
+		<segment id="49" relname="antithesis">Впрочем, здесь ядерное сдерживание может оказаться весьма эффективным,</segment>
+		<segment id="50" relname="antithesis">предотвращая не только ядерную, но и обычную войну между странами</segment>
+		<segment id="51" relname="antithesis">потому что теперь существует вероятность эскалации обычной войны до ядерной стадии).</segment>
+		<segment id="52" relname="antithesis">##### Дело в том,</segment>
+		<segment id="53" relname="antithesis">что даже ограниченный,</segment>
+		<segment id="54" relname="antithesis">а тем более массированный ядерный удар по городам Индии и Пакистана неизбежно вызовет крупнейшую в истории человечества гуманитарную катастрофу.</segment>
+		<segment id="55" relname="antithesis">Причиной этого станет очень высокая плотность населения в обеих странах, достаточно низкий уровень медицинского обслуживания, антисанитария,</segment>
+		<segment id="56" relname="antithesis">усугубляемая жарким климатом.</segment>
+		<segment id="57" relname="antithesis">Поэтому от паники и болезней,</segment>
+		<segment id="58" parent="57" relname="elaboration">которые могут принять характер даже не эпидемий, а пандемий,</segment>
+		<segment id="59" relname="antithesis">погибнет на несколько порядков больше людей,</segment>
+		<segment id="60" relname="antithesis">чем непосредственно от воздействия ядерного оружия.</segment>
+		<segment id="61" relname="antithesis">Счёт погибших почти наверняка пойдёт на десятки (в худшем варианте — на сотни) миллионов.</segment>
+		<segment id="62" relname="antithesis">Пакистан, скорее всего, прекратит своё существование как единое государство,</segment>
+		<segment id="63" relname="antithesis">но и выживание Индии отнюдь не гарантировано.</segment>
+		<segment id="64" relname="antithesis">Стороны это прекрасно понимают.</segment>
+		<segment id="65" relname="antithesis">И потому сдерживание может сработать.</segment>
+		<segment id="66" parent="67" relname="condition">Если только к власти в Исламабаде не придут радикальные исламисты,</segment>
+		<segment id="67" parent="66" relname="elaboration">для которых никаких сдержек и ограничений не существует в принципе.</segment>
+		<segment id="68" relname="antithesis">Однако сейчас вероятность такого сценария очень невелика.</segment>
+		<segment id="69" relname="antithesis">##### Для КНДР,</segment>
+		<segment id="70" parent="69" relname="elaboration">которая, видимо, создала ядерное оружие (хотя 100-процентной уверенности в этом всё же нет),</segment>
+		<segment id="71" relname="antithesis">оно является «всем».</segment>
+		<segment id="72" relname="antithesis">Это и средство сдерживания (против США, Китая, Южной Кореи, Японии), и престиж и статус, и экспортный товар</segment>
+		<segment id="73" relname="antithesis">в косвенном смысле,</segment>
+		<segment id="74" relname="antithesis">хотя может оказаться и в прямом)</segment>
+		<segment id="75" relname="antithesis">Пожалуй, никому в мире ядерное оружие не нужно сегодня до такой степени, как Северной Корее.</segment>
+		<segment id="76" relname="antithesis">Хотя совершенно очевидно,</segment>
+		<segment id="77" relname="antithesis">что и она не имеет ни малейшего желания его применять</segment>
+		<segment id="78" relname="antithesis">может сделать это только в случае крупномасштабной внешней агрессии, перед угрозой полного поражения и захвата противником всей территории страны.</segment>
+		<segment id="79" relname="antithesis">##### Для Ирана,</segment>
+		<segment id="80" parent="79" relname="elaboration">который ядерного оружия ещё не имеет,</segment>
+		<segment id="81" relname="antithesis">но явно очень хочет,</segment>
+		<segment id="82" relname="antithesis">оно тоже станет средством сдерживания.</segment>
+		<segment id="83" relname="antithesis">Не только против США и Израиля, но и против Турции и арабских стран.</segment>
+		<segment id="84" relname="antithesis">Впрочем, если Тегеран такое оружие получит,</segment>
+		<segment id="85" relname="antithesis">то,</segment>
+		<segment id="86" relname="antithesis">в отличие от Пхеньяна,</segment>
+		<segment id="87" relname="antithesis">может использовать его для внешней экспансии.</segment>
+		<segment id="88" relname="antithesis">Нет,</segment>
+		<segment id="89" relname="antithesis">речь не идёт о том,</segment>
+		<segment id="90" relname="antithesis">что Иран начнёт ядерную войну с соседями,</segment>
+		<segment id="91" relname="antithesis">но идеи экспорта исламской революции в шиитском варианте он может начать продвигать в арабский мир гораздо активнее и жёстче,</segment>
+		<segment id="92" parent="91" relname="cause-effect">поскольку сопротивляться его соседям станет гораздо тяжелее.</segment>
+		<segment id="93" relname="antithesis">Разумеется, ядерный Иран приобретёт совсем другой статус в мире вообще и в исламском мире в особенности.</segment>
+		<segment id="94" relname="antithesis">При этом реальное применение ядерного оружия Ираном возможно только в том случае,</segment>
+		<segment id="95" relname="antithesis">что и с КНДР.</segment>
+		<segment id="96" relname="antithesis">Надо понимать,</segment>
+		<segment id="97" relname="antithesis">что ни Ким Чен Ир, ни Ахмадинежад, ни их соратники,</segment>
+		<segment id="98" relname="antithesis">вопреки распространённому мнению,</segment>
+		<segment id="99" relname="antithesis">безбашенными самоубийцами не являются.</segment>
+		<segment id="100" relname="antithesis">##### Израиль статусом явно не интересуется,</segment>
+		<segment id="101" relname="antithesis">для него ядерное оружие</segment>
+		<segment id="102" relname="antithesis">это исключительно средство сдерживания.</segment>
+		<segment id="103" relname="antithesis">На тот случай,</segment>
+		<segment id="104" parent="103" relname="condition">если великая ЦАХАЛ всё же не выдержит натиска многократно более многочисленных армий исламских стран.</segment>
+		<segment id="105" relname="antithesis">Правда, этот фактор был значим в 70—80-е годы,</segment>
+		<segment id="106" relname="antithesis">сейчас ситуация изменилась кардинально.</segment>
+		<segment id="107" relname="antithesis">Исламские соседи давно расхотели пробовать ЦАХАЛ на прочность,</segment>
+		<segment id="108" relname="antithesis">слишком дорого это обходится.</segment>
+		<segment id="109" relname="antithesis">Зато появилась исламская ядерная бомба.</segment>
+		<segment id="110" relname="antithesis">Пакистанская.</segment>
+		<segment id="111" relname="antithesis">А к ней может добавиться и иранская.</segment>
+		<segment id="112" relname="antithesis">И это,</segment>
+		<segment id="113" relname="antithesis">на самом деле, практически отменяет израильское ядерное сдерживание.</segment>
+		<segment id="114" relname="antithesis">Потому что,</segment>
+		<segment id="115" relname="antithesis">даже применив весь свой арсенал,</segment>
+		<segment id="116" relname="antithesis">Израиль может уничтожить лишь часть исламского мира.</segment>
+		<segment id="117" relname="antithesis">С другой стороны, даже незначительной части исламского ядерного арсенала вполне хватит для полного уничтожения Израиля из-за микроскопических размеров последнего.</segment>
+		<segment id="118" relname="antithesis">Соответственно, для Израиля применение ядерного оружия становится не спасением, а гарантированным самоубийством.</segment>
+		<segment id="119" relname="antithesis">##### Китаю, как и США, ядерное оружие, в общем-то, не нужно.</segment>
+		<segment id="120" relname="antithesis">По крайней мере для обороны.</segment>
+		<segment id="121" relname="antithesis">Понятно, что захватить не то что весь, но даже небольшую часть Китая невозможно.</segment>
+		<segment id="122" relname="antithesis">Обладая огромной армией и неисчерпаемыми мобилизационными ресурсами,</segment>
+		<segment id="123" relname="antithesis">эта страна в обычной войне задавит массой кого угодно.</segment>
+		<segment id="124" relname="antithesis">По той же причине и в наступательной войне НОАК может прекрасно обойтись без ядерного оружия.</segment>
+		<segment id="125" relname="antithesis">Другое дело,</segment>
+		<segment id="126" relname="antithesis">что,</segment>
+		<segment id="127" parent="126" relname="condition">если войну придётся вести против страны,</segment>
+		<segment id="128" parent="127" relname="elaboration">которая сама обладает ядерным оружием,</segment>
+		<segment id="129" relname="antithesis">у той может возникнуть соблазн применить его против «безразмерной» китайской армии.</segment>
+		<segment id="130" relname="antithesis">Собственно, это единственный вариант её эффективного сдерживания.</segment>
+		<segment id="131" relname="antithesis">Вот тут-то Китай предъявит своё ядерное оружие.</segment>
+		<segment id="132" relname="antithesis">И напомнит,</segment>
+		<segment id="133" relname="antithesis">что</segment>
+		<segment id="134" relname="antithesis">сли он обменяется с кем-то эквивалентными по мощи ядерными ударами,</segment>
+		<segment id="135" relname="antithesis">то выиграет просто</segment>
+		<segment id="136" relname="antithesis">отому, что у него в разы больше людей.</segment>
+		<segment id="137" relname="antithesis">Ну и конечно, нельзя забывать о факторах престижа и статуса,</segment>
+		<segment id="138" parent="137" relname="elaboration">которые для Китая имеют огромное значение.</segment>
+		<segment id="139" relname="antithesis">##### В самом странном положении находится сегодня Россия.</segment>
+		<segment id="140" relname="antithesis">С одной стороны, она очень напоминает КНДР в том смысле,</segment>
+		<segment id="141" relname="antithesis">что ядерное оружие — это «наше всё».</segment>
+		<segment id="142" relname="antithesis">И средство сдерживания, и престиж и статус, единственный реальный атрибут,</segment>
+		<segment id="143" relname="antithesis">позволяющий считать нас великой державой.</segment>
+		<segment id="144" relname="antithesis">С другой стороны, польза от его наличия очень сомнительна,</segment>
+		<segment id="145" parent="144" relname="cause-effect">поскольку применить его мы не сможем.</segment>
+		<segment id="146" relname="antithesis">##### Северная Корея, в принципе, никому не нужна.</segment>
+		<segment id="147" relname="antithesis">Как неуловимый Джо.</segment>
+		<segment id="148" relname="antithesis">Сейчас её никто захватывать не хочет.</segment>
+		<segment id="149" relname="antithesis">Тем более никто не будет захватывать Иран.</segment>
+		<segment id="150" relname="antithesis">А вот Россия обладает слишком большой территорией и,</segment>
+		<segment id="151" relname="antithesis">самое главное,</segment>
+		<segment id="152" relname="antithesis">слишком большими запасами природных ресурсов,</segment>
+		<segment id="153" parent="152" relname="elaboration">которыми, с одной стороны, распоряжается в высшей степени нерационально, с другой</segment>
+		<segment id="154" relname="antithesis">всех ими шантажирует,</segment>
+		<segment id="155" relname="antithesis">причём в откровенно хамском стиле.</segment>
+		<segment id="156" relname="antithesis">Поэтому,</segment>
+		<segment id="157" relname="antithesis">с точки зрения внешнего наблюдателя по крайней мере,</segment>
+		<segment id="158" relname="antithesis">отобрать у нас азиатскую часть</segment>
+		<segment id="159" relname="antithesis">где</segment>
+		<segment id="160" relname="antithesis">находятся почти все ресурсы, а плотность населения чуть ли не самая низкая в мире)</segment>
+		<segment id="161" relname="antithesis">— святое дело.</segment>
+		<segment id="162" relname="antithesis">Следовательно, нам совершенно реально есть что защищать.</segment>
+		<segment id="163" relname="antithesis">##### Ситуация ещё более усугубляется состоянием наших обычных вооружённых сил.</segment>
+		<segment id="164" relname="antithesis">Они практически прекратили своё существование.</segment>
+		<segment id="165" relname="antithesis">Нынешняя «военная реформа» добивает их окончательно и бесповоротно.</segment>
+		<segment id="166" relname="antithesis">По количеству боевых самолётов</segment>
+		<segment id="167" parent="166" relname="condition">если брать реально способные подняться в воздух машины)</segment>
+		<segment id="168" relname="antithesis">мы уже съехали во второй десяток среди ВВС мира и в ближайшее время переедем в третий.</segment>
+		<segment id="169" relname="antithesis">В случае реализации планов сокращения количества танков до 2 тысяч</segment>
+		<segment id="170" relname="antithesis">а нет оснований сомневаться в этом,</segment>
+		<segment id="171" parent="170" relname="cause-effect">поскольку данный план реализуется сам собой)</segment>
+		<segment id="172" relname="antithesis">— мы и тут окажемся во втором десятке.</segment>
+		<segment id="173" relname="antithesis">Позади,</segment>
+		<segment id="174" relname="antithesis">например, обеих Корей, Турции и Украины.</segment>
+		<segment id="175" relname="antithesis">А Китай и США по количеству танков будут превосходить нас в 4—5 раз.</segment>
+		<segment id="176" relname="antithesis">Учитывая размеры территории и транспортные проблемы,</segment>
+		<segment id="177" relname="antithesis">подобными ВС мы не сможем воевать ни с кем вообще.</segment>
+		<segment id="178" relname="antithesis">Даже со странами типа Грузии.</segment>
+		<segment id="179" relname="antithesis">Сказки о том,</segment>
+		<segment id="180" relname="antithesis">что у нас резко вырастет мобильность,</segment>
+		<segment id="181" relname="antithesis">можно оставить для дилетантов.</segment>
+		<segment id="182" relname="antithesis">Потому что совершенно непонятно,</segment>
+		<segment id="183" relname="antithesis">почему она повысится,</segment>
+		<segment id="184" relname="antithesis">каковы для этого предпосылки.</segment>
+		<segment id="185" relname="antithesis">Кроме того, мобильные силы (воздушно-десантные и воздушно-штурмовые части) могут воевать с нормальной армией,</segment>
+		<segment id="186" relname="antithesis">только если им обеспечено подавляющее превосходство в воздухе.</segment>
+		<segment id="187" relname="antithesis">Как было сказано выше,</segment>
+		<segment id="188" relname="antithesis">наша авиация уже практически умерла,</segment>
+		<segment id="189" relname="antithesis">мы ни на каком направлении не можем обеспечить не только подавляющего,</segment>
+		<segment id="190" relname="antithesis">но вообще никакого превосходства в воздухе.</segment>
+		<segment id="191" relname="antithesis">##### В условиях фактического исчезновения обычных сил ядерное оружие приобретает для нас абсолютное значение.</segment>
+		<segment id="192" relname="antithesis">Но беда в том,</segment>
+		<segment id="193" relname="antithesis">что это только кажется.</segment>
+		<segment id="194" relname="antithesis">Даже если забыть о том,</segment>
+		<segment id="195" relname="antithesis">что и ядерный арсенал у нас сокращается так же быстро, как и обычный.</segment>
+		<segment id="196" relname="antithesis">Просто его применение не представляется возможным.</segment>
+		<segment id="197" relname="antithesis">##### Обнуление наших обычных ВС в ближайшие годы сделает совершенно реальными ситуации,</segment>
+		<segment id="198" relname="antithesis">когда, например, Грузия вернёт себе Абхазию и Южную Осетию,</segment>
+		<segment id="199" relname="antithesis">а Япония захватит Южные Курилы.</segment>
+		<segment id="200" relname="antithesis">Мы ответим ядерным ударом по Тбилиси и Токио?</segment>
+		<segment id="201" relname="antithesis">Есть подозрение,</segment>
+		<segment id="202" relname="antithesis">что всё-таки нет.</segment>
+		<segment id="203" relname="antithesis">Ведь удар по безъядерным странам в ответ на захват ими совсем небольших территорий (причём в случае с Абхазией и Южной Осетией нам даже не принадлежащих)</segment>
+		<segment id="204" relname="antithesis">будет диким пещерным варварством,</segment>
+		<segment id="205" parent="204" relname="elaboration">за которое Россия справедливо заслужит статус абсолютного международного изгоя</segment>
+		<segment id="206" relname="antithesis">окажется в полной изоляции.</segment>
+		<segment id="207" relname="antithesis">Удар же по самим потерянным территориям будет варварством ничуть не меньшим.</segment>
+		<segment id="208" relname="antithesis">Тем более что тогда мы «освободим» радиоактивную пустыню.</segment>
+		<segment id="209" relname="antithesis">Соответственно, фактор ядерного сдерживания здесь просто не работает.</segment>
+		<segment id="210" relname="antithesis">##### Увы, он не работает и против США.</segment>
+		<segment id="211" relname="antithesis">Они ведь уже сегодня обладают двойным превосходством над нами в СЯС и абсолютным — в обычном высокоточном оружии,</segment>
+		<segment id="212" relname="antithesis">коим могут почти полностью нас обезоружить.</segment>
+		<segment id="213" relname="antithesis">Причём разрывы продолжают стремительно увеличиваться.</segment>
+		<segment id="214" relname="antithesis">Поэтому и здесь через несколько лет сдерживание станет фикцией,</segment>
+		<segment id="215" relname="antithesis">иллюзией. США без проблем уничтожат Россию,</segment>
+		<segment id="216" relname="antithesis">Россия утратила способность уничтожить США.</segment>
+		<segment id="217" relname="antithesis">##### И в отношении Китая складывается аналогичная ситуация. КНР (с учётом наличия БРСД,</segment>
+		<segment id="218" parent="217" relname="elaboration">которых у нас нет) быстро догоняет Россию по размерам ядерного арсенала.</segment>
+		<segment id="219" relname="antithesis">А по обычным силам просто нет возможности сравнивать. НОАК — крупнейшая армия в мире,</segment>
+		<segment id="220" relname="antithesis">а у нас скоро вообще не будет армии.</segment>
+		<segment id="221" relname="antithesis">Соответственно, Китай без проблем сможет занять нашу азиатскую часть</segment>
+		<segment id="222" relname="antithesis">это даже не будет, по сути, войной)</segment>
+		<segment id="223" relname="antithesis">А ядерную угрозу со стороны России парирует своей угрозой полного уничтожения городов европейской части (которая ему не нужна).</segment>
+		<segment id="224" relname="antithesis">Так что и здесь сдерживание оказывается, в общем, иллюзорным.</segment>
+		<segment id="225" relname="antithesis">##### Собственно, мы можем надеяться только на иррациональный страх перед «сумасшедшими русскими».</segment>
+		<segment id="226" parent="225" relname="elaboration">Которые могут нанести ядерный удар,</segment>
+		<segment id="227" relname="antithesis">даже если это усугубит их положение.</segment>
+		<segment id="228" parent="229" relname="condition">Только в совокупности с этим фактором мы пока сможем осуществлять ядерное сдерживание.</segment>
+		<segment id="229" relname="antithesis">Хотя, конечно, хотелось бы каких-то более твёрдых гарантий.</segment>
+    </body>
+</rst>

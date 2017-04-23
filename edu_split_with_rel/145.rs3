@@ -1,0 +1,62 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Фернандо Алонсо в первый раз в своей карьере пилота Формулы-1 выиграл Гран-при Монако.</segment>
+		<segment id="2" relname="antithesis">##### В конце субботней классификации Михаэль Шумахер допустил ошибку в повороте Раскассэ (La Rascasse),</segment>
+		<segment id="3" relname="antithesis">заблокировав свои колёса</segment>
+		<segment id="4" relname="antithesis">остановившись менее чем в метре от отбойников.</segment>
+		<segment id="5" relname="antithesis">Неудачно остановившаяся машина стала помехой для быстрых кругов многих гонщиков, включая Фернандо Алонсо,</segment>
+		<segment id="6" relname="antithesis">и это вызвало расследование FIA.</segment>
+		<segment id="7" relname="antithesis">Согласно официальному заявлению,</segment>
+		<segment id="8" relname="antithesis">Михаэль был наказан "за неспортивное поведение" лишением всех своих быстрых кругов и,</segment>
+		<segment id="9" relname="antithesis">таким образом, стартовал с пит-лейна с полным запасом топлива.</segment>
+		<segment id="10" relname="antithesis">Команда Феррари не подавала аппеляцию,</segment>
+		<segment id="11" parent="10" relname="cause-effect">поскольку применённая статья 112 спортивного регламента запрещает оспаривание этого решение.</segment>
+		<segment id="12" relname="antithesis">Квалификация стала одной из самых худших за всю историю команды,</segment>
+		<segment id="13" parent="12" relname="cause-effect">поскольку Фелипе Масса также был вынужден стартовать с последнего ряда стартового поля, ввиду того,</segment>
+		<segment id="14" relname="antithesis">что он разбил свою машину.</segment>
+		<segment id="15" relname="antithesis">Оба болида Феррари были выставлены с новыми моторами.</segment>
+		<segment id="16" relname="antithesis">##### Испанец провёл прекрасную гонку,</segment>
+		<segment id="17" relname="antithesis">пролидировав бо́льшую часть гонки.</segment>
+		<segment id="18" relname="antithesis">Неудача постигла обоих его преследователей - Кими Райкконена и Марка Уэббера,</segment>
+		<segment id="19" relname="antithesis">чьи моторы взорвались практически одновременно за 30 кругов до финиша.</segment>
+		<segment id="20" relname="antithesis">После этого,</segment>
+		<segment id="21" relname="antithesis">Алонсо финишировал в гордом одиночестве.</segment>
+		<segment id="22" relname="antithesis">##### С огромными отрывами на втором и третьем местах финишировали Хуану Пабло Монтойе из команды МакЛарен-Мерседес и Дэвид Култхард.</segment>
+		<segment id="23" relname="antithesis">Третье место стало первым подиумом команды Red Bull.</segment>
+		<segment id="24" relname="antithesis">##### На церемонии награждения призёры не стали принимать традиционный "душ" из шампанского,</segment>
+		<segment id="25" relname="antithesis">отдавая дань погибшему Эдуард Мишлен, одному из президентов группы компаний Michelin,</segment>
+		<segment id="26" relname="antithesis">в составе которой и поставщик шин для Формулы-1, погибшему за два дня до гонки.</segment>
+    </body>
+</rst>

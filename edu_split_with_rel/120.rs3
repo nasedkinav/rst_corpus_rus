@@ -1,0 +1,197 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### 17 февраля 1810 года, император Александр I издал манифест о присоединении Абхазского княжества к Российской империи.</segment>
+		<segment id="2" relname="antithesis">##### Присягая на верность Александру I,</segment>
+		<segment id="3" relname="antithesis">абхазский владетельный князь Георгий из рода Чачба</segment>
+		<segment id="4" relname="antithesis">носивший также грузинскую фамилию Шервашидзе)</segment>
+		<segment id="5" relname="antithesis">надеялся защитить свой народ от Османской Турции.</segment>
+		<segment id="6" relname="antithesis">##### И он не обманулся в своих ожиданиях.</segment>
+		<segment id="7" relname="antithesis">##### Русские войска изгнали турок из Сухума,</segment>
+		<segment id="8" relname="antithesis">и в течение нескольких десятилетий Абхазия жила в условиях относительного благополучия.</segment>
+		<segment id="9" relname="antithesis">##### Князь Михаил Георгиевич Чачба-Шервашидзе,</segment>
+		<segment id="10" relname="antithesis">продолжая дело отца,</segment>
+		<segment id="11" relname="antithesis">оказывал немаловажные услуги имперским наместникам в период затяжной Кавказской войны.</segment>
+		<segment id="12" relname="antithesis">Но война отгремела,</segment>
+		<segment id="13" relname="antithesis">немирные горцы усмирились,</segment>
+		<segment id="14" relname="antithesis">неукротимый Шамиль стал уважаемым пенсионером императорской казны.</segment>
+		<segment id="15" relname="antithesis">##### Начиналась эпоха великих реформ.</segment>
+		<segment id="16" relname="antithesis">##### Русских крестьян освободили от помещиков-крепостников.</segment>
+		<segment id="17" relname="antithesis">Грузинских крестьян в Мингрелии освободили из-под власти княжеского семейства Дадиани,</segment>
+		<segment id="18" relname="antithesis">разорявшего подданных немереными поборами.</segment>
+		<segment id="19" relname="antithesis">##### В 1864 году и для Абхазии подошла очередь реформироваться по общеимперским стандартам.</segment>
+		<segment id="20" relname="antithesis">Князь Михаил безропотно отдал власть,</segment>
+		<segment id="21" relname="antithesis">но попытался самовольно отъехать за границу.</segment>
+		<segment id="22" relname="antithesis">За это его отправили в Воронеж, фактически в ссылку.</segment>
+		<segment id="23" relname="antithesis">Там он</segment>
+		<segment id="24" relname="antithesis">скончался в 1866 году.</segment>
+		<segment id="25" relname="antithesis">##### Его похороны в Абхазии дали толчок к народному возмущению,</segment>
+		<segment id="26" parent="25" relname="elaboration">которое царские чиновники назвали «странным».</segment>
+		<segment id="27" relname="antithesis">Они не могли понять,</segment>
+		<segment id="28" relname="antithesis">что для абхазов покойный владетельный князь был не барином-феодалом, а естественным лидером нации, символом древней абхазской государственности.</segment>
+		<segment id="29" relname="antithesis">##### Беспорядки подавили,</segment>
+		<segment id="30" relname="antithesis">а упразднённое княжество включили в состав Кутаисской губернии.</segment>
+		<segment id="31" relname="antithesis">Это административное решение,</segment>
+		<segment id="32" relname="antithesis">продвинутое второстепенными чиновниками Кавказского наместничества по соображениям бюрократической целесообразности,</segment>
+		<segment id="33" relname="antithesis">повлекло за собой цепь трагических последствий для абхазского народа,</segment>
+		<segment id="34" relname="antithesis">превратившегося со временем в этническое меньшинство на исконной земле своего обитания.</segment>
+		<segment id="35" relname="antithesis">##### Оказавшись на крайней черте,</segment>
+		<segment id="36" relname="antithesis">у провала в политическое небытие, Абхазия невероятными усилиями вернула себе независимый статус,</segment>
+		<segment id="37" relname="antithesis">воспользовавшись окном возможностей,</segment>
+		<segment id="38" relname="antithesis">приоткрывшимся в момент распада СССР.</segment>
+		<segment id="39" relname="antithesis">##### Современные российские правители могут гордиться:</segment>
+		<segment id="40" relname="antithesis">они помогли чудесному возрождению абхазской государственности,</segment>
+		<segment id="41" relname="antithesis">признали в августе 2008 года независимость Абхазии и тем самым в какой-то мере исправили то,</segment>
+		<segment id="42" relname="antithesis">что натворили их дореволюционные предшественники.</segment>
+		<segment id="43" relname="antithesis">##### История вопроса.</segment>
+		<segment id="44" relname="antithesis">##### Абхазия,</segment>
+		<segment id="45" relname="antithesis">обладавшая собственной государственностью с античных времён,</segment>
+		<segment id="46" relname="antithesis">сыграла немаловажную роль в средневековой грузинской истории.</segment>
+		<segment id="47" relname="antithesis">##### В VIII—X веках Абхазское княжество,</segment>
+		<segment id="48" relname="antithesis">отбившееся от нашествия арабов,</segment>
+		<segment id="49" relname="antithesis">стало центром,</segment>
+		<segment id="50" relname="antithesis">вокруг которого объединялись соседние грузинские земли.</segment>
+		<segment id="51" relname="antithesis">Постепенно из этого центра выросло блестящее Грузинское царство во главе с династией Багратидов,</segment>
+		<segment id="52" relname="antithesis">имевшей абхазские (а также армянские) корни.</segment>
+		<segment id="53" relname="antithesis">##### Абхазия в ту пору находилась под чарующим влиянием средневековой грузинской культуры,</segment>
+		<segment id="54" relname="antithesis">переживавшей период пышного цветения.</segment>
+		<segment id="55" relname="antithesis">Но грузинами абхазы не стали,</segment>
+		<segment id="56" relname="antithesis">они сохранили самобытный общественный уклад и свой язык.</segment>
+		<segment id="57" relname="antithesis">##### В XV веке,</segment>
+		<segment id="58" relname="antithesis">после распада державы Багратидов,</segment>
+		<segment id="59" relname="antithesis">Абхазия вернулась к исходному независимому статусу,</segment>
+		<segment id="60" relname="antithesis">но в XVI веке оказалась под властью Османской империи.</segment>
+		<segment id="61" relname="antithesis">А затем,</segment>
+		<segment id="62" relname="antithesis">воспользовавшись покровительством русского царя,</segment>
+		<segment id="63" relname="antithesis">освободилась из-под турецкого ига.</segment>
+		<segment id="64" relname="antithesis">##### Указанные факты, общеизвестные и в достаточной мере документированные,</segment>
+		<segment id="65" relname="antithesis">достойны упоминания хотя бы</segment>
+		<segment id="66" relname="antithesis">отому, что они решительно отвергаются многими грузинскими историками и публицистами,</segment>
+		<segment id="67" relname="antithesis">старающимися на разные лады доказать,</segment>
+		<segment id="68" relname="antithesis">что не абхазы,</segment>
+		<segment id="69" relname="antithesis">а грузины населяли Абхазию в древности</segment>
+		<segment id="70" relname="antithesis">заложили на абхазской земле первые камни в фундамент будущего царства Тамары Великой.</segment>
+		<segment id="71" relname="antithesis">Такая виртуальная аннексия исторических достижений абхазского народа вполне соотносится с попытками отнять у абхазов право распоряжаться собственной страной.</segment>
+		<segment id="72" relname="antithesis">##### Бедствия,</segment>
+		<segment id="73" relname="antithesis">постигшие Абхазию после 1864 года,</segment>
+		<segment id="74" relname="antithesis">не оставили равнодушными лидеров прогрессивной грузинской общественности.</segment>
+		<segment id="75" relname="antithesis">Властители дум народных призвали тогда грузин занимать абхазские земли,</segment>
+		<segment id="76" relname="antithesis">освобождавшиеся от коренных жителей,</segment>
+		<segment id="77" relname="antithesis">уходивших в изгнание после массовых волнений и карательных акций царских властей.</segment>
+		<segment id="78" relname="antithesis">##### Переселенцы из Грузии в ту пору ещё признавали,</segment>
+		<segment id="79" relname="antithesis">что селятся на земле абхазов,</segment>
+		<segment id="80" relname="antithesis">и вражды между двумя народами не было.</segment>
+		<segment id="81" relname="antithesis">##### Вожди Грузинской Демократической Республики,</segment>
+		<segment id="82" relname="antithesis">оккупировавшей Абхазию в 1918—</segment>
+		<segment id="83" relname="antithesis">921 годах,</segment>
+		<segment id="84" relname="antithesis">взяли на вооружение идеи демократов XIX века,</segment>
+		<segment id="85" relname="antithesis">но уже не считались с какими-то правами абхазов.</segment>
+		<segment id="86" relname="antithesis">##### Затем,</segment>
+		<segment id="87" relname="antithesis">после недолгих лет относительно самостоятельного существования Абхазской Советской Республики (провозглашённой в 1921 году), абхазский народ оказался под непосредственной властью Лаврентия Берии,</segment>
+		<segment id="88" relname="antithesis">возглавлявшего в 30-х годах минувшего века Грузинскую ССР (в состав которой — под давлением Сталина — Абхазия в 1931 году вошла на правах автономии).</segment>
+		<segment id="89" relname="antithesis">##### Репрессии 30-х годов и массовые переселения грузин из Мингрелии,</segment>
+		<segment id="90" relname="antithesis">организованные тогда тбилисскими правителями,</segment>
+		<segment id="91" relname="antithesis">существенно изменили демографический облик Абхазии.</segment>
+		<segment id="92" relname="antithesis">К концу советского периода этнические абхазы составляли лишь 17% населения своей автономной республики.</segment>
+		<segment id="93" relname="antithesis">Грузин было гораздо больше (но меньше половины населения республики) — 42% (по данным на 1989 год).</segment>
+		<segment id="94" relname="antithesis">##### Остальную часть населения Абхазии составляли русские, армяне, представители других народов СССР, а также греки, турки и</segment>
+		<segment id="95" relname="antithesis">.д. Объединяющим фактором для этой многонациональной общности стал русский язык — язык Пушкина и Фазиля Искандера,</segment>
+		<segment id="96" parent="95" relname="elaboration">которым владело большинство жителей Абхазской АССР.</segment>
+		<segment id="97" relname="antithesis">##### Линия раздела в латентном межнациональном конфликте явно обозначилась ещё в 1978 году во время так называемого всенародного обсуждения брежневских текстов Конституции СССР.</segment>
+		<segment id="98" relname="antithesis">Видные представители республиканской общественности из числа этнических абхазов и всех остальных групп негрузинского населения безуспешно поднимали тогда вопрос о праве Абхазии на выход из Грузии и переход в состав РСФСР.</segment>
+		<segment id="99" relname="antithesis">Москва не поддержала инициаторов этого движения,</segment>
+		<segment id="100" relname="antithesis">но и не позволила расправиться с ними,</segment>
+		<segment id="101" relname="antithesis">как того желало тбилисское руководство.</segment>
+		<segment id="102" relname="antithesis">##### Консолидация многонационального большинства вокруг титульного меньшинства определила исход первых демократических выборов 1990 года,</segment>
+		<segment id="103" parent="102" relname="elaboration">после которых Верховный Совет Абхазии возглавил Владислав Ардзинба.</segment>
+		<segment id="104" relname="antithesis">##### Братоубийственный конфликт: взгляд из Москвы.</segment>
+		<segment id="105" relname="antithesis">##### Российские правители и российская передовая общественность с незапамятных времён привыкли рассматривать кавказские проблемы сквозь призму отношений с братским грузинским народом.</segment>
+		<segment id="106" relname="antithesis">Так повелось в ту пору,</segment>
+		<segment id="107" relname="antithesis">когда русские самодержцы вписали в свой большой титул звание царей грузинских и иверских,</segment>
+		<segment id="108" relname="antithesis">а потом не жалели «дружеских штыков» для защиты грузинских единоверцев.</segment>
+		<segment id="109" relname="antithesis">Так продолжалось и в советские времена,</segment>
+		<segment id="110" relname="antithesis">при Сталине и после Сталина.</segment>
+		<segment id="111" relname="antithesis">##### В 1989—1991 годах взрыв грузинского национализма — яростный, бессмысленный, беспощадный,</segment>
+		<segment id="112" relname="antithesis">антисоветский по форме и русофобский по духу</segment>
+		<segment id="113" relname="antithesis">ошеломил московских демократов.</segment>
+		<segment id="114" relname="antithesis">##### Не умея различать,</segment>
+		<segment id="115" relname="antithesis">кто есть who на постсоветском пространстве,</segment>
+		<segment id="116" relname="antithesis">Москва обменяла меньшее зло на большее,</segment>
+		<segment id="117" relname="antithesis">болтуна Гамсахурдиа — на матёрого интригана Шеварднадзе.</segment>
+		<segment id="118" relname="antithesis">Этого бывшего главу перестроечного МИД СССР,</segment>
+		<segment id="119" relname="antithesis">прославленного предательством российских национальных интересов на переговорах с США,</segment>
+		<segment id="120" relname="antithesis">российские власти поддержали,</segment>
+		<segment id="121" relname="antithesis">рассчитывая,</segment>
+		<segment id="122" relname="antithesis">что он наведёт приличный порядок в дружественной Грузии.</segment>
+		<segment id="123" relname="antithesis">##### Едва укрепившись у власти,</segment>
+		<segment id="124" relname="antithesis">Шеварднадзе стал наводить в Абхазии грузинский порядок.</segment>
+		<segment id="125" relname="antithesis">Российская верхушка раздиралась тогда противоречиями.</segment>
+		<segment id="126" relname="antithesis">Ельцину было не до кавказских дел</segment>
+		<segment id="127" relname="antithesis">он напрягался изо всех сил,</segment>
+		<segment id="128" relname="antithesis">пытаясь удержать на плаву реформаторскую команду Гайдара</segment>
+		<segment id="129" relname="antithesis">не лечь на рельсы.</segment>
+		<segment id="130" relname="antithesis">##### Курортники,</segment>
+		<segment id="131" relname="antithesis">бежавшие летом 1992 года (в тапочках и пижамах) из ласковой Гагры, затем многотысячные массы русскоязычных граждан разных национальностей,</segment>
+		<segment id="132" relname="antithesis">спасавшихся от грузинских войск и бандитов из «Мхедриони»,</segment>
+		<segment id="133" relname="antithesis">— такова была заставочная картинка хроники военных бедствий.</segment>
+		<segment id="134" relname="antithesis">В финальных кадрах той хроники осенью 1993 года уже мирное грузинское население покидало Абхазию многими тысячами и десятками тысяч вслед за незадачливыми вояками Шеварднадзе.</segment>
+		<segment id="135" relname="antithesis">##### По горячим следам трагедии народов,</segment>
+		<segment id="136" relname="antithesis">вобравшей в себя трагические сюжеты в судьбах великого множества отдельных людей,</segment>
+		<segment id="137" relname="antithesis">российское общественное мнение не могло считать абсолютно правыми и безукоризненно пушистыми ни тех ни других участников конфликта.</segment>
+		<segment id="138" parent="139" relname="purpose">##### Чтобы признать победу абхазов триумфом исторической справедливости,</segment>
+		<segment id="139" relname="antithesis">следовало также признать справедливым делом превращение 150 тыс. грузин в обездоленных изгнанников.</segment>
+		<segment id="140" relname="antithesis">А признание права всех этих изгнанников на возвращение к родным очагам было бы</segment>
+		<segment id="141" relname="antithesis">в сложившихся после войны условиях)</segment>
+		<segment id="142" relname="antithesis">равнозначно отрицанию права на сохранение самостоятельной государственности абхазского народа.</segment>
+		<segment id="143" relname="antithesis">##### Вмешавшись в конфликт post factum,</segment>
+		<segment id="144" relname="antithesis">когда уже все основные геройства и злодейства были совершены,</segment>
+		<segment id="145" relname="antithesis">Москва разделила враждующие стороны «дружескими штыками» своего миротворческого контингента,</segment>
+		<segment id="146" relname="antithesis">а потом в течение 15 лет пыталась играть роль объективного посредника,</segment>
+		<segment id="147" relname="antithesis">уговаривая примириться непримиримых врагов.</segment>
+		<segment id="148" parent="149" relname="purpose">Чтобы на Юго-Западном Кавказе, как встарь,</segment>
+		<segment id="149" relname="antithesis">воцарился мир и в человецех благоволение под традиционным российским протекторатом.</segment>
+		<segment id="150" relname="antithesis">##### За эту политику Россия заплатила серией осложнений на внешнеполитической арене, а также кровью своих миротворцев,</segment>
+		<segment id="151" parent="150" relname="elaboration">на которых периодически нападали грузинские боевики,</segment>
+		<segment id="152" relname="antithesis">проникавшие в Абхазию.</segment>
+		<segment id="153" relname="antithesis">##### Подлинное отношение грузинских соседей к России проявилось самым наглядным образом в последние годы правления Шеварднадзе,</segment>
+		<segment id="154" relname="antithesis">когда Панкисское ущелье превратилось в тыловую базу чеченских террористов.</segment>
+		<segment id="155" relname="antithesis">А в 2001 году рейд банды Гелаева,</segment>
+		<segment id="156" relname="antithesis">пытавшейся при помощи тбилисских покровителей пройти через абхазские горы на подступы к Сочи,</segment>
+		<segment id="157" relname="antithesis">показал,</segment>
+		<segment id="158" relname="antithesis">что восстановление грузинской территориальной целостности в соответствии с грузинскими требованиями создало бы серьёзную угрозу для курортной столицы РФ с её здравницами и летними резиденциями российской элиты.</segment>
+		<segment id="159" relname="antithesis">##### Но формально Россия вплоть до 2008 года признавала территориальную целостность Грузии в границах бывшей Грузинской ССР.</segment>
+		<segment id="160" relname="antithesis">##### Только когда остаток иллюзий относительно русско-грузинского братства сгорел на пожарище Цхинвала,</segment>
+		<segment id="161" relname="antithesis">российская политика в отношении Абхазии вошла в соответствие с логикой разумного поведения и с подлинными национальными интересами России.</segment>
+    </body>
+</rst>

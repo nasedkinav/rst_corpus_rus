@@ -1,0 +1,162 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Агрессия НАТО против Югославии, случившаяся 10 лет назад (23 марта — 10 июня 1999 года),</segment>
+		<segment id="2" relname="antithesis">вызвала в России очень сильную эмоциональную реакцию и,</segment>
+		<segment id="3" relname="antithesis">как у нас водится,</segment>
+		<segment id="4" relname="antithesis">подверглась сильнейшей мифологизации.</segment>
+		<segment id="5" relname="antithesis">В итоге,</segment>
+		<segment id="6" relname="antithesis">как это ни парадоксально,</segment>
+		<segment id="7" relname="antithesis">некоторые полезные выводы политического и военного характера не сделаны до сих пор.</segment>
+		<segment id="8" relname="antithesis">##### В России до сих пор не принято обсуждать причины этой войны.</segment>
+		<segment id="9" relname="antithesis">Граждане нашей страны почти поголовно убедили самих себя,</segment>
+		<segment id="10" relname="antithesis">что Запад всегда воюет за нефть.</segment>
+		<segment id="11" relname="antithesis">Однако югославская война совсем никаким боком не лезет в нефтяную теорию.</segment>
+		<segment id="12" relname="antithesis">Здесь нет ни нефти, ни газа, ни даже какого-нибудь паршивенького транзитного трубопровода.</segment>
+		<segment id="13" relname="antithesis">Не проходит и вспомогательная теория о получении «плацдарма на Балканах».</segment>
+		<segment id="14" relname="antithesis">У НАТО и без Югославии давно нет проблем с плацдармами на Балканах,</segment>
+		<segment id="15" relname="antithesis">тем более что территория и инфраструктура Косова в этом плане не дает им абсолютно ничего эксклюзивного.</segment>
+		<segment id="16" relname="antithesis">##### Из-за этого приходится (за неимением других вариантов) верить в правдивость официальной западной версии — «гуманитарной интервенции».</segment>
+		<segment id="17" relname="antithesis">Запад сам себя психологически накачал,</segment>
+		<segment id="18" relname="antithesis">устроив многомесячную истерику по поводу «этнических чисток»,</segment>
+		<segment id="19" relname="antithesis">совершаемых режимом Милошевича против «беззащитных» албанцев.</segment>
+		<segment id="20" parent="21" relname="attribution">Нельзя сказать,</segment>
+		<segment id="21" relname="antithesis">что истерика не имела под собой совсем никаких оснований, но некоторые особенности противоположной стороны</segment>
+		<segment id="22" relname="antithesis">албанских боевиков,</segment>
+		<segment id="23" relname="antithesis">представлявших собой смесь наркоторговцев, исламских экстремистов, а главным образом просто бандитов)</segment>
+		<segment id="24" relname="antithesis">как-то выпали из виду западных политиков и журналистов,</segment>
+		<segment id="25" relname="antithesis">утративших даже видимость объективности.</segment>
+		<segment id="26" relname="antithesis">Тем не менее агрессия,</segment>
+		<segment id="27" relname="antithesis">ставшая ошибкой и преступлением одновременно,</segment>
+		<segment id="28" relname="antithesis">была совершена из лучших побуждений.</segment>
+		<segment id="29" relname="antithesis">О том,</segment>
+		<segment id="30" relname="antithesis">что получилось сегодня из этих побуждений,</segment>
+		<segment id="31" relname="antithesis">«Частный корреспондент» уже писал в статье «Казус Косова».</segment>
+		<segment id="32" relname="antithesis">##### Кроме того, в России привыкли видеть в НАТО чудовищную военную силу, готовую растерзать всё на своем пути.</segment>
+		<segment id="33" relname="antithesis">Югославская агрессия, казалось бы, стала лучшим подтверждением данного мнения.</segment>
+		<segment id="34" relname="antithesis">Правда, на фоне мифов и эмоций у нас и в этом плане кое-чего не заметили.</segment>
+		<segment id="35" relname="antithesis">##### Во-первых, агрессии бы не случилось,</segment>
+		<segment id="36" parent="35" relname="condition">если бы Югославия имела возможность дать достойный ответ.</segment>
+		<segment id="37" relname="antithesis">Очень показательно,</segment>
+		<segment id="38" relname="antithesis">что Венгрия (единственная на тот момент страна — член НАТО, имевшая с Югославией общую сухопутную границу)</segment>
+		<segment id="39" relname="antithesis">лишь допустила на свои аэродромы американские самолеты-заправщики и спасательные вертолеты (то есть вспомогательные, но не боевые силы)</segment>
+		<segment id="40" relname="antithesis">а также вытребовала эскадрилью американских истребителей для выполнения</segment>
+		<segment id="41" relname="antithesis">это было специально подчеркнуто венгерскими официальными лицами)</segment>
+		<segment id="42" relname="antithesis">исключительно задач ПВО.</segment>
+		<segment id="43" relname="antithesis">Венгрия вступила в НАТО всего за месяц до агрессии.</segment>
+		<segment id="44" relname="antithesis">Как и все остальные новые члены альянса, она хотела,</segment>
+		<segment id="45" parent="44" relname="purpose">чтобы ее защищали,</segment>
+		<segment id="46" relname="antithesis">но не имела ни малейшего желания подвергать себя опасности.</segment>
+		<segment id="47" relname="antithesis">##### Не одни венгры страдали отсутствием энтузиазма.</segment>
+		<segment id="48" relname="antithesis">Например, экипаж одного из норвежских тральщиков отказался отправляться к югославским берегам.</segment>
+		<segment id="49" relname="antithesis">Хотя никакой войны на море в 1999 году не было вообще,</segment>
+		<segment id="50" relname="antithesis">поэтому поход тральщика в Адриатику больше напоминал бы круиз,</segment>
+		<segment id="51" relname="antithesis">но даже теоретическая опасность возмутила «викингов».</segment>
+		<segment id="52" relname="antithesis">В целом, правда, старые члены НАТО вроде бы воевали активно.</segment>
+		<segment id="53" relname="antithesis">Именно</segment>
+		<segment id="54" relname="antithesis">отому, что достать их территории югославы не могли,</segment>
+		<segment id="55" relname="antithesis">да и ПВО сербов оказалась почти бессильной.</segment>
+		<segment id="56" relname="antithesis">По нашим СМИ до сих пор гуляет масса альтернативных списков огромных потерь,</segment>
+		<segment id="57" parent="56" relname="elaboration">которые ВВС НАТО якобы понесли в югославском небе.</segment>
+		<segment id="58" relname="antithesis">У этих списков есть,</segment>
+		<segment id="59" relname="antithesis">увы, один небольшой недостаток — полное отсутствие доказательств.</segment>
+		<segment id="60" relname="antithesis">Хотя бы в виде фотографий сбитых самолетов и вертолетов.</segment>
+		<segment id="61" relname="antithesis">Объяснения отсутствия этих фотографий настолько смехотворны,</segment>
+		<segment id="62" relname="antithesis">что нет смысла их повторять.</segment>
+		<segment id="63" relname="antithesis">И здесь, как ни печально,</segment>
+		<segment id="64" relname="antithesis">приходится верить официальным данным НАТО о потере непосредственно над Югославией всего двух самолетов (F-117А и F-16С ВВС США).</segment>
+		<segment id="65" relname="antithesis">Причем даже в гибели этих машин роль югославской ПВО неочевидна.</segment>
+		<segment id="66" relname="antithesis">Пляски сербов на обломках «невидимки» F-117 видел весь мир,</segment>
+		<segment id="67" relname="antithesis">однако до сих пор, по прошествии 10 лет,</segment>
+		<segment id="68" relname="antithesis">остается неясным,</segment>
+		<segment id="69" relname="antithesis">кто его сбил: то ли ЗРК С-125, то ли ЗРК «Куб», то ли истребитель МиГ-29.</segment>
+		<segment id="70" relname="antithesis">Поскольку времени для окончательного решения данного вопроса прошло более чем достаточно</segment>
+		<segment id="71" relname="antithesis">неужели у югославов совсем отсутствовала аппаратура боевого документирования?)</segment>
+		<segment id="72" relname="antithesis">появляется подозрение,</segment>
+		<segment id="73" relname="antithesis">что и здесь верна официальная американская версия</segment>
+		<segment id="74" relname="antithesis">самолет упал сам.</segment>
+		<segment id="75" relname="antithesis">F-117 обладает отвратительными аэродинамическими качествами,</segment>
+		<segment id="76" relname="antithesis">поэтому до десятка «невидимок» (из всего 59 серийных машин) разбилось без всякой войны</segment>
+		<segment id="77" relname="antithesis">недаром в конце прошлого года этот самолет был снят с вооружения ВВС США).</segment>
+		<segment id="78" relname="antithesis">##### Однако даже такая низкая эффективность ПВО противника не обеспечила высокой эффективности натовской авиации (причем эта не слишком высокая эффективность — «заслуга» в первую очередь ВВС США,</segment>
+		<segment id="79" relname="antithesis">а применительно к европейцам термин «эффективность» просто не имел смысла:</segment>
+		<segment id="80" relname="antithesis">война в Югославии показала,</segment>
+		<segment id="81" relname="antithesis">что без американцев европейцы в военном плане не могут вообще ничего)</segment>
+		<segment id="82" parent="83" relname="condition">Если гражданские объекты (в первую очередь инфраструктуру) она бомбила успешно,</segment>
+		<segment id="83" relname="antithesis">то вооруженные силы Югославии (особенно сухопутные войска) практически никак не пострадали,</segment>
+		<segment id="84" relname="antithesis">что через год после окончания войны официально признало командование США</segment>
+		<segment id="85" relname="antithesis">потери югославов в тяжелой технике составили менее 2%)</segment>
+		<segment id="86" relname="antithesis">И если бы НАТО начало наземную операцию,</segment>
+		<segment id="87" relname="antithesis">мясорубка получилась бы страшная.</segment>
+		<segment id="88" relname="antithesis">Однако натовцев спас обожествленный нашей патриотической общественностью Милошевич (ныне покойный),</segment>
+		<segment id="89" relname="antithesis">капитулировавший в самый неудачный момент.</segment>
+		<segment id="90" relname="antithesis">##### К началу июня 1999 года США и компания были в очевидном тупике.</segment>
+		<segment id="91" relname="antithesis">Они уничтожили большинство назначенных целей,</segment>
+		<segment id="92" relname="antithesis">однако югославская армия уверенно контролировала Косово,</segment>
+		<segment id="93" relname="antithesis">практически выбив оттуда албанских боевиков.</segment>
+		<segment id="94" relname="antithesis">Надо было либо свертывать операцию,</segment>
+		<segment id="95" relname="antithesis">не добившись поставленных задач,</segment>
+		<segment id="96" relname="antithesis">либо начинать наземное вторжение.</segment>
+		<segment id="97" relname="antithesis">Первый вариант, видимо, привел бы к отставке всех правительств стран альянса.</segment>
+		<segment id="98" relname="antithesis">Второй означал бы бойню.</segment>
+		<segment id="99" parent="100" relname="attribution">Как уже было сказано,</segment>
+		<segment id="100" relname="antithesis">югославская армия почти не пострадала от воздушных атак,</segment>
+		<segment id="101" relname="antithesis">горно-лесистая местность очень способствовала бы успешной обороне.</segment>
+		<segment id="102" relname="antithesis">Именно в этот момент Милошевич капитулировал.</segment>
+		<segment id="103" relname="antithesis">##### С военной точки зрения капитуляцию в такой ситуации нельзя назвать иначе как преступлением.</segment>
+		<segment id="104" relname="antithesis">Либо надо было сдаваться сразу,</segment>
+		<segment id="105" relname="antithesis">в марте,</segment>
+		<segment id="106" relname="antithesis">когда страна еще не была разрушена,</segment>
+		<segment id="107" relname="antithesis">либо стоять до конца.</segment>
+		<segment id="108" relname="antithesis">Но Милошевич сначала загнал противника в тупик,</segment>
+		<segment id="109" relname="antithesis">а затем сам же его оттуда вывел,</segment>
+		<segment id="110" relname="antithesis">попутно дав ему окончательно разрушить Сербию.</segment>
+		<segment id="111" parent="112" relname="attribution">##### Через две недели после окончания югославской кампании итальянский адмирал Гвидо Вентурони честно сказал,</segment>
+		<segment id="112" relname="antithesis">что в начале июня НАТО было уже на пределе своих возможностей,</segment>
+		<segment id="113" relname="antithesis">а европейцы без США вообще не способны проводить самостоятельные операции.</segment>
+		<segment id="114" relname="antithesis">##### Страны НАТО превосходили Югославию по суммарному экономическому потенциалу в 700 раз</segment>
+		<segment id="115" relname="antithesis">а военные потенциалы были просто несопоставимы)</segment>
+		<segment id="116" relname="antithesis">однако через 2,5 месяца войны были на пределе возможностей!</segment>
+		<segment id="117" relname="antithesis">Они практически не понесли потерь в ходе войны,</segment>
+		<segment id="118" relname="antithesis">однако их материальные расходы на эту войну оказались почти такими же,</segment>
+		<segment id="119" relname="antithesis">какой ущерб они нанесли Югославии.</segment>
+		<segment id="120" relname="antithesis">В этом — обратная сторона высокотехнологичной войны и желания воевать без потерь.</segment>
+		<segment id="121" relname="antithesis">История с броском российских десантников в Приштину,</segment>
+		<segment id="122" relname="antithesis">заслуживающая отдельного описания,</segment>
+		<segment id="123" relname="antithesis">война в Афганистане лишь подтвердили выводы о крайне ограниченной дееспособности самого мощного в мире военного блока.</segment>
+		<segment id="124" relname="antithesis">##### Хотя провести мир в ад по дороге,</segment>
+		<segment id="125" relname="antithesis">вымощенной благими намерениями,</segment>
+		<segment id="126" relname="antithesis">он еще может.</segment>
+    </body>
+</rst>

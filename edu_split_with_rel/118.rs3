@@ -1,0 +1,64 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### По всей видимости, протон-антипротонный коллайдер Теватрон,</segment>
+		<segment id="2" relname="antithesis">расположенный в Фермилаб в Чикаго будет закрыт в октябре 2011 года.</segment>
+		<segment id="3" parent="5" relname="concession">Несмотря на то,</segment>
+		<segment id="4" relname="antithesis">что научные консультанты рекомендовали продлить его финансирование ещё на три года,</segment>
+		<segment id="5" relname="antithesis">Министерству энергетики США не удалось отыскать необходимые для этого средства.</segment>
+		<segment id="6" relname="antithesis">##### Теватрон обладает долгой и яркой историей.</segment>
+		<segment id="7" relname="antithesis">За 25 лет работы на нём было сделано немало больших открытий.</segment>
+		<segment id="8" relname="antithesis">Так, именно на Теватроне был впервые получен T-кварк — самая тяжёлая из известных фундаментальных частиц.</segment>
+		<segment id="9" relname="antithesis">На Теватроне была измерена асимметрия материи и антиматерии в процессах,</segment>
+		<segment id="10" parent="9" relname="elaboration">в которых она никогда ранее не наблюдалась.</segment>
+		<segment id="11" relname="antithesis">На нём же были проведены самые точные на сегодняшний день измерения массы W-бозона,</segment>
+		<segment id="12" relname="antithesis">являющегося переносчиком слабого взаимодействия.</segment>
+		<segment id="13" relname="antithesis">##### Строительство Теватрона было закончено в 1983 году,</segment>
+		<segment id="14" relname="antithesis">однако источник антипротонов был установлен только в 1985 году,</segment>
+		<segment id="15" relname="antithesis">а в 1986 году были произведены первые столкновения частиц.</segment>
+		<segment id="16" relname="antithesis">Своё название коллайдер получил от сокращения ТэВ — тераэлектронвольт (триллион электрон-вольт),</segment>
+		<segment id="17" parent="16" relname="cause-effect">поскольку именно такую энергию протонов (1 ТэВ) планировалось получить на ускорителе.</segment>
+		<segment id="18" relname="antithesis">Однако эта цель была достигнута только в конце 90-х.</segment>
+		<segment id="19" relname="antithesis">##### Планировалось,</segment>
+		<segment id="20" relname="antithesis">что Теватрон параллельно с Большим адронным коллайдером (БАК) займётся поиском бозона Хиггса.</segment>
+		<segment id="21" relname="antithesis">Бозон Хиггса является важной составляющей так называемой Стандартной модели — общепринятой наиболее фундаментальной теории всех частиц, известных современной физике.</segment>
+		<segment id="22" relname="antithesis">Бозон Хиггса отвечает в этой модели за массу всех частиц,</segment>
+		<segment id="23" relname="antithesis">однако</segment>
+		<segment id="24" relname="antithesis">есмотря на упорные попытки,</segment>
+		<segment id="25" relname="antithesis">до сих пор не удаётся зафиксировать его в эксперименте.</segment>
+		<segment id="26" relname="antithesis">На данный момент только Теватрон и БАК имеют шансы поймать-таки неуловимую частицу.</segment>
+		<segment id="27" relname="antithesis">##### Для продолжения работы коллайдера по оценкам специалистов требовалось финансирование на уровне 35 млн долларов США в год,</segment>
+		<segment id="28" relname="antithesis">однако из-за сложной финансовой ситуации даже такие деньги оказались неподъёмными для правительства США.</segment>
+    </body>
+</rst>

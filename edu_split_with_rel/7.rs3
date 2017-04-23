@@ -1,0 +1,146 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Тем,</segment>
+		<segment id="2" relname="antithesis">кто живет в России,</segment>
+		<segment id="3" relname="antithesis">трудно представить,</segment>
+		<segment id="4" relname="antithesis">как может быть плохо в другом месте.</segment>
+		<segment id="5" relname="antithesis">Тем не менее экономика наших соседей идет ко дну.</segment>
+		<segment id="6" relname="antithesis">Кредитный кризис уже нанес непоправимый ущерб строительной индустрии.</segment>
+		<segment id="7" relname="antithesis">Отличное время для скупки активов и недвижимости в Европе,</segment>
+		<segment id="8" parent="7" relname="condition">если есть деньги, разумеется.</segment>
+		<segment id="9" relname="antithesis">##### Почти десятилетие мощного экономического роста в странах Восточной Европы сменяется кризисом.</segment>
+		<segment id="10" relname="antithesis">Согласно данным журнала «Экономист»,</segment>
+		<segment id="11" relname="antithesis">в результате глобального кредитного кризиса,</segment>
+		<segment id="12" relname="antithesis">ставшего результатом кризиса в сфере недвижимости,</segment>
+		<segment id="13" relname="antithesis">спад наметился во всех восточноевропейских странах.</segment>
+		<segment id="14" relname="antithesis">Однако больше всех от кризиса страдают страны Балтии – и среди них Латвия и Эстония.</segment>
+		<segment id="15" relname="antithesis">В этих странах экономика росла преимущественно за счет кредитных вливаний из-за рубежа.</segment>
+		<segment id="16" parent="17" relname="condition">##### Если говорить о строительстве, то в Риге есть замороженные стройки</segment>
+		<segment id="17" relname="antithesis">стоят деревянные дома,</segment>
+		<segment id="18" parent="17" relname="elaboration">от которых в Москве за пять минут не осталось бы щепки – а если бы это был музей,</segment>
+		<segment id="19" relname="antithesis">то сделали бы то же самое из двойного бетона,</segment>
+		<segment id="20" relname="antithesis">но в Риге есть реально действующий рынок земли с понятными ценами и кучей объявлений в газете «Реклама».</segment>
+		<segment id="21" relname="antithesis">Продажи новостроек упали – на вторичном рынке затишье и ужесточение правил кредитования для клиентов, и ощущение,</segment>
+		<segment id="22" relname="antithesis">что дно еще не достигнуто.</segment>
+		<segment id="23" relname="antithesis">Создает ли это отложенный спрос?</segment>
+		<segment id="24" relname="antithesis">Похоже, что нет.</segment>
+		<segment id="25" relname="antithesis">##### По мнению аналитиков из «Деловых вестей» (№ 29 от 11 августа 2008 года),</segment>
+		<segment id="26" relname="antithesis">издающихся как приложение к русскоязычной рижской газете «Вести»,</segment>
+		<segment id="27" relname="antithesis">сдерживающим фактором по отношению к инфляции выступает снижение потребления – однако это ведет к безработице и «остыванию» экономики.</segment>
+		<segment id="28" relname="antithesis">Причем даже достигнутое такой ценой сдерживание не сможет быть долгосрочным,</segment>
+		<segment id="29" relname="antithesis">так как наступает холодный сезон,</segment>
+		<segment id="30" relname="antithesis">вместе с которым важными факторами станут растущие цены на газ.</segment>
+		<segment id="31" relname="antithesis">Как считает цитируемый в публикации с говорящим названием «Приплыли: рецессия» старший экономист Hansabanka Дайнис Стикутс,</segment>
+		<segment id="32" relname="antithesis">«рост ВВП на 0,2% – это показатель того,</segment>
+		<segment id="33" relname="antithesis">что экономика глубоко остыла».</segment>
+		<segment id="34" relname="antithesis">Данные свидетельствуют о том,</segment>
+		<segment id="35" relname="antithesis">что в прошлом экономика поддерживалась экспортом –</segment>
+		<segment id="36" relname="antithesis">эта тенденция в значительной степени сохраняется.</segment>
+		<segment id="37" relname="antithesis">При этом ситуация,</segment>
+		<segment id="38" relname="antithesis">складывающаяся в Латвии,</segment>
+		<segment id="39" relname="antithesis">может поразить российского обывателя: местные дилеры,</segment>
+		<segment id="40" relname="antithesis">похоже, заказали слишком много автомобилей</segment>
+		<segment id="41" relname="antithesis">не смогут их продать.</segment>
+		<segment id="42" relname="antithesis">Возможно, хорошие новости для дилеров в России – и для маленького серого рынка реэкспорта в Россию,</segment>
+		<segment id="43" relname="antithesis">разумеется, если дилеры смогут договориться между собой.</segment>
+		<segment id="44" relname="antithesis">##### Вопрос о том,</segment>
+		<segment id="45" relname="antithesis">есть кризис в Латвии,</segment>
+		<segment id="46" relname="antithesis">или его нет,</segment>
+		<segment id="47" relname="antithesis">в самой республике не задают:</segment>
+		<segment id="48" relname="antithesis">местные медиа скорее соревнуются в описании того,</segment>
+		<segment id="49" relname="antithesis">как глубоко он зашел,</segment>
+		<segment id="50" relname="antithesis">какие последствия он несет для экономик балтийских стран,</segment>
+		<segment id="51" relname="antithesis">и когда он закончится.</segment>
+		<segment id="52" relname="antithesis">Для участников экономической жизни России с высоким уровнем роста цен на жилье и недвижимость, невысоким качеством промышленной продукции и постоянным увеличением стоимости экономических активов Латвии и Эстонии смотрятся как зазеркалье: заколдованный мир,</segment>
+		<segment id="53" parent="52" relname="elaboration">в котором все стоит дешевле,</segment>
+		<segment id="54" relname="antithesis">чем должно – если бы только это было в России.</segment>
+		<segment id="55" relname="antithesis">Именно так выглядит, например, банкротство хлебозавода в Огре.</segment>
+		<segment id="56" relname="antithesis">Все помнят вкус рижского хлеба и те,</segment>
+		<segment id="57" relname="antithesis">кому посчастливилось побывать в Латвии в последние десять лет,</segment>
+		<segment id="58" relname="antithesis">знают,</segment>
+		<segment id="59" relname="antithesis">что «Кисло-сладкий», «Ржаной» и прочие разновидности местного хлеба, несмотря на относительную дороговизну, лучше и вкуснее самых дорогих импортных сортов хлеба в супермаркетах премиум-класса («Азбука вкуса», «Седьмой континент» и т.п.).</segment>
+		<segment id="60" relname="antithesis">Тем не менее сложности с экспортом продукции, включая многокилометровые пробки фур на границе с Россией,</segment>
+		<segment id="61" relname="antithesis">ставят непроходимый барьер на пути скоропортящейся продукции</segment>
+		<segment id="62" parent="61" relname="elaboration">– даже если она лучшего качества, дешевле и без консервантов –</segment>
+		<segment id="63" relname="antithesis">а значит,</segment>
+		<segment id="64" relname="antithesis">лишают многие предприятия в Латвийской Республике и Эстонии шанса на спасение за счет экспорта в Россию или продажи активов русским инвесторам.</segment>
+		<segment id="65" relname="antithesis">##### Впрочем, если говорить о главных показателях кризиса для потребителей, то кроме растущей безработицы к ним следует добавитьсложности с получением кредитов на покупки жилья, – а ведь именно агрессивное кредитование конечных потребителей под залог</segment>
+		<segment id="66" relname="antithesis">было одним из локомотивов развития не только строительной индустрии в этих странах, но и всей экономики.</segment>
+		<segment id="67" relname="antithesis">Теперь же речь идет не просто о сокращениях в риелторских агентствах и просроченных кредитах, но и об общем снижении цен на недвижимость,</segment>
+		<segment id="68" parent="67" relname="elaboration">которые по разным позициям могут достигать 10 –50%,</segment>
+		<segment id="69" relname="antithesis">– и главным опасением продавцов (и надеждой покупателей) сегодня становится рост непрофильных активов у банков.</segment>
+		<segment id="70" parent="71" relname="condition">Если квартиры и офисы,</segment>
+		<segment id="71" parent="70" relname="elaboration">по которым просрочены платежи,</segment>
+		<segment id="72" relname="antithesis">будут выброшены на рынок для срочной продажи,</segment>
+		<segment id="73" relname="antithesis">количество сделок по недвижимости может возрасти – ценой обрушения рынка.</segment>
+		<segment id="74" relname="antithesis">##### Цены на жилье в Риге, например, не кажутся слишком высокими в сравнении с Москвой или другими крупными городами России,</segment>
+		<segment id="75" parent="74" relname="elaboration">в которых продолжается рост цен и издержек в строительной индустрии.</segment>
+		<segment id="76" relname="antithesis">В частности, квартиру в центре Риги можно купить за 50–100 тыс. долл. – цены Москвы образца 2001 года,</segment>
+		<segment id="77" parent="76" relname="condition">если не раньше.</segment>
+		<segment id="78" relname="antithesis">И,</segment>
+		<segment id="79" relname="antithesis">как отмечают наши частные корреспонденты,</segment>
+		<segment id="80" relname="antithesis">«если помахать перед носом котлетой с деньгами</segment>
+		<segment id="81" parent="80" relname="elaboration">– вместо обещания начать переговоры по кредиту, –</segment>
+		<segment id="82" relname="antithesis">то скидки могут достигать 10–20% от стоимости» («Частный корреспондент», 1 сентября 2008 года).</segment>
+		<segment id="83" relname="antithesis">##### Предприниматели продают объекты недвижимости в центре Риги и Таллина иногда на 30% дешевле, нежели год назад.</segment>
+		<segment id="84" relname="antithesis">Цены на землю у моря упали в 2–3 раза (особенно у тех,</segment>
+		<segment id="85" relname="antithesis">кто успел заложить их</segment>
+		<segment id="86" relname="antithesis">взять кредит)</segment>
+		<segment id="87" relname="antithesis">а некоторые можно взять за бесценок,</segment>
+		<segment id="88" relname="antithesis">хотя часть продавцов предпочитает держать цены</segment>
+		<segment id="89" relname="antithesis">не продавать – вдруг «придут русские и все купят», как в Юрмале.</segment>
+		<segment id="90" relname="antithesis">##### Безусловно, кризис в Латвии и Эстонии был усугублен жесткой позицией России,</segment>
+		<segment id="91" parent="90" relname="elaboration">которая хочет заставить уважать свое мнение и свои интересы.</segment>
+		<segment id="92" relname="antithesis">Охлаждение политических отношений вызвало серьезный спад в объемах товаров,</segment>
+		<segment id="93" relname="antithesis">идущих из Прибалтики в Россию.</segment>
+		<segment id="94" relname="antithesis">К примеру, таллиннский порт,</segment>
+		<segment id="95" parent="94" relname="elaboration">который был перевалочной базой для европейских товаров,</segment>
+		<segment id="96" relname="antithesis">идущих в Россию,</segment>
+		<segment id="97" relname="antithesis">вообще некоторое время находился на грани банкротства.</segment>
+		<segment id="98" relname="antithesis">Позицию России курировал целый ряд влиятельных экспертов, в том числе Модест Колеров.</segment>
+		<segment id="99" relname="antithesis">Причем все эти политические дуэли слабо отразилась на экономике России,</segment>
+		<segment id="100" relname="antithesis">поток товаров пошел в обход стран Балтии, через порты Петербурга и Калининграда.</segment>
+		<segment id="101" relname="antithesis">Позиция эта действительно заставила прибалтийских политиков внимательнее прислушиваться к мнению восточного соседа,</segment>
+		<segment id="102" relname="antithesis">рынки которого являются единственно площадкой для сбыта многих товаров,</segment>
+		<segment id="103" relname="antithesis">производимых в Прибалтике.</segment>
+		<segment id="104" relname="antithesis">Однако пока все еще политические амбиции здесь превалируют над экономической целесообразностью.</segment>
+		<segment id="105" relname="antithesis">##### Посмотрим,</segment>
+		<segment id="106" relname="antithesis">что будет дальше.</segment>
+		<segment id="107" parent="108" relname="condition">Если вы знаете что-то о людях,</segment>
+		<segment id="108" relname="antithesis">переехавших в бывшие страны Балтии или построивших там дачу,</segment>
+		<segment id="109" relname="antithesis">пишите нам в редакцию.</segment>
+		<segment id="110" relname="antithesis">Будет интересно узнать!</segment>
+    </body>
+</rst>

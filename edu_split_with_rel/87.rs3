@@ -1,0 +1,172 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### 15 февраля 2009 года в Москве и в российских регионах прошли мероприятия,</segment>
+		<segment id="2" relname="antithesis">посвященные двадцатой годовщине вывода советских войск («ограниченного контингента»,</segment>
+		<segment id="3" relname="antithesis">как называли их в период 1979—1989 годов)</segment>
+		<segment id="4" relname="antithesis">из Афганистана.</segment>
+		<segment id="5" relname="antithesis">До сих пор в российском обществе нет единой оценки событий и двадцатилетней, и тридцатилетней давности</segment>
+		<segment id="6" relname="antithesis">в конце года будет отмечаться 30 лет с момента принятия решения о вводе войск в эту неостывшую доныне горячую точку).</segment>
+		<segment id="7" relname="antithesis">##### С одной стороны, войну называют «преступной» и бессмысленной.</segment>
+		<segment id="8" relname="antithesis">За девять лет пребывания советского контингента в Афганистане,</segment>
+		<segment id="9" relname="antithesis">только по официальным данным,</segment>
+		<segment id="10" relname="antithesis">погибли 14 453 гражданина несуществующего сегодня государства.</segment>
+		<segment id="11" relname="antithesis">С другой стороны, раздаются слова о едва ли не даре предвидения у советских руководителей,</segment>
+		<segment id="12" parent="11" relname="elaboration">которые задолго до 11 сентября узрели «мировую террористическую угрозу».</segment>
+		<segment id="13" relname="antithesis">В самом Афганистане в 2007 году, в канун очередной годовщины ввода ограниченного контингента, парламент страны официально осудил этот шаг: «В результате этого вторжения, принесшего неисчислимые беды миллионам афганцев, были подорваны экономические и социальные основы афганского государства.</segment>
+		<segment id="14" relname="antithesis">И это афганский народ не забывает сегодня</segment>
+		<segment id="15" relname="antithesis">не забудет завтра».</segment>
+		<segment id="16" relname="antithesis">##### Впрочем, с уходом «шурави»</segment>
+		<segment id="17" relname="antithesis">как называли военнослужащих Советской армии)</segment>
+		<segment id="18" relname="antithesis">на афганской земле не наступило «конца истории» по сценариям Фрэнсиса Фукуямы.</segment>
+		<segment id="19" relname="antithesis">Сначала свержение ненавистного «коммунистического режима» Наджибуллы (на деле — светской антиклерикальной власти,</segment>
+		<segment id="20" relname="antithesis">отказавшейся от «бессмертного учения» еще накануне распада СССР)</segment>
+		<segment id="21" relname="antithesis">затем перманентная война победителей, потом «Талибан»,</segment>
+		<segment id="22" relname="antithesis">показавшийся возвратом в светлое средневековое прошлое.</segment>
+		<segment id="23" relname="antithesis">На смену талибам пришла пора «демократизации» под флагами НАТО и США.</segment>
+		<segment id="24" relname="antithesis">Однако многочисленные теракты</segment>
+		<segment id="25" relname="antithesis">объектами которых становятся не только военнослужащие коалиции, но и высокие чины из Вашингтона,</segment>
+		<segment id="26" relname="antithesis">приезжающие проверить результаты «демократического транзита»)</segment>
+		<segment id="27" relname="antithesis">и регулярные всплески нестабильности заставляют с новой силой искать ответы на неудобные вопросы.</segment>
+		<segment id="28" relname="antithesis">На те вопросы,</segment>
+		<segment id="29" parent="28" relname="elaboration">которые не попадают в официальные ноты и заявления стран ЕС и США (как,</segment>
+		<segment id="30" relname="antithesis">впрочем, и в комментарии российских политиков).</segment>
+		<segment id="31" relname="antithesis">Почему после многолетней операции НАТО</segment>
+		<segment id="32" relname="antithesis">а фактически речь идет о США)</segment>
+		<segment id="33" relname="antithesis">Афганистан не представляет собой образование,</segment>
+		<segment id="34" relname="antithesis">принципиально отличающееся от того,</segment>
+		<segment id="35" relname="antithesis">каким он был в 90-е — начале 2000-х годов, то есть после ухода «русских оккупантов»?</segment>
+		<segment id="36" relname="antithesis">##### По многим параметрам ситуация даже стала ухудшаться.</segment>
+		<segment id="37" relname="antithesis">Ежегодно от США Афганистан получает на обеспечение внешнего военного присутствия 10 млрд долларов.</segment>
+		<segment id="38" parent="39" relname="condition">Пока же «успехи» в Афганистане таковы,</segment>
+		<segment id="39" relname="antithesis">что 20% героина производится именно на его территории,</segment>
+		<segment id="40" relname="antithesis">90 тыс. га афганской земли предназначается для производства наркотиков.</segment>
+		<segment id="41" relname="antithesis">И эти данные сообщают не эксперты российской Госдумы, а ООН.</segment>
+		<segment id="42" relname="antithesis">В 2005 году на международной конференции по Афганистану эту тенденцию озвучил и сам президент этого государства Хамид Карзай.</segment>
+		<segment id="43" relname="antithesis">Впрочем, президентом он является чисто юридически.</segment>
+		<segment id="44" relname="antithesis">##### Фактически же,</segment>
+		<segment id="45" relname="antithesis">несмотря на американский контроль и финансовую помощь,</segment>
+		<segment id="46" relname="antithesis">в сегодняшнем Афганистане возродилась практика позднего Наджибуллы.</segment>
+		<segment id="47" relname="antithesis">Речь идет о практике «договорных районов»,</segment>
+		<segment id="48" relname="antithesis">когда центральная власть (слабая и эфемерная) не лезет в местные дела,</segment>
+		<segment id="49" relname="antithesis">тогда как лидеры «на местах» демонстрируют внешнюю лояльность.</segment>
+		<segment id="50" relname="antithesis">При этом такая лояльность стоит недешево.</segment>
+		<segment id="51" relname="antithesis">И все это на фоне активизации талибов и их террористической деятельности.</segment>
+		<segment id="52" relname="antithesis">Таким образом, налицо провал изначальных планов Вашингтона.</segment>
+		<segment id="53" relname="antithesis">«Демократизация Афганистана» провалилась,</segment>
+		<segment id="54" relname="antithesis">равно как и «стабилизация» этого региона.</segment>
+		<segment id="55" relname="antithesis">Идея, озвученная пару лет назад влиятельным американским политологом Фредериком Старром о «Большой Центральной Азии» с притягательным магнитом — демократическим Афганистаном,</segment>
+		<segment id="56" relname="antithesis">— выглядит сегодня как не совсем научная фантастика.</segment>
+		<segment id="57" relname="antithesis">И все же стоит ли радоваться неудаче нашего «заклятого друга», особенно на фоне непростой динамики двусторонних российско-американских отношений?</segment>
+		<segment id="58" relname="antithesis">##### Сегодня уже всем становится очевидна взаимосвязь тогдашнего «интернационального долга» СССР с «демократическим долгом» США сегодняшнего образца.</segment>
+		<segment id="59" relname="antithesis">В этой связи чрезвычайно важным представляется определение того,</segment>
+		<segment id="60" relname="antithesis">что такое «уроки Афганистана».</segment>
+		<segment id="61" relname="antithesis">Как бы банально ни звучала такая постановка вопроса,</segment>
+		<segment id="62" relname="antithesis">она могла бы позволить России</segment>
+		<segment id="63" relname="antithesis">в современных условиях определить свои приоритеты на афганском направлении.</segment>
+		<segment id="64" relname="antithesis">Каким бы далеким ни казался сегодня Афганистан,</segment>
+		<segment id="65" relname="antithesis">его влияние на политическую ситуацию в России остается высоким.</segment>
+		<segment id="66" relname="antithesis">Во-первых, это наркотический вызов</segment>
+		<segment id="67" relname="antithesis">о чем мы уже писали выше)</segment>
+		<segment id="68" relname="antithesis">Во-вторых, Афганистан граничит с тремя центральноазиатскими государствами (Туркменистан, Таджикистан, Узбекистан).</segment>
+		<segment id="69" relname="antithesis">Учитывая практическую реальность (что показал нам и Таджикистан в 1991—1992 годах) переброски «афганского пожара» на постсоветскую Центральную Азию, нельзя исключать появление мощного исламистского фронта непосредственно у границ России.</segment>
+		<segment id="70" relname="antithesis">Хотелось бы также напомнить,</segment>
+		<segment id="71" relname="antithesis">что правительство талибов было одним из немногих правительств (наряду с администрацией непризнанной Турецкой Республикой Северного Кипра),</segment>
+		<segment id="72" parent="71" relname="elaboration">которое признало Чеченскую Республику Ичкерия,</segment>
+		<segment id="73" relname="antithesis">установив с ней взаимовыгодную кооперацию.</segment>
+		<segment id="74" relname="antithesis">##### Главным «уроком» Афганистана является неадекватность наших представлений о нем.</segment>
+		<segment id="75" relname="antithesis">Сегодня даже численность населения этого государства является относительной величиной.</segment>
+		<segment id="76" relname="antithesis">Перепись населения там планировали провести еще в 1979 году,</segment>
+		<segment id="77" relname="antithesis">но затем по известным причинам «отложили».</segment>
+		<segment id="78" relname="antithesis">Последний перенос был сделан в июне 2008 года.</segment>
+		<segment id="79" relname="antithesis">В прошлом году власти Афганистана отложили на два года проведение первой в истории страны переписи населения.</segment>
+		<segment id="80" relname="antithesis">Таким образом, накладывать на социальную реальность догматические схемы,</segment>
+		<segment id="81" relname="antithesis">пытаться преобразовывать реальность на основе идеологического пуризма</segment>
+		<segment id="82" relname="antithesis">все это как минимум неэффективно,</segment>
+		<segment id="83" relname="antithesis">а</segment>
+		<segment id="84" relname="antithesis">ак максимум ведет к провалу.</segment>
+		<segment id="85" relname="antithesis">В свое время СССР пытался построить в Афганистане общество «развитого социализма».</segment>
+		<segment id="86" relname="antithesis">Сегодня «демократический Афганистан» строят США,</segment>
+		<segment id="87" relname="antithesis">не понимая,</segment>
+		<segment id="88" relname="antithesis">что и социализм, и демократия возможны только в рамках государственного, а не племенного дискурса.</segment>
+		<segment id="89" relname="antithesis">Общество же,</segment>
+		<segment id="90" relname="antithesis">не имевшее государственности</segment>
+		<segment id="91" relname="antithesis">или имевшее только слабые ее ростки)</segment>
+		<segment id="92" relname="antithesis">может сопротивляться «огосударствлению» как под красным, так и под звездно-полосатым флагом.</segment>
+		<segment id="93" relname="antithesis">##### С начала 80-х годов прошлого века правительство США поддерживало афганских freedom-fighters,</segment>
+		<segment id="94" relname="antithesis">несмотря на их явный антизападный стиль политического и социального поведения.</segment>
+		<segment id="95" relname="antithesis">Отсюда второй урок Афганистана: нельзя использовать эту страну в сиюминутной борьбе конъюнктурных целей, а потом бросать на произвол судьбы.</segment>
+		<segment id="96" relname="antithesis">Так сделал СССР в 1989 году.</segment>
+		<segment id="97" relname="antithesis">Так же поступили и американцы.</segment>
+		<segment id="98" relname="antithesis">Добив Наджибуллу,</segment>
+		<segment id="99" relname="antithesis">они предоставили Афганистан самому себе.</segment>
+		<segment id="100" relname="antithesis">И это</segment>
+		<segment id="101" relname="antithesis">есмотря на то,</segment>
+		<segment id="102" relname="antithesis">что бывший просоветский лидер к 1991 году уже успел отказаться и от коммунизма,</segment>
+		<segment id="103" relname="antithesis">и от атеизма</segment>
+		<segment id="104" relname="antithesis">боролся с «воинами ислама»,</segment>
+		<segment id="105" relname="antithesis">доставляющими сегодня столько хлопот Вашингтону</segment>
+		<segment id="106" relname="antithesis">и, кстати сказать, Москве).</segment>
+		<segment id="107" relname="antithesis">##### Третий урок состоит в том,</segment>
+		<segment id="108" relname="antithesis">что Афганистан можно бросить,</segment>
+		<segment id="109" relname="antithesis">но он не бросит вас,</segment>
+		<segment id="110" parent="109" relname="condition">если вы уже ввязались в «большую игру» в нем.</segment>
+		<segment id="111" relname="antithesis">Афганистан настиг Россию в 1992 году на таджикско-афганской границе.</segment>
+		<segment id="112" relname="antithesis">Заключение ДКБ (Договора о коллективной безопасности) в мае 1992 года в Ташкенте было во многом реакцией на «экспорт Афганистана» в СНГ.</segment>
+		<segment id="113" relname="antithesis">А потому в течение всех 90-х годов рефреном звучит один тезис:</segment>
+		<segment id="114" relname="antithesis">нам необходимо тем или иным способом присутствовать в Афганистане.</segment>
+		<segment id="115" relname="antithesis">И Россия (несмотря на всю сегодняшнюю пропаганду о «годах провала») пыталась держать «руку на пульсе»</segment>
+		<segment id="116" relname="antithesis">поддерживая «панджшерского льва» Ахмад Шах Масуда и объединенный фронт антиталибовской оппозиции).</segment>
+		<segment id="117" relname="antithesis">##### И вот наступил 2001 год. США решили «демократизировать» Афганистан.</segment>
+		<segment id="118" relname="antithesis">Впервые в нашей истории кто-то из западных государств решился сделать за нас грязную работу.</segment>
+		<segment id="119" relname="antithesis">Раньше Россия и СССР рвали себе жилы в Восточной Пруссии для «чуда на Марне», а затем в Восточной Европе для «минимизации» провала под Арденнами.</segment>
+		<segment id="120" relname="antithesis">А в 2001 году заботу о безопасности в Центральной Азии с нами были готовы разделить американцы.</segment>
+		<segment id="121" relname="antithesis">И кто знает,</segment>
+		<segment id="122" relname="antithesis">не окажись они со своими завиральными проектами в Афганистане,</segment>
+		<segment id="123" relname="antithesis">не пришлось бы нам самим взяться за замирение этой страны.</segment>
+		<segment id="124" relname="antithesis">Отсюда еще один афганский урок.</segment>
+		<segment id="125" relname="antithesis">Провал твоего визави не означает того,</segment>
+		<segment id="126" relname="antithesis">что тебя непременно ждет удача.</segment>
+		<segment id="127" relname="antithesis">Провал СССР не стал триумфом США.</segment>
+		<segment id="128" relname="antithesis">##### Напротив, нынешняя террористическая война талибов во многом детерминирована и 1979-м,</segment>
+		<segment id="129" relname="antithesis">и 1989-м годами, вводом и выводом советских войск из Афганистана.</segment>
+		<segment id="130" relname="antithesis">Сегодня вывод американских войск из этой страны осложнит ситуацию в Центральной Азии, на южных и восточных рубежах России.</segment>
+		<segment id="131" relname="antithesis">А потому афганская проблема могла бы стать полем реальной (не пиаровской) взаимовыгодной кооперации между США и РФ.</segment>
+		<segment id="132" relname="antithesis">Никто не требует,</segment>
+		<segment id="133" parent="132" relname="purpose">чтобы Россия сегодня ринулась в бой ради интересов Штатов.</segment>
+		<segment id="134" relname="antithesis">Однако разумное партнерство при учете тех уроков и провалов,</segment>
+		<segment id="135" parent="134" relname="elaboration">которые во многом являются общими для нас,</segment>
+		<segment id="136" relname="antithesis">было бы оптимально.</segment>
+    </body>
+</rst>

@@ -1,0 +1,98 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Департамент собственной безопасности (ДСБ) МВД РФ проводит проверку в отношении подполковника милиции Артема Кузнецова,</segment>
+		<segment id="2" parent="1" relname="elaboration">который является фигурантом обнародованного на минувшей неделе видеоролика об обстоятельствах смерти в СИЗО юриста Сергея Магнитского,</segment>
+		<segment id="3" relname="antithesis">сообщает «Эхо Москвы».</segment>
+		<segment id="4" relname="antithesis">Видеоролик является частью информационной кампании на двуязычном сайте «Остановить неприкасаемых!» (russian-untouch</segment>
+		<segment id="5" relname="antithesis">bles.com), где публикуются материалы о деле М</segment>
+		<segment id="6" relname="antithesis">гнитского, и в среду 23 июня появление ролика вызвало большой общественный резонанс в русскоязыч</segment>
+		<segment id="7" relname="antithesis">ых блогах, стало причиной публик</segment>
+		<segment id="8" relname="antithesis">ций в СМИ. В</segment>
+		<segment id="9" relname="antithesis">частности, интенсивное обсуждение ролика происходило в блоге известного общественного активиста Алексея Навального.</segment>
+		<segment id="10" parent="11" relname="attribution">##### В ролике сообщается,</segment>
+		<segment id="11" relname="antithesis">что американские юристы,</segment>
+		<segment id="12" relname="antithesis">связанные с инвестиционным фондом Hermitage Capital Management,</segment>
+		<segment id="13" parent="12" relname="elaboration">с которым сотрудничал Магнитский,</segment>
+		<segment id="14" relname="antithesis">предоставили российским властям документы,</segment>
+		<segment id="15" relname="antithesis">подтверждающие факты крупных денежных расходов членов семьи Артема Кузнецова в России и других странах,</segment>
+		<segment id="16" relname="antithesis">несопоставимых с уровнем официально получаемых ими доходов.</segment>
+		<segment id="17" relname="antithesis">Авторы ролика,</segment>
+		<segment id="18" relname="antithesis">ссылаясь на руководителей фонда,</segment>
+		<segment id="19" relname="antithesis">увязывают это с причастностью Кузнецова с крупным хищениям из российского госбюджета.</segment>
+		<segment id="20" relname="antithesis">В частности, в ролике указывается,</segment>
+		<segment id="21" relname="antithesis">что при официальной зарплате Кузнецова 850 долларов США в месяц в рублевом эквиваленте ему бы потребовалось работать 322 года,</segment>
+		<segment id="22" parent="21" relname="purpose">чтобы заработать на имущество,</segment>
+		<segment id="23" relname="antithesis">записанное на его семью в течение последних нескольких лет.</segment>
+		<segment id="24" relname="antithesis">##### Работавший с Магнитским юрист Джемисон Файрстоун подготовил обращения с просьбой проверить источники обогащения семьи подполковника Кузнецова к президенту РФ, генпрокурору Юрию Чайке, а также в ДСБ и Управление организации профилактики коррупционных и иных правонарушений Департамента кадрового обеспечения МВД.</segment>
+		<segment id="25" relname="antithesis">Как пишет «Лента.ру»,</segment>
+		<segment id="26" relname="antithesis">жалобы были направлены 21 мая,</segment>
+		<segment id="27" relname="antithesis">ответов на них пока не поступало.</segment>
+		<segment id="28" relname="antithesis">##### В апреле 2010 года американский сенатор Бен Кардин выступил с предложением аннулировать вьездные визы в США для 60 российских чиновников,</segment>
+		<segment id="29" relname="antithesis">связанных со смертью Магнитского.</segment>
+		<segment id="30" relname="antithesis">Соответствующий запрос был подан госсекретарю США Хиллари Клинтон.</segment>
+		<segment id="31" parent="32" relname="condition">Решение об этом пока не принято,</segment>
+		<segment id="32" relname="antithesis">но 24 июня Клинтон,</segment>
+		<segment id="33" relname="antithesis">выступая в Вашингтоне на российско-американском форуме «Гражданское общество — гражданскому обществу»,</segment>
+		<segment id="34" relname="antithesis">что администрация Барака Обамы «глубоко озабочена» ситуацией вокруг дела Магнитского,</segment>
+		<segment id="35" relname="antithesis">пишет газета Telegraph.</segment>
+		<segment id="36" relname="antithesis">Форум был приурочен к визиту в США российского президента Дмитрия Медведева,</segment>
+		<segment id="37" relname="antithesis">но сам Медведев на нём не присутствовал.</segment>
+		<segment id="38" parent="39" relname="attribution">##### Сторонники Магнитского отмечают,</segment>
+		<segment id="39" relname="antithesis">что Артём Кузнецов со времени совершения приписываемых ему преступлений пошёл на повышение:</segment>
+		<segment id="40" relname="antithesis">ранее он служил в Управлении по налоговым преступлениям ГУВД Москвы,</segment>
+		<segment id="41" relname="antithesis">а с начала 2010 года перешел в Департамент экономической безопасности (ДЭБ) МВД.</segment>
+		<segment id="42" relname="antithesis">За последние месяцы было несколько громких случаев,</segment>
+		<segment id="43" relname="antithesis">когда частные лица или инициативные группы российских граждан публично сообщали о крупномасштабных фактах коррупции в органах российской власти с упоминанием конкретных эпизодов и называнием фамилий предполагаемых коррупционеров.</segment>
+		<segment id="44" relname="antithesis">В частности, особый резонанс имело дело о коррупции в банке ВТБ,</segment>
+		<segment id="45" relname="antithesis">инициированное Алексеем Навальным.</segment>
+		<segment id="46" relname="antithesis">Кроме того, фамилии предполагаемых правоохранителей-коррупционеров называл сбежавший из России бизнесмен Евгений Чичваркин.</segment>
+		<segment id="47" relname="antithesis">##### Комментаторы-активисты в блоге Навального сообщают о том,</segment>
+		<segment id="48" relname="antithesis">что они направляют многочисленные запросы,</segment>
+		<segment id="49" relname="antithesis">связанные с озвучиваемыми случаями,</segment>
+		<segment id="50" relname="antithesis">в блог президента РФ Медеведева,</segment>
+		<segment id="51" relname="antithesis">но такие комментарии не пропускаются модераторами блога.</segment>
+		<segment id="52" relname="antithesis">Они также пишут обращения по Интернету и в письменном виде в надзорные органы власти,</segment>
+		<segment id="53" relname="antithesis">но оттуда, как правило, либо не приходит ответов,</segment>
+		<segment id="54" relname="antithesis">либо приходят формальные ответы характера «ваше сообщение принято к сведению».</segment>
+		<segment id="55" relname="antithesis">Сам Навальный регулярно публикует в своём блоге приходящие ему письменные ответы властей на его запросы о случаях коррупции среди высокопоставленных чиновников:</segment>
+		<segment id="56" relname="antithesis">ответы в общем случае можно охарактеризовать как попытки избежать проведения следственных действий.</segment>
+		<segment id="57" relname="antithesis">В частности, подобное происходит с обращениями,</segment>
+		<segment id="58" relname="antithesis">связанными с делом фирмы Daimler,</segment>
+		<segment id="59" parent="58" relname="elaboration">которая сама призналась в подкупе российских чиновников,</segment>
+		<segment id="60" relname="antithesis">хотя о «взятии дела на контроль» заявлял президент Медевдев.</segment>
+		<segment id="61" relname="antithesis">Представители власти несколько раз обещали через СМИ «провести проверки» в связи с громкими коррупционными делами,</segment>
+		<segment id="62" relname="antithesis">но конкретные действия пока свелись к увольнению или понижению нескольких милицейских чиновников.</segment>
+    </body>
+</rst>

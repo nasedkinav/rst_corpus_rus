@@ -1,0 +1,215 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### И евро такой молодой.</segment>
+		<segment id="2" relname="antithesis">##### Единая европейская валюта стремительно набирает вес.</segment>
+		<segment id="3" relname="antithesis">В результате в России,</segment>
+		<segment id="4" relname="antithesis">где доллар все еще правит бал,</segment>
+		<segment id="5" relname="antithesis">начинают дорожать немецкие автомобили, итальянская мебель, французская одежда и турпоездки в Старый Свет.</segment>
+		<segment id="6" relname="antithesis">##### Евросценарии.</segment>
+		<segment id="7" relname="antithesis">##### Естественно, всех волнует вопрос,</segment>
+		<segment id="8" relname="antithesis">продолжит ли евро свое триумфальное шествие в ближайшие месяцы.</segment>
+		<segment id="9" relname="antithesis">Существует несколько прогнозных сценариев.</segment>
+		<segment id="10" relname="antithesis">Ряд экспертов убежден,</segment>
+		<segment id="11" relname="antithesis">что рост евро - явление временное,</segment>
+		<segment id="12" relname="antithesis">и вызвано оно в первую очередь неопределенностью вокруг Ирака и его нефтяного потенциала.</segment>
+		<segment id="13" relname="antithesis">По их логике,</segment>
+		<segment id="14" relname="antithesis">как только Ирак будет взят под американский контроль,</segment>
+		<segment id="15" relname="antithesis">доллар вновь пойдет вверх.</segment>
+		<segment id="16" relname="antithesis">Пессимисты, напротив, предупреждают,</segment>
+		<segment id="17" relname="antithesis">что слабость доллара порождена отнюдь не ожиданием войны, а экономической ситуацией в США.</segment>
+		<segment id="18" relname="antithesis">"Тенденция к падению доллара наметилась еще задолго до того,</segment>
+		<segment id="19" relname="antithesis">как начались разговоры об операции против Ирака"</segment>
+		<segment id="20" relname="antithesis">- подчеркивает германский эксперт Вильфрид Херц.</segment>
+		<segment id="21" relname="antithesis">Это подтверждается и данными о движении капитала.</segment>
+		<segment id="22" relname="antithesis">Согласно информации Deutsche Bank,</segment>
+		<segment id="23" relname="antithesis">за 2002 год в европейские гособлигации инвесторы вложили 52 миллиарда евро,</segment>
+		<segment id="24" relname="antithesis">тогда как в 2001-м ситуация была прямо противоположной:</segment>
+		<segment id="25" relname="antithesis">тогда из Европы в основном за океан перекочевало 84 миллиарда.</segment>
+		<segment id="26" relname="antithesis">То,</segment>
+		<segment id="27" relname="antithesis">что мировые деньги изменили маршрут,</segment>
+		<segment id="28" relname="antithesis">очень плохо для американской экономики.</segment>
+		<segment id="29" relname="antithesis">Ведь для того чтобы покрывать дефицит платежного баланса, США необходимо получать от иностранных инвесторов 1,4 миллиарда долларов ежедневно.</segment>
+		<segment id="30" parent="31" relname="condition">Если же деньги покидают Америку,</segment>
+		<segment id="31" relname="antithesis">это означает,</segment>
+		<segment id="32" relname="antithesis">что для инвесторов риск инвестиций в экономику США перевешивает ожидания возможной прибыли.</segment>
+		<segment id="33" relname="antithesis">И это происходит,</segment>
+		<segment id="34" relname="antithesis">несмотря на необычайно слабый рост европейской экономики (1-2 процента в зависимости от страны).</segment>
+		<segment id="35" relname="antithesis">Очевидно, действиями инвесторов руководит логика "пусть поменьше,</segment>
+		<segment id="36" relname="antithesis">но зато надежно".</segment>
+		<segment id="37" relname="antithesis">##### Большинство европейских экспертов прогнозирует курс в диапазоне 1,05-1,10 доллара за евро как оптимальный.</segment>
+		<segment id="38" relname="antithesis">"Тенденция к укреплению евро может продолжиться и в 2003 году</segment>
+		<segment id="39" relname="antithesis">здесь сработает "эффект толпы",</segment>
+		<segment id="40" parent="39" relname="elaboration">при котором усилению этой валюты будет способствовать массовый перевод средств из долларов.</segment>
+		<segment id="41" relname="antithesis">Эти настроения могут усиливаться и на государственном уровне</segment>
+		<segment id="42" relname="antithesis">недавно об увеличении доли золотовалютных резервов в евро заявил Центральный банк РФ,</segment>
+		<segment id="43" relname="antithesis">ранее с подобными заявлениями выступал Китай и другие страны"</segment>
+		<segment id="44" relname="antithesis">- считает руководитель конъюнктурно-аналитического управления Росбанка Валерий Петров.</segment>
+		<segment id="45" relname="antithesis">Действительно, первый замглавы ЦБ Олег Вьюгин на днях поделился именно такими планами,</segment>
+		<segment id="46" relname="antithesis">правда, по его словам,</segment>
+		<segment id="47" relname="antithesis">золотовалютные резервы будут прирастать не евро единым</segment>
+		<segment id="48" relname="antithesis">в них должна увеличиться доля золота</segment>
+		<segment id="49" relname="antithesis">оно в последнее время устойчиво дорожает)</segment>
+		<segment id="50" relname="antithesis">и английских фунтов стерлингов.</segment>
+		<segment id="51" relname="antithesis">Аналогичный процесс идет и за пределами России.</segment>
+		<segment id="52" relname="antithesis">К примеру, страны,</segment>
+		<segment id="53" relname="antithesis">готовящиеся к вступлению в ЕС,</segment>
+		<segment id="54" relname="antithesis">уже привязали или привяжут свои национальные валюты к евро.</segment>
+		<segment id="55" relname="antithesis">То же произошло и с 15 государствами Африки,</segment>
+		<segment id="56" relname="antithesis">чьи деньги были до введения евро ориентированы на французский франк.</segment>
+		<segment id="57" relname="antithesis">А главный экономист Deutsche Bank Норберт Вальтер вообще предсказывает,</segment>
+		<segment id="58" relname="antithesis">что в будущем в мире останутся три валюты</segment>
+		<segment id="59" relname="antithesis">доллар, евро и единая денежная единица Азии.</segment>
+		<segment id="60" relname="antithesis">Правда, последней еще предстоит появиться на свет.</segment>
+		<segment id="61" relname="antithesis">Вряд ли эту роль сможет взять на себя иена,</segment>
+		<segment id="62" relname="antithesis">учитывая незавидное финансовое положение Японии.</segment>
+		<segment id="63" relname="antithesis">Однако потенциальный валютный союз Страны восходящего солнца, Китая и Индии вполне способен породить деньги,</segment>
+		<segment id="64" parent="63" relname="elaboration">которые бросят вызов доллару и евро.</segment>
+		<segment id="65" relname="antithesis">Некоторые эксперты, в частности лауреат Нобелевской премии по экономике Роберт Манделл,</segment>
+		<segment id="66" relname="antithesis">вообще видят будущее за единой мировой валютой.</segment>
+		<segment id="67" parent="66" relname="condition">"Если убрать у 100 иен два нуля, то курс японской валюты будет колебаться вокруг одного доллара или евро, - предлагает он.</segment>
+		<segment id="68" relname="antithesis">Затем необходимо жестко привязать три валюты,</segment>
+		<segment id="69" relname="antithesis">и вот вам мировые деньги".</segment>
+		<segment id="70" relname="antithesis">Но если видение Манделла</segment>
+		<segment id="71" relname="antithesis">обретет реальные очертания,</segment>
+		<segment id="72" relname="antithesis">то нескоро.</segment>
+		<segment id="73" relname="antithesis">##### Как получишь евро,</segment>
+		<segment id="74" relname="antithesis">береги его...</segment>
+		<segment id="75" relname="antithesis">##### По итогам 2002 года даже наличный евро оказался гораздо выгоднее и рублевых, и долларовых депозитов.</segment>
+		<segment id="76" relname="antithesis">Из этого многие уже сделали соответствующие выводы,</segment>
+		<segment id="77" relname="antithesis">конвертировав часть сбережений в самую молодую валюту Старого Света.</segment>
+		<segment id="78" relname="antithesis">Согласно официальным данным,</segment>
+		<segment id="79" relname="antithesis">уровень рублевой инфляции за 2002 год составил 15 процентов.</segment>
+		<segment id="80" relname="antithesis">Столько же в среднем банки платят по рублевым депозитам.</segment>
+		<segment id="81" relname="antithesis">Иными словами,</segment>
+		<segment id="82" relname="antithesis">хранить сбережения в национальной валюте стало невыгодно</segment>
+		<segment id="83" relname="antithesis">от инфляции эта схема спасает,</segment>
+		<segment id="84" relname="antithesis">но заработать не дает.</segment>
+		<segment id="85" relname="antithesis">Клиенты банков это прекрасно понимают:</segment>
+		<segment id="86" parent="87" relname="attribution">например, в Банке Москвы "Итогам" сообщили,</segment>
+		<segment id="87" relname="antithesis">что доля рублевых вкладов граждан неуклонно снижается,</segment>
+		<segment id="88" relname="antithesis">а валютные депозиты,</segment>
+		<segment id="89" relname="antithesis">наоборот, растут.</segment>
+		<segment id="90" relname="antithesis">Вице-президент инвестиционной компании "Тройка Диалог" Евгений Гавриленков вообще исключил рубль из своего "инвестиционного валютного портфеля"</segment>
+		<segment id="91" relname="antithesis">альтернативой он считает размещение этих средств на рынке ценных бумаг,</segment>
+		<segment id="92" relname="antithesis">что неудивительно:</segment>
+		<segment id="93" relname="antithesis">за прошлый год российский фондовый рынок вырос примерно на 28 процентов (по индексу Российской торговой системы),</segment>
+		<segment id="94" relname="antithesis">а акции там торгуются в долларах.</segment>
+		<segment id="95" relname="antithesis">Тенденция эта,</segment>
+		<segment id="96" relname="antithesis">считают аналитики, долгосрочная,</segment>
+		<segment id="97" parent="96" relname="cause-effect">поскольку большинство российских предприятий сильно недооценены и их акции имеют значительный потенциал роста.</segment>
+		<segment id="98" relname="antithesis">##### Что касается долларовых депозитов,</segment>
+		<segment id="99" relname="antithesis">то в среднем отечественные банки по такого рода вкладам платят около 7 процентов годовых.</segment>
+		<segment id="100" relname="antithesis">За год курс американской валюты по отношению к рублю вырос всего на 5,5 процента.</segment>
+		<segment id="101" parent="102" relname="condition">Если соотнести это с уровнем рублевой инфляции,</segment>
+		<segment id="102" relname="antithesis">то получится,</segment>
+		<segment id="103" relname="antithesis">что за год доллар потерял около 9 процентов.</segment>
+		<segment id="104" relname="antithesis">Таким образом, по оценке Валерия Петрова, держатели долларов недосчитались более 8 процентов,</segment>
+		<segment id="105" parent="104" relname="condition">если хранили наличные,</segment>
+		<segment id="106" relname="antithesis">и от 1,5 процента до 4,5 процента,</segment>
+		<segment id="107" parent="106" relname="condition">если имели вклады в "зеленых".</segment>
+		<segment id="108" relname="antithesis">##### На этом фоне евро смотрится более чем привлекательно.</segment>
+		<segment id="109" relname="antithesis">С учетом роста курсовой двадцатипроцентной динамики и долларовой инфляции в 9 процентов годовых суммарный доход по наличным евро составил около 10 процентов.</segment>
+		<segment id="110" relname="antithesis">А депозиты дали еще больше - порядка 16-17 процентов.</segment>
+		<segment id="111" relname="antithesis">Понятно, что при таком разрыве в доходности рост вкладов в евро будет и впредь опережать темпы увеличения долларовых депозитов.</segment>
+		<segment id="112" relname="antithesis">Так, по словам начальника управления продаж Банка Москвы Фарида Шафикова,</segment>
+		<segment id="113" parent="112" relname="condition">если на начало 2002 года вклады в евро составляли около 2 процентов всех депозитов этого кредитного института,</segment>
+		<segment id="114" relname="antithesis">то на конец года данный показатель достиг 5 процентов - рост в 2,5 раза.</segment>
+		<segment id="115" relname="antithesis">Похожая картина наблюдается и по другим банкам:</segment>
+		<segment id="116" relname="antithesis">кое-где объем вкладов в евро вырос в 4-5 раз.</segment>
+		<segment id="117" relname="antithesis">При этом процентное соотношение долларовых депозитов в структуре пассивов большинства столичных банков осталось прежним</segment>
+		<segment id="118" relname="antithesis">их по-прежнему</segment>
+		<segment id="119" relname="antithesis">ока что около 60 процентов,</segment>
+		<segment id="120" relname="antithesis">и рост вкладов в евро идет в основном за счет уменьшения доли рублей.</segment>
+		<segment id="121" relname="antithesis">##### "Зеленое" не надевать.</segment>
+		<segment id="122" relname="antithesis">##### Что касается сектора торговли и услуг,</segment>
+		<segment id="123" relname="antithesis">то тут процесс "евроизации" еще более заметен.</segment>
+		<segment id="124" relname="antithesis">Как известно, львиная часть торгового оборота России приходится на Европу.</segment>
+		<segment id="125" relname="antithesis">Соответственно, львиная доля импортных товаров уже привязана к евро.</segment>
+		<segment id="126" relname="antithesis">Германский автомобильный концерн BMW еще три года назад зафиксировал все цены на свои машины,</segment>
+		<segment id="127" relname="antithesis">продаваемые в России, в европейской валюте.</segment>
+		<segment id="128" relname="antithesis">Тогда это было экзотикой</segment>
+		<segment id="129" relname="antithesis">на российском авторынке признавались только доллары.</segment>
+		<segment id="130" relname="antithesis">Но со временем такой подход полностью себя оправдал.</segment>
+		<segment id="131" relname="antithesis">Сейчас по тому же пути готовится пойти Ford:</segment>
+		<segment id="132" relname="antithesis">руководство российского филиала уже рассматривает подобную схему.</segment>
+		<segment id="133" parent="134" relname="condition">В Renault пока размышляют,</segment>
+		<segment id="134" relname="antithesis">но тарифы на услуги сервиса уже зафиксировали в евро.</segment>
+		<segment id="135" relname="antithesis">"В России так исторически сложилось,</segment>
+		<segment id="136" relname="antithesis">что цены на автомобили устанавливаются в долларах.</segment>
+		<segment id="137" relname="antithesis">Покупатель к этому привык,</segment>
+		<segment id="138" relname="antithesis">долларовая цена для него является неким эталоном.</segment>
+		<segment id="139" relname="antithesis">В то же время с заводом в Турции,</segment>
+		<segment id="140" relname="antithesis">где производятся Renault Symbol (самая ходовая в России модель. - "Итоги"),</segment>
+		<segment id="141" relname="antithesis">мы ведем расчеты в евро,</segment>
+		<segment id="142" relname="antithesis">и с ростом курса этой валюты относительно доллара цены придется корректировать"</segment>
+		<segment id="143" relname="antithesis">- отметил директор по связям с общественностью компании "Автофрамос" (официального представителя Renault в России) Ян Доризон.</segment>
+		<segment id="144" relname="antithesis">##### Столь быстрая реакция на изменение курса характерна для экспортеров,</segment>
+		<segment id="145" relname="antithesis">работающих на относительно небольших по емкости рынках.</segment>
+		<segment id="146" relname="antithesis">Тот же концерн BMW реализует в России несколько тысяч машин в год,</segment>
+		<segment id="147" relname="antithesis">тогда как на рынке Северной Америки счет продаж идет на сотни тысяч.</segment>
+		<segment id="148" relname="antithesis">Естественно, в условиях роста евро цены на баварские автомобили в США,</segment>
+		<segment id="149" relname="antithesis">по логике,</segment>
+		<segment id="150" relname="antithesis">тоже должны были бы пойти вверх,</segment>
+		<segment id="151" relname="antithesis">но этого не происходит.</segment>
+		<segment id="152" relname="antithesis">Дело в том,</segment>
+		<segment id="153" relname="antithesis">что крупные производители через банки страхуют риски от скачков валютного курса.</segment>
+		<segment id="154" relname="antithesis">В среднем такая услуга обходится в 5 процентов от страхуемой суммы.</segment>
+		<segment id="155" relname="antithesis">При изменении курса на 20 процентов,</segment>
+		<segment id="156" relname="antithesis">как это случилось в последний год между долларом и евро,</segment>
+		<segment id="157" relname="antithesis">подобные расходы себя оправдали.</segment>
+		<segment id="158" relname="antithesis">К примеру, BMW застраховал риски на североамериканском, то есть долларовом рынке на год вперед, а другая германская компания,</segment>
+		<segment id="159" relname="antithesis">Porsche,</segment>
+		<segment id="160" relname="antithesis">- аж до 2007 года.</segment>
+		<segment id="161" relname="antithesis">Подобной предусмотрительности Porsche научил горький опыт прежних лет.</segment>
+		<segment id="162" parent="163" relname="condition">Если в 1985 году за один доллар давали 4 марки,</segment>
+		<segment id="163" relname="antithesis">то к 1993-му курс германской национальной валюты вырос до 1,35 марки.</segment>
+		<segment id="164" relname="antithesis">Porsche,</segment>
+		<segment id="165" parent="164" relname="elaboration">которая продавала на рынке США каждый второй автомобиль,</segment>
+		<segment id="166" relname="antithesis">оказалась тогда на грани банкротства:</segment>
+		<segment id="167" relname="antithesis">сбыт ее машин в Северной Америке упал с более чем 30 тысяч до 4 тысяч.</segment>
+		<segment id="168" relname="antithesis">##### Из Европы к нам идут не только автомобили - наиболее качественную мебель, бытовую технику,</segment>
+		<segment id="169" relname="antithesis">парфюмерию и косметику мы импортируем именно оттуда.</segment>
+		<segment id="170" relname="antithesis">Многие предприниматели уже начали работать в новых валютных реалиях,</segment>
+		<segment id="171" relname="antithesis">приравняв одну у. е. к одному евро.</segment>
+		<segment id="172" relname="antithesis">К примеру, некоторые торговцы мебелью целиком пересчитали ценообразование своего товара на новую валюту.</segment>
+		<segment id="173" relname="antithesis">Вот как объяснил "Итогам" данную логику владелец мебельных салонов "Гранд" и "Три кита" Сергей Зуев: "Цены на мебель в наших салонах установлены в рублях - так положено по российскому законодательству, но все наши внутренние расчеты мы вот уже полгода ведем исключительно в евро.</segment>
+		<segment id="174" relname="antithesis">Мы перешли на эту валюту</segment>
+		<segment id="175" relname="antithesis">осле того, как ее курс стал сильно расти</segment>
+		<segment id="176" relname="antithesis">так удобнее и нам, и нашим партнерам за границей.</segment>
+		<segment id="177" relname="antithesis">Да и все цены на мебельных выставках уже давно переведены в евро.</segment>
+		<segment id="178" relname="antithesis">В этой валюте мы</segment>
+		<segment id="179" relname="antithesis">рассчитываемся с иностранными поставщиками".</segment>
+    </body>
+</rst>

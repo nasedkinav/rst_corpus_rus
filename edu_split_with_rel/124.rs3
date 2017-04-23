@@ -1,0 +1,72 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### 22-летний житель Аризоны,</segment>
+		<segment id="2" relname="antithesis">открывший стрельбу,</segment>
+		<segment id="3" relname="antithesis">в результате которой пострадали 20 человек,</segment>
+		<segment id="4" relname="antithesis">и попытавшийся убить члена Конгресса США,</segment>
+		<segment id="5" relname="antithesis">впервые предстал перед судом по обвинению в совершении федерального преступления.</segment>
+		<segment id="6" relname="antithesis">##### В понедельник Джаред Лофнер в наручниках и в сопровождении нескольких охранников доставлен в суд в города Феникс.</segment>
+		<segment id="7" parent="8" relname="attribution">Побритый наголо и одетый в тюремную форму, он сказал,</segment>
+		<segment id="8" relname="antithesis">что знает свои права.</segment>
+		<segment id="9" relname="antithesis">##### Лофнер предстал перед судом через два дня после стрельбы в Тусоне.</segment>
+		<segment id="10" relname="antithesis">Тогда были убиты шесть человек,</segment>
+		<segment id="11" relname="antithesis">а член Палаты представителей Конгресса США от штата Аризона Гэбриэль Гиффордс получила ранение и в настоящее время находится в критическом состоянии.</segment>
+		<segment id="12" relname="antithesis">Были ранены еще 13 человек.</segment>
+		<segment id="13" parent="14" relname="attribution">##### В этот же день президент США Барак Обама заявил,</segment>
+		<segment id="14" relname="antithesis">что страна и народ до сих пор скорбят</segment>
+		<segment id="15" relname="antithesis">не могут оправиться от шока,</segment>
+		<segment id="16" relname="antithesis">вызванного тем,</segment>
+		<segment id="17" relname="antithesis">что произошло в субботу.</segment>
+		<segment id="18" relname="antithesis">Обама выступал в Белом доме через несколько часов</segment>
+		<segment id="19" relname="antithesis">осле того, как по всей стране прошла минута молчания в память о жертвах этого преступления.</segment>
+		<segment id="20" relname="antithesis">##### Президент и первая леди Мишель Обама задержались в Белом доме,</segment>
+		<segment id="21" relname="antithesis">а персонал и посетители собрались на ступенях Капитолия.</segment>
+		<segment id="22" relname="antithesis">Нью-йоркская фондовая биржа и государственные учреждения также почтили память погибших.</segment>
+		<segment id="23" relname="antithesis">##### Врачи, прооперировавшие и лечащие 40-летнюю Гиффордс,</segment>
+		<segment id="24" relname="antithesis">говорят, что они настроены немного более оптимистично.</segment>
+		<segment id="25" relname="antithesis">По сообщениям докторов,</segment>
+		<segment id="26" relname="antithesis">она реагирует на простые команды.</segment>
+		<segment id="27" relname="antithesis">Вместе с тем,</segment>
+		<segment id="28" relname="antithesis">они предупреждают,</segment>
+		<segment id="29" relname="antithesis">что опасность еще не миновала,</segment>
+		<segment id="30" relname="antithesis">хотя состояние их пациентки стабилизировалось.</segment>
+		<segment id="31" relname="antithesis">##### В субботу во время встречи с избирателями возле одного из супермаркетов Гиффордс получила пулевое ранение в голову.</segment>
+		<segment id="32" relname="antithesis">##### Лофнеру предъявлено обвинение,</segment>
+		<segment id="33" relname="antithesis">состоящее из нескольких пунктов.</segment>
+		<segment id="34" relname="antithesis">Один из них</segment>
+		<segment id="35" parent="34" relname="elaboration">– покушение на политическое убийство члена Конгресса, два пункта – покушение на убийство сотрудника федерального правительства и еще два пункта –</segment>
+		<segment id="36" relname="antithesis">покушение на убийство сотрудника федерального учреждения.</segment>
+    </body>
+</rst>

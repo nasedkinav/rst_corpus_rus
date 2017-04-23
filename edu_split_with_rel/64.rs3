@@ -1,0 +1,99 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Новости о грядущей эмиссии в США обвалили доллар</segment>
+		<segment id="2" relname="antithesis">подняли цену золота.</segment>
+		<segment id="3" parent="4" relname="condition">При этом рост количества долларов пока не зафиксирован.</segment>
+		<segment id="4" relname="antithesis">Со швейцарским франком ситуация противоположная: стало известно,</segment>
+		<segment id="5" relname="antithesis">что в феврале денежная масса Швейцарии увеличилась на 3,5%,</segment>
+		<segment id="6" relname="antithesis">однако биржевой курс франка и его покупательная способность за неделю выросли.</segment>
+		<segment id="7" relname="antithesis">##### Во время кризиса словно почва уходит из-под ног.</segment>
+		<segment id="8" relname="antithesis">Привычные ценовые ориентиры превращаются в какие-то бессмысленные фантастические цифры.</segment>
+		<segment id="9" relname="antithesis">Всё обваливается,</segment>
+		<segment id="10" relname="antithesis">и о возможных пределах этого обвала можно только гадать.</segment>
+		<segment id="11" relname="antithesis">Акции «Газпрома» обесценились в три с лишним раза.</segment>
+		<segment id="12" relname="antithesis">А могут ли они упасть еще дальше: в 10, в 30, в 100 раз?</segment>
+		<segment id="13" relname="antithesis">Чего стоит ожидать от мировых валют при наихудшем раскладе и как понять,</segment>
+		<segment id="14" relname="antithesis">действительно ли сложившийся расклад — наихудший?</segment>
+		<segment id="15" relname="antithesis">Вероятен ли, например, крах американского доллара?</segment>
+		<segment id="16" relname="antithesis">И что в существующих условиях можно называть крахом?</segment>
+		<segment id="17" parent="18" relname="purpose">##### Чтобы помочь читателям,</segment>
+		<segment id="18" relname="antithesis">размышляющим над этими вопросами,</segment>
+		<segment id="19" relname="antithesis">мы начинаем рассчитывать</segment>
+		<segment id="20" relname="antithesis">публиковать специальные показатели,</segment>
+		<segment id="21" relname="antithesis">измеряющие величину разрыва между текущей стоимостью самых популярных финансовых активов и оценкой,</segment>
+		<segment id="22" parent="21" relname="elaboration">которую им мог бы дать наиболее скептический и консервативный аналитик.</segment>
+		<segment id="23" relname="antithesis">Ведь во время кризисов обычно выигрывает тот,</segment>
+		<segment id="24" relname="antithesis">кто опирается на самые мрачные и пессимистичные прогнозы.</segment>
+		<segment id="25" relname="antithesis">##### Валютный глубиномер.</segment>
+		<segment id="26" relname="antithesis">Индекс золотого дна.</segment>
+		<segment id="27" parent="28" relname="attribution">##### После того как Бен Бернанке заявил,</segment>
+		<segment id="28" relname="antithesis">что ФРС направит 1050 млрд долларов на скупку ипотечных бумаг и долгосрочных американских облигаций</segment>
+		<segment id="29" relname="antithesis">это произошло 18 марта)</segment>
+		<segment id="30" relname="antithesis">доллар упал и относительно золота, и относительно прочих валют.</segment>
+		<segment id="31" relname="antithesis">За неделю унция золота подорожала с 921,6 до 952,1 доллара.</segment>
+		<segment id="32" relname="antithesis">Однако увеличение количества долларов,</segment>
+		<segment id="33" relname="antithesis">ожидаемое рынками,</segment>
+		<segment id="34" parent="35" relname="condition">пока не зафиксировано.</segment>
+		<segment id="35" relname="antithesis">Наоборот, свежие данные от ФРС показывают уменьшение денежной массы:</segment>
+		<segment id="36" relname="antithesis">на 9 марта М1 был равен 1534 млрд долларов.</segment>
+		<segment id="37" relname="antithesis">Таким образом, золотое содержание тысячи долларов поднялось до 5,3 грамма.</segment>
+		<segment id="38" relname="antithesis">##### Когда покупательная способность валюты на рынке падает,</segment>
+		<segment id="39" relname="antithesis">а ее реальная обеспеченность золотом растет,</segment>
+		<segment id="40" relname="antithesis">это объясняется негативными ожиданиями</segment>
+		<segment id="41" relname="antithesis">приближает курс валюты к «золотому дну».</segment>
+		<segment id="42" relname="antithesis">Итак, американский доллар немного утонул,</segment>
+		<segment id="43" relname="antithesis">и его потенциал падения уменьшился с 84,75 до 83,77%.</segment>
+		<segment id="44" relname="antithesis">##### Таблица 1.</segment>
+		<segment id="45" relname="antithesis">Цена золота на Нью-Йоркской товарной бирже.</segment>
+		<segment id="46" relname="antithesis">##### Помимо ФРС,</segment>
+		<segment id="47" relname="antithesis">на этой неделе новые данные о денежной массе опубликовал Банк Швейцарии.</segment>
+		<segment id="48" relname="antithesis">За февраль в этой стране агрегат М1 вырос на 3,5% — с 343 до 355 млрд франков.</segment>
+		<segment id="49" relname="antithesis">Соответственно золотое содержание тысячи франков упало с 3,03 до 2,93 грамма.</segment>
+		<segment id="50" relname="antithesis">При этом швейцарский франк особенно сильно поднялся относительно доллара:</segment>
+		<segment id="51" relname="antithesis">неделю назад курс был равен 1,186,</segment>
+		<segment id="52" relname="antithesis">а сейчас — 1,13.</segment>
+		<segment id="53" relname="antithesis">Таким образом, ожидания в отношении этой валюты благоприятны,</segment>
+		<segment id="54" relname="antithesis">она всплыла,</segment>
+		<segment id="55" relname="antithesis">и ее потенциал падения вырос с 89,34 до 89,87%.</segment>
+		<segment id="56" relname="antithesis">##### Таблица 2.</segment>
+		<segment id="57" relname="antithesis">Золотое содержание и потенциалы падения некоторых валют.</segment>
+		<segment id="58" relname="antithesis">##### У остальных валют покупательная способность остается в целом стабильной.</segment>
+		<segment id="59" relname="antithesis">Фунт и евро немного укрепились,</segment>
+		<segment id="60" relname="antithesis">а иена слегка упала,</segment>
+		<segment id="61" relname="antithesis">но это незначительные движения.</segment>
+		<segment id="62" relname="antithesis">##### Наименьшим потенциалом падения по-прежнему обладают американский доллар и швейцарский франк,</segment>
+		<segment id="63" relname="antithesis">наибольшим — японская иена и фунт стерлингов.</segment>
+    </body>
+</rst>

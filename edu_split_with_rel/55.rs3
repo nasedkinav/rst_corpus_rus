@@ -1,0 +1,119 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Обамомания шагает по планете.</segment>
+		<segment id="2" relname="antithesis">Люди самых разных национальностей нашли нового идола,</segment>
+		<segment id="3" relname="antithesis">а предприимчивые бизнесмены</segment>
+		<segment id="4" relname="antithesis">отличный способ заработать на этом</segment>
+		<segment id="5" relname="antithesis">остаться на плаву во время мирового финансового кризиса.</segment>
+		<segment id="6" relname="antithesis">##### Например, китайские предприниматели вслед за всеми печатными СМИ приветствовали избрание Барака Обамы тиражированием его имени,</segment>
+		<segment id="7" relname="antithesis">но не на бумаге, а на всевозможных товарах — от лапши быстрого приготовления до футболок.</segment>
+		<segment id="8" relname="antithesis">Как сообщает газета The Telegraph,</segment>
+		<segment id="9" relname="antithesis">в городе Вэньчжоу производитель обуви зарегистрировал торговую марку Mei Obama,</segment>
+		<segment id="10" relname="antithesis">что переводится как «Американский Обама».</segment>
+		<segment id="11" relname="antithesis">Теперь имя нового президента США красуется на ботинках, босоножках и сапогах.</segment>
+		<segment id="12" relname="antithesis">##### В Хартуме, столице Судана, накануне инаугурации открылась парикмахерская имени Барака Обамы.</segment>
+		<segment id="13" relname="antithesis">В небольшом помещении на рынке Аль-Меркези цирюльник за несколько фунтов стрижет любого «под 44-го президента».</segment>
+		<segment id="14" relname="antithesis">##### В Японии фабрика Ogawa Rubber Inc. произвела</segment>
+		<segment id="15" relname="antithesis">уже распродала более 2,5 тыс. масок Обамы.</segment>
+		<segment id="16" relname="antithesis">На подходе еще тысяча экземпляров.</segment>
+		<segment id="17" relname="antithesis">Причем новый «бестселлер» идет почти вровень по популярности с маской бывшего премьер-министра Японии Дзюнъитиро Коидзуми.</segment>
+		<segment id="18" relname="antithesis">Латексное лицо избранного президента США продается в магазинах Японии по цене примерно 2 тыс. иен (около 24 долларов).</segment>
+		<segment id="19" relname="antithesis">##### В Израиле среди сувениров можно найти футболки с изображением нового хозяина Белого дома в образе ортодоксального еврея в кипе и с пейсами.</segment>
+		<segment id="20" relname="antithesis">Надпись на ней гласит:</segment>
+		<segment id="21" relname="antithesis">«Расслабься — будь евреем!»</segment>
+		<segment id="22" relname="antithesis">##### В столице Болгарии Софии на центральном открытом рынке с лотков торговцев разлетаются матрешки с изображением Обамы.</segment>
+		<segment id="23" relname="antithesis">Как пишет Esquire,</segment>
+		<segment id="24" relname="antithesis">на первой,</segment>
+		<segment id="25" relname="antithesis">самой большой,</segment>
+		<segment id="26" relname="antithesis">президент держит в руках скипетр и державу,</segment>
+		<segment id="27" relname="antithesis">на второй — гармонь,</segment>
+		<segment id="28" relname="antithesis">на третьей — чарку,</segment>
+		<segment id="29" relname="antithesis">на четвертой — хлеб-соль,</segment>
+		<segment id="30" relname="antithesis">а на пятой — букет гладиолусов.</segment>
+		<segment id="31" relname="antithesis">##### В США было запущено производство энергетического напитка под незатейливым названием «Обама».</segment>
+		<segment id="32" relname="antithesis">Он рекламируется как «первая газировка для всех,</segment>
+		<segment id="33" relname="antithesis">кому нужны позитивные перемены».</segment>
+		<segment id="34" relname="antithesis">Во время предвыборной кампании каждый покупатель упаковки из 24 банок жертвовал в предвыборный фонд Барака Обамы 1 доллар.</segment>
+		<segment id="35" relname="antithesis">В итоге кандидат от Демократической партии собрал около 640 млн долларов.</segment>
+		<segment id="36" relname="antithesis">##### Американцы также наладили выпуск презервативов с лицом Обамы на упаковке.</segment>
+		<segment id="37" relname="antithesis">Представители компании-производителя заявляют: «Сейчас нестабильные времена.</segment>
+		<segment id="38" relname="antithesis">Экономический рост замедлился.</segment>
+		<segment id="39" relname="antithesis">. Но появились презервативы Obama,</segment>
+		<segment id="40" relname="antithesis">и для разнообразия вы можете теперь верить в них».</segment>
+		<segment id="41" relname="antithesis">##### А для тех,</segment>
+		<segment id="42" relname="antithesis">кто хочет «почувствовать истинный вкус демократии»,</segment>
+		<segment id="43" relname="antithesis">продается гигиеническая помада «Барак».</segment>
+		<segment id="44" parent="45" relname="attribution">Попробовавшие утверждают,</segment>
+		<segment id="45" relname="antithesis">что у нее клубнично-мятный аромат.</segment>
+		<segment id="46" relname="antithesis">Продукт был запущен</segment>
+		<segment id="47" relname="antithesis">осле того, как в сентябре 2008 года Обама заявил: «Если накрасить свинью губной помадой, она останется свиньей»,</segment>
+		<segment id="48" relname="antithesis">намекая на лживую политику Маккейна и его напарницы Сары Пэйлин.</segment>
+		<segment id="49" relname="antithesis">Тогда Барака поспешили обвинить в сексизме,</segment>
+		<segment id="50" relname="antithesis">но, по-видимому, это никак не отразилось на его популярности.</segment>
+		<segment id="51" relname="antithesis">##### Образ Обамы не только помогает заработать денег,</segment>
+		<segment id="52" relname="antithesis">но</segment>
+		<segment id="53" relname="antithesis">вдохновляет некоторых на создание произведений искусства.</segment>
+		<segment id="54" relname="antithesis">Так, в Индии художник Дарла Нагесвара Рао создал портрет нового президента из 33 тыс. цветных наклеек.</segment>
+		<segment id="55" relname="antithesis">На это у него ушло около 160 часов,</segment>
+		<segment id="56" relname="antithesis">сообщает BBC.</segment>
+		<segment id="57" relname="antithesis">##### А посетитель сайта "Английское название" на котором развлекаются скучающие офисные служащие,</segment>
+		<segment id="58" relname="antithesis">создал копию знаменитого портрета Барака Обамы.</segment>
+		<segment id="59" relname="antithesis">Для этого он использовал то,</segment>
+		<segment id="60" relname="antithesis">что было у него под рукой, — 21 156 канцелярских кнопок и картонную доску.</segment>
+		<segment id="61" relname="antithesis">##### Барак как произведение искусства с 15 января 2009 года обитает в лондонском Музее мадам Тюссо.</segment>
+		<segment id="62" relname="antithesis">Специально для нее был воссоздан уголок легендарного Овального кабинета.</segment>
+		<segment id="63" relname="antithesis">«Теперь у вас есть возможность ближе узнать самого могущественного человека в мире»</segment>
+		<segment id="64" relname="antithesis">— говорится в пресс-релизе музея.</segment>
+		<segment id="65" relname="antithesis">##### Не остались равнодушными к славе Обамы и владельцы ювелирной компании в британском городе Бирмингем.</segment>
+		<segment id="66" relname="antithesis">Там выпустили памятную серебряную монету номиналом в 20 долларов с изображением Барака Обамы на фоне Белого дома.</segment>
+		<segment id="67" relname="antithesis">Более 300 экземпляров проданы.</segment>
+		<segment id="68" relname="antithesis">Такой успех заставил владельцев задуматься о более дорогом варианте монеты — из золота,</segment>
+		<segment id="69" relname="antithesis">каждая из которых обойдется поклоннику Обамы в 4 тыс. долларов.</segment>
+		<segment id="70" relname="antithesis">##### Барак Обама — суперзвезда.</segment>
+		<segment id="71" relname="antithesis">Он обладает удивительной способностью нравиться всем — вне зависимости от цвета кожи, вероисповедания, национальности и рода занятий.</segment>
+		<segment id="72" relname="antithesis">Однако преклонение это имеет многовековую предысторию.</segment>
+		<segment id="73" relname="antithesis">Любовь к царям, императорам, фараонам и прочим наместникам бога на земле правит умами человечества уже 4 тыс. лет.</segment>
+		<segment id="74" relname="antithesis">И особый внешний вид, специфический цвет кожи как был дополнительным фактором обожествления в праязыческие времена,</segment>
+		<segment id="75" relname="antithesis">так</segment>
+		<segment id="76" relname="antithesis">остался сегодня.</segment>
+		<segment id="77" relname="antithesis">Например, в Танзании и Конго кровь негров-альбиносов считается магическим снадобьем,</segment>
+		<segment id="78" relname="antithesis">дающим бессмертие.</segment>
+		<segment id="79" relname="antithesis">Таким образом, люди с белой кожей среди темнокожих оказываются жертвой всеобщей жажды потустороннего.</segment>
+		<segment id="80" relname="antithesis">##### 44-й президент США,</segment>
+		<segment id="81" relname="antithesis">конечно же,</segment>
+		<segment id="82" relname="antithesis">воспринимается миллионами людей как избранник, человек особой судьбы.</segment>
+		<segment id="83" relname="antithesis">И его африканское происхождение, темная кожа и экзотическое имя добавляют ему не просто шарма, а даже какой-то магической тайны в глазах суеверных поклонников.</segment>
+    </body>
+</rst>

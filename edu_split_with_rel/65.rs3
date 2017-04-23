@@ -1,0 +1,136 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### В среду новолуние.</segment>
+		<segment id="2" relname="antithesis">Несколько планет на границах знаков обещают неопределённую и зыбкую неделю,</segment>
+		<segment id="3" relname="antithesis">когда может поменяться то,</segment>
+		<segment id="4" relname="antithesis">с чем вы свыклись как с чем-то неизменным.</segment>
+		<segment id="5" relname="antithesis">Сейчас не стоит спешить кардинально решать все проблемы.</segment>
+		<segment id="6" relname="antithesis">Они более правильно решатся во второй половине сентября,</segment>
+		<segment id="7" relname="antithesis">когда многое прояснится</segment>
+		<segment id="8" relname="antithesis">встанет на свои места — может быть, уже по-новому.</segment>
+		<segment id="9" relname="antithesis">На этой неделе лучше просто отложить все вопросы,</segment>
+		<segment id="10" parent="9" relname="elaboration">которые ставят вас в тупик.</segment>
+		<segment id="11" relname="antithesis">Побыть с пустой головой накануне важных для вас решений и начинаний второй половины сентября.</segment>
+		<segment id="12" relname="antithesis">##### День новолуния — всегда сравнительно неблагоприятный — выпадает на среду,</segment>
+		<segment id="13" relname="antithesis">8 сентября.</segment>
+		<segment id="14" relname="antithesis">Однако ещё более мрачное расположение планет приходится на понедельник и вторник,</segment>
+		<segment id="15" relname="antithesis">мутные последние дни перед новолунием. 6—</segment>
+		<segment id="16" relname="antithesis">сентября довольно высока вероятность каких-то крупных катастроф.</segment>
+		<segment id="17" relname="antithesis">##### В повседневной жизни понедельник и вторник, скорее всего, пройдут спокойно. 6—7 сентября — естественные дни для некоторого выдоха.</segment>
+		<segment id="18" relname="antithesis">Чуть более расслабленного темпа.</segment>
+		<segment id="19" relname="antithesis">Во всяком случае, лучше придержать инициативу.</segment>
+		<segment id="20" parent="21" relname="condition">Если время терпит,</segment>
+		<segment id="21" relname="antithesis">не предпринимать ничего такого,</segment>
+		<segment id="22" relname="antithesis">что должно завершиться победой.</segment>
+		<segment id="23" relname="antithesis">В первой половине недели лучше немного поплыть по течению.</segment>
+		<segment id="24" relname="antithesis">Доделать неоконченные дела.</segment>
+		<segment id="25" relname="antithesis">Что-то подправить,</segment>
+		<segment id="26" relname="antithesis">навести порядок.</segment>
+		<segment id="27" relname="antithesis">Или просто избавиться от дел,</segment>
+		<segment id="28" parent="27" relname="elaboration">которые стали обузой.</segment>
+		<segment id="29" relname="antithesis">##### Сам день новолуния, среду,</segment>
+		<segment id="30" relname="antithesis">лучше провести как можно более «незаметно».</segment>
+		<segment id="31" relname="antithesis">Не хвататься за дела,</segment>
+		<segment id="32" parent="31" relname="elaboration">которые не требуется затевать именно в этот день.</segment>
+		<segment id="33" relname="antithesis">Не беспокойтесь,</segment>
+		<segment id="34" parent="33" relname="condition">если появится ощущение упадка сил.</segment>
+		<segment id="35" relname="antithesis">Или какого-то общего тупика.</segment>
+		<segment id="36" relname="antithesis">В новолуние это нормально.</segment>
+		<segment id="37" relname="antithesis">Уже в ближайшие дни наверняка появятся и новые идеи, и энергия.</segment>
+		<segment id="38" parent="39" relname="condition">Если вы не очень-то реагируете на лунные фазы,</segment>
+		<segment id="39" relname="antithesis">не спешите раздражаться по поводу окружающих,</segment>
+		<segment id="40" parent="39" relname="elaboration">которые немного впали в спячку или реагируют слегка неадекватно.</segment>
+		<segment id="41" relname="antithesis">Не принимайте это на свой счёт.</segment>
+		<segment id="42" relname="antithesis">Через день-другой это пройдёт.</segment>
+		<segment id="43" relname="antithesis">##### Новолуние 8 сентября пройдёт на фоне не слишком грозного расположения планет.</segment>
+		<segment id="44" relname="antithesis">В гороскопе этого новолуния, пожалуй, нет ярко выраженных указаний на какую-либо действительно страшную катастрофу или что-то вроде того в течение ближайшего месяца.</segment>
+		<segment id="45" relname="antithesis">##### Четверг, первый день нового лунного месяца,</segment>
+		<segment id="46" relname="antithesis">наверняка будет беспокойным.</segment>
+		<segment id="47" relname="antithesis">Каким-то неустойчивым.</segment>
+		<segment id="48" relname="antithesis">Непредвиденные стечения обстоятельств могут порядочно поломать ваши планы.</segment>
+		<segment id="49" relname="antithesis">На 9 сентября лучше не намечать ничего,</segment>
+		<segment id="50" relname="antithesis">что может легко сорваться,</segment>
+		<segment id="51" relname="antithesis">когда что-то пойдёт не так.</segment>
+		<segment id="52" relname="antithesis">Не лучший день,</segment>
+		<segment id="53" parent="52" relname="purpose">чтобы начинать что-то основательное.</segment>
+		<segment id="54" relname="antithesis">Осторожнее вечером</segment>
+		<segment id="55" relname="antithesis">довольно высока вероятность поломок и мелких, но досадных неудач.</segment>
+		<segment id="56" relname="antithesis">Срезать угол в пути, невзирая на риск,</segment>
+		<segment id="57" relname="antithesis">этим вечером может быть особенно опасно.</segment>
+		<segment id="58" relname="antithesis">Во второй половине четверга лучше удерживаться от попыток грубо поднажать на дела,</segment>
+		<segment id="59" parent="58" relname="elaboration">которые продвигаются недостаточно легко.</segment>
+		<segment id="60" parent="61" relname="condition">Если какое-то дело подзастряло,</segment>
+		<segment id="61" relname="antithesis">его лучше оставить в покое</segment>
+		<segment id="62" relname="antithesis">не поддаваться первому импульсу добить начатое.</segment>
+		<segment id="63" relname="antithesis">Оставьте всё как есть,</segment>
+		<segment id="64" relname="antithesis">а завтра продолжите</segment>
+		<segment id="65" relname="antithesis">с пришедшими умными мыслями насчёт того, как всё решить наилучшим образом.</segment>
+		<segment id="66" relname="antithesis">##### Пятница, скорее всего, пройдёт более ровно.</segment>
+		<segment id="67" relname="antithesis">Наиболее тонкие и деликатные дела,</segment>
+		<segment id="68" parent="67" relname="elaboration">которые особенно важно провести без неожиданных сбоев, во второй половине недели лучше намечать на 10 сентября.</segment>
+		<segment id="69" parent="70" relname="condition">##### Если в субботу вас уже ранним утром ожидают достаточно напряжённые совместные дела,</segment>
+		<segment id="70" relname="antithesis">постарайтесь тщательнее выбирать слова</segment>
+		<segment id="71" relname="antithesis">отмерять действия.</segment>
+		<segment id="72" relname="antithesis">Этим утром будет лучше чуть сильнее подстраховаться,</segment>
+		<segment id="73" relname="antithesis">чем даже слегка отпустить тормоза и сделать более резкое, чем нужно, движение.</segment>
+		<segment id="74" relname="antithesis">чем нужно,</segment>
+		<segment id="75" relname="antithesis">движение. Рискуете что-то сломать или с кем-то поссориться.</segment>
+		<segment id="76" relname="antithesis">Вообще в эту субботу лучше не спешить что-то предпринимать ещё утром.</segment>
+		<segment id="77" relname="antithesis">Главное из намеченного на 11 сентября лучше сделать днём или вечером.</segment>
+		<segment id="78" relname="antithesis">Часов после двух дня.</segment>
+		<segment id="79" relname="antithesis">##### Воскресенье — хороший день для серьёзных, глубоких решений.</segment>
+		<segment id="80" relname="antithesis">Особенно таких,</segment>
+		<segment id="81" relname="antithesis">что принимаются в уединении,</segment>
+		<segment id="82" relname="antithesis">нежели совместных. 12 сентября,</segment>
+		<segment id="83" relname="antithesis">день остановившегося Меркурия,</segment>
+		<segment id="84" relname="antithesis">не стоит слишком загружать далёкими поездками, ответственными сделками или деловыми переговорами.</segment>
+		<segment id="85" relname="antithesis">В воскресенье всё это слишком чревато задержками и осложнениями.</segment>
+		<segment id="86" relname="antithesis">Как и первые два дня недели,</segment>
+		<segment id="87" relname="antithesis">это день довольно высокой вероятности громких чрезвычайных происшествий.</segment>
+		<segment id="88" relname="antithesis">Например, крупных аварий.</segment>
+		<segment id="89" relname="antithesis">##### О предстоящей неделе 13—19 сентября.</segment>
+		<segment id="90" relname="antithesis">Меркурий повернёт с попятного движения на прямое.</segment>
+		<segment id="91" relname="antithesis">Начинается более удачное,</segment>
+		<segment id="92" relname="antithesis">чем предыдущие три недели, время для реального рывка в новом направлении.</segment>
+		<segment id="93" relname="antithesis">Растущая Луна тоже добавит немного попутного ветра.</segment>
+		<segment id="94" relname="antithesis">Вы наверняка заметите,</segment>
+		<segment id="95" relname="antithesis">что дела пойдут быстрее,</segment>
+		<segment id="96" relname="antithesis">а трудные проблемы будут разрешаться легче,</segment>
+		<segment id="97" relname="antithesis">чем вы ожидали.</segment>
+		<segment id="98" relname="antithesis">На этой неделе пора окончательно прекращать что-то дорабатывать,</segment>
+		<segment id="99" relname="antithesis">исправлять</segment>
+		<segment id="100" relname="antithesis">улучшать — время идти вперёд.</segment>
+    </body>
+</rst>

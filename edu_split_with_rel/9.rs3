@@ -1,0 +1,92 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Мир подводит итоги стодневного пребывания Барака Обамы в кресле президента США.</segment>
+		<segment id="2" relname="antithesis">Американские эксперты и IT-журналисты приходят к выводу,</segment>
+		<segment id="3" relname="antithesis">что нынешний президент их страны — самый технологически продвинутый.</segment>
+		<segment id="4" relname="antithesis">И это уже дает видимые результаты.</segment>
+		<segment id="5" relname="antithesis">##### Всего за 100 дней пребывания на посту президента США Обама,</segment>
+		<segment id="6" relname="antithesis">полагают американские эксперты и IT-журналисты,</segment>
+		<segment id="7" relname="antithesis">зарекомендовал себя как самый технологически компетентный президент США и один из самых «продвинутых» президентов мира.</segment>
+		<segment id="8" relname="antithesis">Первый IT-проект президента</segment>
+		<segment id="9" relname="antithesis">перезапуск портала "Английское название" на котором всем простым американцам предложили задавать вопросы лично Бараку,</segment>
+		<segment id="10" relname="antithesis">его администрации и членам правительства.</segment>
+		<segment id="11" relname="antithesis">Наличие таких возможностей,</segment>
+		<segment id="12" relname="antithesis">по мнению Обамы,</segment>
+		<segment id="13" relname="antithesis">— прямое доказательство открытости президента и признание им базового принципа демократии — открытости правительства.</segment>
+		<segment id="14" relname="antithesis">Всего за время существования ресурса американцы сформировали 1,8 млн обращений к своему лидеру.</segment>
+		<segment id="15" relname="antithesis">Чаще всего американцы просили у президента легализовать марихуану,</segment>
+		<segment id="16" relname="antithesis">позаботиться об их «финансовой стабильности»</segment>
+		<segment id="17" relname="antithesis">разобраться с бюджетом.</segment>
+		<segment id="18" relname="antithesis">##### Главное, что успел сделать Обама в сфере госуправления с точки зрения технологий,</segment>
+		<segment id="19" relname="antithesis">— постараться выйти на «новый уровень прозрачности» правительства перед народом,</segment>
+		<segment id="20" parent="19" relname="elaboration">которая предполагает не только открытость государственных органов, но и реальную доступность информации об их деятельности.</segment>
+		<segment id="21" relname="antithesis">В том числе и поэтому почти сразу после вступления в должность Барак Обама выступил с инициативой построения общенациональной сети Wi-Fi,</segment>
+		<segment id="22" parent="21" relname="purpose">чтобы каждый американец мог бесплатно выходить в интернет в любой точке страны.</segment>
+		<segment id="23" relname="antithesis">##### В начале марта Барак Обама назначил Вивека Кундру на ранее не существовавший в президентской администрации пост CIO, ответственного за IT-технологии в Белом доме.</segment>
+		<segment id="24" relname="antithesis">Задача чиновника — «переосмыслить принципы взаимодействия общества и правительства в новом информационном пространстве».</segment>
+		<segment id="25" relname="antithesis">Кундра уже создал ресурс "Английское название" на котором любой американец может познакомиться с огромным количеством правительственных документов</segment>
+		<segment id="26" relname="antithesis">высказать свои соображения по их поводу.</segment>
+		<segment id="27" relname="antithesis">Кундра уже завел для администрации аккаунты на вебдванольных сервисах социальных сетей и блогов Facebook,</segment>
+		<segment id="28" relname="antithesis">Twitter,</segment>
+		<segment id="29" relname="antithesis">MySpace,</segment>
+		<segment id="30" relname="antithesis">YouTube,</segment>
+		<segment id="31" relname="antithesis">Vimeo,</segment>
+		<segment id="32" relname="antithesis">Flickr и iTunes.</segment>
+		<segment id="33" relname="antithesis">##### Вивек Кундра,</segment>
+		<segment id="34" relname="antithesis">однако, не единственный помощник Обамы по IT-вопросам.</segment>
+		<segment id="35" relname="antithesis">Обама предложил исполнительному директору Google Эрику Шмидту</segment>
+		<segment id="36" relname="antithesis">тот, кстати, принимал активное участие в предвыборной кампании Обамы,</segment>
+		<segment id="37" relname="antithesis">а Google выделяла миллионы долларов предвыборному штату)</segment>
+		<segment id="38" relname="antithesis">и директору по исследованиям и стратегическим решениям Microsoft Крейгу Манди войти в состав Совета по науке и технологиям при президенте США.</segment>
+		<segment id="39" relname="antithesis">До сих пор ни один президент США такой тесной дружбы с крупным IT-бизнесом не водил.</segment>
+		<segment id="40" parent="41" relname="attribution">##### Стоит отметить,</segment>
+		<segment id="41" relname="antithesis">что Барак Обама проявил себя не только в сфере IT-технологий.</segment>
+		<segment id="42" relname="antithesis">Важной частью его предвыборной программы,</segment>
+		<segment id="43" parent="42" relname="elaboration">которую он начал реализовывать,</segment>
+		<segment id="44" relname="antithesis">став президентом,</segment>
+		<segment id="45" relname="antithesis">была реформа американской энергетики.</segment>
+		<segment id="46" relname="antithesis">С точки зрения Обамы, именно этой отрасли суждено вывести мир из глубочайшего экономического кризиса.</segment>
+		<segment id="47" relname="antithesis">За 100 дней Обама успел и представить программу по развитию энергетики,</segment>
+		<segment id="48" relname="antithesis">и сделать шаги по ее воплощению в жизнь.</segment>
+		<segment id="49" relname="antithesis">Программа предполагает полный разворот энергетической отрасли США в сторону использования возобновляемых источников энергии.</segment>
+		<segment id="50" relname="antithesis">По плану уже к 2025 году четверть всей электроэнергии,</segment>
+		<segment id="51" parent="50" relname="elaboration">которая потребляется США,</segment>
+		<segment id="52" relname="antithesis">должна быть добыта из альтернативных источников.</segment>
+		<segment id="53" relname="antithesis">Сейчас в энергобалансе США энергия,</segment>
+		<segment id="54" relname="antithesis">полученная от солнца и ветра,</segment>
+		<segment id="55" relname="antithesis">составляет всего лишь 2%.</segment>
+		<segment id="56" relname="antithesis">Принятие решения об организации в рамках министерства энергетики сети центров передовых энергетических исследований в области энергетики и начало работы Агентства передовых исследований в области энергетики (ARPA-E) — одни из первых серьезных шагов по достижению поставленной Обамой цели.</segment>
+    </body>
+</rst>

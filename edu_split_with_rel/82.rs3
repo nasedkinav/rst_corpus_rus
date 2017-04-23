@@ -1,0 +1,70 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Запущен первый демонстрационный спутник (Giove-A) для будущей европейской глобальной навигационной спутниковой системы «Галилео» (Galileo).</segment>
+		<segment id="2" relname="antithesis">Ранее спутник Giove-A назывался — GSTB-V2/A (Galileo System Test Bed Version 2).</segment>
+		<segment id="3" relname="antithesis">Спутник Giove-A был запущен с космодрома Байконур (Казахстан) в 05:19 (UTC) (08:19 московского времени) российской ракетой-носителем «Союз ФГ» вместе с разгонным блоком «Фрегат».</segment>
+		<segment id="4" relname="antithesis">Разгонным буксиром «Фрегат» спутник был выведен на расчётную круговую орбиту:</segment>
+		<segment id="5" relname="antithesis">высота орбита — 23 258 км,</segment>
+		<segment id="6" relname="antithesis">наклонение — 56°.</segment>
+		<segment id="7" relname="antithesis">##### Спутник Giove-A изготовлен в Великобритании,</segment>
+		<segment id="8" relname="antithesis">его вес — 600 кг.</segment>
+		<segment id="9" relname="antithesis">Спутник должен передать сигнал на частоте,</segment>
+		<segment id="10" parent="9" relname="elaboration">которая предоставлена Международным телекоммуникационным союзом (International Telecommunications Union (ITU)) для системы «Галилео».</segment>
+		<segment id="11" relname="antithesis">На спутнике будут проверяться навигационные технологии,</segment>
+		<segment id="12" parent="11" relname="elaboration">которые будут использоваться в действующей системе «Галилео».</segment>
+		<segment id="13" relname="antithesis">Будет также исследована радиационная обстановка на орбите.</segment>
+		<segment id="14" relname="antithesis">##### В начале 2006 года планируется,</segment>
+		<segment id="15" relname="antithesis">также с космодрома Байконур, запуск второго демонстрационного спутника Giove В.</segment>
+		<segment id="16" relname="antithesis">##### Для проверки функционирования наземного и космического оборудования системы «Галилео»,</segment>
+		<segment id="17" relname="antithesis">планируется запуск четырёх операционных спутников.</segment>
+		<segment id="18" relname="antithesis">Когда система из четырёх спутников будет полностью проверена</segment>
+		<segment id="19" relname="antithesis">работоспособна,</segment>
+		<segment id="20" relname="antithesis">будут запущены оставшиеся спутники для полномасштабной системы.</segment>
+		<segment id="21" relname="antithesis">##### «Галилео» будет независимой, собственной европейской глобальной спутниковой навигационной системой, под гражданским контролем.</segment>
+		<segment id="22" relname="antithesis">Общая стоимость система,</segment>
+		<segment id="23" relname="antithesis">примерно, 3,5 млрд. евро.</segment>
+		<segment id="24" relname="antithesis">В систему «Галилео» будут входить 30 спутников (27 операционных и 3 запасных)</segment>
+		<segment id="25" relname="antithesis">она будет способна распознавать предметы на поверхности Земли с погрешностью 5 — 10 м.</segment>
+		<segment id="26" relname="antithesis">Система «Галилео» будет способна работать совместно с американской глобальной навигационной системы (Global Positioning System (GPS)) и российской навигационной системой ГЛОНАСС.</segment>
+		<segment id="27" relname="antithesis">##### В настоящее время в российской системе ГЛОНАСС на орбите работают 17 спутников.</segment>
+		<segment id="28" relname="antithesis">Для покрытия всей территории России требуется 18 спутников.</segment>
+		<segment id="29" relname="antithesis">К 2010 году планировалось довести количество спутников до 24. 26 декабря на совещании с членами правительства,</segment>
+		<segment id="30" relname="antithesis">Президент России Владимир Владимирович Путин потребовал поскорее запустить систему ГЛОНАСС — к 2008 году.</segment>
+		<segment id="31" relname="antithesis">##### По словам руководителя Роскосмоса Анатолия Николаевича Перминова,</segment>
+		<segment id="32" relname="antithesis">Россия готовит соглашения с американцами и европейцами,</segment>
+		<segment id="33" parent="32" relname="elaboration">которые позволят объеденить навигационные системы ГЛОНАСС,</segment>
+		<segment id="34" relname="antithesis">GPS и «Галилео».</segment>
+    </body>
+</rst>

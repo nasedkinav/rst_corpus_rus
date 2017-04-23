@@ -1,0 +1,82 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Хорошо известно,</segment>
+		<segment id="2" relname="antithesis">что в центре практически каждой крупной галактики находится массивная чёрная дыра.</segment>
+		<segment id="3" relname="antithesis">В то же время самые тяжёлые галактики окружены самыми массивными гало из тёмной материи.</segment>
+		<segment id="4" relname="antithesis">Это дало основания для предположений,</segment>
+		<segment id="5" relname="antithesis">что тёмная материя играет ключевую роль в росте чёрных дыр.</segment>
+		<segment id="6" relname="antithesis">Исследования учёных из Института внеземной физики общества Макса Планка, Университетской обсерватории Мюниха и Техасского университета в Остине, однако, показали,</segment>
+		<segment id="7" relname="antithesis">что такой прямой связи не существует,</segment>
+		<segment id="8" relname="antithesis">а рост чёрной дыры определяется процессом формирования галактического ядра.</segment>
+		<segment id="9" relname="antithesis">##### Галактики представляют собой скопления миллиардов звёзд,</segment>
+		<segment id="10" relname="antithesis">содержащие также межзвёздный газ и пыль.</segment>
+		<segment id="11" relname="antithesis">Большую часть этих соствляющих можно наблюдать с Земли в различных диапазонах волн: от радио- и инфракрасного диапазонов для более холодных объектов до ультрафиолетового и рентгеновского для более горячих.</segment>
+		<segment id="12" relname="antithesis">Однако существует два вида объектов,</segment>
+		<segment id="13" relname="antithesis">не излучающих электромагнитные волны</segment>
+		<segment id="14" relname="antithesis">проявляющихся только через гравитационное взаимодействие.</segment>
+		<segment id="15" relname="antithesis">##### К первому виду таких объектов относятся гало так называемой тёмной материи, окружающие практически все известные галактики.</segment>
+		<segment id="16" relname="antithesis">Тёмная материя не доступна для непосредственного наблюдения,</segment>
+		<segment id="17" relname="antithesis">однако, значительно превосходит в общей массе видимую часть материи</segment>
+		<segment id="18" relname="antithesis">обнаруживает себя по своему гравитационному воздействию на движение звёзд и межзвёздного газа.</segment>
+		<segment id="19" relname="antithesis">Природа тёмной материи до сих пор не известна,</segment>
+		<segment id="20" relname="antithesis">однако предполагается,</segment>
+		<segment id="21" relname="antithesis">что она состоит из экзотических частиц,</segment>
+		<segment id="22" relname="antithesis">отличающихся от всех известных «нормальных» частиц,</segment>
+		<segment id="23" parent="22" relname="elaboration">из которых сделаны мы, Земля, Солнце и другие планеты и звёзды.</segment>
+		<segment id="24" relname="antithesis">##### Другим невидимым компонентом Вселенной являются сверхмассивные чёрные дыры,</segment>
+		<segment id="25" relname="antithesis">находящиеся в центрах большинства галактик,</segment>
+		<segment id="26" relname="antithesis">имеющих ядро.</segment>
+		<segment id="27" relname="antithesis">Например, в центре нашей галактики, Млечного пути,</segment>
+		<segment id="28" relname="antithesis">находится чёрная дыра,</segment>
+		<segment id="29" relname="antithesis">масса которой в миллион раз больше, чем масса Солнца.</segment>
+		<segment id="30" relname="antithesis">Чёрные дыры недоступны для прямого наблюдения</segment>
+		<segment id="31" relname="antithesis">их свойства определяются только по движению звёзд вокруг них.</segment>
+		<segment id="32" relname="antithesis">##### В 2002 году возникла идея,</segment>
+		<segment id="33" relname="antithesis">заключающаяся в том,</segment>
+		<segment id="34" relname="antithesis">что существует тесная взаимосвязь между массой чёрной дыры и скоростью вращения галактического диска,</segment>
+		<segment id="35" relname="antithesis">масса которого определяется массой гало тёмной материи в нём.</segment>
+		<segment id="36" relname="antithesis">Из этой идеи следовало предположение о том,</segment>
+		<segment id="37" relname="antithesis">что экзотическая материя каким-либо образом влияет на процесс формирования чёрной дыры.</segment>
+		<segment id="38" relname="antithesis">С другой стороны, за несколько лет до этого уже было показано,</segment>
+		<segment id="39" relname="antithesis">что масса чёрной дыры хорошо коррелирует с яркостью и массой галактического ядра.</segment>
+		<segment id="40" relname="antithesis">Поскольку чаще всего чем больше галактика, тем больше её ядро,</segment>
+		<segment id="41" relname="antithesis">оставалось непонятным,</segment>
+		<segment id="42" relname="antithesis">какая же из двух корреляций является основной с точки зрения динамики роста чёрной дыры.</segment>
+		<segment id="43" parent="44" relname="purpose">##### Для того, чтобы проверить выдвинутую идею о корреляции между массой чёрной дыры и массой гало тёмной материи,</segment>
+		<segment id="44" relname="antithesis">учёные провели ряд высококачественных спектральных измерений большого количества галактических дисков и их ядер.</segment>
+		<segment id="45" relname="antithesis">Увеличение точности измерений по сравнению с предшественниками позволило им сделать вывод,</segment>
+		<segment id="46" relname="antithesis">что предполагаемая корреляция отсутствует.</segment>
+    </body>
+</rst>
