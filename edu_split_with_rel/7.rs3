@@ -101,7 +101,7 @@
 		<segment id="67" relname="antithesis">Теперь же речь идет не просто о сокращениях в риелторских агентствах и просроченных кредитах, но и об общем снижении цен на недвижимость,</segment>
 		<segment id="68" parent="67" relname="elaboration">которые по разным позициям могут достигать 10 –50%,</segment>
 		<segment id="69" relname="antithesis">– и главным опасением продавцов (и надеждой покупателей) сегодня становится рост непрофильных активов у банков.</segment>
-		<segment id="70" parent="71" relname="condition">Если квартиры и офисы,</segment>
+		<segment id="70" parent="73" relname="condition">Если квартиры и офисы,</segment>
 		<segment id="71" parent="70" relname="elaboration">по которым просрочены платежи,</segment>
 		<segment id="72" relname="antithesis">будут выброшены на рынок для срочной продажи,</segment>
 		<segment id="73" relname="antithesis">количество сделок по недвижимости может возрасти – ценой обрушения рынка.</segment>

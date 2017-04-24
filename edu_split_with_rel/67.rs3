@@ -83,7 +83,7 @@
 		<segment id="49" relname="antithesis">##### По конституции нет ценности выше,</segment>
 		<segment id="50" relname="antithesis">чем права и свободы человека и гражданина.</segment>
 		<segment id="51" relname="antithesis">И мы всегда должны исходить из презумпции действия авторских прав.</segment>
-		<segment id="52" parent="53" relname="condition">Если мы говорим об авторе,</segment>
+		<segment id="52" parent="54" relname="condition">Если мы говорим об авторе,</segment>
 		<segment id="53" parent="52" relname="elaboration">который является нашим ближайшим современником,</segment>
 		<segment id="54" relname="antithesis">то,</segment>
 		<segment id="55" relname="antithesis">скорее всего, авторское право действует.</segment>
@@ -202,8 +202,8 @@
 		<segment id="168" relname="antithesis">##### Когда наступил кризис 1998 года,</segment>
 		<segment id="169" relname="antithesis">никто не следил за тем,</segment>
 		<segment id="170" parent="169" relname="purpose">чтобы авторам выплачивали вознаграждения.</segment>
-		<segment id="171" parent="172" relname="condition">Если бы кто-то хотел урегулировать,</segment>
-		<segment id="172" parent="171" relname="condition">если бы была инициатива творческого союза,</segment>
+		<segment id="171" parent="173" relname="condition">Если бы кто-то хотел урегулировать,</segment>
+		<segment id="172" parent="173" relname="condition">если бы была инициатива творческого союза,</segment>
 		<segment id="173" relname="antithesis">то закон было бы не так просто обойти.</segment>
 		<segment id="174" relname="antithesis">##### Мы прекрасно понимаем,</segment>
 		<segment id="175" relname="antithesis">что авторы год от года не молодеют.</segment>

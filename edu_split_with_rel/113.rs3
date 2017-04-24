@@ -97,7 +97,7 @@
 		<segment id="63" relname="antithesis">но и выживание Индии отнюдь не гарантировано.</segment>
 		<segment id="64" relname="antithesis">Стороны это прекрасно понимают.</segment>
 		<segment id="65" relname="antithesis">И потому сдерживание может сработать.</segment>
-		<segment id="66" parent="67" relname="condition">Если только к власти в Исламабаде не придут радикальные исламисты,</segment>
+		<segment id="66" relname="antithesis">Если только к власти в Исламабаде не придут радикальные исламисты,</segment>
 		<segment id="67" parent="66" relname="elaboration">для которых никаких сдержек и ограничений не существует в принципе.</segment>
 		<segment id="68" relname="antithesis">Однако сейчас вероятность такого сценария очень невелика.</segment>
 		<segment id="69" relname="antithesis">##### Для КНДР,</segment>
