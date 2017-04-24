@@ -39,8 +39,8 @@
 		<segment id="5" relname="antithesis">Кто хоть раз не бывал в аэропорту Адлера?</segment>
 		<segment id="6" relname="antithesis">Так вот,</segment>
 		<segment id="7" parent="6" relname="condition">если встать на взлетной полосе аэропорта спиной к морю</segment>
-		<segment id="8" relname="antithesis">ближайший горный массив справа</segment>
-		<segment id="9" relname="antithesis">есть Арабика.</segment>
+		<segment id="8" relname="antithesis">- ближайший горный массив справа</segment>
+		<segment id="9" relname="antithesis">и есть Арабика.</segment>
 		<segment id="10" relname="antithesis">##### О том,</segment>
 		<segment id="11" relname="antithesis">что в этих горах много глубоких пещер,</segment>
 		<segment id="12" relname="antithesis">спелеологи знали давно.</segment>
@@ -59,7 +59,7 @@
 		<segment id="25" relname="antithesis">##### В 80-х годах советские ученые провели на Арабике эксперимент по трассированию подземных вод и лишний раз подтвердили наличие там глубочайшей в мире карстовой гидросистемы.</segment>
 		<segment id="26" relname="antithesis">Что сделали исследователи?</segment>
 		<segment id="27" relname="antithesis">Они окрасили воду подземных рек безвредным веществом флюорисцином</segment>
-		<segment id="28" relname="antithesis">снабдили водные источники у подножия горы ловушками,</segment>
+		<segment id="28" relname="antithesis">и снабдили водные источники у подножия горы ловушками,</segment>
 		<segment id="29" parent="28" relname="elaboration">которые вскоре зафиксировали выход флюорисцина.</segment>
 		<segment id="30" relname="antithesis">Стало ясно,</segment>
 		<segment id="31" relname="antithesis">что комплекс пещер практически не изучен.</segment>
@@ -74,11 +74,11 @@
 		<segment id="40" relname="antithesis">И лишь в 1999 году один из членов команды CAVEX, Алексей Жданович,</segment>
 		<segment id="41" relname="antithesis">"закачнулся",</segment>
 		<segment id="42" relname="antithesis">как говорят спелеологи, в окно пещеры</segment>
-		<segment id="43" relname="antithesis">обнаружил вход в новый тоннель.</segment>
+		<segment id="43" relname="antithesis">и обнаружил вход в новый тоннель.</segment>
 		<segment id="44" relname="antithesis">"В такие минуты, - рассказывает Денис Провалов, руководитель CAVEX, - пульс учащается и начинается самый волнующий этап - первопрохождение.</segment>
 		<segment id="45" relname="antithesis">Ты не знаешь,</segment>
 		<segment id="46" relname="antithesis">что тебя ожидает за следующим поворотом галереи</segment>
-		<segment id="47" relname="antithesis">что будет в конце многометрового колодца".</segment>
+		<segment id="47" relname="antithesis">и что будет в конце многометрового колодца".</segment>
 		<segment id="48" relname="antithesis">##### А "за следующим поворотом" смельчаков ожидала целая серия каскадов.</segment>
 		<segment id="49" relname="antithesis">В тот раз,</segment>
 		<segment id="50" relname="antithesis">в 99-м,</segment>
@@ -93,14 +93,14 @@
 		<segment id="59" relname="antithesis">а порой можно наткнуться на небольшое окно в стене колодца,</segment>
 		<segment id="60" parent="59" relname="elaboration">которое затем станет началом нового пути.</segment>
 		<segment id="61" relname="antithesis">"Пещера пошла"</segment>
-		<segment id="62" relname="antithesis">- говорят спелеологи в такой ситуации.</segment>
+		<segment id="62" relname="antithesis">, - говорят спелеологи в такой ситуации.</segment>
 		<segment id="63" relname="antithesis">##### Летом 2000 года спелеологи дошли в Вороньей до отметки 1400 метров.</segment>
 		<segment id="64" relname="antithesis">Предчувствие им подсказывало,</segment>
 		<segment id="65" relname="antithesis">что</segment>
-		<segment id="66" relname="antithesis">это не предел.</segment>
+		<segment id="66" relname="antithesis">и это не предел.</segment>
 		<segment id="67" relname="antithesis">##### Команда CAVEX вновь вернулась на Арабику в январе 2001 года.</segment>
 		<segment id="68" relname="antithesis">Едва разбили лагерь, как двое ребят - Илья Жарков и Константин Мухин</segment>
-		<segment id="69" relname="antithesis">под вечер ушли в пещеру на разведку.</segment>
+		<segment id="69" relname="antithesis">- под вечер ушли в пещеру на разведку.</segment>
 		<segment id="70" relname="antithesis">Вернулись они только под утро.</segment>
 		<segment id="71" relname="antithesis">Уставшие,</segment>
 		<segment id="72" relname="antithesis">они тем не менее не скрывали восторга:</segment>
@@ -115,7 +115,7 @@
 		<segment id="81" relname="antithesis">Залу присвоили название "Зал советских спелеологов",</segment>
 		<segment id="82" parent="83" relname="attribution">дабы подчеркнуть,</segment>
 		<segment id="83" relname="antithesis">что рекорд</segment>
-		<segment id="84" relname="antithesis">это результат работы нескольких поколений спелеологов.</segment>
+		<segment id="84" relname="antithesis">- это результат работы нескольких поколений спелеологов.</segment>
 		<segment id="85" relname="antithesis">##### По правилам Международного союза спелеологов, установление рекорда должно быть подтверждено подробной картой пещеры.</segment>
 		<segment id="86" relname="antithesis">Для этого еще несколько дней спелеологи проводили топосъемку,</segment>
 		<segment id="87" relname="antithesis">снимали показания альтиметра - датчика глубины,</segment>
@@ -131,13 +131,13 @@
 		<segment id="97" relname="antithesis">"В моей жизни были спуски и потруднее,</segment>
 		<segment id="98" relname="antithesis">например, когда опускаешься в колодец и луч фонаря не достает до стен,</segment>
 		<segment id="99" relname="antithesis">выхватывая из темноты только падающие капли"</segment>
-		<segment id="100" relname="antithesis">- говорит один из членов команды Олег Климчук.</segment>
+		<segment id="100" relname="antithesis">, - говорит один из членов команды Олег Климчук.</segment>
 		<segment id="101" relname="antithesis">Возможно, спелеологи скромничают: погружение даже по хорошо исхоженному маршруту - весьма сложное мероприятие.</segment>
 		<segment id="102" relname="antithesis">Спелеолог несет с собой килограммы оборудования: аккумуляторы для карбидных ламп, крючья, веревки, запасы питания, несколько источников света.</segment>
 		<segment id="103" relname="antithesis">Один опрометчивый шаг или неправильное действие могут привести к необратимым последствиям.</segment>
 		<segment id="104" relname="antithesis">Много опасностей поджидает первопроходцев: внезапные сильные паводки, камнепады</segment>
-		<segment id="105" relname="antithesis">падающий с высоты 150 метров небольшой камень легко пробивает каску)</segment>
-		<segment id="106" relname="antithesis">Но основным врагом спелеолога является холод.</segment>
+		<segment id="105" relname="antithesis">(падающий с высоты 150 метров небольшой камень легко пробивает каску)</segment>
+		<segment id="106" relname="antithesis">. Но основным врагом спелеолога является холод.</segment>
 		<segment id="107" relname="antithesis">"Когда при стопроцентной влажности температура не превышает плюс двух градусов,</segment>
 		<segment id="108" relname="antithesis">промерзаешь насквозь,</segment>
 		<segment id="109" relname="antithesis">единственное,</segment>
@@ -145,7 +145,7 @@
 		<segment id="111" relname="antithesis">- это движение и пища.</segment>
 		<segment id="112" parent="113" relname="condition">Если человек переохлаждается,</segment>
 		<segment id="113" relname="antithesis">он начинает совершать ошибки"</segment>
-		<segment id="114" relname="antithesis">- утверждает Денис Провалов.</segment>
+		<segment id="114" relname="antithesis">, - утверждает Денис Провалов.</segment>
 		<segment id="115" relname="antithesis">##### Например, возвращаясь на базу после покорения Вороньей,</segment>
 		<segment id="116" relname="antithesis">члены команды были уверены,</segment>
 		<segment id="117" relname="antithesis">что все опасности и трудности остались позади.</segment>
@@ -155,14 +155,14 @@
 		<segment id="121" relname="antithesis">спелеологи решили спускаться самостоятельно.</segment>
 		<segment id="122" relname="antithesis">"Мы буквально прорывали в снегу дорогу домой,</segment>
 		<segment id="123" relname="antithesis">за час преодолевая около тридцати метров</segment>
-		<segment id="124" relname="antithesis">рискуя быть засыпанными лавиной"</segment>
-		<segment id="125" relname="antithesis">- рассказывает Денис Провалов.</segment>
+		<segment id="124" relname="antithesis">и рискуя быть засыпанными лавиной"</segment>
+		<segment id="125" relname="antithesis">, - рассказывает Денис Провалов.</segment>
 		<segment id="126" relname="antithesis">Опасения отчасти подтвердились:</segment>
 		<segment id="127" relname="antithesis">с вершины сошла снежная масса шириной триста метров,</segment>
 		<segment id="128" relname="antithesis">но задела группу лишь крылом.</segment>
 		<segment id="129" relname="antithesis">Под снегом очутился самый молодой покоритель пещеры 18-летний киевлянин Анатолий Повякало.</segment>
 		<segment id="130" relname="antithesis">Хорошо, друзья оказались рядом</segment>
-		<segment id="131" relname="antithesis">сумели быстро освободить коллегу из снежного плена.</segment>
+		<segment id="131" relname="antithesis">и сумели быстро освободить коллегу из снежного плена.</segment>
 		<segment id="132" relname="antithesis">##### И все же,</segment>
 		<segment id="133" relname="antithesis">несмотря на все трудности и неудобства,</segment>
 		<segment id="134" parent="133" relname="elaboration">которые можно встретить в горах,</segment>
@@ -172,7 +172,7 @@
 		<segment id="138" relname="antithesis">Спелеологи относятся к пещерам как к живым субстанциям.</segment>
 		<segment id="139" relname="antithesis">И действительно,</segment>
 		<segment id="140" relname="antithesis">подземелье уязвимо</segment>
-		<segment id="141" relname="antithesis">чувствительно к любому проникновению извне.</segment>
+		<segment id="141" relname="antithesis">и чувствительно к любому проникновению извне.</segment>
 		<segment id="142" relname="antithesis">Например, один упавший в подводный ручей камень может запрудить поток,</segment>
 		<segment id="143" relname="antithesis">изменить направление его течения и, следовательно, промыть новый ход.</segment>
 		<segment id="144" relname="antithesis">А это в свою очередь изменяет циркуляцию воздуха и ареал обитания подземных организмов.</segment>
@@ -189,9 +189,9 @@
 		<segment id="155" relname="antithesis">Все полученные данные затем используются для научных исследований гидрогеологов, геофизиков, карстологов, биологов.</segment>
 		<segment id="156" relname="antithesis">##### Благодаря спелеологическим изысканиям абсолютно низкая отметка на Земле постоянно меняется.</segment>
 		<segment id="157" relname="antithesis">Пещеры тем</segment>
-		<segment id="158" relname="antithesis">хороши,</segment>
+		<segment id="158" relname="antithesis">и хороши,</segment>
 		<segment id="159" relname="antithesis">что высшие достижения в них не являются вечными</segment>
-		<segment id="160" relname="antithesis">могут быть превзойдены.</segment>
+		<segment id="160" relname="antithesis">и могут быть превзойдены.</segment>
 		<segment id="161" relname="antithesis">Уже сегодня французы наступают на пятки рекордсменам,</segment>
 		<segment id="162" relname="antithesis">заявив новый мировой рекорд в пещере Мирольда во Франции.</segment>
 		<segment id="163" relname="antithesis">Они собираются опуститься на глубину 1730 метров.</segment>

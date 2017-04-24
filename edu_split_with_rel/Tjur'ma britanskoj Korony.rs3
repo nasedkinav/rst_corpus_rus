@@ -35,16 +35,16 @@
 		<segment id="1" relname="antithesis">##### Незадолго до государственного визита Владимира Путина в Соединенное Королевство,</segment>
 		<segment id="2" relname="antithesis">в ходе которого российская президентская чета гостит лично у королевы,</segment>
 		<segment id="3" relname="antithesis">живет в Букингемском дворце</segment>
-		<segment id="4" relname="antithesis">ездит в королевской карете,</segment>
+		<segment id="4" relname="antithesis">и ездит в королевской карете,</segment>
 		<segment id="5" relname="antithesis">гостем британского монарха довелось побывать и мне в тюрьме Ее Величества.</segment>
 		<segment id="6" relname="antithesis">Заведения эти в Великобритании связаны с ней самым непосредственным образом,</segment>
 		<segment id="7" relname="antithesis">в каждой из них непременно висят фотографии королевы и ее посещений этого учреждения.</segment>
 		<segment id="8" relname="antithesis">##### В тюрьме c удовольствием показывают любой участок</segment>
-		<segment id="9" relname="antithesis">дают поговорить практически с любым заключенным или сотрудником, причем в сопровождении не тюремщика, а человека со стороны члена добровольческой организации «Независимые контролирующие комиссии», до этого года в течение столетия называвшейся «Советы посетителей».</segment>
+		<segment id="9" relname="antithesis">и дают поговорить практически с любым заключенным или сотрудником, причем в сопровождении не тюремщика, а человека со стороны члена добровольческой организации «Независимые контролирующие комиссии», до этого года в течение столетия называвшейся «Советы посетителей».</segment>
 		<segment id="10" relname="antithesis">Организация эта состоит из 137 комиссий по числу тюрем,</segment>
 		<segment id="11" relname="antithesis">в каждую из которых входят местные жители,</segment>
 		<segment id="12" relname="antithesis">добровольно решившие посвятить часть своего времени общественному контролю над тюрьмой</segment>
-		<segment id="13" relname="antithesis">в России законопроект об общественном контроле над местами вынужденного лишения свободы будет обсуждаться Думой лишь осенью;</segment>
+		<segment id="13" relname="antithesis">(в России законопроект об общественном контроле над местами вынужденного лишения свободы будет обсуждаться Думой лишь осенью;</segment>
 		<segment id="14" relname="antithesis">хотели было обсудить это в начале июня,</segment>
 		<segment id="15" relname="antithesis">да заела предвыборная текучка).</segment>
 		<segment id="16" relname="antithesis">##### Вопреки распространенным в России стереотипам, жизнь заключенного в Британии отнюдь не безоблачна:</segment>
@@ -70,7 +70,7 @@
 		<segment id="36" relname="antithesis">отчасти отходят от тюремной дисциплины: камеры просторнее,</segment>
 		<segment id="37" relname="antithesis">вместо тюремных пледов выдают нормальные одеяла и т.д.</segment>
 		<segment id="38" relname="antithesis">##### Один из способов предотвращения суицида работа так называемых слушателей (они есть сейчас во всех сферах английской жизни и в тюрьме, и на воле)</segment>
-		<segment id="39" relname="antithesis">Это добровольцы,</segment>
+		<segment id="39" relname="antithesis">. Это добровольцы,</segment>
 		<segment id="40" relname="antithesis">подготовкой которых занимается благотворительная организация The Samaritans,</segment>
 		<segment id="41" relname="antithesis">к ним можно обратиться,</segment>
 		<segment id="42" parent="41" relname="condition">если на душе тяжело и не с кем поговорить.</segment>
@@ -86,19 +86,19 @@
 		<segment id="52" relname="antithesis">а услышанное не идет из головы.</segment>
 		<segment id="53" relname="antithesis">Один из них,</segment>
 		<segment id="54" relname="antithesis">сидящий впервые</segment>
-		<segment id="55" relname="antithesis">к своим обязанностям относящийся очень серьезно,</segment>
+		<segment id="55" relname="antithesis">и к своим обязанностям относящийся очень серьезно,</segment>
 		<segment id="56" relname="antithesis">сам явно находился в тяжелом состоянии.</segment>
 		<segment id="57" parent="58" relname="attribution">Другой слушатель сказал,</segment>
 		<segment id="58" relname="antithesis">что помимо помощи другим,</segment>
 		<segment id="59" relname="antithesis">работа эта предоставляет возможность просто встретиться с людьми, например, съездить на съезд самаритян</segment>
-		<segment id="60" relname="antithesis">побыть пару дней в гостинице вместо тюрьмы.</segment>
+		<segment id="60" relname="antithesis">и побыть пару дней в гостинице вместо тюрьмы.</segment>
 		<segment id="61" relname="antithesis">Тюремщики к слушателям относятся серьезно видно,</segment>
 		<segment id="62" relname="antithesis">что самоубийства для них большая проблема.</segment>
 		<segment id="63" parent="64" relname="condition">##### Пока заключенный привыкает,</segment>
 		<segment id="64" relname="antithesis">к нему тоже присматриваются в итоге же присваивают одну из четырех категорий,</segment>
 		<segment id="65" relname="antithesis">после чего помещают в соответствующую тюрьму.</segment>
 		<segment id="66" relname="antithesis">Заключенный категории А считается очень опасным</segment>
-		<segment id="67" relname="antithesis">не должен убежать ни при каких обстоятельствах.</segment>
+		<segment id="67" relname="antithesis">и не должен убежать ни при каких обстоятельствах.</segment>
 		<segment id="68" relname="antithesis">При входе в тюрьму категории А всех обязательно обыскивают,</segment>
 		<segment id="69" relname="antithesis">там содержится небольшое число заключенных,</segment>
 		<segment id="70" relname="antithesis">но на них приходится много работников тюрьмы,</segment>
@@ -107,7 +107,7 @@
 		<segment id="73" relname="antithesis">там стен нет вовсе,</segment>
 		<segment id="74" relname="antithesis">а заключенные могут сами выходить из нее на работу.</segment>
 		<segment id="75" relname="antithesis">Часто они работают в том же городе</segment>
-		<segment id="76" relname="antithesis">ездят туда на собственной машине.</segment>
+		<segment id="76" relname="antithesis">и ездят туда на собственной машине.</segment>
 		<segment id="77" relname="antithesis">Пример такой тюрьмы Лэйхилл.</segment>
 		<segment id="78" relname="antithesis">Там заключенные занимаются садоводством,</segment>
 		<segment id="79" relname="antithesis">недавно даже победили на самой знаменитой выставке цветов в Челси.</segment>
@@ -115,27 +115,27 @@
 		<segment id="81" relname="antithesis">##### Не так давно тюремные правила и распорядок стали объяснять не сотрудники тюрьмы, а специально этому обученные другие заключенные.</segment>
 		<segment id="82" relname="antithesis">Считается,</segment>
 		<segment id="83" relname="antithesis">что так это меньше травмирует «новичка»</segment>
-		<segment id="84" relname="antithesis">в российских тюрьмах нечто подобное,</segment>
+		<segment id="84" relname="antithesis">(в российских тюрьмах нечто подобное,</segment>
 		<segment id="85" relname="antithesis">разумеется, тоже есть,</segment>
 		<segment id="86" relname="antithesis">с небольшой поправкой: объясняет понятия самый главный авторитет со всеми вытекающими из этого последствиями)</segment>
-		<segment id="87" relname="antithesis">Естественно, было интересно узнать,</segment>
+		<segment id="87" relname="antithesis">. Естественно, было интересно узнать,</segment>
 		<segment id="88" relname="antithesis">каковы неписаные правила английских заключенных кто кем командует и как с этим борются.</segment>
 		<segment id="89" relname="antithesis">На такие вопросы тамошние тюремщики, да и многие заключенные,</segment>
 		<segment id="90" relname="antithesis">обычно делают характерно оловянные глаза</segment>
-		<segment id="91" relname="antithesis">говорят,</segment>
+		<segment id="91" relname="antithesis">и говорят,</segment>
 		<segment id="92" relname="antithesis">что в их стране такого не бывает.</segment>
 		<segment id="93" relname="antithesis">##### Некоторые, правда, упоминают случаи,</segment>
 		<segment id="94" relname="antithesis">когда заключенные,</segment>
 		<segment id="95" relname="antithesis">отмеченные начальством</segment>
-		<segment id="96" relname="antithesis">например, те,</segment>
+		<segment id="96" relname="antithesis">(например, те,</segment>
 		<segment id="97" relname="antithesis">кому поручена уборка тюрьмы)</segment>
-		<segment id="98" relname="antithesis">начинают использовать свои привилегии против других.</segment>
+		<segment id="98" relname="antithesis">, начинают использовать свои привилегии против других.</segment>
 		<segment id="99" relname="antithesis">Только один офицер,</segment>
 		<segment id="100" relname="antithesis">специально занимающийся «борьбой с травлей»</segment>
-		<segment id="101" relname="antithesis">есть у них там такой пост)</segment>
+		<segment id="101" relname="antithesis">(есть у них там такой пост)</segment>
 		<segment id="102" relname="antithesis">признал,</segment>
 		<segment id="103" relname="antithesis">что уголовные авторитеты устанавливают свои правила</segment>
-		<segment id="104" relname="antithesis">«разбираются» с непослушными с помощью других заключенных,</segment>
+		<segment id="104" relname="antithesis">и «разбираются» с непослушными с помощью других заключенных,</segment>
 		<segment id="105" relname="antithesis">сами при этом оставаясь в тени.</segment>
 		<segment id="106" relname="antithesis">В более охраняемых тюрьмах,</segment>
 		<segment id="107" relname="antithesis">где преступники посерьезнее,</segment>
@@ -151,9 +151,9 @@
 		<segment id="117" relname="antithesis">Еда получается очень дешевой,</segment>
 		<segment id="118" relname="antithesis">значительная часть продуктов приходит бесплатно с тюремных хозяйств,</segment>
 		<segment id="119" relname="antithesis">остальное закупается в заранее известном количестве</segment>
-		<segment id="120" relname="antithesis">ничего не пропадает.</segment>
+		<segment id="120" relname="antithesis">и ничего не пропадает.</segment>
 		<segment id="121" relname="antithesis">Еда постоянный источник тюремных разборок, в невинных случаях заключенный передумывает</segment>
-		<segment id="122" relname="antithesis">забирает чужую еду вместо своей,</segment>
+		<segment id="122" relname="antithesis">и забирает чужую еду вместо своей,</segment>
 		<segment id="123" relname="antithesis">в более серьезных обливает соседа кипятком.</segment>
 		<segment id="124" relname="antithesis">Кроме кипятка во многих тюрьмах есть железные ножи и вилки, а также дартс,</segment>
 		<segment id="125" parent="124" relname="elaboration">без которых английскую жизнь представить невозможно,</segment>
@@ -165,7 +165,7 @@
 		<segment id="131" relname="antithesis">и оба раза там оказывались люди неуравновешенные,</segment>
 		<segment id="132" relname="antithesis">маниакально подозревающие всех и вся.</segment>
 		<segment id="133" relname="antithesis">«Телевизор я уже не смотрю»</segment>
-		<segment id="134" relname="antithesis">- сказал один из них. 70% заключенных сидят за наркотики,</segment>
+		<segment id="134" relname="antithesis">, - сказал один из них. 70% заключенных сидят за наркотики,</segment>
 		<segment id="135" relname="antithesis">соответственно пресечь их передачу главная цель наблюдения.</segment>
 		<segment id="136" relname="antithesis">Нам показали два недавних случая в записи один раз передавали очень грубо,</segment>
 		<segment id="137" relname="antithesis">засунув что-то в пакетик с чипсами,</segment>

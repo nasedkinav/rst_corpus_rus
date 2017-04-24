@@ -39,7 +39,7 @@
 		<segment id="5" relname="antithesis">Сейчас не стоит спешить кардинально решать все проблемы.</segment>
 		<segment id="6" relname="antithesis">Они более правильно решатся во второй половине сентября,</segment>
 		<segment id="7" relname="antithesis">когда многое прояснится</segment>
-		<segment id="8" relname="antithesis">встанет на свои места — может быть, уже по-новому.</segment>
+		<segment id="8" relname="antithesis">и встанет на свои места — может быть, уже по-новому.</segment>
 		<segment id="9" relname="antithesis">На этой неделе лучше просто отложить все вопросы,</segment>
 		<segment id="10" parent="9" relname="elaboration">которые ставят вас в тупик.</segment>
 		<segment id="11" relname="antithesis">Побыть с пустой головой накануне важных для вас решений и начинаний второй половины сентября.</segment>
@@ -47,7 +47,7 @@
 		<segment id="13" relname="antithesis">8 сентября.</segment>
 		<segment id="14" relname="antithesis">Однако ещё более мрачное расположение планет приходится на понедельник и вторник,</segment>
 		<segment id="15" relname="antithesis">мутные последние дни перед новолунием. 6—</segment>
-		<segment id="16" relname="antithesis">сентября довольно высока вероятность каких-то крупных катастроф.</segment>
+		<segment id="16" relname="antithesis">7 сентября довольно высока вероятность каких-то крупных катастроф.</segment>
 		<segment id="17" relname="antithesis">##### В повседневной жизни понедельник и вторник, скорее всего, пройдут спокойно. 6—7 сентября — естественные дни для некоторого выдоха.</segment>
 		<segment id="18" relname="antithesis">Чуть более расслабленного темпа.</segment>
 		<segment id="19" relname="antithesis">Во всяком случае, лучше придержать инициативу.</segment>
@@ -86,23 +86,23 @@
 		<segment id="52" relname="antithesis">Не лучший день,</segment>
 		<segment id="53" parent="52" relname="purpose">чтобы начинать что-то основательное.</segment>
 		<segment id="54" relname="antithesis">Осторожнее вечером</segment>
-		<segment id="55" relname="antithesis">довольно высока вероятность поломок и мелких, но досадных неудач.</segment>
+		<segment id="55" relname="antithesis">— довольно высока вероятность поломок и мелких, но досадных неудач.</segment>
 		<segment id="56" relname="antithesis">Срезать угол в пути, невзирая на риск,</segment>
 		<segment id="57" relname="antithesis">этим вечером может быть особенно опасно.</segment>
 		<segment id="58" relname="antithesis">Во второй половине четверга лучше удерживаться от попыток грубо поднажать на дела,</segment>
 		<segment id="59" parent="58" relname="elaboration">которые продвигаются недостаточно легко.</segment>
 		<segment id="60" parent="61" relname="condition">Если какое-то дело подзастряло,</segment>
 		<segment id="61" relname="antithesis">его лучше оставить в покое</segment>
-		<segment id="62" relname="antithesis">не поддаваться первому импульсу добить начатое.</segment>
+		<segment id="62" relname="antithesis">и не поддаваться первому импульсу добить начатое.</segment>
 		<segment id="63" relname="antithesis">Оставьте всё как есть,</segment>
 		<segment id="64" relname="antithesis">а завтра продолжите</segment>
-		<segment id="65" relname="antithesis">с пришедшими умными мыслями насчёт того, как всё решить наилучшим образом.</segment>
+		<segment id="65" relname="antithesis">— с пришедшими умными мыслями насчёт того, как всё решить наилучшим образом.</segment>
 		<segment id="66" relname="antithesis">##### Пятница, скорее всего, пройдёт более ровно.</segment>
 		<segment id="67" relname="antithesis">Наиболее тонкие и деликатные дела,</segment>
 		<segment id="68" parent="67" relname="elaboration">которые особенно важно провести без неожиданных сбоев, во второй половине недели лучше намечать на 10 сентября.</segment>
 		<segment id="69" parent="70" relname="condition">##### Если в субботу вас уже ранним утром ожидают достаточно напряжённые совместные дела,</segment>
 		<segment id="70" relname="antithesis">постарайтесь тщательнее выбирать слова</segment>
-		<segment id="71" relname="antithesis">отмерять действия.</segment>
+		<segment id="71" relname="antithesis">и отмерять действия.</segment>
 		<segment id="72" relname="antithesis">Этим утром будет лучше чуть сильнее подстраховаться,</segment>
 		<segment id="73" relname="antithesis">чем даже слегка отпустить тормоза и сделать более резкое, чем нужно, движение.</segment>
 		<segment id="74" relname="antithesis">чем нужно,</segment>
@@ -131,6 +131,6 @@
 		<segment id="97" relname="antithesis">чем вы ожидали.</segment>
 		<segment id="98" relname="antithesis">На этой неделе пора окончательно прекращать что-то дорабатывать,</segment>
 		<segment id="99" relname="antithesis">исправлять</segment>
-		<segment id="100" relname="antithesis">улучшать — время идти вперёд.</segment>
+		<segment id="100" relname="antithesis">и улучшать — время идти вперёд.</segment>
     </body>
 </rst>

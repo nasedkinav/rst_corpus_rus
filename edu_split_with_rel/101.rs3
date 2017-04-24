@@ -40,7 +40,7 @@
 		<segment id="6" relname="antithesis">да и участников у неё тоже немного,</segment>
 		<segment id="7" relname="antithesis">но по их бодрым, в отличие от большинства издателей,</segment>
 		<segment id="8" relname="antithesis">лицам было понятно</segment>
-		<segment id="9" relname="antithesis">у них всё хорошо.</segment>
+		<segment id="9" relname="antithesis">— у них всё хорошо.</segment>
 		<segment id="10" relname="antithesis">Крах целой отрасли начался без паники.</segment>
 		<segment id="11" relname="antithesis">##### Особо тревожных нот тоже слышно не было.</segment>
 		<segment id="12" relname="antithesis">Точнее, услышать что-либо было вообще сложно,</segment>
@@ -70,40 +70,40 @@
 		<segment id="36" relname="antithesis">и поработали на Президентскую библиотеку,</segment>
 		<segment id="37" relname="antithesis">и оцифровали все издания XIX века в Архангельской областной библиотеке,</segment>
 		<segment id="38" relname="antithesis">и что-то там</segment>
-		<segment id="39" relname="antithesis">высоко поднятые брови)</segment>
+		<segment id="39" relname="antithesis">(высоко поднятые брови)</segment>
 		<segment id="40" relname="antithesis">по лицензии по работе с секретными документами...</segment>
 		<segment id="41" relname="antithesis">##### И радость была на их лицах.</segment>
 		<segment id="42" relname="antithesis">Потому что к ним подходили не такие весёлые издатели</segment>
-		<segment id="43" relname="antithesis">грустно интересовались,</segment>
+		<segment id="43" relname="antithesis">и грустно интересовались,</segment>
 		<segment id="44" relname="antithesis">почём стоит оцифровать и их книги тоже.</segment>
 		<segment id="45" relname="antithesis">Было,</segment>
 		<segment id="46" relname="antithesis">правда, не очень понятно,</segment>
 		<segment id="47" relname="antithesis">почему грустят издатели — то ли им было жалко денег (совсем недорого, кстати, по рубль двадцать за 2 секунды работы сканера)</segment>
-		<segment id="48" relname="antithesis">то ли они грустили,</segment>
+		<segment id="48" relname="antithesis">, то ли они грустили,</segment>
 		<segment id="49" relname="antithesis">что Google с его сервисом Google Books далеко,</segment>
 		<segment id="50" relname="antithesis">то ли предчувствовали,</segment>
 		<segment id="51" relname="antithesis">что в этом сканере их жизнь</segment>
-		<segment id="52" relname="antithesis">закончится.</segment>
+		<segment id="52" relname="antithesis">и закончится.</segment>
 		<segment id="53" relname="antithesis">В «Эларе» тоже чувствуют,</segment>
 		<segment id="54" relname="antithesis">что издатели никуда не денутся.</segment>
 		<segment id="55" relname="antithesis">##### Не меньшей деловитостью отличались сотрудники Xerox.</segment>
 		<segment id="56" relname="antithesis">Им было чем заняться:</segment>
 		<segment id="57" relname="antithesis">мини-типография жужжала</segment>
-		<segment id="58" relname="antithesis">гудела,</segment>
+		<segment id="58" relname="antithesis">и гудела,</segment>
 		<segment id="59" relname="antithesis">потому что к стенду Xerox подходили посетители выставки</segment>
-		<segment id="60" parent="61" relname="condition">не могли удержаться от участия в редком пока аттракционе.</segment>
+		<segment id="60" parent="61" relname="condition">и не могли удержаться от участия в редком пока аттракционе.</segment>
 		<segment id="61" relname="antithesis">Жмёшь на кнопку,</segment>
 		<segment id="62" relname="antithesis">платишь деньги,</segment>
 		<segment id="63" relname="antithesis">и через 15—</segment>
-		<segment id="64" relname="antithesis">0 минут получаешь ещё тёплую книжку.</segment>
+		<segment id="64" relname="antithesis">20 минут получаешь ещё тёплую книжку.</segment>
 		<segment id="65" relname="antithesis">Совсем как настоящую,</segment>
 		<segment id="66" relname="antithesis">но напечатанную специально для тебя и в твоём присутствии.</segment>
 		<segment id="67" relname="antithesis">Выбор был невелик</segment>
-		<segment id="68" relname="antithesis">цифровые материалы для нескольких книг были предоставлены издательством «Альпина Паблишерз».</segment>
+		<segment id="68" relname="antithesis">— цифровые материалы для нескольких книг были предоставлены издательством «Альпина Паблишерз».</segment>
 		<segment id="69" relname="antithesis">В общем, было даже не важно,</segment>
 		<segment id="70" relname="antithesis">какие книги можно заказать,</segment>
 		<segment id="71" relname="antithesis">главное</segment>
-		<segment id="72" relname="antithesis">их можно было тут же получить.</segment>
+		<segment id="72" relname="antithesis">— их можно было тут же получить.</segment>
 		<segment id="73" relname="antithesis">Мини-типография явно не походила на «букмашину», но всё ещё впереди.</segment>
 		<segment id="74" relname="antithesis">В конце концов, кризис — самое подходящее время,</segment>
 		<segment id="75" parent="74" relname="purpose">чтобы задуматься над тем,</segment>
@@ -112,11 +112,11 @@
 		<segment id="78" relname="antithesis">что их кто-то купит.</segment>
 		<segment id="79" relname="antithesis">А так — по книжке — глядишь,</segment>
 		<segment id="80" relname="antithesis">издатель</segment>
-		<segment id="81" relname="antithesis">окупит какие-то расходы.</segment>
+		<segment id="81" relname="antithesis">и окупит какие-то расходы.</segment>
 		<segment id="82" relname="antithesis">##### Оптимистичное настроение не покидало и участников пресс-конференции,</segment>
 		<segment id="83" parent="82" relname="elaboration">которую вёл председатель оргкомитета «Книгабайта» Андрей Гельмиза.</segment>
 		<segment id="84" relname="antithesis">«За два года мы создали рынок электронных книг в России»</segment>
-		<segment id="85" relname="antithesis">— с места в карьер начал Алексей Кузьмин, директор крупнейшего онлайнового магазина электронных книг «Литрес».</segment>
+		<segment id="85" relname="antithesis">, — с места в карьер начал Алексей Кузьмин, директор крупнейшего онлайнового магазина электронных книг «Литрес».</segment>
 		<segment id="86" relname="antithesis">«Литресу» и вправду есть чем гордиться.</segment>
 		<segment id="87" relname="antithesis">За год продажи в магазине выросли в 5 раз.</segment>
 		<segment id="88" relname="antithesis">Каждый день магазин продаёт около 5 тыс. книг.</segment>
@@ -124,15 +124,15 @@
 		<segment id="90" relname="antithesis">##### Помимо продаж через свой сайт, «Литрес» вовсю развивает партнёрские программы с интернет-провайдерами и операторами мобильной связи.</segment>
 		<segment id="91" relname="antithesis">Последние такие соглашения «Литрес» заключил с «Билайном» и МТС.</segment>
 		<segment id="92" relname="antithesis">Схема продажи чрезвычайно занимательна</segment>
-		<segment id="93" relname="antithesis">должна затронуть даже чёрствое сердце старого книжника</segment>
-		<segment id="94" relname="antithesis">книги продаются, в сущности, побайтно:</segment>
+		<segment id="93" relname="antithesis">и должна затронуть даже чёрствое сердце старого книжника</segment>
+		<segment id="94" relname="antithesis">— книги продаются, в сущности, побайтно:</segment>
 		<segment id="95" relname="antithesis">абонент сети, он же читатель,</segment>
 		<segment id="96" relname="antithesis">просто платит за скачанные байты.</segment>
 		<segment id="97" relname="antithesis">Гениальная бизнес-модель,</segment>
 		<segment id="98" parent="97" relname="elaboration">которая не снилась ни Гуттенбергу,</segment>
 		<segment id="99" relname="antithesis">ни Сытину!</segment>
 		<segment id="100" relname="antithesis">Они же тоже могли продавать книги за количество букв.</segment>
-		<segment id="101" relname="antithesis">. И где они теперь?</segment>
+		<segment id="101" relname="antithesis">.. И где они теперь?</segment>
 		<segment id="102" relname="antithesis">А «Литрес» тут,</segment>
 		<segment id="103" relname="antithesis">и, кажется, неплохо себя чувствует.</segment>
 		<segment id="104" relname="antithesis">Даже разрабатывает новый формат электронных книг,</segment>

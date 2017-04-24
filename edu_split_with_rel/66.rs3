@@ -50,10 +50,10 @@
 		<segment id="16" relname="antithesis">получивший 50 000 долл..</segment>
 		<segment id="17" relname="antithesis">Компания Geni создала сервис (в духе популярного микроблога Twitter) для нужд бизнеса и межкорпоративных коммуникаций.</segment>
 		<segment id="18" relname="antithesis">От 2 до 10 тыс. пользователей могут заниматься микроблогингом</segment>
-		<segment id="19" relname="antithesis">то есть отвечать на вопрос «что ты сейчас делаешь?»</segment>
-		<segment id="20" relname="antithesis">быстро обмениваться сообщениями)</segment>
-		<segment id="21" relname="antithesis">Yammer позволяет формировать закрытые группы</segment>
-		<segment id="22" relname="antithesis">работать как на сервере производителя, так и на сервере организации,</segment>
+		<segment id="19" relname="antithesis">(то есть отвечать на вопрос «что ты сейчас делаешь?»</segment>
+		<segment id="20" relname="antithesis">и быстро обмениваться сообщениями)</segment>
+		<segment id="21" relname="antithesis">. Yammer позволяет формировать закрытые группы</segment>
+		<segment id="22" relname="antithesis">и работать как на сервере производителя, так и на сервере организации,</segment>
 		<segment id="23" parent="22" relname="elaboration">которая им пользуется.</segment>
 		<segment id="24" relname="antithesis">В этом случае вы платите по доллару в месяц за каждого участника сети (три месяца, правда, бесплатно).</segment>
 		<segment id="25" relname="antithesis">Yammer, разумеется, доступен через iPhone,</segment>
@@ -73,7 +73,7 @@
 		<segment id="39" relname="antithesis">сколько ты нашагал в день,</segment>
 		<segment id="40" relname="antithesis">и шлет отчеты в сеть.</segment>
 		<segment id="41" relname="antithesis">Вы можете радоваться</segment>
-		<segment id="42" relname="antithesis">сокрушаться количеству соженных калорий.</segment>
+		<segment id="42" relname="antithesis">и сокрушаться количеству соженных калорий.</segment>
 		<segment id="43" relname="antithesis">Для нового iPod, кстати, тоже предусмотрена похожая примочка от Nike.</segment>
 		<segment id="44" relname="antithesis">##### GoodGuide – это серьезный рекомендательный ресурс с постоянно расширяющимся ассортиметном товаров,</segment>
 		<segment id="45" parent="44" relname="elaboration">о которых можно получить справку на предмет их соответствия разным критериям, от полезности для здоровья до «социальной приемлемости».</segment>
@@ -81,9 +81,9 @@
 		<segment id="47" relname="antithesis">##### Онлайновый ресурс Grockit предназначен для самотестирования:</segment>
 		<segment id="48" relname="antithesis">предполагается,</segment>
 		<segment id="49" relname="antithesis">что суденты будут собираться вместе</segment>
-		<segment id="50" relname="antithesis">отвечать на вопросы тестов, например, SAT.</segment>
+		<segment id="50" relname="antithesis">и отвечать на вопросы тестов, например, SAT.</segment>
 		<segment id="51" relname="antithesis">Логика организации ресурса схожа с World of Warcraft</segment>
-		<segment id="52" relname="antithesis">Есть чат,</segment>
+		<segment id="52" relname="antithesis">. Есть чат,</segment>
 		<segment id="53" relname="antithesis">где можно обсуждать вопросы заданий.</segment>
 		<segment id="54" relname="antithesis">Стартап уже освоил 10 млн долл.</segment>
 		<segment id="55" relname="antithesis">##### Swype – интересная программа для любых сенсорных дисплеев,</segment>
@@ -94,7 +94,7 @@
 		<segment id="60" relname="antithesis">Автор программы Клиф Кашлер – соавтор T9, программы, знакомой любому владельцу мобильного телефона,</segment>
 		<segment id="61" parent="60" relname="elaboration">которая предсказывает печатаемое слово по мере набора,</segment>
 		<segment id="62" relname="antithesis">тем самым ускоряя</segment>
-		<segment id="63" relname="antithesis">упрощая переписку.</segment>
+		<segment id="63" relname="antithesis">и упрощая переписку.</segment>
 		<segment id="64" relname="antithesis">На iPhone эта программа называется WrittingPad.</segment>
 		<segment id="65" relname="antithesis">Но пока не для русского языка.</segment>
 		<segment id="66" relname="antithesis">##### Поскольку одни проекты находятся в стадии разработки не только «бета», но даже «альфа»,</segment>
@@ -113,7 +113,7 @@
 		<segment id="79" relname="antithesis">предназначен для «социального маркирования» для iPhone,</segment>
 		<segment id="80" relname="antithesis">разработанный в Токио:</segment>
 		<segment id="81" relname="antithesis">идешь по городу</segment>
-		<segment id="82" relname="antithesis">видишь на экране информацию о тех местах,</segment>
+		<segment id="82" relname="antithesis">и видишь на экране информацию о тех местах,</segment>
 		<segment id="83" relname="antithesis">мимо которых проходишь (магазины, рестораны, кино, выставки и прочие достопримечательности).</segment>
 		<segment id="84" relname="antithesis">Так создается паралельный информационный мир или,</segment>
 		<segment id="85" relname="antithesis">как принято говорить в последнее время,</segment>
@@ -124,10 +124,10 @@
 		<segment id="90" relname="antithesis">Гипотеза следующая:</segment>
 		<segment id="91" parent="90" relname="condition">если рынок в «хорошем настроении»,</segment>
 		<segment id="92" relname="antithesis">то у него есть некоторая предвзятость как для хороших</segment>
-		<segment id="93" relname="antithesis">они преувеличиваются)</segment>
-		<segment id="94" relname="antithesis">так и не очень хороших новостей</segment>
-		<segment id="95" relname="antithesis">они преуменьшаются)</segment>
-		<segment id="96" parent="95" relname="condition">если же, напротив, настроение рынка «плохое», то все наоборот.</segment>
+		<segment id="93" relname="antithesis">(они преувеличиваются)</segment>
+		<segment id="94" relname="antithesis">, так и не очень хороших новостей</segment>
+		<segment id="95" relname="antithesis">(они преуменьшаются)</segment>
+		<segment id="96" parent="95" relname="condition">, если же, напротив, настроение рынка «плохое», то все наоборот.</segment>
 		<segment id="97" relname="antithesis">"Английское название" позволяет проследить за «угрозами» повышенного оптимизма и пессимизма.</segment>
 		<segment id="98" relname="antithesis">##### Так или иначе, внимательно знакомясь с творениями призеров и финалистов,</segment>
 		<segment id="99" relname="antithesis">появляется мысль:</segment>
@@ -135,19 +135,19 @@
 		<segment id="101" relname="antithesis">Впрочем, как писал в свое время Дэвид Маллингс в журнале Fast company,</segment>
 		<segment id="102" relname="antithesis">«есть три типа предпринимателей.</segment>
 		<segment id="103" relname="antithesis">Изобретатель создает что-то новое</segment>
-		<segment id="104" relname="antithesis">пытается на этом заработать.</segment>
+		<segment id="104" relname="antithesis">и пытается на этом заработать.</segment>
 		<segment id="105" relname="antithesis">Инноватор – адаптировать</segment>
-		<segment id="106" relname="antithesis">модифицировать что-то для нового рынка.</segment>
+		<segment id="106" relname="antithesis">и модифицировать что-то для нового рынка.</segment>
 		<segment id="107" relname="antithesis">Инвестор – это только тот,</segment>
 		<segment id="108" relname="antithesis">кто инвестирует в идеи других.</segment>
 		<segment id="109" relname="antithesis">Facebook и MySpace не оригинальны,</segment>
 		<segment id="110" relname="antithesis">но почему не вы их начали?</segment>
 		<segment id="111" relname="antithesis">Майкл Делл не изобрел компьютеры, но сейчас он мультимиллионер.</segment>
 		<segment id="112" relname="antithesis">Уоррен Баффет покупает прибыльные компании</segment>
-		<segment id="113" relname="antithesis">размещает капитал,</segment>
+		<segment id="113" relname="antithesis">и размещает капитал,</segment>
 		<segment id="114" relname="antithesis">но ничего не изобретает».</segment>
 		<segment id="115" relname="antithesis">Так что заходите на TechCrunch50</segment>
-		<segment id="116" relname="antithesis">пользуйтесь,</segment>
+		<segment id="116" relname="antithesis">и пользуйтесь,</segment>
 		<segment id="117" relname="antithesis">чем понравится.</segment>
     </body>
 </rst>

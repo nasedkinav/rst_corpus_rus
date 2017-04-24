@@ -36,7 +36,7 @@
 		<segment id="2" relname="antithesis">Но это не означает,</segment>
 		<segment id="3" relname="antithesis">что его произведения автоматически стали общественным достоянием.</segment>
 		<segment id="4" relname="antithesis">Руководитель отдела авторского права юридической компании «Усков и Партнёры» Михаил Родионов рассказал «Часкору» о нюансах авторского права</segment>
-		<segment id="5" relname="antithesis">поделился мнением по поводу национализации советского кино.</segment>
+		<segment id="5" relname="antithesis">и поделился мнением по поводу национализации советского кино.</segment>
 		<segment id="6" relname="antithesis">##### — После 10 марта начались активные разговоры о том,</segment>
 		<segment id="7" relname="antithesis">что произведения Михаила Булгакова переходят в общественное достояние.</segment>
 		<segment id="8" relname="antithesis">Так ли это?</segment>
@@ -72,10 +72,10 @@
 		<segment id="38" relname="antithesis">а Петров погиб в 1942 году.</segment>
 		<segment id="39" relname="antithesis">У тех авторов,</segment>
 		<segment id="40" relname="antithesis">кто воевал</segment>
-		<segment id="41" relname="antithesis">работал в годы войны,</segment>
+		<segment id="41" relname="antithesis">и работал в годы войны,</segment>
 		<segment id="42" relname="antithesis">срок авторского права продлевается на четыре года.</segment>
 		<segment id="43" relname="antithesis">Таким образом, действие авторского права на «Двенадцать стульев» не истекло по состоянию на 1 января 1993 года</segment>
-		<segment id="44" relname="antithesis">будет охраняться как минимум до 2017 года.</segment>
+		<segment id="44" relname="antithesis">и будет охраняться как минимум до 2017 года.</segment>
 		<segment id="45" relname="antithesis">##### Авторское право репрессированных авторов охраняется,</segment>
 		<segment id="46" relname="antithesis">начиная с года реабилитации.</segment>
 		<segment id="47" relname="antithesis">##### 70-летний срок — только самое общее правило охраны авторского права.</segment>
@@ -94,7 +94,7 @@
 		<segment id="60" relname="antithesis">но их авторы умерли в эмиграции в 60—70 годы.</segment>
 		<segment id="61" relname="antithesis">По отношению к ним советские декреты и первые законодательные акты в области авторского права не действуют.</segment>
 		<segment id="62" relname="antithesis">Вот</segment>
-		<segment id="63" relname="antithesis">получается,</segment>
+		<segment id="63" relname="antithesis">и получается,</segment>
 		<segment id="64" relname="antithesis">что фильм вроде немой, старый и все о нём забыли,</segment>
 		<segment id="65" relname="antithesis">а он вполне себе охраняемый объект авторского права.</segment>
 		<segment id="66" relname="antithesis">##### — Кстати,</segment>
@@ -113,14 +113,14 @@
 		<segment id="79" relname="antithesis">созданные в советские годы,</segment>
 		<segment id="80" relname="antithesis">осуществляются правопреемниками этих студий.</segment>
 		<segment id="81" relname="antithesis">Был «Мосфильм»</segment>
-		<segment id="82" relname="antithesis">стал киноконцерн «Мосфильм»,</segment>
+		<segment id="82" relname="antithesis">— стал киноконцерн «Мосфильм»,</segment>
 		<segment id="83" relname="antithesis">был «Ленфильм»</segment>
-		<segment id="84" relname="antithesis">стало акционерное общество «Ленфильм» и так далее.</segment>
+		<segment id="84" relname="antithesis">— стало акционерное общество «Ленфильм» и так далее.</segment>
 		<segment id="85" relname="antithesis">##### Когда студия-правообладатель продаёт созданный до 1992 года фильм телеканалам или выпускает его на диске,</segment>
 		<segment id="86" relname="antithesis">она должна выплачивать соответствующие отчисления авторам — режиссёру, сценаристу, оператору, художнику.</segment>
 		<segment id="87" relname="antithesis">С другой стороны, судьба прав на многие фильмы не ясна.</segment>
 		<segment id="88" relname="antithesis">Они неоднократно продавались</segment>
-		<segment id="89" relname="antithesis">перепродавались,</segment>
+		<segment id="89" relname="antithesis">и перепродавались,</segment>
 		<segment id="90" parent="89" relname="cause-effect">в результате чего непонятно,</segment>
 		<segment id="91" relname="antithesis">кто и от каких доходов должен начислять советским кинематографистам причитающиеся им по постановлению 1998 года отчисления.</segment>
 		<segment id="92" relname="antithesis">##### Я знаю,</segment>
@@ -133,7 +133,7 @@
 		<segment id="99" relname="antithesis">что она как режиссёр-постановщик имеет право на авторские отчисления из доходов от использования этого фильма.</segment>
 		<segment id="100" relname="antithesis">Возможно, это копеечные отчисления.</segment>
 		<segment id="101" relname="antithesis">Но если речь идёт о постоянно транслируемых фильмах</segment>
-		<segment id="102" parent="101" relname="condition">если постановление правительства 1998 года правообладателями исполняется,</segment>
+		<segment id="102" relname="antithesis">и если постановление правительства 1998 года правообладателями исполняется,</segment>
 		<segment id="103" relname="antithesis">то речь может идти о значительной прибавке к пенсиям ветеранов нашего кино.</segment>
 		<segment id="104" relname="antithesis">Хотя пенсии многих старых мастеров зачастую не соответствуют их вкладу в искусство.</segment>
 		<segment id="105" relname="antithesis">##### Никита Сергеевич Михалков, как и остальные авторы,</segment>
@@ -152,7 +152,7 @@
 		<segment id="118" relname="antithesis">автоматически становятся общественным достоянием.</segment>
 		<segment id="119" relname="antithesis">В этом есть своя справедливость.</segment>
 		<segment id="120" relname="antithesis">Государство тратит деньги налогоплательщиков</segment>
-		<segment id="121" relname="antithesis">создаёт не только социальные блага, но и культурный продукт,</segment>
+		<segment id="121" relname="antithesis">и создаёт не только социальные блага, но и культурный продукт,</segment>
 		<segment id="122" parent="121" relname="elaboration">который должен принадлежать всем.</segment>
 		<segment id="123" relname="antithesis">##### Есть широко известные результаты работы американского правительства во время Великой депрессии,</segment>
 		<segment id="124" relname="antithesis">когда привлекались художники и фотографы,</segment>
@@ -171,7 +171,7 @@
 		<segment id="137" parent="138" relname="condition">Если кинематографисты должны по постановлению правительства получать отчисления от использования советских фильмов,</segment>
 		<segment id="138" relname="antithesis">то они должны их получать.</segment>
 		<segment id="139" relname="antithesis">Но отменять авторское право на советское кино</segment>
-		<segment id="140" relname="antithesis">говорить о том,</segment>
+		<segment id="140" relname="antithesis">и говорить о том,</segment>
 		<segment id="141" relname="antithesis">что это ничьё, общественное,</segment>
 		<segment id="142" relname="antithesis">не совсем правильно.</segment>
 		<segment id="143" relname="antithesis">У нас это будет воспринято как анархия.</segment>
@@ -195,10 +195,10 @@
 		<segment id="161" relname="antithesis">##### — Я намеренно не касаюсь сейчас позиции конкретных деятелей.</segment>
 		<segment id="162" relname="antithesis">Но считаю,</segment>
 		<segment id="163" relname="antithesis">что Никита Сергеевич Михалков как председатель СК должен взяться</segment>
-		<segment id="164" relname="antithesis">поставить вопрос,</segment>
+		<segment id="164" relname="antithesis">и поставить вопрос,</segment>
 		<segment id="165" parent="164" relname="purpose">чтобы при каждом публичном использовании соответствующих произведений авторы советских фильмов не забывались нынешними правообладателями.</segment>
 		<segment id="166" relname="antithesis">В постановлении 1998 года указаны конкретные проценты авторских отчислений</segment>
-		<segment id="167" relname="antithesis">см. приложение).</segment>
+		<segment id="167" relname="antithesis">(см. приложение).</segment>
 		<segment id="168" relname="antithesis">##### Когда наступил кризис 1998 года,</segment>
 		<segment id="169" relname="antithesis">никто не следил за тем,</segment>
 		<segment id="170" parent="169" relname="purpose">чтобы авторам выплачивали вознаграждения.</segment>
@@ -208,7 +208,7 @@
 		<segment id="174" relname="antithesis">##### Мы прекрасно понимаем,</segment>
 		<segment id="175" relname="antithesis">что авторы год от года не молодеют.</segment>
 		<segment id="176" relname="antithesis">Возможно, они</segment>
-		<segment id="177" relname="antithesis">знают,</segment>
+		<segment id="177" relname="antithesis">и знают,</segment>
 		<segment id="178" relname="antithesis">что им причитается,</segment>
 		<segment id="179" relname="antithesis">но нет ни сил, ни средств на разбирательства.</segment>
 		<segment id="180" relname="antithesis">##### Беседовала Юлия Бурмистрова</segment>

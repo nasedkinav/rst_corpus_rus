@@ -42,7 +42,7 @@
 		<segment id="8" relname="antithesis">выражающей желание авторов энциклопедии делиться контентом,</segment>
 		<segment id="9" relname="antithesis">сейчас «Википедия» проходит сложный, но важный процесс перехода на лицензию Creative Commons.</segment>
 		<segment id="10" relname="antithesis">Бывший администратор и действующий пресс-секретарь «Википедии» Анастасия Львова рассказывает о перспективах этой затеи</segment>
-		<segment id="11" relname="antithesis">дает советы «Частному корреспонденту»,</segment>
+		<segment id="11" relname="antithesis">и дает советы «Частному корреспонденту»,</segment>
 		<segment id="12" relname="antithesis">что делать,</segment>
 		<segment id="13" parent="12" relname="purpose">чтобы стать первой газетой,</segment>
 		<segment id="14" parent="13" relname="elaboration">которую сможет перепечатывать «Википедия».</segment>
@@ -53,14 +53,14 @@
 		<segment id="19" relname="antithesis">##### — Если газета будет находиться под лицензией СС,</segment>
 		<segment id="20" relname="antithesis">ее тексты можно будет напрямую цитировать при создании статей?</segment>
 		<segment id="21" relname="antithesis">##### Creative Сommons</segment>
-		<segment id="22" relname="antithesis">это группа лицензий,</segment>
+		<segment id="22" relname="antithesis">— это группа лицензий,</segment>
 		<segment id="23" relname="antithesis">не каждая из которых разрешена для использования в рамках проектов фонда «Викимедиа».</segment>
 		<segment id="24" relname="antithesis">В частности, запрещены лицензии BY-NC</segment>
-		<segment id="25" relname="antithesis">так как содержимое проектов может использоваться в коммерческих целях)</segment>
+		<segment id="25" relname="antithesis">(так как содержимое проектов может использоваться в коммерческих целях)</segment>
 		<segment id="26" relname="antithesis">и BY-ND</segment>
-		<segment id="27" relname="antithesis">так как возможность редактирования материала любым участником должна сохраняться,</segment>
+		<segment id="27" relname="antithesis">(так как возможность редактирования материала любым участником должна сохраняться,</segment>
 		<segment id="28" relname="antithesis">это одна из основ проектов)</segment>
-		<segment id="29" relname="antithesis">Следовательно, если газета будет распространяться под этими лицензиями,</segment>
+		<segment id="29" relname="antithesis">. Следовательно, если газета будет распространяться под этими лицензиями,</segment>
 		<segment id="30" relname="antithesis">мы сможем использовать ее материалы лишь при прямом разрешении,</segment>
 		<segment id="31" relname="antithesis">механизм получения которого описан на странице «Википедия:ДОБРО»,</segment>
 		<segment id="32" relname="antithesis">и краткая суть которого заключается в том,</segment>
@@ -72,14 +72,14 @@
 		<segment id="38" relname="antithesis">выбранная сейчас для «Википедии»,</segment>
 		<segment id="39" relname="antithesis">— это GNU Free Documentation License (GFDL),</segment>
 		<segment id="40" relname="antithesis">разработанная</segment>
-		<segment id="41" relname="antithesis">поддерживаемая Фондом свободного программного обеспечения</segment>
-		<segment id="42" relname="antithesis">Free Software Foundation).</segment>
+		<segment id="41" relname="antithesis">и поддерживаемая Фондом свободного программного обеспечения</segment>
+		<segment id="42" relname="antithesis">(Free Software Foundation).</segment>
 		<segment id="43" relname="antithesis">##### Эта лицензия,</segment>
 		<segment id="44" relname="antithesis">подчеркивающая глубокую связь между «Википедией» и сообществом разработчиков свободного ПО,</segment>
 		<segment id="45" relname="antithesis">была первоначально разработана для свободно лицензированной документации на программы; в итоге при использовании ее в вики-проектах, не только в «Википедии»,</segment>
 		<segment id="46" relname="antithesis">возникает ряд сложностей с соблюдением лицензии</segment>
-		<segment id="47" relname="antithesis">легко решаемых в случае публикации документации и почти нерешаемых в вики)</segment>
-		<segment id="48" parent="49" relname="purpose">Чтобы сделать содержимое «Википедии» проще в использовании и юридически совместимым с иными существующими проектами,</segment>
+		<segment id="47" relname="antithesis">(легко решаемых в случае публикации документации и почти нерешаемых в вики)</segment>
+		<segment id="48" parent="47" relname="purpose">. Чтобы сделать содержимое «Википедии» проще в использовании и юридически совместимым с иными существующими проектами,</segment>
 		<segment id="49" relname="antithesis">содержащими свободный контент,</segment>
 		<segment id="50" relname="antithesis">фонд «Викимедиа» намерен представить сообществу «Викимедиа» предложение — все материалы,</segment>
 		<segment id="51" relname="antithesis">распространяемые в настоящее время фондом «Викимедиа» под GFDL,</segment>
@@ -94,9 +94,9 @@
 		<segment id="60" relname="antithesis">охватывающего всё сообщество,</segment>
 		<segment id="61" parent="60" relname="elaboration">в котором простое большинство квалифицированных участников будет означать достаточную поддержку такого изменения.</segment>
 		<segment id="62" relname="antithesis">Голосование планируется провести до апреля</segment>
-		<segment id="63" relname="antithesis">хотя скорее всего сроки будут опять перенесены,</segment>
+		<segment id="63" relname="antithesis">(хотя скорее всего сроки будут опять перенесены,</segment>
 		<segment id="64" relname="antithesis">учитывая близость апреля)</segment>
-		<segment id="65" relname="antithesis">а продлится оно, вероятно, от двух до четырех недель.</segment>
+		<segment id="65" relname="antithesis">, а продлится оно, вероятно, от двух до четырех недель.</segment>
 		<segment id="66" relname="antithesis">##### — В декабре вы говорили,</segment>
 		<segment id="67" relname="antithesis">что «Википедия» находится в процессе перехода на СС,</segment>
 		<segment id="68" parent="69" relname="condition">но этот процесс долгий и сроки пока неясны.</segment>
@@ -109,21 +109,21 @@
 		<segment id="75" relname="antithesis">аргументированных несуществующими проблемами и подозрениями.</segment>
 		<segment id="76" relname="antithesis">##### — Каковы этапы перехода «Википедии» на СС?</segment>
 		<segment id="77" relname="antithesis">Что пройдено</segment>
-		<segment id="78" relname="antithesis">что осталось,</segment>
+		<segment id="78" relname="antithesis">и что осталось,</segment>
 		<segment id="79" relname="antithesis">какие прогнозы</segment>
-		<segment id="80" relname="antithesis">понятны ли сроки?</segment>
+		<segment id="80" relname="antithesis">и понятны ли сроки?</segment>
 		<segment id="81" relname="antithesis">##### — Первым этапом было решение Совета поверенных фонда «Викимедиа» об официальном запросе для включения в следующую версию GFDL способа перехода на CC-BY-SA (1 декабря 2007 года)</segment>
-		<segment id="82" relname="antithesis">второй этап — выход новой версии лицензии (4 ноября 2008 года,</segment>
+		<segment id="82" relname="antithesis">, второй этап — выход новой версии лицензии (4 ноября 2008 года,</segment>
 		<segment id="83" parent="82" relname="condition">если я не ошибаюсь)</segment>
-		<segment id="84" relname="antithesis">третий этап — подготовка голосования,</segment>
+		<segment id="84" relname="antithesis">, третий этап — подготовка голосования,</segment>
 		<segment id="85" relname="antithesis">далее — голосование и, наконец, переход на новую лицензию,</segment>
 		<segment id="86" parent="85" relname="condition">если он будет одобрен сообществом,</segment>
 		<segment id="87" relname="antithesis">должен будет завершиться к 1 августа 2009 года.</segment>
 		<segment id="88" parent="89" relname="attribution">##### Кроме того, стоит отдельно отметить,</segment>
 		<segment id="89" relname="antithesis">что основной целью фонда «Викимедиа» является введение двойного лицензирования, а не смена лицензии</segment>
-		<segment id="90" relname="antithesis">то есть стремление сделать так,</segment>
+		<segment id="90" relname="antithesis">(то есть стремление сделать так,</segment>
 		<segment id="91" parent="90" relname="purpose">чтобы весь имеющийся в настоящее время вики-контент под GFDL также был лиценизрован в соответствии с CC-BY-SA</segment>
-		<segment id="92" parent="91" relname="purpose">чтобы все будущие изменения были с двойной лицензией, за исключением тех,</segment>
+		<segment id="92" relname="antithesis">и чтобы все будущие изменения были с двойной лицензией, за исключением тех,</segment>
 		<segment id="93" relname="antithesis">что были перенесены из других источников,</segment>
 		<segment id="94" parent="93" relname="elaboration">в которых были лицензированы под CC-BY-SA;</segment>
 		<segment id="95" relname="antithesis">иными словами,</segment>
@@ -141,7 +141,7 @@
 		<segment id="107" relname="antithesis">##### — Будет ли внедряться новая лицензия сначала в английском варианте,</segment>
 		<segment id="108" relname="antithesis">а потом прочих?</segment>
 		<segment id="109" relname="antithesis">##### — «Википедия» на русском языке подчиняется в данном контексте фонду «Викимедиа»</segment>
-		<segment id="110" relname="antithesis">будет лицензирована так же, как и все прочие языковые разделы проекта,</segment>
+		<segment id="110" relname="antithesis">и будет лицензирована так же, как и все прочие языковые разделы проекта,</segment>
 		<segment id="111" relname="antithesis">при этом переход всех разделов будет осуществляться единовременно.</segment>
 		<segment id="112" relname="antithesis">«Википедия» — единый проект,</segment>
 		<segment id="113" relname="antithesis">разные разделы которого развиваются на разных языках;</segment>

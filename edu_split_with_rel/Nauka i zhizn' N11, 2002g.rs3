@@ -35,7 +35,7 @@
 		<segment id="1" relname="antithesis">##### Фармацевтические препараты - не безусловное благо.</segment>
 		<segment id="2" relname="antithesis">С одной стороны, они спасают людям жизнь,</segment>
 		<segment id="3" relname="antithesis">а с другой</segment>
-		<segment id="4" relname="antithesis">нередко становятся причиной новых болезней.</segment>
+		<segment id="4" relname="antithesis">- нередко становятся причиной новых болезней.</segment>
 		<segment id="5" relname="antithesis">Между тем во многих случаях нет необходимости прибегать к сильнодействующим химическим веществам,</segment>
 		<segment id="6" relname="antithesis">ведь в буквальном смысле у нас под ногами растут лекарства,</segment>
 		<segment id="7" relname="antithesis">созданные природой.</segment>
@@ -43,13 +43,13 @@
 		<segment id="9" relname="antithesis">от осложнений лекарственной терапии ежегодно погибает около одного процента жителей планеты.</segment>
 		<segment id="10" relname="antithesis">Гораздо больше людей страдают от побочных эффектов,</segment>
 		<segment id="11" parent="10" relname="elaboration">которые снижают качество жизни</segment>
-		<segment id="12" relname="antithesis">инициируют патологические процессы.</segment>
+		<segment id="12" relname="antithesis">и инициируют патологические процессы.</segment>
 		<segment id="13" relname="antithesis">Альтернативой обычной фармакотерапии служит фитотерапия, то есть лечение растениями.</segment>
 		<segment id="14" relname="antithesis">Извлечения из лекарственных растений проявляют целебные свойства,</segment>
 		<segment id="15" relname="antithesis">сопоставимые с действием обычных лекарств,</segment>
 		<segment id="16" relname="antithesis">и дают меньше побочных эффектов.</segment>
 		<segment id="17" relname="antithesis">##### Фитотерапию часто относят к народной медицине</segment>
-		<segment id="18" relname="antithesis">на этом основании делают вывод,</segment>
+		<segment id="18" relname="antithesis">и на этом основании делают вывод,</segment>
 		<segment id="19" relname="antithesis">что это ненаучный метод лечения.</segment>
 		<segment id="20" parent="21" relname="purpose">Чтобы разрешить сомнения,</segment>
 		<segment id="21" relname="antithesis">давайте уточним значение термина "народная медицина".</segment>
@@ -74,14 +74,14 @@
 		<segment id="40" parent="41" relname="condition">##### Если говорить о чем-то хотя бы приближенном к "вечному двигателю",</segment>
 		<segment id="41" relname="antithesis">то это, конечно, живая материя - биологические объекты.</segment>
 		<segment id="42" relname="antithesis">Природа создала тончайшие механизмы, способные поддерживать жизнедеятельность практически в любых условиях планеты Земля, а значит, поглощать</segment>
-		<segment id="43" relname="antithesis">трансформировать энергию;</segment>
+		<segment id="43" relname="antithesis">и трансформировать энергию;</segment>
 		<segment id="44" relname="antithesis">воссоздавать</segment>
-		<segment id="45" relname="antithesis">поддерживать структурную целостность (регенерация),</segment>
+		<segment id="45" relname="antithesis">и поддерживать структурную целостность (регенерация),</segment>
 		<segment id="46" relname="antithesis">размножаться,</segment>
 		<segment id="47" relname="antithesis">модифицировать окружающую среду.</segment>
 		<segment id="48" relname="antithesis">Человеческий организм - открытая саморегулирующаяся биологическая система.</segment>
 		<segment id="49" relname="antithesis">Любая биосистема (и человек) способна в той или иной мере себя ремонтировать</segment>
-		<segment id="50" relname="antithesis">лечить.</segment>
+		<segment id="50" relname="antithesis">- лечить.</segment>
 		<segment id="51" relname="antithesis">Лечение - процесс осмысленного использования факторов внешней среды и мобилизация механизмов саморегуляции для полного или частичного восстановления структурной и функциональной целостности организма.</segment>
 		<segment id="52" relname="antithesis">##### По замыслу природы, пищей человеку могут служить растения и животные.</segment>
 		<segment id="53" relname="antithesis">Следовательно, в них и теоретически и практически содержится полный набор средств для поддержания и регуляции жизнедеятельности.</segment>
@@ -95,7 +95,7 @@
 		<segment id="61" relname="antithesis">появлялись люди,</segment>
 		<segment id="62" relname="antithesis">специализирующиеся в лечении соплеменников,</segment>
 		<segment id="63" relname="antithesis">- это</segment>
-		<segment id="64" relname="antithesis">было началом медицины и фармакологии.</segment>
+		<segment id="64" relname="antithesis">и было началом медицины и фармакологии.</segment>
 		<segment id="65" relname="antithesis">Использование в лечебных целях растений стало началом фитотерапии.</segment>
 		<segment id="66" relname="antithesis">##### Можно ли называть наукой то,</segment>
 		<segment id="67" relname="antithesis">что делали врачеватели много веков назад?</segment>
@@ -116,7 +116,7 @@
 		<segment id="82" relname="antithesis">##### Фитотерапия постоянно впитывает в себя колоссальный поток информации,</segment>
 		<segment id="83" parent="82" relname="elaboration">который обогащает любую науку, любой медицинский метод.</segment>
 		<segment id="84" relname="antithesis">Это нормальный ход событий</segment>
-		<segment id="85" relname="antithesis">опыт прошлого обогащается новыми данными,</segment>
+		<segment id="85" relname="antithesis">- опыт прошлого обогащается новыми данными,</segment>
 		<segment id="86" relname="antithesis">и на основе их квалифицированной интерпретации создаются алгоритмы более эффективного решения тех или иных проблем.</segment>
 		<segment id="87" relname="antithesis">##### Нынешнее человечество переоценивает свою научность.</segment>
 		<segment id="88" relname="antithesis">Переходя в виртуальные миры,</segment>
@@ -126,8 +126,8 @@
 		<segment id="92" relname="antithesis">##### Из чего же складывается современная фитотерапия?</segment>
 		<segment id="93" relname="antithesis">Одно из направлений - изучение опыта лечения болезней различными медицинскими школами:</segment>
 		<segment id="94" relname="antithesis">русской, тибетской, индийской, греческой и другими</segment>
-		<segment id="95" relname="antithesis">каждая нация имеет свои медицинские традиции)</segment>
-		<segment id="96" relname="antithesis">После экспертной и статистической обработки старинных рецептов проводят экспериментальную и клиническую проверку полученных данных.</segment>
+		<segment id="95" relname="antithesis">(каждая нация имеет свои медицинские традиции)</segment>
+		<segment id="96" relname="antithesis">. После экспертной и статистической обработки старинных рецептов проводят экспериментальную и клиническую проверку полученных данных.</segment>
 		<segment id="97" relname="antithesis">##### Изучением химического состава лекарственных растений и продуктов их первичной переработки занимается фармакогнозия.</segment>
 		<segment id="98" parent="99" relname="condition">Если в былые времена целесообразность использования тех или иных растений определяли на основе эмпирического опыта,</segment>
 		<segment id="99" relname="antithesis">то с развитием химии и биохимии стало возможным подвести научную базу.</segment>
@@ -135,7 +135,7 @@
 		<segment id="101" relname="antithesis">Фитофармакология - важнейшая научная составляющая фитотерапии,</segment>
 		<segment id="102" relname="antithesis">изучающая взаимодействие растений и извлечений из них с живыми организмами.</segment>
 		<segment id="103" relname="antithesis">Человек не зря стремится окружить себя растениями</segment>
-		<segment id="104" relname="antithesis">сажает деревья во дворах,</segment>
+		<segment id="104" relname="antithesis">- сажает деревья во дворах,</segment>
 		<segment id="105" relname="antithesis">ставит цветочные горшки на подоконник.</segment>
 		<segment id="106" relname="antithesis">Известно, что некоторые растения благотворно влияют на психику, зрение, функции внутренних органов.</segment>
 		<segment id="107" relname="antithesis">На эффекте химических соединений,</segment>
@@ -144,7 +144,7 @@
 		<segment id="110" relname="antithesis">##### Принципы фитотерапии, алгоритмы лечения создаются на основе интеграции знаний о заболеваниях, о растениях, опыта использования растений.</segment>
 		<segment id="111" relname="antithesis">##### В организме не бывает изолированных нарушений.</segment>
 		<segment id="112" relname="antithesis">Любая болезнь</segment>
-		<segment id="113" relname="antithesis">это совокупность изменений.</segment>
+		<segment id="113" relname="antithesis">- это совокупность изменений.</segment>
 		<segment id="114" relname="antithesis">Не случайно врачи крайне редко назначают одно лекарство,</segment>
 		<segment id="115" relname="antithesis">чаще подбирают несколько лекарственных средств,</segment>
 		<segment id="116" relname="antithesis">обеспечивающих комплексное воздействие.</segment>
@@ -153,16 +153,16 @@
 		<segment id="119" relname="antithesis">Фитотерапия - яркий пример комплексного подхода.</segment>
 		<segment id="120" relname="antithesis">##### Многолетняя практика фитотерапевта привела меня к убеждению,</segment>
 		<segment id="121" relname="antithesis">что</segment>
-		<segment id="122" relname="antithesis">сли правильно оценены имеющиеся в организме отклонения</segment>
-		<segment id="123" relname="antithesis">адекватно подобраны компоненты фитокомпозиции,</segment>
+		<segment id="122" parent="121" relname="condition">если правильно оценены имеющиеся в организме отклонения</segment>
+		<segment id="123" relname="antithesis">и адекватно подобраны компоненты фитокомпозиции,</segment>
 		<segment id="124" relname="antithesis">то происходит коррекция совокупности нарушений</segment>
-		<segment id="125" relname="antithesis">даже в трудных случаях возрастает вероятность,</segment>
+		<segment id="125" relname="antithesis">и даже в трудных случаях возрастает вероятность,</segment>
 		<segment id="126" relname="antithesis">что основной желаемый эффект будет достигнут.</segment>
 		<segment id="127" relname="antithesis">Ведь в каждом растении содержатся тысячи химических соединений, способных запускать целый каскад биохимических реакций.</segment>
 		<segment id="128" relname="antithesis">Это явление мы назвали "феноменом фармакологических сетей".</segment>
 		<segment id="129" relname="antithesis">##### Некоторые ученые и врачи относятся к многокомпонентным лекарствам (в том числе к фитосредствам) с опаской,</segment>
 		<segment id="130" parent="129" relname="cause-effect">поскольку такие препараты нельзя полностью стандартизировать</segment>
-		<segment id="131" relname="antithesis">невозможно до конца объяснить механизмы их действия.</segment>
+		<segment id="131" relname="antithesis">и невозможно до конца объяснить механизмы их действия.</segment>
 		<segment id="132" relname="antithesis">Но даже применяя индивидуальное вещество,</segment>
 		<segment id="133" relname="antithesis">нельзя точно прогнозировать результат, поскольку механизмы действия не всегда ясны,</segment>
 		<segment id="134" relname="antithesis">а индивидуальные реакции организма многообразны.</segment>

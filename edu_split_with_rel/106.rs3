@@ -38,43 +38,42 @@
 		<segment id="4" relname="antithesis">погромили всю мебель,</segment>
 		<segment id="5" relname="antithesis">облили дом керосином,</segment>
 		<segment id="6" relname="antithesis">жестоко избили ее саму</segment>
-		<segment id="7" relname="antithesis">облили керосином ее полугодовалую дочку.</segment>
+		<segment id="7" relname="antithesis">и облили керосином ее полугодовалую дочку.</segment>
 		<segment id="8" relname="antithesis">Все это сделали,</segment>
 		<segment id="9" relname="antithesis">по словам Мирьям,</segment>
 		<segment id="10" relname="antithesis">Гурские хасиды.</segment>
 		<segment id="11" relname="antithesis">##### Женщина обратилась к журналистам светского издания от отчаяния</segment>
-		<segment id="12" parent="13" relname="attribution">она сказала,</segment>
+		<segment id="12" parent="13" relname="attribution">— она сказала,</segment>
 		<segment id="13" relname="antithesis">что больше никто помогать не желает</segment>
-		<segment id="14" relname="antithesis">полиция с гурскими хасидами не связывается.</segment>
+		<segment id="14" relname="antithesis">— полиция с гурскими хасидами не связывается.</segment>
 		<segment id="15" relname="antithesis">Жители квартала, куда человеку без кипы на голове обычно лучше не заходить,</segment>
 		<segment id="16" relname="antithesis">пошли на беспрецедентный шаг</segment>
-		<segment id="17" relname="antithesis">пригласили светских журналистов.</segment>
+		<segment id="17" relname="antithesis">— пригласили светских журналистов.</segment>
 		<segment id="18" relname="antithesis">##### Шломо Иерушалми утверждает что видел разгромленную квартиру Гиршманов и запах керосина.</segment>
 		<segment id="19" relname="antithesis">Фотографий с места погрома журналист не публикует.</segment>
 		<segment id="20" relname="antithesis">Большинство других жителей Варшавских домов согласились разговаривать с журналистом только на условиях анонимности,</segment>
 		<segment id="21" relname="antithesis">боясь новых «акций возмездия».</segment>
 		<segment id="22" parent="23" relname="attribution">##### Шломо Иерушалми рассказывает,</segment>
 		<segment id="23" relname="antithesis">что еще в детстве как-то зашел в квартал без кипы</segment>
-		<segment id="24" relname="antithesis">сразу получил камнем в голову,</segment>
+		<segment id="24" relname="antithesis">и сразу получил камнем в голову,</segment>
 		<segment id="25" relname="antithesis">хотя был еще ребенком.</segment>
 		<segment id="26" relname="antithesis">##### Пострадавшие в один голос обвиняют в погромах гурских хасидов,</segment>
 		<segment id="27" parent="26" relname="elaboration">которые,</segment>
-		<segment id="28" relname="antithesis">якобы,</segment>
-		<segment id="29" relname="antithesis">хотят выгнать из квартала всех его обитателей</segment>
-		<segment id="30" relname="antithesis">построить там гигантский торговый центр,</segment>
-		<segment id="31" parent="30" relname="elaboration">который принесет общине огромные прибыли.</segment>
-		<segment id="32" relname="antithesis">Гурские хасиды отрицают свою причастность к погромам</segment>
-		<segment id="33" parent="34" relname="attribution">заявляют,</segment>
-		<segment id="34" relname="antithesis">что все это дело рук ультраортодоксальной общины Нетурей карта.</segment>
-		<segment id="35" relname="antithesis">Иерушалми не смог выяснить истинные обстоятельства и подоплеку событий в закрытом мире ультраортодоксальных общин.</segment>
-		<segment id="36" relname="antithesis">##### В официальном комментарии полиции говорится,</segment>
-		<segment id="37" relname="antithesis">что трое участников «драки»,</segment>
-		<segment id="38" relname="antithesis">случившейся в квартале в минувшее воскресенье,</segment>
-		<segment id="39" relname="antithesis">арестованы.</segment>
-		<segment id="40" relname="antithesis">«С другой стороны, полиция пытается успокоить конфликтующие стороны путем переговоров</segment>
-		<segment id="41" relname="antithesis">продолжит обеспечивать порядок в этом районе»</segment>
-		<segment id="42" relname="antithesis">— гласит официальный полицейский документ.</segment>
-		<segment id="43" relname="antithesis">##### Особенно любопытен факт,</segment>
-		<segment id="44" relname="antithesis">что в последнее время религиозные иудеи при нападении на нерелигиозных используют опасные химические вещества.</segment>
+		<segment id="28" relname="antithesis">якобы, хотят выгнать из квартала всех его обитателей</segment>
+		<segment id="29" relname="antithesis">и построить там гигантский торговый центр,</segment>
+		<segment id="30" parent="29" relname="elaboration">который принесет общине огромные прибыли.</segment>
+		<segment id="31" relname="antithesis">Гурские хасиды отрицают свою причастность к погромам</segment>
+		<segment id="32" parent="33" relname="attribution">и заявляют,</segment>
+		<segment id="33" relname="antithesis">что все это дело рук ультраортодоксальной общины Нетурей карта.</segment>
+		<segment id="34" relname="antithesis">Иерушалми не смог выяснить истинные обстоятельства и подоплеку событий в закрытом мире ультраортодоксальных общин.</segment>
+		<segment id="35" relname="antithesis">##### В официальном комментарии полиции говорится,</segment>
+		<segment id="36" relname="antithesis">что трое участников «драки»,</segment>
+		<segment id="37" relname="antithesis">случившейся в квартале в минувшее воскресенье,</segment>
+		<segment id="38" relname="antithesis">арестованы.</segment>
+		<segment id="39" relname="antithesis">«С другой стороны, полиция пытается успокоить конфликтующие стороны путем переговоров</segment>
+		<segment id="40" relname="antithesis">и продолжит обеспечивать порядок в этом районе»</segment>
+		<segment id="41" relname="antithesis">, — гласит официальный полицейский документ.</segment>
+		<segment id="42" relname="antithesis">##### Особенно любопытен факт,</segment>
+		<segment id="43" relname="antithesis">что в последнее время религиозные иудеи при нападении на нерелигиозных используют опасные химические вещества.</segment>
     </body>
 </rst>

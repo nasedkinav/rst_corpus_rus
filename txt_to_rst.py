@@ -240,7 +240,7 @@ def transform_file(path):
         edus = [[0, 0]]
         for j, b in enumerate(boundaries):
             edus[j][1] = b
-            edus.append([b + 1, 0])
+            edus.append([b, 0])
         edus[-1][1] = len(split['text'])
 
         # format text edus

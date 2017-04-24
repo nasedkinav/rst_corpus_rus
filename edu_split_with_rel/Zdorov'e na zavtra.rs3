@@ -54,7 +54,7 @@
 		<segment id="20" relname="antithesis">Руководитель университетской кафедры метеорологии кандидат физико-математических наук Елена Головина договорилась с рядом научных организаций Санкт-Петербурга сообща отслеживать природные факторы, способные влиять на жизнедеятельность человека.</segment>
 		<segment id="21" relname="antithesis">Из Пулковской обсерватории метеорологи стали получать данные об активности Солнца, с кафедры геофизики Земли Санкт-Петербургского государственного университета - о состоянии геомагнитного поля Земли, из Института физиологии им.</segment>
 		<segment id="22" relname="antithesis">Павлова РАН</segment>
-		<segment id="23" relname="antithesis">о медико-биологических исследованиях.</segment>
+		<segment id="23" relname="antithesis">- о медико-биологических исследованиях.</segment>
 		<segment id="24" relname="antithesis">Обработав весь этот массив информации,</segment>
 		<segment id="25" relname="antithesis">уже можно было заниматься составлением ежедневных медицинских прогнозов погоды.</segment>
 		<segment id="26" relname="antithesis">Так было положено начало проекту под названием "Погода и человек".</segment>
@@ -65,7 +65,7 @@
 		<segment id="31" relname="antithesis">Например, весьма благоприятным является отсутствие каких-либо атмосферных фронтов,</segment>
 		<segment id="32" relname="antithesis">когда магнитное поле Земли слабо выражено.</segment>
 		<segment id="33" relname="antithesis">В такой ситуации основные метеоэлементы - температура, влажность, давление</segment>
-		<segment id="34" relname="antithesis">претерпевают малые суточные изменения.</segment>
+		<segment id="34" relname="antithesis">- претерпевают малые суточные изменения.</segment>
 		<segment id="35" relname="antithesis">Когда мы слышим такой прогноз погоды,</segment>
 		<segment id="36" relname="antithesis">можно не опасаться физических и психических нагрузок.</segment>
 		<segment id="37" relname="antithesis">Когда же на карте погоды появляются слабо выраженные признаки наступления атмосферного фронта,</segment>
@@ -81,7 +81,7 @@
 		<segment id="47" relname="antithesis">появляется резко выраженная магнитная буря, шквальный ветер,</segment>
 		<segment id="48" relname="antithesis">медикам необходимо мобилизовать все свои силы,</segment>
 		<segment id="49" relname="antithesis">а людям со слабым здоровьем</segment>
-		<segment id="50" relname="antithesis">быть максимально осторожными.</segment>
+		<segment id="50" relname="antithesis">- быть максимально осторожными.</segment>
 		<segment id="51" relname="antithesis">##### Благодаря наблюдениям,</segment>
 		<segment id="52" relname="antithesis">сделанным участниками проекта,</segment>
 		<segment id="53" relname="antithesis">можно получить представление об общих моделях самочувствия при той или иной синоптической ситуации.</segment>
@@ -108,10 +108,10 @@
 		<segment id="74" relname="antithesis">В дни,</segment>
 		<segment id="75" relname="antithesis">когда барометрическое давление падает,</segment>
 		<segment id="76" relname="antithesis">люди забывчивы</segment>
-		<segment id="77" relname="antithesis">возрастает число вещей,</segment>
+		<segment id="77" relname="antithesis">- возрастает число вещей,</segment>
 		<segment id="78" relname="antithesis">оставленных в транспорте и магазинах.</segment>
 		<segment id="79" relname="antithesis">##### Негативное воздействие геомагнитности и перепадов начинается за сутки до "критического" дня</segment>
-		<segment id="80" relname="antithesis">сказывается на всех органах.</segment>
+		<segment id="80" relname="antithesis">и сказывается на всех органах.</segment>
 		<segment id="81" relname="antithesis">"В ходе наших исследований, проведенных в одном из кардиологических санаториев под Санкт-Петербургом, - рассказывает участница проекта, сотрудник лаборатории солнечно-земной связи СПбГУ кандидат физико-математических наук Ольга Ступишина, - мы убедились,</segment>
 		<segment id="82" relname="antithesis">что магнитные бури влияют на людей с сердечно-сосудистыми заболеваниями.</segment>
 		<segment id="83" relname="antithesis">Во время геомагнитной активности у больных резко увеличивалось количество жалоб на самочувствие".</segment>
@@ -144,7 +144,7 @@
 		<segment id="110" relname="antithesis">На высоте 6 км недостаток кислорода становится опасным.</segment>
 		<segment id="111" relname="antithesis">Однако некоторые люди прекрасно приспособились к дефициту кислорода.</segment>
 		<segment id="112" relname="antithesis">Население города Ла-Пас в Боливии живет на высоте 3,5 км над уровнем моря</segment>
-		<segment id="113" relname="antithesis">прекрасно себя чувствует.</segment>
+		<segment id="113" relname="antithesis">и прекрасно себя чувствует.</segment>
 		<segment id="114" relname="antithesis">Тибетский город Лхаса вполне обжит,</segment>
 		<segment id="115" relname="antithesis">хотя лежит он на высоте около 4 км.</segment>
 		<segment id="116" relname="antithesis">В здешнем воздухе содержится всего 62 процента от количества кислорода на уровне моря,</segment>
@@ -155,7 +155,7 @@
 		<segment id="121" relname="antithesis">Приобретенная форма адаптации возникает в течение жизни индивидуума, например, при переселении в иную климатическую зону.</segment>
 		<segment id="122" relname="antithesis">##### Сложнее обстоит дело с адаптацией к экстремальным климатическим условиям.</segment>
 		<segment id="123" relname="antithesis">В такой ситуации человек может столкнуться с климатическим стрессом</segment>
-		<segment id="124" relname="antithesis">это не что иное, как амплитуда колебаний экстремальных значений температуры, влажности и других метеорологических величин,</segment>
+		<segment id="124" relname="antithesis">- это не что иное, как амплитуда колебаний экстремальных значений температуры, влажности и других метеорологических величин,</segment>
 		<segment id="125" relname="antithesis">наблюдающихся в той или иной местности в различные сезоны года.</segment>
 		<segment id="126" relname="antithesis">В Северном полушарии наибольшие климатические стрессы отмечаются в районе южной части Красного моря и во внутренних районах Южного Сомали, в Судане,</segment>
 		<segment id="127" relname="antithesis">где жаркие и влажные условия погоды могут резко сменяться очень жаркими и сухими.</segment>

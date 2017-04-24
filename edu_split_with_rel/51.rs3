@@ -39,7 +39,7 @@
 		<segment id="5" relname="antithesis">##### За 200 лет до этого Уильям Гершель сообщал о наблюдениях колец у Урана,</segment>
 		<segment id="6" relname="antithesis">однако современные астрономы сомневаются в возможности такого открытия,</segment>
 		<segment id="7" relname="antithesis">так как кольца очень слабые и тёмные</segment>
-		<segment id="8" relname="antithesis">не могли быть обнаружены с помощью астрономического оборудования того времени.</segment>
+		<segment id="8" relname="antithesis">и не могли быть обнаружены с помощью астрономического оборудования того времени.</segment>
 		<segment id="9" relname="antithesis">Два новых кольца системы Урана были обнаружены «Вояджером-2» в 1986 году,</segment>
 		<segment id="10" relname="antithesis">ещё два внешних кольца были обнаружены телескопом «Хаббл» в 2003—2005 годах.</segment>
 		<segment id="11" relname="antithesis">##### По состоянию на 2008 год известно 13 отдельных колец.</segment>
@@ -69,7 +69,7 @@
 		<segment id="35" relname="antithesis">Первоначально считалось,</segment>
 		<segment id="36" relname="antithesis">что у каждого узкого кольца есть пара «спутников-пастухов»,</segment>
 		<segment id="37" parent="36" relname="elaboration">которые</segment>
-		<segment id="38" relname="antithesis">поддерживают его форму,</segment>
+		<segment id="38" relname="antithesis">и поддерживают его форму,</segment>
 		<segment id="39" relname="antithesis">но в 1986 году Вояджер-2 обнаружил только одну пару таких спутников (Корделию и Офелию) вокруг самого яркого кольца — ε.</segment>
 		<segment id="40" relname="antithesis">##### История наблюдений</segment>
 		<segment id="41" relname="antithesis">##### В работах первооткрывателя Урана, Уильяма Гершеля, первое упоминание о кольцах встречается в его записи от 22 февраля 1789 года.</segment>
@@ -77,21 +77,21 @@
 		<segment id="43" relname="antithesis">что предполагает наличие колец у Урана.</segment>
 		<segment id="44" relname="antithesis">Гершель предположил,</segment>
 		<segment id="45" relname="antithesis">что они красного цвета</segment>
-		<segment id="46" relname="antithesis">что было подтверждено в 2006 году наблюдениями обсерватории Кек в случае предпоследнего кольца)</segment>
-		<segment id="47" relname="antithesis">Записи Гершеля попали в журнал Королевского общества в 1797 году.</segment>
+		<segment id="46" relname="antithesis">(что было подтверждено в 2006 году наблюдениями обсерватории Кек в случае предпоследнего кольца)</segment>
+		<segment id="47" relname="antithesis">. Записи Гершеля попали в журнал Королевского общества в 1797 году.</segment>
 		<segment id="48" relname="antithesis">Однако впоследствии, на протяжении почти двух столетий с 1797 по 1979 год, кольца в научной литературе не упоминаются вовсе,</segment>
 		<segment id="49" relname="antithesis">что, конечно, даёт право подозревать ошибку учёного.</segment>
 		<segment id="50" relname="antithesis">Тем не менее, достаточно точные описания увиденного Гершелем не дают повода просто так сбрасывать со счетов его наблюдения.</segment>
 		<segment id="51" relname="antithesis">##### Наличие кольцевой системы у Урана официально было подтверждено лишь 10 марта 1977 года американскими учёными Шаблон:</segment>
-		<segment id="52" relname="antithesis">е переведено 2,</segment>
+		<segment id="52" relname="antithesis">Не переведено 2,</segment>
 		<segment id="53" relname="antithesis">Эдвардом Данхэмом</segment>
-		<segment id="54" relname="antithesis">англ.</segment>
+		<segment id="54" relname="antithesis">(англ.</segment>
 		<segment id="55" relname="antithesis">Edward W.</segment>
 		<segment id="56" relname="antithesis">Dunham)</segment>
 		<segment id="57" relname="antithesis">и Шаблон:Не переведено 2,</segment>
 		<segment id="58" relname="antithesis">использовавшими Шаблон:Не переведено 2.</segment>
 		<segment id="59" relname="antithesis">Открытие было сделано случайно</segment>
-		<segment id="60" relname="antithesis">группа учёных планировала провести наблюдения атмосферы Урана при покрытии им звезды SAO 158687.</segment>
+		<segment id="60" relname="antithesis">— группа учёных планировала провести наблюдения атмосферы Урана при покрытии им звезды SAO 158687.</segment>
 		<segment id="61" relname="antithesis">Однако, анализируя полученную после проведённых наблюдений информацию,</segment>
 		<segment id="62" relname="antithesis">они обнаружили покрытие звезды ещё до её покрытия Ураном,</segment>
 		<segment id="63" relname="antithesis">причём произошло это несколько раз подряд.</segment>
@@ -119,7 +119,7 @@
 		<segment id="85" relname="antithesis">##### При наблюдениях с Земли можно заметить,</segment>
 		<segment id="86" relname="antithesis">что иногда кольца Урана своей плоскостью повёрнуты в сторону наблюдателя.</segment>
 		<segment id="87" relname="antithesis">В 2007—</segment>
-		<segment id="88" relname="antithesis">008 годах кольца были обращены к наблюдателю ребром.</segment>
+		<segment id="88" relname="antithesis">2008 годах кольца были обращены к наблюдателю ребром.</segment>
 		<segment id="89" relname="antithesis">##### Основные сведения</segment>
 		<segment id="90" relname="antithesis">##### Система колец Урана включает в себя 13 отчётливо различимых колец.</segment>
 		<segment id="91" relname="antithesis">По расстоянию от планеты они расположены в следующем порядке: 1986U2R/ζ, 6, 5, 4, α, β, η, γ, δ, λ, ε, ν, и μ кольца.</segment>
@@ -138,12 +138,12 @@
 		<segment id="104" relname="antithesis">Геометрическое альбедо частиц составляющих кольца не превышает 5-6 %,</segment>
 		<segment id="105" relname="antithesis">а альбедо Бонда и того меньше — около 2 %.</segment>
 		<segment id="106" relname="antithesis">Частицы колец демонстрируют повышение альбедо при прямом освещении</segment>
-		<segment id="107" relname="antithesis">ак как частицы составляющие собой кольца — отбрасывают тени.</segment>
+		<segment id="107" relname="antithesis">так как частицы составляющие собой кольца — отбрасывают тени.</segment>
 		<segment id="108" relname="antithesis">Кольца кажутся немного красноватыми в ультрафиолетовой и видимой части спектра и серыми в ближней инфракрасной.</segment>
 		<segment id="109" relname="antithesis">Каких-либо идентифицируемых спектральных особенностей у колец не наблюдается.</segment>
 		<segment id="110" relname="antithesis">##### Химический состав частиц колец неизвестен.</segment>
 		<segment id="111" relname="antithesis">Однако они не могут состоять из чистого водяного льда</segment>
-		<segment id="112" relname="antithesis">как,</segment>
+		<segment id="112" relname="antithesis">— как,</segment>
 		<segment id="113" relname="antithesis">например кольца Сатурна,</segment>
 		<segment id="114" relname="antithesis">потому что слишком тёмные, даже более тёмные, чем внутренние спутники Урана.</segment>
 		<segment id="115" relname="antithesis">Это указывает на то,</segment>
@@ -151,7 +151,7 @@
 		<segment id="117" relname="antithesis">Природа этого вещества неизвестна,</segment>
 		<segment id="118" relname="antithesis">но это может быть органика, значительно затемнённая заряженными частицами из магнитосферы Урана.</segment>
 		<segment id="119" relname="antithesis">Возможно, кольца</segment>
-		<segment id="120" relname="antithesis">это остатки от одного из внутренних спутников Урана,</segment>
+		<segment id="120" relname="antithesis">— это остатки от одного из внутренних спутников Урана,</segment>
 		<segment id="121" relname="antithesis">так как материал колец и внутренних спутников приблизительно схож.</segment>
 		<segment id="122" relname="antithesis">##### В целом система колец Урана не похожа на слабые, пылевые кольца Юпитера или широкие и сложные кольца Сатурна,</segment>
 		<segment id="123" relname="antithesis">некоторые из которых состоят из имеющих очень высокую отражательную способность частичек водяного льда.</segment>
@@ -161,11 +161,11 @@
 		<segment id="127" relname="antithesis">Недавно открытые внешние кольца Урана подобны внешним кольцам G и E Сатурна.</segment>
 		<segment id="128" relname="antithesis">Небольшие колечки между широкими кольцами Сатурна также напоминают узкие кольца Урана.</segment>
 		<segment id="129" relname="antithesis">Помимо этого</segment>
-		<segment id="130" relname="antithesis">пылевые скопления между кольцами Урана могут быть схожи с пылевыми кольцами Юпитера.</segment>
+		<segment id="130" relname="antithesis">— пылевые скопления между кольцами Урана могут быть схожи с пылевыми кольцами Юпитера.</segment>
 		<segment id="131" relname="antithesis">Кольцевая система Нептуна, напротив, похожа на кольцевую систему Урана,</segment>
 		<segment id="132" relname="antithesis">но менее сложна,</segment>
 		<segment id="133" relname="antithesis">более тёмная</segment>
-		<segment id="134" relname="antithesis">содержит больше пыли;</segment>
+		<segment id="134" relname="antithesis">и содержит больше пыли;</segment>
 		<segment id="135" relname="antithesis">кольца Нептуна расположены от планеты дальше,</segment>
 		<segment id="136" relname="antithesis">чем у Урана.</segment>
 		<segment id="137" relname="antithesis">##### Узкие главные кольца</segment>
@@ -176,7 +176,7 @@
 		<segment id="142" relname="antithesis">Эксцентриситет является причиной изменений яркости этого кольца.</segment>
 		<segment id="143" parent="144" relname="condition">Если создать для него «круговую карту яркости», то можно было бы заметить,</segment>
 		<segment id="144" relname="antithesis">что яркость достигает наивысшего значения вблизи апоцентра</segment>
-		<segment id="145" relname="antithesis">самой удалённой точки орбиты)</segment>
+		<segment id="145" relname="antithesis">(самой удалённой точки орбиты)</segment>
 		<segment id="146" relname="antithesis">и уменьшается вблизи перицентра (самой близкой к планете точке орбиты).</segment>
 		<segment id="147" relname="antithesis">##### Максимальный/минимальный яркостный контраст кольца — около 2,5—3,0.</segment>
 		<segment id="148" relname="antithesis">Эта разница связана с изменением ширины кольца,</segment>
@@ -184,7 +184,7 @@
 		<segment id="150" relname="antithesis">По мере того,</segment>
 		<segment id="151" relname="antithesis">как кольцо становится шире,</segment>
 		<segment id="152" relname="antithesis">уменьшается количество взаимных «затенений» частицами друг друга</segment>
-		<segment id="153" relname="antithesis">можно наблюдать большее их количество,</segment>
+		<segment id="153" relname="antithesis">и можно наблюдать большее их количество,</segment>
 		<segment id="154" relname="antithesis">что приводит к более высокой интегральной яркости.</segment>
 		<segment id="155" relname="antithesis">Вариации ширины кольца были измерены непосредственно со снимков,</segment>
 		<segment id="156" relname="antithesis">полученных «Вояджером-2»,</segment>
@@ -206,8 +206,8 @@
 		<segment id="172" relname="antithesis">Несмотря на столь малую толщину,</segment>
 		<segment id="173" relname="antithesis">кольцо состоит из нескольких слоёв частиц.</segment>
 		<segment id="174" relname="antithesis">Кольцо ε</segment>
-		<segment id="175" relname="antithesis">достаточно «переполненное место» с коэффициентом заполнения оценённым различными источниками от 0,008 до 0,06 вблизи апоцентра.> Средний размер частичек в этом кольце 0,2—</segment>
-		<segment id="176" relname="antithesis">0 метров,</segment>
+		<segment id="175" relname="antithesis">— достаточно «переполненное место» с коэффициентом заполнения оценённым различными источниками от 0,008 до 0,06 вблизи апоцентра.> Средний размер частичек в этом кольце 0,2—</segment>
+		<segment id="176" relname="antithesis">20 метров,</segment>
 		<segment id="177" relname="antithesis">расстояние между ними составляет в среднем 4,5 их средних радиусов.</segment>
 		<segment id="178" relname="antithesis">Из-за своей исключительной тонкости кольцо ε исчезает при наблюдении с ребра.</segment>
 		<segment id="179" relname="antithesis">Такое случилось в 2007 году, во время серии пересечений Землёй плоскости колец.</segment>
@@ -220,7 +220,7 @@
 		<segment id="186" relname="antithesis">У него есть два «спутника-пастуха» — Корделия (внутренний) и Офелия (внешний).</segment>
 		<segment id="187" relname="antithesis">Внутренний край кольца находится в орбитальном резонансе 24:25 с Корделией, а внешний край в 14:13 с Офелией.</segment>
 		<segment id="188" parent="189" relname="purpose">Чтобы эффективно «пасти»</segment>
-		<segment id="189" relname="antithesis">удерживать в существующих рамках)</segment>
+		<segment id="189" relname="antithesis">(удерживать в существующих рамках)</segment>
 		<segment id="190" relname="antithesis">кольцо, масса каждого спутника должна быть как минимум в три раза больше массы кольца.</segment>
 		<segment id="191" relname="antithesis">Масса кольца ε оценивается около 1016 кг.</segment>
     </body>

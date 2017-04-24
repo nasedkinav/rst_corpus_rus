@@ -34,18 +34,18 @@
     <body>
 		<segment id="1" relname="antithesis">##### Недавно президент Путин затребовал у правительства и Центробанка предложения по либерализации валютного регулирования.</segment>
 		<segment id="2" parent="3" relname="condition">Пока известны две идеи: уменьшить или вообще отменить обязательную продажу валютной выручки; открывать счета за границей</segment>
-		<segment id="3" relname="antithesis">переводить туда деньги без разрешения ЦБ.</segment>
+		<segment id="3" relname="antithesis">и переводить туда деньги без разрешения ЦБ.</segment>
 		<segment id="4" relname="antithesis">##### Много лет у нас действует правило:</segment>
 		<segment id="5" relname="antithesis">экспортер обязан продавать внутри страны часть валютной выручки.</segment>
 		<segment id="6" relname="antithesis">Нынешний норматив</segment>
-		<segment id="7" relname="antithesis">75%</segment>
-		<segment id="8" relname="antithesis">был введен законом с подачи ЦБ вскоре после "великого дефолта".</segment>
+		<segment id="7" relname="antithesis">- 75%</segment>
+		<segment id="8" relname="antithesis">- был введен законом с подачи ЦБ вскоре после "великого дефолта".</segment>
 		<segment id="9" relname="antithesis">Причина проста:</segment>
 		<segment id="10" relname="antithesis">финансовый кризис Лишил его валютных резервов, а без них наш главный банк - лишь контора по производству инструкций.</segment>
 		<segment id="11" relname="antithesis">Получив закон,</segment>
 		<segment id="12" relname="antithesis">ЦБ приступил к массированной закупке валюты у экспортеров.</segment>
 		<segment id="13" relname="antithesis">Резервы стали стремительно расти</segment>
-		<segment id="14" relname="antithesis">сейчас находятся на уровне $28-29 млрд.</segment>
+		<segment id="14" relname="antithesis">и сейчас находятся на уровне $28-29 млрд.</segment>
 		<segment id="15" relname="antithesis">Их хватало не только для поддержки курса рубля.</segment>
 		<segment id="16" relname="antithesis">Центробанк даже помогал деньгами правительству,</segment>
 		<segment id="17" parent="16" relname="elaboration">которое до сих пор не вернуло ему более $6 млрд.</segment>
@@ -69,22 +69,22 @@
 		<segment id="35" relname="antithesis">##### Обязательная продажа - мера временная.</segment>
 		<segment id="36" relname="antithesis">Пригодна лишь для плохой финансовой ситуации.</segment>
 		<segment id="37" relname="antithesis">А</segment>
-		<segment id="38" relname="antithesis">сли ситуация стабильно хороша,</segment>
+		<segment id="38" parent="37" relname="condition">если ситуация стабильно хороша,</segment>
 		<segment id="39" relname="antithesis">то из "правила 75%" надо делать "правило 50%" или вообще его отменять.</segment>
 		<segment id="40" relname="antithesis">##### Наступил этот момент или нет</segment>
-		<segment id="41" relname="antithesis">вот в чем вопрос.</segment>
+		<segment id="41" relname="antithesis">- вот в чем вопрос.</segment>
 		<segment id="42" relname="antithesis">-Сторонники либерализации говорят: самое время.</segment>
 		<segment id="43" relname="antithesis">Пусть ЦБ оставит экспортеров в покое,</segment>
 		<segment id="44" relname="antithesis">избавит от обязаловки.</segment>
 		<segment id="45" relname="antithesis">Тогда часть валютного потока отвернет от ЦБ в сторону</segment>
-		<segment id="46" relname="antithesis">к российским банкам.</segment>
+		<segment id="46" relname="antithesis">- к российским банкам.</segment>
 		<segment id="47" relname="antithesis">Те будут снабжать импортеров.</segment>
 		<segment id="48" relname="antithesis">Продадут и правительству,</segment>
 		<segment id="49" parent="48" relname="condition">если ему понадобится валюта для уплаты внешнего долга.</segment>
 		<segment id="50" relname="antithesis">В результате снизим инфляцию</segment>
-		<segment id="51" relname="antithesis">банки ведь рубли не печатают)</segment>
-		<segment id="52" relname="antithesis">поддержим банковскую систему</segment>
-		<segment id="53" relname="antithesis">заживем как цивилизованные люди.</segment>
+		<segment id="51" relname="antithesis">(банки ведь рубли не печатают)</segment>
+		<segment id="52" relname="antithesis">, поддержим банковскую систему</segment>
+		<segment id="53" relname="antithesis">и заживем как цивилизованные люди.</segment>
 		<segment id="54" relname="antithesis">Но что же будет с резервами Центробанка?</segment>
 		<segment id="55" relname="antithesis">А ничего.</segment>
 		<segment id="56" relname="antithesis">Валюты в стране навалом.</segment>
@@ -96,7 +96,7 @@
 		<segment id="62" relname="antithesis">что курс рубля с большой вероятностью пойдет вниз,</segment>
 		<segment id="63" relname="antithesis">И тут уж все зависит от ЦБ.</segment>
 		<segment id="64" relname="antithesis">Станет вмешиваться</segment>
-		<segment id="65" relname="antithesis">процесс пойдет имо,</segment>
+		<segment id="65" relname="antithesis">- процесс пойдет имо,</segment>
 		<segment id="66" relname="antithesis">резервы все же тратить придется.</segment>
 		<segment id="67" relname="antithesis">Они испытают двойную нагрузку приход поменьше, расход побольше.</segment>
 		<segment id="68" relname="antithesis">Может быть, и тройную.</segment>
@@ -121,15 +121,15 @@
 		<segment id="87" relname="antithesis">нам хорошо известно.</segment>
 		<segment id="88" parent="89" relname="condition">##### Если уж так хочется провести либерализацию валютного регулирования,</segment>
 		<segment id="89" relname="antithesis">стоило бы перейти на "правило 50%"</segment>
-		<segment id="90" relname="antithesis">посмотреть,</segment>
+		<segment id="90" relname="antithesis">и посмотреть,</segment>
 		<segment id="91" relname="antithesis">что будет.</segment>
 		<segment id="92" relname="antithesis">А лучше бы подождать.</segment>
 		<segment id="93" relname="antithesis">Хотя бы до осени,</segment>
 		<segment id="94" relname="antithesis">когда прояснится ситуация с долгами и нефтяными ценами.</segment>
 		<segment id="95" relname="antithesis">Но напор довольно сильный.</segment>
 		<segment id="96" relname="antithesis">В пересмотре норматива обязательной продажи объективно заинтересованы банки</segment>
-		<segment id="97" relname="antithesis">заработают на валютном рынке</segment>
-		<segment id="98" relname="antithesis">обесценят свои рублевые долги), экспортеры,</segment>
+		<segment id="97" relname="antithesis">(заработают на валютном рынке</segment>
+		<segment id="98" relname="antithesis">и обесценят свои рублевые долги), экспортеры,</segment>
 		<segment id="99" relname="antithesis">(выгода очевидна) и либералы (из принципа).</segment>
 		<segment id="100" relname="antithesis">Такой вот кооператив имени падающего рубля.</segment>
 		<segment id="101" relname="antithesis">##### Либерализация,</segment>

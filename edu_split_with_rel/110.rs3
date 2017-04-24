@@ -33,7 +33,7 @@
     </header>
     <body>
 		<segment id="1" relname="antithesis">##### «Происхождение видов путём естественного отбора, или Сохранение благоприятных рас в борьбе за жизнь»</segment>
-		<segment id="2" relname="antithesis">это лишь одна книга из обширного наследия Дарвина, но она,</segment>
+		<segment id="2" relname="antithesis">— это лишь одна книга из обширного наследия Дарвина, но она,</segment>
 		<segment id="3" relname="antithesis">пожалуй, является самым знаменитым произведением современной науки.</segment>
 		<segment id="4" relname="antithesis">По известности и интенсивности исторического воздействия с ней может конкурировать разве что работа Исаака Ньютона «Математические начала натуральной философии» (1687).</segment>
 		<segment id="5" relname="antithesis">Работа Ньютона революционизировала современную физику.</segment>
@@ -41,24 +41,24 @@
 		<segment id="7" relname="antithesis">##### История воздействия «Происхождения видов» Дарвина — одна из самых сложных и неоднозначных.</segment>
 		<segment id="8" relname="antithesis">Эта книга буквально расколола современную культуру:</segment>
 		<segment id="9" relname="antithesis">появились</segment>
-		<segment id="10" relname="antithesis">продолжают существовать как яростные противники, так и яростные сторонники дарвинизма</segment>
-		<segment id="11" relname="antithesis">само это слово поначалу использовалось как бранное)</segment>
-		<segment id="12" relname="antithesis">На русский язык работа «Происхождение видов» была переведена уже в 1864 году.</segment>
+		<segment id="10" relname="antithesis">и продолжают существовать как яростные противники, так и яростные сторонники дарвинизма</segment>
+		<segment id="11" relname="antithesis">(само это слово поначалу использовалось как бранное)</segment>
+		<segment id="12" relname="antithesis">. На русский язык работа «Происхождение видов» была переведена уже в 1864 году.</segment>
 		<segment id="13" relname="antithesis">В России одним из первых активных пропагандистов дарвинизма был Дмитрий Писарев.</segment>
 		<segment id="14" relname="antithesis">##### Дарвинизм</segment>
-		<segment id="15" relname="antithesis">это пример научной теории,</segment>
+		<segment id="15" relname="antithesis">— это пример научной теории,</segment>
 		<segment id="16" parent="15" relname="elaboration">которая в наибольшей степени стала жертвой разного рода популярных научных изложений и борьбы между разного рода вариантами такой популяризации.</segment>
 		<segment id="17" relname="antithesis">Дарвин действовал как образцовый учёный:</segment>
 		<segment id="18" relname="antithesis">все его выводы строго ограничены тем эмпирическим материалом,</segment>
 		<segment id="19" parent="18" relname="elaboration">на который он мог опираться как натуралист и путешественник.</segment>
 		<segment id="20" relname="antithesis">Он не стремился выйти за пределы этих материалов</segment>
-		<segment id="21" relname="antithesis">сформулировать какие-то более широкие обобщения.</segment>
+		<segment id="21" relname="antithesis">и сформулировать какие-то более широкие обобщения.</segment>
 		<segment id="22" relname="antithesis">Дарвин прямо указывает на проблемы,</segment>
 		<segment id="23" parent="22" relname="elaboration">которые не поддавались решению в его время.</segment>
 		<segment id="24" relname="antithesis">Например, до появления разработанной генетической теории камнем преткновения для дарвинизма была проблема изменчивости и наследственности.</segment>
 		<segment id="25" relname="antithesis">Поэтому Дарвин до конца жизни колебался в вопросе о том,</segment>
 		<segment id="26" relname="antithesis">что более важно для динамики изменчивости — изменение среды обитания или изменения в самом организме</segment>
-		<segment id="27" relname="antithesis">эта проблема в советское время составила существо конфликта между последователями Лысенко и генетиками).</segment>
+		<segment id="27" relname="antithesis">(эта проблема в советское время составила существо конфликта между последователями Лысенко и генетиками).</segment>
 		<segment id="28" relname="antithesis">##### В популярном восприятии революционный характер работы «Происхождение видов» состоит якобы в том,</segment>
 		<segment id="29" relname="antithesis">что там утверждается происхождение человека от обезьяны.</segment>
 		<segment id="30" relname="antithesis">Но это заблуждение: таких утверждений в работе нет.</segment>
@@ -80,7 +80,7 @@
 		<segment id="46" relname="antithesis">и между тем как наша планета продолжает вращаться согласно неизменным законам тяготения, из такого простого начала развилось и продолжает развиваться бесконечное число самых прекрасных и самых изумительных форм».</segment>
 		<segment id="47" relname="antithesis">В этом виде религиозности нет ничего необычного ни для Нового времени, ни для Средневековья.</segment>
 		<segment id="48" relname="antithesis">Например, известная «бритва Оккама»</segment>
-		<segment id="49" relname="antithesis">не следует умножать сущности без необходимости)</segment>
+		<segment id="49" relname="antithesis">(не следует умножать сущности без необходимости)</segment>
 		<segment id="50" relname="antithesis">имеет сходное и также сугубо христианское происхождение:</segment>
 		<segment id="51" relname="antithesis">разумный творец мира способен обойтись минимумом средств для достижения максимума результатов.</segment>
 		<segment id="52" relname="antithesis">##### И всё же теория естественного отбора Дарвина была действительно революционной.</segment>
@@ -90,9 +90,9 @@
 		<segment id="56" relname="antithesis">Более того, даже весьма радикальные теоретики науки, например Иммануил Кант,</segment>
 		<segment id="57" relname="antithesis">не считали,</segment>
 		<segment id="58" relname="antithesis">что эта проблема может быть решена даже в принципе</segment>
-		<segment id="59" relname="antithesis">по крайней мере к такому выводу он приходит в поздних своих произведениях,</segment>
+		<segment id="59" relname="antithesis">(по крайней мере к такому выводу он приходит в поздних своих произведениях,</segment>
 		<segment id="60" relname="antithesis">хотя в ранних ещё можно найти несколько более смелые предположения на этот счёт)</segment>
-		<segment id="61" relname="antithesis">Речь идёт об устранении из сферы рассуждений о живой природе принципа целесообразности и замене его принципом причинно-следственных отношений.</segment>
+		<segment id="61" relname="antithesis">. Речь идёт об устранении из сферы рассуждений о живой природе принципа целесообразности и замене его принципом причинно-следственных отношений.</segment>
 		<segment id="62" relname="antithesis">До Дарвина вопрос об особенностях живых существ можно было осмысленно поставить в форме «Зачем?» или «Для чего?».</segment>
 		<segment id="63" relname="antithesis">Как в известной сказке: «Зачем тебе, бабушка, такие большие уши?» — «Чтобы лучше тебя слышать, детка».</segment>
 		<segment id="64" relname="antithesis">После Дарвина можно было осмысленно сформулировать вопрос «Почему?»,</segment>
@@ -110,7 +110,7 @@
 		<segment id="76" relname="antithesis">так как живые существа борются между собой за существование.</segment>
 		<segment id="77" relname="antithesis">Это не просто научная проблема:</segment>
 		<segment id="78" relname="antithesis">Дарвин революционно изменил наше восприятие мира</segment>
-		<segment id="79" relname="antithesis">он по меньшей мере стал менее уютным.</segment>
+		<segment id="79" relname="antithesis">— он по меньшей мере стал менее уютным.</segment>
 		<segment id="80" parent="81" relname="condition">Если до этого окружающий нас универсум всё ещё воспринимался как целесообразно устроенный и даже целесообразно украшенный дом,</segment>
 		<segment id="81" relname="antithesis">то теперь он предстал как продукт и арена непримиримой борьбы за жизнь.</segment>
 		<segment id="82" relname="antithesis">В этом,</segment>
@@ -119,7 +119,7 @@
 		<segment id="85" relname="antithesis">Тот тип религиозности,</segment>
 		<segment id="86" parent="85" relname="elaboration">который представлял Дарвин,</segment>
 		<segment id="87" relname="antithesis">слишком абстрактен</segment>
-		<segment id="88" relname="antithesis">сух,</segment>
+		<segment id="88" relname="antithesis">и сух,</segment>
 		<segment id="89" parent="88" relname="purpose">чтобы быть уютным.</segment>
 		<segment id="90" relname="antithesis">С другой стороны, дарвиновская теория не лишена особого рода экологического очарования:</segment>
 		<segment id="91" relname="antithesis">теперь в любом червячке и паучке мы можем видеть своего отдалённого родственника.</segment>
@@ -128,7 +128,7 @@
 		<segment id="94" relname="antithesis">Герберт Спенсер первым распространил принцип естественной эволюции на человеческое общество.</segment>
 		<segment id="95" relname="antithesis">С социальным использованием дарвинизма всё обстоит,</segment>
 		<segment id="96" relname="antithesis">однако, не столь однозначно</segment>
-		<segment id="97" relname="antithesis">именно здесь можно констатировать множество злоупотреблений вульгаризированным дарвинизмом.</segment>
+		<segment id="97" relname="antithesis">— именно здесь можно констатировать множество злоупотреблений вульгаризированным дарвинизмом.</segment>
 		<segment id="98" relname="antithesis">Ряд самых известных афоризмов Ницше являются вариациями на тему дарвинизма: «Падающего толкни», — и весьма популярный нынче в России: «Что не убивает меня, то делает сильнее».</segment>
 		<segment id="99" relname="antithesis">Теория естественного отбора использовалась для «обоснования» нацизма.</segment>
 		<segment id="100" relname="antithesis">Существует и множество других разновидностей социал-дарвинизма.</segment>
@@ -147,7 +147,7 @@
 		<segment id="113" relname="antithesis">Конечно, мы являемся частью природы и во многих,</segment>
 		<segment id="114" relname="antithesis">очень многих вещах действуем так же, как множество собратьев наших меньших.</segment>
 		<segment id="115" relname="antithesis">Но всё же человек может ставить</segment>
-		<segment id="116" relname="antithesis">преследовать определённые цели.</segment>
+		<segment id="116" relname="antithesis">и преследовать определённые цели.</segment>
 		<segment id="117" relname="antithesis">А также существовать в универсуме смыслов,</segment>
 		<segment id="118" parent="117" relname="elaboration">которые не могут быть полностью сведены к причинно-следственным отношениям.</segment>
     </body>

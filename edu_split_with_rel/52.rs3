@@ -44,7 +44,7 @@
 		<segment id="10" parent="11" relname="condition">что пока,</segment>
 		<segment id="11" relname="antithesis">по приблизительным оценкам,</segment>
 		<segment id="12" relname="antithesis">в Россию завезено около 90 тыс. этих устройств</segment>
-		<segment id="13" relname="antithesis">причём все условно нелегально:</segment>
+		<segment id="13" relname="antithesis">— причём все условно нелегально:</segment>
 		<segment id="14" relname="antithesis">Apple ещё не начала официальные продажи в нашей стране.</segment>
 		<segment id="15" relname="antithesis">Поэтому отчаянные потребители везут планшеты из США сами или, на свой страх и риск,</segment>
 		<segment id="16" relname="antithesis">покупают у «серых» дистрибуторов втридорога.</segment>
@@ -53,7 +53,7 @@
 		<segment id="19" relname="antithesis">##### Между тем,</segment>
 		<segment id="20" relname="antithesis">по определению председателя правления АРПП Александра Оськина,</segment>
 		<segment id="21" relname="antithesis">массовым рынок iPad в России сможет стать только</segment>
-		<segment id="22" relname="antithesis">осле того, как число устройств перевалит за 2 млн.</segment>
+		<segment id="22" relname="antithesis">после того, как число устройств перевалит за 2 млн.</segment>
 		<segment id="23" parent="24" relname="condition">Пока же,</segment>
 		<segment id="24" relname="antithesis">по предварительным прогнозам,</segment>
 		<segment id="25" relname="antithesis">в год будут продавать «всего» по 500 тыс. штук.</segment>
@@ -61,30 +61,30 @@
 		<segment id="27" relname="antithesis">А ведь именно массовость имеет ключевую роль при принятии издателями решения о выходе на новые платформы,</segment>
 		<segment id="28" parent="29" relname="condition">и пока рынок невелик,</segment>
 		<segment id="29" relname="antithesis">«айпадные» версии газет и журналов, скорее, носят имиджевый характер</segment>
-		<segment id="30" relname="antithesis">имеют мало отношения к бизнесу.</segment>
+		<segment id="30" relname="antithesis">и имеют мало отношения к бизнесу.</segment>
 		<segment id="31" relname="antithesis">##### Между тем нужно понимать,</segment>
 		<segment id="32" relname="antithesis">что мега-популярная новинка от Apple ценна не только сама по себе, но и как катализатор рынка для нового поколения цифровых устройств,</segment>
 		<segment id="33" relname="antithesis">позволяющих читать книги и прессу,</segment>
 		<segment id="34" relname="antithesis">сёрфить в интернете, играть в цифровые игры</segment>
-		<segment id="35" relname="antithesis">развлекаться всеми возможными способами</segment>
-		<segment id="36" relname="antithesis">и делать это всё вместе или по отдельности.</segment>
+		<segment id="35" relname="antithesis">и развлекаться всеми возможными способами</segment>
+		<segment id="36" relname="antithesis">— и делать это всё вместе или по отдельности.</segment>
 		<segment id="37" relname="antithesis">В 2010—</segment>
-		<segment id="38" relname="antithesis">1 годах на рынок выйдет ещё не один планшет,</segment>
+		<segment id="38" relname="antithesis">11 годах на рынок выйдет ещё не один планшет,</segment>
 		<segment id="39" relname="antithesis">в том числе весьма ожидаемый — от Samsung</segment>
-		<segment id="40" relname="antithesis">рассчитанный именно на потребление газетного контента — Skiff от News Corp.</segment>
+		<segment id="40" relname="antithesis">и рассчитанный именно на потребление газетного контента — Skiff от News Corp.</segment>
 		<segment id="41" relname="antithesis">Руперта Мёрдока.</segment>
 		<segment id="42" relname="antithesis">##### Часть новых планшетов будет дешевле Apple</segment>
-		<segment id="43" relname="antithesis">самые радужные прогнозы дают, как всегда, китайцы,</segment>
+		<segment id="43" relname="antithesis">(самые радужные прогнозы дают, как всегда, китайцы,</segment>
 		<segment id="44" parent="43" relname="elaboration">которые не упустят возможности завоевать и рынок «айпадов»)</segment>
-		<segment id="45" relname="antithesis">однако не настолько,</segment>
+		<segment id="45" relname="antithesis">, однако не настолько,</segment>
 		<segment id="46" parent="45" relname="purpose">чтобы быть сразу же раскупленными потребителями,</segment>
 		<segment id="47" parent="46" relname="elaboration">которые «пожадничали»</segment>
-		<segment id="48" relname="antithesis">не потратились на устройства первой волны.</segment>
+		<segment id="48" relname="antithesis">и не потратились на устройства первой волны.</segment>
 		<segment id="49" relname="antithesis">До тех пор,</segment>
 		<segment id="50" parent="51" relname="condition">пока цена на новые устройства не опуститься ниже 300 долларов, а в идеале — до 99,</segment>
 		<segment id="51" relname="antithesis">они не станут товарами первой необходимости,</segment>
 		<segment id="52" relname="antithesis">а значит</segment>
-		<segment id="53" relname="antithesis">будут восприниматься издателями только как приятный «бантик» на огромной коробке с печатными изданиями.</segment>
+		<segment id="53" relname="antithesis">— будут восприниматься издателями только как приятный «бантик» на огромной коробке с печатными изданиями.</segment>
 		<segment id="54" relname="antithesis">Ситуация,</segment>
 		<segment id="55" relname="antithesis">по словам Александра Оськина,</segment>
 		<segment id="56" relname="antithesis">может измениться лишь к 2012 году.</segment>
@@ -92,9 +92,9 @@
 		<segment id="58" relname="antithesis">проведённого авторитетным в США интернет-ресурсом Mashable,</segment>
 		<segment id="59" relname="antithesis">показали,</segment>
 		<segment id="60" relname="antithesis">что прежде всего пользователи считают iPad дорогой игрушкой</segment>
-		<segment id="61" relname="antithesis">покупают планшет,</segment>
+		<segment id="61" relname="antithesis">и покупают планшет,</segment>
 		<segment id="62" parent="61" relname="purpose">чтобы играть</segment>
-		<segment id="63" relname="antithesis">развлекаться с его помощью.</segment>
+		<segment id="63" relname="antithesis">и развлекаться с его помощью.</segment>
 		<segment id="64" relname="antithesis">В то же время он сочетает в себе такое количество функций,</segment>
 		<segment id="65" relname="antithesis">что это позволяет утверждать: iPad — не уникальный технологический продукт, а хорошо продуманный и конъюнктурный, следующий основным трендам,</segment>
 		<segment id="66" parent="65" relname="elaboration">которые будут определять медиа-потребление в течение ближайших 5—10 лет.</segment>
@@ -111,7 +111,7 @@
 		<segment id="77" relname="antithesis">казалось бы, что тут особенного?</segment>
 		<segment id="78" relname="antithesis">Но вот первые исследования показали,</segment>
 		<segment id="79" relname="antithesis">что</segment>
-		<segment id="80" relname="antithesis">сли обычно информационный сайт читают на протяжении нескольких минут,</segment>
+		<segment id="80" parent="79" relname="condition">если обычно информационный сайт читают на протяжении нескольких минут,</segment>
 		<segment id="81" relname="antithesis">то iPad — час!</segment>
 		<segment id="82" relname="antithesis">И вот этот факт действительно позволяет говорить о том,</segment>
 		<segment id="83" relname="antithesis">что благодаря планшетной революции восстанавливается привычка к длинному, вдумчивому чтению.</segment>
@@ -124,7 +124,7 @@
 		<segment id="90" parent="89" relname="elaboration">о которой уже писал «Часкор», а также AppStore,</segment>
 		<segment id="91" relname="antithesis">Android Market и Nokia OviStore, то есть магазины мобильных приложений.</segment>
 		<segment id="92" parent="93" relname="condition">Пока что такие киоски выступают лишь как дополнение к другим каналам распространения</segment>
-		<segment id="93" relname="antithesis">так как не позволяют издателям зарабатывать существенную прибыль.</segment>
+		<segment id="93" relname="antithesis">— так как не позволяют издателям зарабатывать существенную прибыль.</segment>
 		<segment id="94" relname="antithesis">По приблизительным расчётам,</segment>
 		<segment id="95" relname="antithesis">с момента запуска AppStore заработал 428 млн долларов,</segment>
 		<segment id="96" relname="antithesis">данных по выручке СМИ на платформе планшетов пока нет.</segment>
@@ -134,7 +134,7 @@
 		<segment id="100" relname="antithesis">Впрочем, столь высокая цена не отпугнула рекламодателей:</segment>
 		<segment id="101" relname="antithesis">например, Nissan уже заплатил 10 млн.</segment>
 		<segment id="102" relname="antithesis">##### Именно интерес рекламодателей</segment>
-		<segment id="103" parent="104" relname="attribution">позволяет надеяться,</segment>
+		<segment id="103" parent="104" relname="attribution">и позволяет надеяться,</segment>
 		<segment id="104" relname="antithesis">что в некой перспективе СМИ в формате планшета ожидает финансовый успех.</segment>
 		<segment id="105" relname="antithesis">По данным генерального директора агентства Mosaic Игоря Пискунова,</segment>
 		<segment id="106" relname="antithesis">в России 26% рекламодателей рассматривают возможность размещения рекламы на iPad в 2010—11 годах.</segment>

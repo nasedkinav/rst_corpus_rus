@@ -62,11 +62,11 @@
 		<segment id="28" relname="antithesis">бороздили московские просторы еще в годы поздней плейстоценовой эпохи.</segment>
 		<segment id="29" relname="antithesis">Потом что-то там у них не задалось,</segment>
 		<segment id="30" relname="antithesis">они ушли на север</segment>
-		<segment id="31" relname="antithesis">больше не возвращались.</segment>
+		<segment id="31" relname="antithesis">и больше не возвращались.</segment>
 		<segment id="32" relname="antithesis">И по сю пору ковш бульдозера,</segment>
 		<segment id="33" relname="antithesis">перекапывающего московские окраины,</segment>
 		<segment id="34" relname="antithesis">нет-нет да</segment>
-		<segment id="35" relname="antithesis">вывернет из-под земли гигантский бивень.</segment>
+		<segment id="35" relname="antithesis">и вывернет из-под земли гигантский бивень.</segment>
 		<segment id="36" relname="antithesis">Останки ископаемых млекопитающих представлены в нескольких наших музеях,</segment>
 		<segment id="37" relname="antithesis">но ходят упорные слухи,</segment>
 		<segment id="38" relname="antithesis">что сейчас обсуждается создание в Москве персонального музея мамонта.</segment>
@@ -76,7 +76,7 @@
 		<segment id="42" relname="antithesis">Elephas Maximus Linnaeus,</segment>
 		<segment id="43" relname="antithesis">появился на наших холмах без малого полтыщи лет тому назад.</segment>
 		<segment id="44" relname="antithesis">Биография этого зверя драматична</segment>
-		<segment id="45" relname="antithesis">благородна – несомненно заслуживает того,</segment>
+		<segment id="45" relname="antithesis">и благородна – несомненно заслуживает того,</segment>
 		<segment id="46" parent="45" relname="purpose">чтобы вечно жить в памяти москвичей.</segment>
 		<segment id="47" relname="antithesis">##### В середине XVI века в Москву прибыло посольство аравийского царя с богатыми дарами,</segment>
 		<segment id="48" parent="47" relname="elaboration">которые были поднесены государю Иоанну Васильевичу в залог будущей крепкой российско-аравийской дружбы.</segment>
@@ -98,22 +98,22 @@
 		<segment id="64" relname="antithesis">Содержались также и птицы,</segment>
 		<segment id="65" parent="64" relname="elaboration">среди которых особой популярностью пользовались павлины.</segment>
 		<segment id="66" relname="antithesis">Но наш же слон в гораздый двор, очевидно, не вписался</segment>
-		<segment id="67" relname="antithesis">был поэтому размещен вне Кремля, на территории нынешней Красной площади.</segment>
+		<segment id="67" relname="antithesis">и был поэтому размещен вне Кремля, на территории нынешней Красной площади.</segment>
 		<segment id="68" relname="antithesis">##### Здесь он оказался в компании львов,</segment>
 		<segment id="69" parent="68" relname="elaboration">которых прислала в дар Иоанну IV английская королева</segment>
-		<segment id="70" relname="antithesis">царь,</segment>
+		<segment id="70" relname="antithesis">(царь,</segment>
 		<segment id="71" relname="antithesis">как известно, помышлял на ней жениться,</segment>
 		<segment id="72" relname="antithesis">но,</segment>
 		<segment id="73" relname="antithesis">заполучив четвероногую часть приданого,</segment>
 		<segment id="74" relname="antithesis">передумал)</segment>
-		<segment id="75" relname="antithesis">Шведский дворянин и дипломат Петр Петрей де Ерлезунда в своей «Истории о Великом княжестве Московском» уточняет: «К югу от города (то есть от Кремля. – Авт.) вырыт глубокий ров,</segment>
+		<segment id="75" relname="antithesis">. Шведский дворянин и дипломат Петр Петрей де Ерлезунда в своей «Истории о Великом княжестве Московском» уточняет: «К югу от города (то есть от Кремля. – Авт.) вырыт глубокий ров,</segment>
 		<segment id="76" parent="75" relname="elaboration">в котором великий князь обыкновенно держит львов, чтобы всякий, кому только угодно, мог смотреть их.</segment>
 		<segment id="77" relname="antithesis">мог смотреть их. Рядом с львиным двором помещается слоновый двор,</segment>
 		<segment id="78" relname="antithesis">окруженный крепким тыном».</segment>
 		<segment id="79" relname="antithesis">Здесь,</segment>
 		<segment id="80" relname="antithesis">в особом сарае,</segment>
 		<segment id="81" relname="antithesis">царь Иван</segment>
-		<segment id="82" relname="antithesis">поместил ученого слона,</segment>
+		<segment id="82" relname="antithesis">и поместил ученого слона,</segment>
 		<segment id="83" relname="antithesis">обученного становиться перед самодержцем на колени.</segment>
 		<segment id="84" parent="85" relname="attribution">Злые языки, правда, утверждают,</segment>
 		<segment id="85" relname="antithesis">что слон исполнял этот трюк в надежде на стакан водки,</segment>
@@ -130,7 +130,7 @@
 		<segment id="96" relname="antithesis">Ров был не просто каналом,</segment>
 		<segment id="97" relname="antithesis">соединявшим Неглинку с Москвой-рекой,</segment>
 		<segment id="98" relname="antithesis">а сложной системой шлюзов</segment>
-		<segment id="99" relname="antithesis">наполнялся подземными водами,</segment>
+		<segment id="99" relname="antithesis">и наполнялся подземными водами,</segment>
 		<segment id="100" relname="antithesis">так как поднять речную воду на площадь,</segment>
 		<segment id="101" relname="antithesis">находящуюся на значительном возвышении,</segment>
 		<segment id="102" relname="antithesis">было весьма затруднительно.</segment>
@@ -156,7 +156,7 @@
 		<segment id="122" relname="antithesis">служившего потехой царскому режиму.</segment>
 		<segment id="123" relname="antithesis">##### Вот так жило,</segment>
 		<segment id="124" relname="antithesis">грустило</segment>
-		<segment id="125" relname="antithesis">тосковало о потерянной родине животное, положившее начало славной традиции столичного слоноводства.</segment>
+		<segment id="125" relname="antithesis">и тосковало о потерянной родине животное, положившее начало славной традиции столичного слоноводства.</segment>
 		<segment id="126" relname="antithesis">Тосковать было отчего.</segment>
 		<segment id="127" relname="antithesis">Вышедшая в Европе в 1551 году «Общая книга о животных» Геснера сообщает: «Слоны невероятно любят свою родину, и,</segment>
 		<segment id="128" parent="127" relname="condition">если их увозят в чужую страну, они никогда не забывают родных мест.</segment>
@@ -183,7 +183,7 @@
 		<segment id="149" parent="148" relname="elaboration">которые в корчмах пьют.</segment>
 		<segment id="150" relname="antithesis">Из-за денег они тайно убили жену араба.</segment>
 		<segment id="151" relname="antithesis">Вот этот-то араб был оклеветан</segment>
-		<segment id="152" relname="antithesis">оговорен русскими вместе со своим слоном,</segment>
+		<segment id="152" relname="antithesis">и оговорен русскими вместе со своим слоном,</segment>
 		<segment id="153" relname="antithesis">что будто бы чума произошла от него и его слона.</segment>
 		<segment id="154" relname="antithesis">Тогда араба и его слона сослали в опале в посад Городецкой.</segment>
 		<segment id="155" relname="antithesis">Араб умер там,</segment>
@@ -192,11 +192,11 @@
 		<segment id="158" relname="antithesis">а кругом сарая был тын.</segment>
 		<segment id="159" relname="antithesis">Неподалеку от него схоронили араба.</segment>
 		<segment id="160" relname="antithesis">Тогда слон проломил тын</segment>
-		<segment id="161" relname="antithesis">улегся на могиле.</segment>
+		<segment id="161" relname="antithesis">и улегся на могиле.</segment>
 		<segment id="162" relname="antithesis">Там его</segment>
-		<segment id="163" relname="antithesis">добили,</segment>
+		<segment id="163" relname="antithesis">и добили,</segment>
 		<segment id="164" relname="antithesis">выбили у него клыки</segment>
-		<segment id="165" relname="antithesis">доставили великому князю в доказательство того,</segment>
+		<segment id="165" relname="antithesis">и доставили великому князю в доказательство того,</segment>
 		<segment id="166" relname="antithesis">что слон действительно околел».</segment>
 		<segment id="167" relname="antithesis">Страшная, нелепая и позорная история: наш первый слон и первый слоновод пали жертвами царской тирании,</segment>
 		<segment id="168" relname="antithesis">пострадали за грехи запойных шаромыжек.</segment>
@@ -204,7 +204,7 @@
 		<segment id="170" relname="antithesis">Дарение слонов российским царям стало доброй традицией.</segment>
 		<segment id="171" relname="antithesis">В 1703 году, например, «индийский царь в дар нашему государю императору преподнес слона и много иного».</segment>
 		<segment id="172" relname="antithesis">Содержали</segment>
-		<segment id="173" relname="antithesis">показывали слонов в зверинцах,</segment>
+		<segment id="173" relname="antithesis">и показывали слонов в зверинцах,</segment>
 		<segment id="174" relname="antithesis">наиболее популярны были заведения,</segment>
 		<segment id="175" relname="antithesis">стоявшие на месте нынешнего Политехнического музея.</segment>
 		<segment id="176" relname="antithesis">С 1912 года слоны обитают в «Уголке Дурова».</segment>
@@ -217,7 +217,7 @@
 		<segment id="183" relname="antithesis">ее прооперировали в клинике Федорова,</segment>
 		<segment id="184" relname="antithesis">теперь чувствует себя хорошо.</segment>
 		<segment id="185" relname="antithesis">##### Еще одна барышня, по имени Чаня (дрессировщики предпочитают иметь дело с более покладистыми самками)</segment>
-		<segment id="186" relname="antithesis">проживает на Главной аллее ВВЦ, в цирке «Антре».</segment>
+		<segment id="186" relname="antithesis">, проживает на Главной аллее ВВЦ, в цирке «Антре».</segment>
 		<segment id="187" relname="antithesis">Ее биография сложнее: она также пострадала от людской клеветы и двадцать лет назад была списана из «Союзгосцирка» за профнепригодность.</segment>
 		<segment id="188" relname="antithesis">Спасший и реабилитировавший слониху дрессировщик Борис Федотов говорит: «Они пытались доказать,</segment>
 		<segment id="189" relname="antithesis">что она сумасшедшая, а я доказал, что все наоборот».</segment>
@@ -244,14 +244,14 @@
 		<segment id="210" relname="antithesis">Решили от греха подальше отправить их в Москву:</segment>
 		<segment id="211" relname="antithesis">у нас ведь ящуром никого не удивишь.</segment>
 		<segment id="212" relname="antithesis">##### Они-то (глава семьи, в округе известный как Семен Анатольевич, и две его подруги)</segment>
-		<segment id="213" relname="antithesis">будут жить в новом вольере,</segment>
+		<segment id="213" relname="antithesis">и будут жить в новом вольере,</segment>
 		<segment id="214" parent="213" relname="elaboration">который построен по всем нормативам слоновьего общежития.</segment>
 		<segment id="215" relname="antithesis">Он хоть</segment>
-		<segment id="216" relname="antithesis">велик,</segment>
+		<segment id="216" relname="antithesis">и велик,</segment>
 		<segment id="217" relname="antithesis">а вместит только трех жителей,</segment>
 		<segment id="218" relname="antithesis">поэтому африканские слоны скоро переедут в зоопитомник,</segment>
 		<segment id="219" relname="antithesis">находящийся под Волоколамском,</segment>
 		<segment id="220" relname="antithesis">а трое оставшихся переберутся в новый просторный вольер</segment>
-		<segment id="221" relname="antithesis">тоже заживут по-человечески – себе на радость, нам на удивление.</segment>
+		<segment id="221" relname="antithesis">и тоже заживут по-человечески – себе на радость, нам на удивление.</segment>
     </body>
 </rst>

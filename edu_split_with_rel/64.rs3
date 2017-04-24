@@ -33,7 +33,7 @@
     </header>
     <body>
 		<segment id="1" relname="antithesis">##### Новости о грядущей эмиссии в США обвалили доллар</segment>
-		<segment id="2" relname="antithesis">подняли цену золота.</segment>
+		<segment id="2" relname="antithesis">и подняли цену золота.</segment>
 		<segment id="3" parent="4" relname="condition">При этом рост количества долларов пока не зафиксирован.</segment>
 		<segment id="4" relname="antithesis">Со швейцарским франком ситуация противоположная: стало известно,</segment>
 		<segment id="5" relname="antithesis">что в феврале денежная масса Швейцарии увеличилась на 3,5%,</segment>
@@ -51,7 +51,7 @@
 		<segment id="17" parent="18" relname="purpose">##### Чтобы помочь читателям,</segment>
 		<segment id="18" relname="antithesis">размышляющим над этими вопросами,</segment>
 		<segment id="19" relname="antithesis">мы начинаем рассчитывать</segment>
-		<segment id="20" relname="antithesis">публиковать специальные показатели,</segment>
+		<segment id="20" relname="antithesis">и публиковать специальные показатели,</segment>
 		<segment id="21" relname="antithesis">измеряющие величину разрыва между текущей стоимостью самых популярных финансовых активов и оценкой,</segment>
 		<segment id="22" parent="21" relname="elaboration">которую им мог бы дать наиболее скептический и консервативный аналитик.</segment>
 		<segment id="23" relname="antithesis">Ведь во время кризисов обычно выигрывает тот,</segment>
@@ -60,8 +60,8 @@
 		<segment id="26" relname="antithesis">Индекс золотого дна.</segment>
 		<segment id="27" parent="28" relname="attribution">##### После того как Бен Бернанке заявил,</segment>
 		<segment id="28" relname="antithesis">что ФРС направит 1050 млрд долларов на скупку ипотечных бумаг и долгосрочных американских облигаций</segment>
-		<segment id="29" relname="antithesis">это произошло 18 марта)</segment>
-		<segment id="30" relname="antithesis">доллар упал и относительно золота, и относительно прочих валют.</segment>
+		<segment id="29" relname="antithesis">(это произошло 18 марта)</segment>
+		<segment id="30" relname="antithesis">, доллар упал и относительно золота, и относительно прочих валют.</segment>
 		<segment id="31" relname="antithesis">За неделю унция золота подорожала с 921,6 до 952,1 доллара.</segment>
 		<segment id="32" relname="antithesis">Однако увеличение количества долларов,</segment>
 		<segment id="33" relname="antithesis">ожидаемое рынками,</segment>
@@ -72,7 +72,7 @@
 		<segment id="38" relname="antithesis">##### Когда покупательная способность валюты на рынке падает,</segment>
 		<segment id="39" relname="antithesis">а ее реальная обеспеченность золотом растет,</segment>
 		<segment id="40" relname="antithesis">это объясняется негативными ожиданиями</segment>
-		<segment id="41" relname="antithesis">приближает курс валюты к «золотому дну».</segment>
+		<segment id="41" relname="antithesis">и приближает курс валюты к «золотому дну».</segment>
 		<segment id="42" relname="antithesis">Итак, американский доллар немного утонул,</segment>
 		<segment id="43" relname="antithesis">и его потенциал падения уменьшился с 84,75 до 83,77%.</segment>
 		<segment id="44" relname="antithesis">##### Таблица 1.</segment>

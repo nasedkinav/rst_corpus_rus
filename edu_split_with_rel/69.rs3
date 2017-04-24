@@ -46,7 +46,7 @@
 		<segment id="12" relname="antithesis">В первую очередь — вся Британия,</segment>
 		<segment id="13" relname="antithesis">получившая «подвешенный» парламент.</segment>
 		<segment id="14" relname="antithesis">##### Хотя англосаксы считаются</segment>
-		<segment id="15" relname="antithesis">точнее, провозглашают себя)</segment>
+		<segment id="15" relname="antithesis">(точнее, провозглашают себя)</segment>
 		<segment id="16" relname="antithesis">некими оплотами классической демократии,</segment>
 		<segment id="17" relname="antithesis">их избирательные системы весьма своеобразны.</segment>
 		<segment id="18" relname="antithesis">Например, американская система выборщиков,</segment>
@@ -54,12 +54,12 @@
 		<segment id="20" relname="antithesis">чем его оппонент,</segment>
 		<segment id="21" relname="antithesis">но тем не менее проиграть.</segment>
 		<segment id="22" relname="antithesis">Британская система тоже не вполне совершенна</segment>
-		<segment id="23" relname="antithesis">в каждом из 650 избирательных округов выигрывает тот кандидат,</segment>
+		<segment id="23" relname="antithesis">— в каждом из 650 избирательных округов выигрывает тот кандидат,</segment>
 		<segment id="24" parent="23" relname="elaboration">который получил простое большинство голосов.</segment>
 		<segment id="25" relname="antithesis">Из-за этого теряется огромное количество голосов.</segment>
 		<segment id="26" relname="antithesis">Вполне очевидно,</segment>
 		<segment id="27" relname="antithesis">что французская система голосования в два тура или российская пропорциональная система гораздо справедливее</segment>
-		<segment id="28" relname="antithesis">к российской системе, разумеется, слово «справедливая» относится лишь формально,</segment>
+		<segment id="28" relname="antithesis">(к российской системе, разумеется, слово «справедливая» относится лишь формально,</segment>
 		<segment id="29" relname="antithesis">к практике наших «выборов» это слово не имеет ни малейшего отношения).</segment>
 		<segment id="30" relname="antithesis">##### Либерал-демократы постоянно становятся жертвой этой системы,</segment>
 		<segment id="31" parent="30" relname="cause-effect">поскольку их голоса «размазаны» по стране,</segment>
@@ -68,7 +68,7 @@
 		<segment id="34" relname="antithesis">— менее 10%.</segment>
 		<segment id="35" relname="antithesis">В итоге пропали впустую успехи их лидера Ника Клегга в ходе нынешних предвыборных дебатов.</segment>
 		<segment id="36" relname="antithesis">Либерал-демократы даже потеряли места по сравнению с выборами 2005 года</segment>
-		<segment id="37" relname="antithesis">было 62,</segment>
+		<segment id="37" relname="antithesis">(было 62,</segment>
 		<segment id="38" relname="antithesis">стало 57).</segment>
 		<segment id="39" relname="antithesis">##### Более того, они даже не смогут стать «делателями королей».</segment>
 		<segment id="40" relname="antithesis">В мировой парламентской практике есть масса примеров того,</segment>
