@@ -1,0 +1,75 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Российские власти за последний месяц существенно нарастили военно-техническую помощь правительству сирийского президента Башара Асада,</segment>
+		<segment id="2" relname="antithesis">сообщает агентство Reuters со ссылкой на собственный анонимный источник.</segment>
+		<segment id="3" relname="antithesis">##### По его данным,</segment>
+		<segment id="4" relname="antithesis">с декабря минувшего года военно-транспортные самолеты Ан-124 совершили десятки рейсов в Сирию,</segment>
+		<segment id="5" relname="antithesis">доставляя туда вооружения,</segment>
+		<segment id="6" relname="antithesis">боевую технику и различное оборудование.</segment>
+		<segment id="7" relname="antithesis">В числе прочего сирийцы получили бронетехнику, разведывательное оборудование,</segment>
+		<segment id="8" relname="antithesis">беспилотники, системы РЭБ, запчасти для вертолетов и высокоточные авиабомбы.</segment>
+		<segment id="9" relname="antithesis">##### Операторами разведывательных БПЛА,</segment>
+		<segment id="10" relname="antithesis">по этой информации,</segment>
+		<segment id="11" relname="antithesis">работают российские специалисты,</segment>
+		<segment id="12" parent="11" relname="elaboration">которые помогают сирийским военным находить цели для ударов авиации и артиллерии.</segment>
+		<segment id="13" relname="antithesis">##### Информацию о российских поставках в Сирию подтвердил еще один источник Reuters,</segment>
+		<segment id="14" parent="13" relname="elaboration">который уточнил,</segment>
+		<segment id="15" relname="antithesis">что оружие везут не обязательно из России, но и из ряда других стран: Украины, Болгарии и Румынии.</segment>
+		<segment id="16" parent="17" relname="attribution">В Софии, однако, уже заявили,</segment>
+		<segment id="17" relname="antithesis">что правительство не принимало решений о каких-либо поставках оружия в Сирию.</segment>
+		<segment id="18" relname="antithesis">Киев также опроверг свое участие в вооружении режима Асада.</segment>
+		<segment id="19" relname="antithesis">Румынские официальные лица никаких комментариев по данной теме пока не дали.</segment>
+		<segment id="20" relname="antithesis">##### Представитель российской государственной компании Рособоронэкспорт,</segment>
+		<segment id="21" parent="20" relname="elaboration">к которому агентство обратилось за дополнительной информацией,</segment>
+		<segment id="22" parent="23" relname="attribution">заявил,</segment>
+		<segment id="23" relname="antithesis">что не готов обсуждать эту тему.</segment>
+		<segment id="24" relname="antithesis">С сирийскими официальными лицами агентству связаться не удалось.</segment>
+		<segment id="25" parent="26" relname="attribution">##### Сирийские оппозиционеры утверждают,</segment>
+		<segment id="26" relname="antithesis">что вооружения и военное оборудование поступает в аэропорт города Латакия,</segment>
+		<segment id="27" relname="antithesis">находящегося под контролем властей.</segment>
+		<segment id="28" relname="antithesis">Кроме того, суда с грузами из России заходят в порты Тартуса и все той же Латакии.</segment>
+		<segment id="29" relname="antithesis">##### Гражданская война продолжается в Сирии уже почти три года.</segment>
+		<segment id="30" relname="antithesis">Ожидается,</segment>
+		<segment id="31" relname="antithesis">что некая договоренность между противоборствующими сторонами может быть достигнута на конференции в Женеве,</segment>
+		<segment id="32" parent="31" relname="elaboration">которая начнется в конце января.</segment>
+		<segment id="33" relname="antithesis">Перед стартом переговоров стороны пытаются усилить свое положение на фронтах,</segment>
+		<segment id="34" parent="33" relname="purpose">чтобы выступать с как можно более сильных позиций.</segment>
+		<segment id="35" parent="36" relname="attribution">##### МИД России неоднократно заявлял,</segment>
+		<segment id="36" relname="antithesis">что РФ исполняет контракты на поставку оружия, заключенные с Сирией еще до начала гражданской войны в этой стране.</segment>
+		<segment id="37" relname="antithesis">При этом Москва обещала исполнить взятые на себя контрактные обязательства в полном объеме,</segment>
+		<segment id="38" parent="39" relname="attribution">подчеркивая,</segment>
+		<segment id="39" relname="antithesis">что никаких международных соглашений или эмбарго не нарушает.</segment>
+    </body>
+</rst>

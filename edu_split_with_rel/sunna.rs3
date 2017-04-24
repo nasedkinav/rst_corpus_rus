@@ -1,0 +1,73 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Радикальная исламистская группировка "Ансар аль-Сунна" взяла на себя ответственность за взрывы в Волгограде,</segment>
+		<segment id="2" relname="antithesis">совершенные в декабре прошлого года.</segment>
+		<segment id="3" relname="antithesis">В видео,</segment>
+		<segment id="4" relname="antithesis">размещенном исламистами на одном из экстремистских сайтов,</segment>
+		<segment id="5" relname="antithesis">говорится о том,</segment>
+		<segment id="6" relname="antithesis">что "операцию" провели два смертника</segment>
+		<segment id="7" relname="antithesis">- некие Сулейман и Абдуррахман.</segment>
+		<segment id="8" relname="antithesis">Кроме того, утверждается,</segment>
+		<segment id="9" relname="antithesis">что боевики готовятся совершить новые теракты во время зимней Олимпиады в Сочи,</segment>
+		<segment id="10" relname="antithesis">передает Deutsche Welle.</segment>
+		<segment id="11" relname="antithesis">##### На видео боевики держат в руках автоматы.</segment>
+		<segment id="12" relname="antithesis">Их заявления сопровождаются демонстрацией фотографий с мест волгоградских терактов,</segment>
+		<segment id="13" relname="antithesis">взятых из прессы.</segment>
+		<segment id="14" relname="antithesis">В ролике также есть кадры,</segment>
+		<segment id="15" parent="14" relname="elaboration">на которых неизвестные изготавливают взрывчатку,</segment>
+		<segment id="16" relname="antithesis">а позже едут в машине,</segment>
+		<segment id="17" relname="antithesis">держа в руках предмет,</segment>
+		<segment id="18" relname="antithesis">похожий на взрыватель.</segment>
+		<segment id="19" relname="antithesis">##### В результате двух взрывов,</segment>
+		<segment id="20" relname="antithesis">прогремевших в Волгограде 29 и 30 декабря 2013 года,</segment>
+		<segment id="21" relname="antithesis">погибли более 30 человек.</segment>
+		<segment id="22" relname="antithesis">Ранее в СМИ появились сообщения о том,</segment>
+		<segment id="23" relname="antithesis">что волгоградские смертники приехали в город из Дагестана.</segment>
+		<segment id="24" relname="antithesis">Один из них - Аскер Самедов</segment>
+		<segment id="25" relname="antithesis">- являлся активным членом буйнакской террористической группировки,</segment>
+		<segment id="26" parent="25" relname="elaboration">которая имела отношение и к первому теракту в Волгограде осенью прошлого года.</segment>
+		<segment id="27" relname="antithesis">Между тем группировка "Ансар аль-Сунна" была основана в сентябре 2003 года.</segment>
+		<segment id="28" relname="antithesis">Она базируется в северном и центральном Ираке и,</segment>
+		<segment id="29" relname="antithesis">не исключено,</segment>
+		<segment id="30" relname="antithesis">что в действительности она не имеет ни малейшего отношения к терактам в Волгограде,</segment>
+		<segment id="31" relname="antithesis">отмечает РБК.</segment>
+		<segment id="32" relname="antithesis">##### - Западная пресса: "Самая большая опасность для Игр может исходить от еще не известных исламистов"</segment>
+		<segment id="33" relname="antithesis">##### В то же время главный редактор сайта "Агентура.ru" Андрей Солдатов предполагает,</segment>
+		<segment id="34" relname="antithesis">что российские СМИ, сообщившие об "иракской группировке "Ансар аль-Сунна", скорее всего, ошибаются.</segment>
+		<segment id="35" relname="antithesis">Он полагает,</segment>
+		<segment id="36" relname="antithesis">что эта группировка - новая</segment>
+		<segment id="37" relname="antithesis">и базируется на Кавказе <...></segment>
+    </body>
+</rst>

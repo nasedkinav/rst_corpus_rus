@@ -309,14 +309,20 @@ def transform_file(path):
 
 
 if __name__ == '__main__':
-    if len(sys.argv) != 2 or not os.path.exists(sys.argv[1]):
+    if len(sys.argv) < 2 or not os.path.exists(sys.argv[1]):
         sys.exit("You should provide path to directory where txt files to be converted are located")
+
+    force = len(sys.argv) == 3 and bool(sys.argv[2])  # whether to force-update existing .rs3 files
 
     for file_name in os.listdir(sys.argv[1]):
         if not file_name.endswith('.txt'):
             continue
-        print("Processing '%s'" % file_name)
 
+        new_file_path = os.path.join('edu_split_with_rel', os.path.splitext(file_name)[0] + '.rs3')
+        if not force and os.path.exists(new_file_path):
+            continue
+
+        print("Processing '%s'" % file_name)
         xml = transform_file(os.path.join(sys.argv[1], file_name))
-        with open(os.path.join('edu_split_with_rel', os.path.splitext(file_name)[0] + '.rs3'), mode='wb') as of:
+        with open(new_file_path, mode='wb') as of:
             of.write(xml.encode('utf-8'))
