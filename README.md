@@ -1,5 +1,6 @@
 ## Description
 This is a working folder of the **Russian RST Corpus** project.
+Annotation manual is located [here](https://docs.google.com/document/d/1xbJFH-lDYs2gqk9UvFya3a-9Dom3jgBkQyNWw8BV8ao/edit?usp=sharing).
 
 ## Directories
 * **second_IAA_measurement**<br/>
