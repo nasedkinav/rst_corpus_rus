@@ -1,0 +1,187 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Африка в последние недели не исчезает из фокуса внимания мировых СМИ</segment>
+		<segment id="2" relname="antithesis">(российские традиционно пренебрегают Чёрным континентом,</segment>
+		<segment id="3" relname="antithesis">а зря)</segment>
+		<segment id="4" relname="antithesis">. Сразу в четырёх странах Западной Африки происходят события, крайне важные для их будущего развития,</segment>
+		<segment id="5" relname="antithesis">равно как и всего региона.</segment>
+		<segment id="6" relname="antithesis">##### Начнём с Нигерии, самой населённой африканской страны.</segment>
+		<segment id="7" relname="antithesis">Численность её граждан уже перевалила за 150 миллионов</segment>
+		<segment id="8" relname="antithesis">и продолжает стремительно расти.</segment>
+		<segment id="9" relname="antithesis">Таким образом, она далеко обошла в плане демографического потенциала, например, Россию.</segment>
+		<segment id="10" relname="antithesis">Уже из одного этого факта следует значение Нигерии.</segment>
+		<segment id="11" relname="antithesis">Кроме того, у неё второй после ЮАР ВВП на континенте,</segment>
+		<segment id="12" relname="antithesis">страна является крупнейшим производителем нефти</segment>
+		<segment id="13" relname="antithesis">и входит в число так называемых Next Eleven,</segment>
+		<segment id="14" relname="antithesis">то есть государств, определённых банком «Голдман Сакс» как могущих войти в число ведущих экономик XXI века. ВВП Нигерии продолжает стремительно расти,</segment>
+		<segment id="15" relname="antithesis">несмотря на кризис.</segment>
+		<segment id="16" relname="antithesis">Она выполняет роль регионального жандарма,</segment>
+		<segment id="17" relname="antithesis">посылая миротворческие контингенты в Либерию,</segment>
+		<segment id="18" relname="antithesis">Сьерра-Леоне, Кот д’Ивуар,</segment>
+		<segment id="19" relname="antithesis">а также в Дарфур.</segment>
+		<segment id="20" relname="antithesis">##### Но проклятием страны,</segment>
+		<segment id="21" relname="antithesis">не дающим ей распрямиться во весь рост и стать подлинным гигантом континента, помимо нефтяного проклятия,</segment>
+		<segment id="22" relname="antithesis">является ужасающая политическая нестабильность и межрелигиозная и межэтническая рознь.</segment>
+		<segment id="23" relname="antithesis">Через семь лет после получения независимости Нигерия скатилась в гражданскую войну, чуть не расколовшую страну.</segment>
+		<segment id="24" relname="antithesis">Последующие тридцать лет её единство удерживала череда диктаторов.</segment>
+		<segment id="25" relname="antithesis">В итоге власть в руках гражданских находится лишь одиннадцатый год.</segment>
+		<segment id="26" relname="antithesis">##### В стране — более пятисот языков, несколько сот племён и народностей, часто с давней историей взаимной ненависти.</segment>
+		<segment id="27" relname="antithesis">Как следствие, всё возрастающее число штатов; с трёх их число увеличилось до 36.</segment>
+		<segment id="28" relname="antithesis">Нигерия расколота примерно пополам на мусульманский север и христианский юг,</segment>
+		<segment id="29" parent="28" relname="elaboration">которые все пятьдесят лет независимости всё дальше уходят друг от друга.</segment>
+		<segment id="30" relname="antithesis">Достаточно сказать про ползучий процесс введения шариата,</segment>
+		<segment id="31" relname="antithesis">охвативший уже двенадцать штатов</segment>
+		<segment id="32" relname="antithesis">и порождающий множество проблем.</segment>
+		<segment id="33" relname="antithesis">Нельзя не упомянуть о клановости и присущей ей вопиющей коррупции,</segment>
+		<segment id="34" relname="antithesis">усугублённой нефтяными деньгами, действующими в третьем мире почти всегда разлагающе.</segment>
+		<segment id="35" relname="antithesis">##### 7 марта нарыв в очередной раз прорвался.</segment>
+		<segment id="36" relname="antithesis">В районе города Джос, центре добычи олова, кочевники-фульбе (мусульмане) устроили резню местных христиан из племени бером в отместку за резню собратьев по вере полутора месяцами ранее.</segment>
+		<segment id="37" relname="antithesis">Джос — типичный горнодобывающий регион,</segment>
+		<segment id="38" relname="antithesis">куда на заработки сходятся люди со всех уголков страны,</segment>
+		<segment id="39" relname="antithesis">поэтому население чрезвычайно перемешено как этнически, так и религиозно.</segment>
+		<segment id="40" relname="antithesis">При густой плотности проживания, при столкновении разных культур и укладов, дефиците доступа к земле и ресурсам конфликты неизбежны, особенно при сильной трайбалистской основе всей жизни.</segment>
+		<segment id="41" relname="antithesis">В 2001-м и в 2008 годах там уже шла резня,</segment>
+		<segment id="42" relname="antithesis">стоившая жизни тысячам человек.</segment>
+		<segment id="43" relname="antithesis">В этот раз число жертв примерно полторы-две сотни.</segment>
+		<segment id="44" relname="antithesis">Ситуация невероятно осложнена тем,</segment>
+		<segment id="45" relname="antithesis">что президент Нигерии Умару Яр’Адуа с ноября не исполняет своих обязанностей.</segment>
+		<segment id="46" relname="antithesis">Он отправился на лечение в Саудовскую Аравию</segment>
+		<segment id="47" relname="antithesis">и пропал,</segment>
+		<segment id="48" relname="antithesis">лишь один раз дав интервью по телефону BBC,</segment>
+		<segment id="49" parent="48" relname="elaboration">в котором говорил задыхающимся,</segment>
+		<segment id="50" relname="antithesis">еле слышным голосом.</segment>
+		<segment id="51" relname="antithesis">В стране поднялась волна недоумения и возмущения.</segment>
+		<segment id="52" relname="antithesis">В конце концов Верховный суд дал властям две недели на решение этого вопроса,</segment>
+		<segment id="53" relname="antithesis">и в начале февраля сенат Нигерии вручил временный президентский мандат вице-президенту Гудлаку Джонатану,</segment>
+		<segment id="54" parent="53" relname="elaboration">который является христианином с юга в противоположность Яр’Адуа.</segment>
+		<segment id="55" relname="antithesis">Последний через несколько дней после передачи власти вернулся домой, но по-прежнему,</segment>
+		<segment id="56" relname="antithesis">по слухам, привязан к аппарату жизнеобеспечения.</segment>
+		<segment id="57" relname="antithesis">##### Таким образом, в момент ужасной резни,</segment>
+		<segment id="58" relname="antithesis">грозящей перекинуться на другие штаты,</segment>
+		<segment id="59" relname="antithesis">огромная страна столкнулась с проблемой легитимности власти.</segment>
+		<segment id="60" relname="antithesis">Не стоит забывать,</segment>
+		<segment id="61" relname="antithesis">что Нигерия — империя, объединяющая ислам и христианство, имеет ключевое значение на континенте.</segment>
+		<segment id="62" relname="antithesis">Напомним,</segment>
+		<segment id="63" relname="antithesis">что у неё есть весьма двусмысленный договор о ядерном сотрудничестве с Ираном,</segment>
+		<segment id="64" relname="antithesis">вопрос атомной безопасности касается её напрямую.</segment>
+		<segment id="65" relname="antithesis">До сих пор ей удавалось сдерживать приток эмиссаров «Аль-Каиды» на север и атаки партизан-сепаратистов на нефтяном юге.</segment>
+		<segment id="66" relname="antithesis">В случае же возникновения хаоса в Нигерии она неизбежно потянет за собой соседние страны.</segment>
+		<segment id="67" relname="antithesis">##### А таковой является</segment>
+		<segment id="68" relname="antithesis">в первую очередь расположенный к северу Нигер,</segment>
+		<segment id="69" parent="68" relname="elaboration">с которым Нигерия делит воинственную народность хаоса, известную своей приверженностью исламу.</segment>
+		<segment id="70" relname="antithesis">В середине февраля в этой стране произошёл военный переворот.</segment>
+		<segment id="71" relname="antithesis">Президент Мамаду Танджа,</segment>
+		<segment id="72" relname="antithesis">пытавшийся продлить своё правление вопреки конституции,</segment>
+		<segment id="73" relname="antithesis">для чего распустил парламент</segment>
+		<segment id="74" relname="antithesis">и управлял страной декретами,</segment>
+		<segment id="75" relname="antithesis">был смещён военными</segment>
+		<segment id="76" relname="antithesis">и взят под арест.</segment>
+		<segment id="77" relname="antithesis">Нигер — один из важнейших игроков на мировом рынке урана.</segment>
+		<segment id="78" relname="antithesis">Стране принадлежит примерно 10% его запасов на планете,</segment>
+		<segment id="79" relname="antithesis">урановая руда составляет три четверти её экспорта.</segment>
+		<segment id="80" relname="antithesis">##### По странному стечению обстоятельств в момент переворота в Нигере находилась делегация конгресса США.</segment>
+		<segment id="81" relname="antithesis">Напомним,</segment>
+		<segment id="82" relname="antithesis">что в «иракском досье»,</segment>
+		<segment id="83" relname="antithesis">послужившем основанием для начала войны в 2003 году,</segment>
+		<segment id="84" relname="antithesis">фигурировали поставки ядерного сырья из Нигера в Ирак.</segment>
+		<segment id="85" relname="antithesis">Вашингтон давно внимательно отслеживает все сделки страны относительно уранового сырья,</segment>
+		<segment id="86" relname="antithesis">не случайно его реакция на переворот резко отличалась от реакции соседей Нигера.</segment>
+		<segment id="87" parent="88" relname="condition">Если Африканский союз незамедлительно приостановил членство страны в своих рядах,</segment>
+		<segment id="88" relname="antithesis">то американский Госдеп выразил мнение,</segment>
+		<segment id="89" relname="antithesis">что свергнутый президент сам виноват в случившемся.</segment>
+		<segment id="90" relname="antithesis">##### Добавим,</segment>
+		<segment id="91" relname="antithesis">что 90% территории страны составляют пустыни,</segment>
+		<segment id="92" parent="91" relname="elaboration">в которых власть правительства существует лишь номинально.</segment>
+		<segment id="93" relname="antithesis">Они контролируются кочевниками-туарегами,</segment>
+		<segment id="94" parent="93" relname="elaboration">среди которых успешно скрываются террористы «Аль-Каиды» с отнюдь не мирными намерениями.</segment>
+		<segment id="95" relname="antithesis">Так, 8 марта они застрелили пятерых солдат.</segment>
+		<segment id="96" relname="antithesis">Куда поведёт военная хунта страну,</segment>
+		<segment id="97" relname="antithesis">совершенно неясно.</segment>
+		<segment id="98" relname="antithesis">##### С запада в непосредственной близости от Нигерии находятся Кот д’Ивуар и Того.</segment>
+		<segment id="99" relname="antithesis">В первом в феврале разразился острейший политический кризис,</segment>
+		<segment id="100" relname="antithesis">чуть было не приведший к возобновлению гражданской войны.</segment>
+		<segment id="101" relname="antithesis">Президент Лоран Гбагбо распустил правительство и центральную избирательную комиссию,</segment>
+		<segment id="102" relname="antithesis">обвинив председателя последней в том,</segment>
+		<segment id="103" relname="antithesis">что тот хочет незаконно внести в списки избирателей до полумиллиона неграждан.</segment>
+		<segment id="104" relname="antithesis">Дело в том,</segment>
+		<segment id="105" relname="antithesis">что</segment>
+		<segment id="106" relname="antithesis">когда страна находилась на пике экономического развития в 70—80-е годы,</segment>
+		<segment id="107" relname="antithesis">то она была наводнена трудовыми мигрантами из соседних стран,</segment>
+		<segment id="108" relname="antithesis">оставшимися в ней.</segment>
+		<segment id="109" relname="antithesis">Именно их присутствие породило в 2002 году гражданскую войну,</segment>
+		<segment id="110" relname="antithesis">уничтожившую следы былого процветания.</segment>
+		<segment id="111" relname="antithesis">Срок мандата президента Гбагбо истёк ещё в 2005-м,</segment>
+		<segment id="112" relname="antithesis">но он виртуозно умудряется продлевать свои полномочия,</segment>
+		<segment id="113" relname="antithesis">всякий раз изыскивая уважительную причину</segment>
+		<segment id="114" relname="antithesis">и перенося на неопределённый срок новые выборы.</segment>
+		<segment id="115" relname="antithesis">В стране действуют хрупкое перемирие и временное правительство.</segment>
+		<segment id="116" relname="antithesis">##### Но Гбагбо,</segment>
+		<segment id="117" relname="antithesis">привычно рассчитывавший на усталость сограждан,</segment>
+		<segment id="118" relname="antithesis">ошибся.</segment>
+		<segment id="119" relname="antithesis">На улицы вышли десятки тысяч недовольных,</segment>
+		<segment id="120" relname="antithesis">начались поджоги и погромы.</segment>
+		<segment id="121" relname="antithesis">Ему пришлось идти на попятную,</segment>
+		<segment id="122" relname="antithesis">назначить главой нового ЦИКа представителя оппозиции</segment>
+		<segment id="123" relname="antithesis">и торжественно пообещать в мае-июне всё-таки провести выборы.</segment>
+		<segment id="124" relname="antithesis">Впрочем, в последнее мало кто верит.</segment>
+		<segment id="125" relname="antithesis">Слишком велики у Гбагбо шансы проиграть</segment>
+		<segment id="126" relname="antithesis">и слишком соблазнительно вновь найти повод,</segment>
+		<segment id="127" parent="126" relname="purpose">чтобы в сто первый раз отсрочить неизбежное.</segment>
+		<segment id="128" relname="antithesis">В итоге былое чудо Африки,</segment>
+		<segment id="129" relname="antithesis">как называли Кот д’Ивуар за непривычные стабильность и благополучие,</segment>
+		<segment id="130" relname="antithesis">сегодня прозябает в стагнации и нищете,</segment>
+		<segment id="131" relname="antithesis">гражданская война готова там вспыхнуть вновь в любой момент.</segment>
+		<segment id="132" relname="antithesis">##### Между Кот д’Ивуаром и Нигерией находится Того,</segment>
+		<segment id="133" relname="antithesis">где 4 марта прошли президентские выборы.</segment>
+		<segment id="134" relname="antithesis">Действующий президент Фор Гнасингбе — сын правившего 38 лет диктатора Эйадемы Гнасингбе, известного тем,</segment>
+		<segment id="135" relname="antithesis">что скармливал крокодилам оппонентов,</segment>
+		<segment id="136" relname="antithesis">объявлен победителем.</segment>
+		<segment id="137" relname="antithesis">Это незамедлительно привело к протестам оппозиции,</segment>
+		<segment id="138" relname="antithesis">перешедшим в массовые беспорядки.</segment>
+		<segment id="139" relname="antithesis">Миссия наблюдателей от Евросоюза подтвердила нарушения;</segment>
+		<segment id="140" relname="antithesis">так, власти раздавали рис в голодающих районах в обмен на голоса избирателей.</segment>
+		<segment id="141" relname="antithesis">##### Таким образом, Гвинейское побережье образует сегодня великую дугу нестабильности.</segment>
+		<segment id="142" relname="antithesis">Здесь переплелись и вызовы арабо-мусульманского мира,</segment>
+		<segment id="143" relname="antithesis">олицетворяемые исламским фундаментализмом и «Аль-Каидой»,</segment>
+		<segment id="144" relname="antithesis">и традиционные проблемы Чёрной Африки: диктатура,</segment>
+		<segment id="145" relname="antithesis">коррупция, трайбализм и клановость.</segment>
+		<segment id="146" relname="antithesis">Но глобализация делает происходящее там актуальным для всего мира.</segment>
+		<segment id="147" relname="antithesis">Достаточно вспомнить,</segment>
+		<segment id="148" relname="antithesis">что «рождественский террорист»,</segment>
+		<segment id="149" relname="antithesis">пытавшийся взорвать американский авиалайнер накануне Нового года,</segment>
+		<segment id="150" relname="antithesis">— выходец из Нигерии.</segment>
+		<segment id="151" relname="antithesis">А в миротворческой миссии в Кот д’Ивуаре есть и российские офицеры.</segment>
+    </body>
+</rst>

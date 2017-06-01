@@ -1,0 +1,60 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Административный суд Кёльна снял с последнего альбома немецкой индастриал-метал группы Rammstein «Liebe ist für alle da» все ограничения на реализацию.</segment>
+		<segment id="2" relname="antithesis">Суд счёл необоснованными запрет на продажу альбома лицам до восемнадцати лет и цензуру обложки,</segment>
+		<segment id="3" parent="2" relname="elaboration">которые были введены осенью прошлого года.</segment>
+		<segment id="4" relname="antithesis">##### «Liebe ist für alle da» подвергся цензуре в ноябре 2009 года,</segment>
+		<segment id="5" relname="antithesis">когда Немецким Федеральным Комитетом по Оценке СМИ обложка диска была названа пропагандирующей садомазохизм.</segment>
+		<segment id="6" relname="antithesis">##### К тому же неприличным был объявлен текст песни «Ich tu dir weh»,</segment>
+		<segment id="7" parent="6" relname="cause-effect">в результате чего композицию запретили для исполнения на публике.</segment>
+		<segment id="8" relname="antithesis">##### Суд Кёльна выносил вердикт,</segment>
+		<segment id="9" relname="antithesis">ссылаясь на отсутствие в песнях непосредственного упоминания действий насильственного характера.</segment>
+		<segment id="10" relname="antithesis">Также доводом в пользу снятия запретных мер стало то,</segment>
+		<segment id="11" relname="antithesis">что предыдущее решение не поясняло причин пагубного влияния описания садомазохизма на молодёжь.</segment>
+		<segment id="12" relname="antithesis">Таким образом, постановление суда разрешает распространение пластинки в прозрачной упаковке</segment>
+		<segment id="13" relname="antithesis">и даёт возможность покупать её детям младше восемнадцати лет.</segment>
+		<segment id="14" relname="antithesis">##### Тем не менее, вердикт носит временный характер.</segment>
+		<segment id="15" relname="antithesis">Это связано с тем,</segment>
+		<segment id="16" relname="antithesis">что Комитет по Оценке СМИ решил опротестовать решение Кёльнского суда.</segment>
+		<segment id="17" relname="antithesis">По предварительным оценкам на процесс может уйти не менее полугода.</segment>
+		<segment id="18" relname="antithesis">В этот период планируется продавать альбом в обычном режиме,</segment>
+		<segment id="19" relname="antithesis">т.е без каких бы то ни было ограничений.</segment>
+		<segment id="20" parent="21" relname="attribution">##### Кроме того, стоит отметить,</segment>
+		<segment id="21" relname="antithesis">что в феврале 2010 года Rammstein стали объектом жёсткой критики со стороны белорусских властей.</segment>
+		<segment id="22" relname="antithesis">Тогда в преддверии минского концерта группы Общественный совет по нравственности и Министерство культуры Белоруссии заподозрили немецких металлистов в пропаганде насилия, сексуальных извращений и нацизма.</segment>
+		<segment id="23" relname="antithesis">##### Тем не менее раннее творчество Rammstein не вызывало столь критичного отношения со стороны государственных органов,</segment>
+		<segment id="24" relname="antithesis">несмотря на присутствие в нём темы сексуального насилия.</segment>
+    </body>
+</rst>

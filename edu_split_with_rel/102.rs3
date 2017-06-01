@@ -1,0 +1,141 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### В преддверии публикации на «Часкоре» отрывков из документальной книги Альдо Нове переводчик и литературный критик Михаил Визель рассуждает о жанре non-fiction, «юных каннибалах» и «новых бедных».</segment>
+		<segment id="2" relname="antithesis">В мае 2006 года престижнейшее итальянское издательство «Эйнауди» выпустило книгу,</segment>
+		<segment id="3" parent="2" relname="elaboration">которая при всём желании не могла бы затеряться среди новинок,</segment>
+		<segment id="4" relname="antithesis">хотя, как известно, на прилавках итальянских книжных магазинов затеряться проще,</segment>
+		<segment id="5" relname="antithesis">чем на каких бы то ни было : столько там изумительно оформленных</segment>
+		<segment id="6" relname="antithesis">и изданных книг.</segment>
+		<segment id="7" relname="antithesis">##### Но слишком уж вываливающимся, неудобным во всех смыслах было её название : «Mi chiamo Roberta, ho 40 anni, guadagno 250 euro al mese...», то есть «Меня зовут Роберта, мне 40 лет, я получаю 250 евро в месяц».</segment>
+		<segment id="8" relname="antithesis">##### Впрочем, автор этой книги уже успел приучить публику к тому,</segment>
+		<segment id="9" relname="antithesis">что от него надо ждать чего-то возмутительного.</segment>
+		<segment id="10" relname="antithesis">И неожиданного. 39-летний на тот момент ломбардец Антонелло Чентанин, пишущий под именем Альдо Нове (то есть буквально — Альдо Девятка),</segment>
+		<segment id="11" relname="antithesis">получил широкую известность десятью годами ранее,</segment>
+		<segment id="12" relname="antithesis">выпустив книгу «Супервубинда».</segment>
+		<segment id="13" relname="antithesis">##### «Супервубинда» — собрание коротких чернушных страшилок,</segment>
+		<segment id="14" parent="13" relname="elaboration">в которых взбесившаяся реальность,</segment>
+		<segment id="15" relname="antithesis">неотличимая от компьютерных игр и выпусков мировых теленовостей,</segment>
+		<segment id="16" relname="antithesis">кровила,</segment>
+		<segment id="17" relname="antithesis">потела,</segment>
+		<segment id="18" relname="antithesis">испускала резкие звуки и запахи.</segment>
+		<segment id="19" relname="antithesis">##### Итальянские критики,</segment>
+		<segment id="20" relname="antithesis">убаюканные (после смерти в 1985 году Итало Кальвино и 1990-м</segment>
+		<segment id="21" relname="antithesis">— Альберто Моравиа) учёнейшим эрудитом Умберто Эко, изысканным сказочником Алессандро Барикко и подобными утончёнными господами,</segment>
+		<segment id="22" relname="antithesis">ошалели</segment>
+		<segment id="23" relname="antithesis">— ничего подобного они не видели со времён футуристических скандалов!</segment>
+		<segment id="24" relname="antithesis">##### И окрестили новейшее течение — а кроме самого Нове,</segment>
+		<segment id="25" relname="antithesis">в него «подтянулись» ещё несколько ярких городских парней, в первую очередь Николо Амманити и Тициано Скарпа,</segment>
+		<segment id="26" relname="antithesis">— gioventú cannibale,</segment>
+		<segment id="27" relname="antithesis">то есть «молодые каннибалы», или «юные людоеды».</segment>
+		<segment id="28" relname="antithesis">##### Русская публика тоже по достоинству оценила «Супервубинду»,</segment>
+		<segment id="29" parent="28" relname="elaboration">которой очень повезло с русским переводчиком — Геннадий Киселёв,</segment>
+		<segment id="30" relname="antithesis">перевоссоздавая её,</segment>
+		<segment id="31" relname="antithesis">вплотную подошёл к грани,</segment>
+		<segment id="32" relname="antithesis">отделяющей перевод от оригинального русского текста ...</segment>
+		<segment id="33" relname="antithesis">##### Впрочем, автор этих строк, совершенно независимо от Киселёва и одновременно с ним,</segment>
+		<segment id="34" relname="antithesis">тоже перевёл один из ключевых «каннибальских» рассказов Нове — «Любовная жизнь».</segment>
+		<segment id="35" relname="antithesis">##### Неудивительно,</segment>
+		<segment id="36" relname="antithesis">что,</segment>
+		<segment id="37" relname="antithesis">оказавшись в мае 2006 года в Генуе,</segment>
+		<segment id="38" relname="antithesis">я немедленно купил новую книгу Нове,</segment>
+		<segment id="39" relname="antithesis">и столь же неудивительно,</segment>
+		<segment id="40" relname="antithesis">что с «моим», то есть «каннибальским»,</segment>
+		<segment id="41" relname="antithesis">этот Нове имеет мало общего.</segment>
+		<segment id="42" relname="antithesis">##### Я, в общем, ждал этого,</segment>
+		<segment id="43" relname="antithesis">потому что знал,</segment>
+		<segment id="44" relname="antithesis">что он (как и прочие повзрослевшие «каннибалы») давно преодолел юношеское искушение гипернатурализма.</segment>
+		<segment id="45" relname="antithesis">##### Но Альдо всё равно удалось меня удивить</segment>
+		<segment id="46" relname="antithesis">и озадачить.</segment>
+		<segment id="47" relname="antithesis">Подписанная его именем книга — это, собственно, не книга, а сборник интервью,</segment>
+		<segment id="48" relname="antithesis">взятых Нове по заданию коммунистической</segment>
+		<segment id="49" relname="antithesis">(!)</segment>
+		<segment id="50" relname="antithesis">газеты Liberazione у «новых бедных» — итальянцев в возрасте от 28 до 45 лет,</segment>
+		<segment id="51" relname="antithesis">принадлежащих к самым разным социальным слоям и группам — от дизайнера до овцевода.</segment>
+		<segment id="52" relname="antithesis">##### Всех их объединяет одно : они,</segment>
+		<segment id="53" relname="antithesis">как</segment>
+		<segment id="54" relname="antithesis">и обещает название книги,</segment>
+		<segment id="55" relname="antithesis">работают за гроши,</segment>
+		<segment id="56" relname="antithesis">перебиваясь от месяца к месяцу.</segment>
+		<segment id="57" relname="antithesis">Хотя вроде бы не глупы,</segment>
+		<segment id="58" relname="antithesis">не ленивы,</segment>
+		<segment id="59" relname="antithesis">не подвержены разрушительным вредным привычкам</segment>
+		<segment id="60" relname="antithesis">; они даже честные и совестливые</segment>
+		<segment id="61" relname="antithesis">— и не в этом ли всё дело?</segment>
+		<segment id="62" relname="antithesis">##### Когда известный писатель «смиряется» до роли интервьюера</segment>
+		<segment id="63" relname="antithesis">и выпускает социально заряженную документальную книгу,</segment>
+		<segment id="64" relname="antithesis">потому что считает это более важным,</segment>
+		<segment id="65" relname="antithesis">чем собственный фикшн,</segment>
+		<segment id="66" relname="antithesis">— это случай нечастый, но не уникальный.</segment>
+		<segment id="67" relname="antithesis">##### Можно вспомнить и «Подземку» Харуки Мураками (собрание интервью с жертвами зариновой атаки в токийском метро), и «Грешников» Ильи Стогова (беседы с оставшимися в живых персонажами питерской клубной тусовки 90-х)</segment>
+		<segment id="68" relname="antithesis">, не говоря уж про хемингуэевские репортажи</segment>
+		<segment id="69" relname="antithesis">- памфлеты из охваченной гражданской войной Испании и американскую «новую журналистику», догадавшуюся,</segment>
+		<segment id="70" relname="antithesis">что необычные персонажи эффективнее, когда они сысканы в жизни,</segment>
+		<segment id="71" relname="antithesis">а не выдуманы</segment>
+		<segment id="72" relname="antithesis">и не обобщены.</segment>
+		<segment id="73" relname="antithesis">##### Но «Роберта ...» выделяется и здесь.</segment>
+		<segment id="74" relname="antithesis">В ней не просто приводятся подлинные истории.</segment>
+		<segment id="75" relname="antithesis">В этой книги Нове — и позже, в Москве,</segment>
+		<segment id="76" relname="antithesis">он сам подтвердил мне,</segment>
+		<segment id="77" relname="antithesis">что это было его сознательное намерение,</segment>
+		<segment id="78" relname="antithesis">— зафиксировал поразительную тенденцию.</segment>
+		<segment id="79" relname="antithesis">##### Впервые, наверное, со времён Возрождения в Италии (и в Европе?) сложилась ситуация,</segment>
+		<segment id="80" relname="antithesis">когда поколение детей живёт хуже,</segment>
+		<segment id="81" relname="antithesis">чем поколение их родителей.</segment>
+		<segment id="82" relname="antithesis">##### Родители нынешних 35 — 45-летних могли рассчитывать на социальную защиту( доступные детские сады, санатории, квалифицированная бесплатная медицина), на доступное жильё, на твёрдую пенсию.</segment>
+		<segment id="83" relname="antithesis">##### Сейчас для их выросших детей своя отдельная квартира — вещь куда менее доступная(</segment>
+		<segment id="84" parent="83" relname="condition">если только не досталась по наследству от тех же родителей или бабушек-дедушек)</segment>
+		<segment id="85" relname="antithesis">, и,</segment>
+		<segment id="86" relname="antithesis">как говорится, в случае чего рассчитывать им приходится только на себя.</segment>
+		<segment id="87" relname="antithesis">И только в большом городе</segment>
+		<segment id="88" relname="antithesis">— в маленьких городах нормальной работы за нормальные деньги нет</segment>
+		<segment id="89" relname="antithesis">и не предвидится.</segment>
+		<segment id="90" relname="antithesis">##### Нам в России более чем знакома эта ситуация,</segment>
+		<segment id="91" relname="antithesis">не правда ли?</segment>
+		<segment id="92" relname="antithesis">И в наступивший кризис она ещё заострилась.</segment>
+		<segment id="93" relname="antithesis">Но ведь книга всё-таки 2006 года, а интервью, в неё вошедшие,</segment>
+		<segment id="94" relname="antithesis">брались ещё раньше,</segment>
+		<segment id="95" relname="antithesis">в 2004—2005 годах.</segment>
+		<segment id="96" relname="antithesis">##### Важнее другое: Италия всегда шла в авангарде общеевропейских тенденций.</segment>
+		<segment id="97" relname="antithesis">Возрождению,</segment>
+		<segment id="98" parent="97" relname="purpose">чтобы добраться до России,</segment>
+		<segment id="99" relname="antithesis">понадобилось не одно столетие.</segment>
+		<segment id="100" relname="antithesis">Но в XXI веке всё происходит гораздо быстрее.</segment>
+		<segment id="101" relname="antithesis">Так что,</segment>
+		<segment id="102" relname="antithesis">боюсь,</segment>
+		<segment id="103" relname="antithesis">кризис здесь ни при чём.</segment>
+		<segment id="104" relname="antithesis">##### А следующей книгой Нове оказалась классическая поэма,</segment>
+		<segment id="105" relname="antithesis">посвящённая Деве Марии.</segment>
+    </body>
+</rst>

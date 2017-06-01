@@ -1,0 +1,60 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### В понедельник 28 июня у здания мэрии Москвы на Тверской площади состоялась очередная несанкционированная акция протеста «День гнева», в этот раз направленная,</segment>
+		<segment id="2" relname="antithesis">главным образом,</segment>
+		<segment id="3" relname="antithesis">против политики московских и подмосковных властей.</segment>
+		<segment id="4" relname="antithesis">Среди требований,</segment>
+		<segment id="5" relname="antithesis">выдвигаемых организаторами акции:</segment>
+		<segment id="6" relname="antithesis">«немедленная отставка мэра Москвы Юрия Лужкова, расследование итогов его деятельности», «созыв московского общественного форума для обсуждения путей реформирования основных сфер жизнедеятельности в Москве», «восстановление прямых выборов глав регионов России», «роспуск нелегитимной Мосгордумы», отставка подмосковного губернатора Бориса Громова и др.</segment>
+		<segment id="7" relname="antithesis">Участникам акции предлагалось принести с собой лист бумаги или кусок ткани чёрного цвета,</segment>
+		<segment id="8" relname="antithesis">символизирующие «чёрную метку» для Юрия Лужкова.</segment>
+		<segment id="9" relname="antithesis">##### Начало акции было намечено на 19 часов;</segment>
+		<segment id="10" relname="antithesis">подчёркивалось,</segment>
+		<segment id="11" relname="antithesis">что она состоится</segment>
+		<segment id="12" relname="antithesis">несмотря на запрет властей.</segment>
+		<segment id="13" parent="14" relname="attribution">Освещающие акцию блоггеры сообщили,</segment>
+		<segment id="14" relname="antithesis">что автобусы с милицией стали занимать площадь у памятника Юрию Долгорукому ещё с 15 часов дня,</segment>
+		<segment id="15" relname="antithesis">центральная часть площади была огорожена.</segment>
+		<segment id="16" relname="antithesis">Ко времени начала акции вокруг огороженной территории собралось множество журналистов и прохожих,</segment>
+		<segment id="17" relname="antithesis">по мере прибытия самих участников акции милиция начала планомерно их задерживать</segment>
+		<segment id="18" relname="antithesis">и заталкивать в автобусы.</segment>
+		<segment id="19" relname="antithesis">##### Всего,</segment>
+		<segment id="20" relname="antithesis">по сообщениям блоггеров и СМИ,</segment>
+		<segment id="21" relname="antithesis">было задержано более 30 человек.</segment>
+		<segment id="22" parent="23" relname="attribution">Пользователь ЖЖ zyalt сообщает,</segment>
+		<segment id="23" relname="antithesis">что среди задержанных оказался депутат муниципального собрания района Отрадное, сопредседатель московского отделения движения «Солидарность» Михаил Вельмакин, известный правозащитник Лев Пономарев, координатор движения «Левый фронт» Сергей Удальцов.</segment>
+		<segment id="24" relname="antithesis">##### Организаторами акции выступили движение «За права человека», Союз координационных советов (СКС), институт «Коллективное действие», «Жилищная солидарность», Движение общежитий Москвы, Движение в защиту Химкинского леса, движение «Московский совет», «Координационный совет пострадавших соинвесторов».</segment>
+    </body>
+</rst>

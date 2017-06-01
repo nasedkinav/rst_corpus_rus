@@ -1,0 +1,66 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### «Последнее восстание» в исполнении знаменитой российской арт-группы АЕС+Ф состоялось 12 сентября 2008 года на открытии V Сеульской международной биеннале медиаискусства.</segment>
+		<segment id="2" relname="antithesis">##### Мировую известность художникам Татьяне Арзамасовой, Льву Евзовичу и Евгению Святскому,</segment>
+		<segment id="3" relname="antithesis">по начальным буквам фамилий которых</segment>
+		<segment id="4" relname="antithesis">и назван коллектив</segment>
+		<segment id="5" relname="antithesis">(позже к художникам присоединился выдающийся фотограф Владимир Фридкес)</segment>
+		<segment id="6" relname="antithesis">, принес скандальный «Исламский проект»,</segment>
+		<segment id="7" parent="6" relname="elaboration">в котором 100-метровый оплот американской независимости</segment>
+		<segment id="8" parent="7" relname="elaboration">– статуя Свободы –</segment>
+		<segment id="9" relname="antithesis">облачается в паранджу,</segment>
+		<segment id="10" relname="antithesis">католический храм Саграда Фамилия вонзает в небо исламские полумесяцы,</segment>
+		<segment id="11" relname="antithesis">в Нью-Йорке горят небоскребы,</segment>
+		<segment id="12" relname="antithesis">а на Красной площади сидят арабские боевики с «калашами» наперевес.</segment>
+		<segment id="13" relname="antithesis">Примечательно то,</segment>
+		<segment id="14" relname="antithesis">что сделан был этот пророческий проект в 1996 году – до печально известных событий 11 сентября, до «Норд-Оста» и других страшных трагедий XXI столетия.</segment>
+		<segment id="15" relname="antithesis">##### Работа «Последнее восстание» была начата в 2005 году.</segment>
+		<segment id="16" relname="antithesis">Она открывает зрителю вход в виртуальный высокотехнологичный мир,</segment>
+		<segment id="17" relname="antithesis">где кровавая война</segment>
+		<segment id="18" parent="17" relname="elaboration">– всего лишь игра, пытки – развлечения современных валькирий, где все против всех и единственная форма существования –</segment>
+		<segment id="19" relname="antithesis">беспощадный бунт.</segment>
+		<segment id="20" relname="antithesis">И этот мир deus ex machina превращается в новую реальность XXI века.</segment>
+		<segment id="21" relname="antithesis">##### Помимо арт-группы АЕС+Ф себя показать</segment>
+		<segment id="22" relname="antithesis">и людей посмотреть приехал не менее плодовитый российский мультимедийный арт-коллектив Electroboutique со своими уникальными device-art объектами,</segment>
+		<segment id="23" relname="antithesis">транслирующими протест против уродливых форм капитализма.</segment>
+		<segment id="24" relname="antithesis">Демиургов и идеологов «критического искусства» зовут Алексей Шульгин и Аристарх Чернышев.</segment>
+		<segment id="25" relname="antithesis">##### В общей сложности в выставке принимают участие 70 художников из 26 стран, включая Россию, Корею, Японию, Китай, Австралию, Францию, США, Нидерланды и Данию.</segment>
+		<segment id="26" relname="antithesis">Продлится она 55 дней, до 5 ноября.</segment>
+		<segment id="27" relname="antithesis">На суд зрителей представлены инновационные произведения искусства,</segment>
+		<segment id="28" relname="antithesis">созданные на стыке современного арта и хай-тека.</segment>
+		<segment id="29" relname="antithesis">Директор выставки Илхо Пайк считает,</segment>
+		<segment id="30" relname="antithesis">что Сеульская биеннале призвана категоризировать различия между традиционным и медиаискусством.</segment>
+    </body>
+</rst>

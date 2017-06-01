@@ -1,0 +1,133 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Великолепная «Школа злословия» вернулась в эфир после летних каникул в новом формате.</segment>
+		<segment id="2" relname="antithesis">##### В истории программы это уже не первый «ребрендинг».</segment>
+		<segment id="3" relname="antithesis">Сейчас с трудом можно припомнить,</segment>
+		<segment id="4" relname="antithesis">что начиналась «Школа...» на канале «Культура» как стандартное ток-шоу,</segment>
+		<segment id="5" parent="4" relname="elaboration">которое отличалось от других «кухонными» обсуждениями гостя,</segment>
+		<segment id="6" relname="antithesis">что называется – «за глаза»,</segment>
+		<segment id="7" relname="antithesis">и неожиданными персонами в качестве ведущих.</segment>
+		<segment id="8" relname="antithesis">##### Писательница Татьяна Толстая и сценаристка Дуня Смирнова вроде бы не вполне соответствовали принятым на российском телевидении стандартам телеведущих.</segment>
+		<segment id="9" relname="antithesis">##### Впрочем, на канале «Культура» в роли телеведущих выступают и писатели, и композиторы,</segment>
+		<segment id="10" relname="antithesis">так что в этом ничего сверхъестественного не было,</segment>
+		<segment id="11" relname="antithesis">а идея кухонных обсуждений не слишком прижилась,</segment>
+		<segment id="12" relname="antithesis">и некоторые выпуски программы обходились практически без них.</segment>
+		<segment id="13" relname="antithesis">##### В остальном «Школа злословия» представляла собой интервью ведущих с героем выпуска.</segment>
+		<segment id="14" relname="antithesis">##### Иногда и в самом деле не без злословия,</segment>
+		<segment id="15" relname="antithesis">а по большей части – разговор «с придыханиями», например в программах с участием Бориса Бермана и Ильдара Жандарева,</segment>
+		<segment id="16" parent="15" relname="elaboration">с которыми чем дальше, тем больше «родства» наблюдалось у ведущих «Школы...».</segment>
+		<segment id="17" relname="antithesis">##### Потом проект переехал с «Культуры» на НТВ.</segment>
+		<segment id="18" relname="antithesis">Это помимо явных перемен в виде тут же появившихся рекламных блоков,</segment>
+		<segment id="19" relname="antithesis">отсутствовавших на «Культуре»,</segment>
+		<segment id="20" relname="antithesis">позволило, с одной стороны, расширить круг гостей, с другой – изменить тон разговора.</segment>
+		<segment id="21" relname="antithesis">##### Набор героев программы расширился самым причудливым образом,</segment>
+		<segment id="22" relname="antithesis">да и «злословия» стало меньше.</segment>
+		<segment id="23" relname="antithesis">А года два назад концепцию «Школы злословия» как будто подменили.</segment>
+		<segment id="24" relname="antithesis">В студию все чаще стали приходить малоизвестные широкой публике люди – как говорится,</segment>
+		<segment id="25" relname="antithesis">«немедийные лица»: популярные блогеры, ученые-гуманитарии,</segment>
+		<segment id="26" relname="antithesis">кое-кто заглядывал на огонек просто по дружбе.</segment>
+		<segment id="27" relname="antithesis">##### Но самое главное,</segment>
+		<segment id="28" relname="antithesis">резко сместился вектор разговора.</segment>
+		<segment id="29" relname="antithesis">Изначально нацеленный собственно на личность гостя,</segment>
+		<segment id="30" relname="antithesis">теперь интерес ведущих расширился до самых общих вопросов социально-исторического, а то и чисто философского характера.</segment>
+		<segment id="31" relname="antithesis">В момент,</segment>
+		<segment id="32" relname="antithesis">когда все остальные программы общественно-политической (по характеру) и либерально-интеллигентской направленности (по настрою) ушли одна за другой в небытие,</segment>
+		<segment id="33" relname="antithesis">«Школа злословия» стала как бы заповедником «свободы слова».</segment>
+		<segment id="34" relname="antithesis">##### Это произошло году в 2005-м,</segment>
+		<segment id="35" relname="antithesis">когда на смену героям, кочующим из одного ток-шоу в другое и по дороге заглядывающим в «Школу злословия», к Татьяне Никитичне и Авдотье Андреевне стал приходить совсем другой народ: политологи, публицисты, причем практически исключительно либеральных убеждений.</segment>
+		<segment id="36" relname="antithesis">к Татьяне Никитичне и Авдотье Андреевне стал приходить совсем другой народ: политологи,</segment>
+		<segment id="37" relname="antithesis">публицисты, причем практически исключительно либеральных убеждений. Программа давала гостям возможность высказаться в эфире общенационального канала – и такая возможность для многих гостей того периода в «Школе злословия» была едва ли не единственной.</segment>
+		<segment id="38" relname="antithesis">##### Народные любимцы</segment>
+		<segment id="39" relname="antithesis">##### Однако в минувшем сезоне задвинутый еще глубже в ночной эфир проект снова сделал любопытный тематический крен.</segment>
+		<segment id="40" relname="antithesis">Наряду с авторами популярных интернет-дневников и малоизвестными,</segment>
+		<segment id="41" relname="antithesis">но вызывающими явную симпатию ведущими персонажами из круга профессионалов массмедиа в студии снова стали появляться народные любимцы.</segment>
+		<segment id="42" relname="antithesis">Артисты, представители юмористического цеха и</segment>
+		<segment id="43" relname="antithesis">т.п. К примеру, коллега Татьяны Толстой по шоу Первого канала «Минута славы», резидент «Комеди клаба» Гарик Мартиросян.</segment>
+		<segment id="44" relname="antithesis">Или участница «О.С.П.-студии» Татьяна Лазарева.</segment>
+		<segment id="45" relname="antithesis">##### Цикл программ был посвящен крупным фигурам Большого театра.</segment>
+		<segment id="46" relname="antithesis">Правда, это как раз тот случай,</segment>
+		<segment id="47" relname="antithesis">когда интересы ведущих совпадают с тем,</segment>
+		<segment id="48" relname="antithesis">чего ждет от программы зритель: встречи с дирижером Александром Ведерниковым,</segment>
+		<segment id="49" relname="antithesis">балетмейстером Алексеем Ратманским и басом Владимиром Маториным оказались едва ли не самыми увлекательными за весь минувший сезон «Школы...».</segment>
+		<segment id="50" relname="antithesis">##### Не столь красиво вышло с египтологом Виктором Солкиным.</segment>
+		<segment id="51" relname="antithesis">Не представляю,</segment>
+		<segment id="52" relname="antithesis">какой процент телезрителей имеет познания в египтологи, достаточные</segment>
+		<segment id="53" parent="52" relname="purpose">для того, чтобы вопреки всему,</segment>
+		<segment id="54" relname="antithesis">что было сказано в программе с обеих сторон,</segment>
+		<segment id="55" relname="antithesis">составить собственное представление о предмете.</segment>
+		<segment id="56" relname="antithesis">##### Разговор шел вокруг того,</segment>
+		<segment id="57" relname="antithesis">можно ли выучить древнеегипетский за три года.</segment>
+		<segment id="58" relname="antithesis">Татьяна Толстая,</segment>
+		<segment id="59" relname="antithesis">будучи сама филологом-«классиком»,</segment>
+		<segment id="60" parent="61" relname="attribution">утверждала,</segment>
+		<segment id="61" relname="antithesis">что нельзя,</segment>
+		<segment id="62" relname="antithesis">гость – что можно.</segment>
+		<segment id="63" relname="antithesis">##### От египтолога хотелось бы услышать что-то если уж не про Египет, то хотя бы про нашу жизнь через призму его знаний об истории, или о современных научных методах познания прошлого.</segment>
+		<segment id="64" relname="antithesis">##### В наказание Татьяна и Авдотья устроили молодому специалисту настоящее «мочилово».</segment>
+		<segment id="65" relname="antithesis">##### Шарада от Шеридана</segment>
+		<segment id="66" relname="antithesis">##### Апокалиптический настрой ведущих заметен.</segment>
+		<segment id="67" relname="antithesis">Как и их самоощущение в роли последних героев телеэфира, отношение к собственным словам, как к откровению о конце света.</segment>
+		<segment id="68" relname="antithesis">В выпуске с участием Татьяны Лазаревой Толстая заметила,</segment>
+		<segment id="69" relname="antithesis">что «Школа злословия» уже умерла</segment>
+		<segment id="70" relname="antithesis">и ведет «потустороннее» существование,</segment>
+		<segment id="71" relname="antithesis">а потому, в отличие от других,</segment>
+		<segment id="72" relname="antithesis">«живых» проектов,</segment>
+		<segment id="73" relname="antithesis">может длиться сколь угодно долго.</segment>
+		<segment id="74" relname="antithesis">##### Этот настрой распространился не только на политическую сферу, но и на все остальные, включая искусство, прекрасное и безобразное, актуальное и старомодное.</segment>
+		<segment id="75" relname="antithesis">Впрочем, им зачастую уже и гость не интересен,</segment>
+		<segment id="76" relname="antithesis">он нужен лишь как повод поговорить друг с другом,</segment>
+		<segment id="77" relname="antithesis">и не на кухне,</segment>
+		<segment id="78" relname="antithesis">а прямо в студии – гость им не мешает.</segment>
+		<segment id="79" relname="antithesis">##### Судя по тому,</segment>
+		<segment id="80" relname="antithesis">что программа не только возвращается в эфир,</segment>
+		<segment id="81" relname="antithesis">но</segment>
+		<segment id="82" relname="antithesis">и меняет формат,</segment>
+		<segment id="83" parent="84" relname="condition">информация о ее смерти пока все-таки сильно преувеличена.</segment>
+		<segment id="84" relname="antithesis">А потому самый интересный вопрос,</segment>
+		<segment id="85" parent="84" relname="elaboration">который может волновать поклонников программы,</segment>
+		<segment id="86" relname="antithesis">– будет ли расти или падать в новом сезоне «градус» злословия ведущих.</segment>
+		<segment id="87" relname="antithesis">##### При этом, возможно, стоит напомнить,</segment>
+		<segment id="88" relname="antithesis">что само выражение «Школа злословия» изначально обозначало совсем не то,</segment>
+		<segment id="89" relname="antithesis">что мы привыкли думать.</segment>
+		<segment id="90" relname="antithesis">В названии классической английской комедии Шеридана использована формула,</segment>
+		<segment id="91" relname="antithesis">традиционная для драматургии XVII–XVIII веков («Школа жен» Мольера и т.д.) и точнее всего ее можно перевести как «урок злым языкам».</segment>
+		<segment id="92" relname="antithesis">##### То есть речь идет отнюдь не о мастер-классе злоязычия, но напротив,</segment>
+		<segment id="93" parent="92" relname="condition">если говорить совсем прямо,</segment>
+		<segment id="94" relname="antithesis">о том,</segment>
+		<segment id="95" relname="antithesis">что</segment>
+		<segment id="96" parent="95" relname="condition">если кто злословит понапрасну да еще клевещет,</segment>
+		<segment id="97" relname="antithesis">непременно вынужден будет сам прикусить язык.</segment>
+    </body>
+</rst>

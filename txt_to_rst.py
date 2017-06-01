@@ -70,6 +70,11 @@ def get_relations(edu, edu_lemma):
         has_next = i + 1 < len(edu)
 
         tokens = edu_lemma[i].split()
+        if not tokens:
+            # skip empty lemma set
+            i += 1
+            continue
+
         if tokens[-1] in ['надеяться', 'опасаться', 'отметить', 'отмечать', 'сообщаться', 'утверждать', 'заявить', 'заявлять'] \
                 and has_next and STARTS_WITH_WHAT.match(edu_lemma[i + 1]):
             r = [i, i + 1, 'attribution']

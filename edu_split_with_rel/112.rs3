@@ -1,0 +1,122 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### 14 августа 2009 года исполнилось 17 лет с момента начала грузино-абхазского вооружённого конфликта.</segment>
+		<segment id="2" relname="antithesis">Тогда,</segment>
+		<segment id="3" relname="antithesis">в 1992 году, на территорию Абхазии (в советское время Абхазской АССР в составе Грузинской ССР) были введены войска Госсовета Грузии,</segment>
+		<segment id="4" relname="antithesis">что стало отправной точкой для военных действий.</segment>
+		<segment id="5" relname="antithesis">За 14 месяцев вооружённого противостояния было убито около 8 тыс. человек,</segment>
+		<segment id="6" relname="antithesis">порядка 18 тыс. человек получили ранения.</segment>
+		<segment id="7" relname="antithesis">##### Из 525 тыс. человек,</segment>
+		<segment id="8" relname="antithesis">составлявших довоенное население Абхазии,</segment>
+		<segment id="9" relname="antithesis">около 200 тысяч были вынуждены покинуть свои дома.</segment>
+		<segment id="10" relname="antithesis">Сегодня,</segment>
+		<segment id="11" relname="antithesis">спустя 17 лет,</segment>
+		<segment id="12" relname="antithesis">Абхазия снова оказывается в фокусе внимания мировой политики.</segment>
+		<segment id="13" relname="antithesis">##### Только в течение нескольких дней августа - 2009 в российских и зарубежных СМИ маленькая республика не раз становилась предметом для журналистских материалов.</segment>
+		<segment id="14" relname="antithesis">Здесь и демонстративный визит Владимира Путина (12 августа 2009 года), и заявления по этому поводу официальных лиц Тбилиси,</segment>
+		<segment id="15" relname="antithesis">Вашингтона и Брюсселя (13—14 августа), и серия терактов</segment>
+		<segment id="16" relname="antithesis">(практически совпавших с визитом российского премьер-министра)</segment>
+		<segment id="17" relname="antithesis">, и привлечение американских пиарщиков из агентства Saylor для улучшения имиджа республики на Западе.</segment>
+		<segment id="18" relname="antithesis">По некоторым данным,</segment>
+		<segment id="19" relname="antithesis">эти услуги должны стоить 30 тыс. американских долларов ежемесячно.</segment>
+		<segment id="20" relname="antithesis">##### В прошлом году очередная годовщина начала грузино-абхазского вооружённого конфликта ознаменовалась возобновлением боевых действий между сторонами.</segment>
+		<segment id="21" relname="antithesis">Воспользовавшись ситуацией в Южной Осетии и прямой военной поддержкой Москвы,</segment>
+		<segment id="22" relname="antithesis">абхазское руководство приняло решение отвоевать позиции в Кодорском ущелье.</segment>
+		<segment id="23" relname="antithesis">##### 12 августа 2008 года (то есть за два дня до очередной годовщины Великой Отечественной войны народа Абхазии,</segment>
+		<segment id="24" relname="antithesis">как это событие официально называют в непризнанной республике)</segment>
+		<segment id="25" relname="antithesis">грузинские военные и полицейские были вытеснены из абхазского «сердца».</segment>
+		<segment id="26" relname="antithesis">Война России и Грузии привела к тому,</segment>
+		<segment id="27" relname="antithesis">что статус Абхазии и Южной Осетии,</segment>
+		<segment id="28" relname="antithesis">ранее считавшихся непризнанными образованиями,</segment>
+		<segment id="29" relname="antithesis">был пересмотрен.</segment>
+		<segment id="30" relname="antithesis">Кардинально, впрочем, это ситуацию не изменило.</segment>
+		<segment id="31" relname="antithesis">Независимость Сухума признала только РФ</segment>
+		<segment id="32" relname="antithesis">(и частично Никарагуа,</segment>
+		<segment id="33" relname="antithesis">не установив с Абхазией дипломатических отношений</segment>
+		<segment id="34" relname="antithesis">и не ратифицировав декрет президента о признании через парламент)</segment>
+		<segment id="35" relname="antithesis">. Другие государства (включая близкие Москве Белоруссию и Армению) «воздержались».</segment>
+		<segment id="36" relname="antithesis">Абхазия участвует в женевских переговорах,</segment>
+		<segment id="37" relname="antithesis">её признают стороной конфликта в ООН, ЕС и ОБСЕ.</segment>
+		<segment id="38" relname="antithesis">Однако с прекращением деятельности международных миссий в рамках международно признанных границ Грузии переговоры могут заглохнуть.</segment>
+		<segment id="39" relname="antithesis">##### История борьбы Абхазии за самоопределение драматична.</segment>
+		<segment id="40" relname="antithesis">Она поднимает несколько фундаментальных проблем для политического развития всего евразийского пространства.</segment>
+		<segment id="41" relname="antithesis">Казус Абхазии стал наглядной демонстрацией парадоксов этнонационального самоопределения в Советском Союзе.</segment>
+		<segment id="42" relname="antithesis">Республиканские движения за национальную независимость считали само собой разумеющейся сецессию.</segment>
+		<segment id="43" relname="antithesis">При этом они категорически отрицали такую модель для будущих независимых государств, как федерация</segment>
+		<segment id="44" relname="antithesis">(видя в ней повторение модели Советского Союза и потенциальную угрозу сепаратизма)</segment>
+		<segment id="45" relname="antithesis">. Отсюда крайний этноцентризм таких движений и нежелание видеть представителей автономных, а не союзных элит среди своих партнёров и сторонников.</segment>
+		<segment id="46" relname="antithesis">##### В грузинском национальном движении только единицы высказывались за поиск диалога с абхазской элитой, привлечение её в ряды своих союзников (Ивлиан Хаиндрава, Давид Бердзенишвили).</segment>
+		<segment id="47" relname="antithesis">Однако их позиция не стала доминирующей.</segment>
+		<segment id="48" relname="antithesis">Не лучшим образом сработали и такие спонсоры «национально-освободительного проекта», как представители национальной теневой буржуазии,</segment>
+		<segment id="49" relname="antithesis">не желавшие делиться с представителями иноэтничного бизнеса.</segment>
+		<segment id="50" relname="antithesis">Ради объективности стоит сказать и о том,</segment>
+		<segment id="51" relname="antithesis">что абхазское национальное движение периода заката СССР было во многих чертах зеркальным отражением грузинских диссидентов - националистов.</segment>
+		<segment id="52" relname="antithesis">Однако до военных действий 1992 года у сторон был теоретический шанс договориться.</segment>
+		<segment id="53" relname="antithesis">##### Лишь отказ от компромиссов и жёсткая линия с обеих сторон сделали такое соглашение (и сценарий наподобие татарстанского или башкирского договора в РФ) невозможным.</segment>
+		<segment id="54" relname="antithesis">Жестокий характер военных действий (особенно чувствительный у абхазов просто в силу малочисленности их этноса) сделал невозможным и сосуществование в рамках одного государства.</segment>
+		<segment id="55" relname="antithesis">В этой связи все ссылки на высокий процент межнациональных браков в советское время</segment>
+		<segment id="56" relname="antithesis">(равно как и размышления по поводу того,</segment>
+		<segment id="57" relname="antithesis">что будущий лидер Абхазии Владислав Ардзинба защищал свою докторскую диссертацию «Ритуалы и мифы древней Анатолии» в Тбилиси в 1985 году)</segment>
+		<segment id="58" relname="antithesis">не слишком состоятельны.</segment>
+		<segment id="59" relname="antithesis">Сосуществование двух амбициозных элит было возможно в рамках советского проекта.</segment>
+		<segment id="60" relname="antithesis">Вне его (и вне репрессивных механизмов контроля над настроениями) такое сосуществование оказалось нереальным.</segment>
+		<segment id="61" relname="antithesis">Два проекта Абхазии (грузинский и абхазский) оказались диаметрально противоположными друг другу,</segment>
+		<segment id="62" relname="antithesis">ибо оба этих проекта предполагали не сосуществование, а доминирование.</segment>
+		<segment id="63" relname="antithesis">##### Для того чтобы контролировать два противоположных проекта,</segment>
+		<segment id="64" relname="antithesis">нужна была бы третья сила,</segment>
+		<segment id="65" relname="antithesis">считавшаяся легитимной двумя сторонами.</segment>
+		<segment id="66" relname="antithesis">Такой силы ни в 1992 году,</segment>
+		<segment id="67" relname="antithesis">ни сегодня,</segment>
+		<segment id="68" relname="antithesis">спустя 17 лет,</segment>
+		<segment id="69" relname="antithesis">не нашлось.</segment>
+		<segment id="70" relname="antithesis">Борьба за доминирование неизбежно привела к силовому спору и праву силы в качестве наиболее оптимального способа разрешения проблемы.</segment>
+		<segment id="71" parent="72" relname="condition">Если не остановить сегодня этот бесконечный спор,</segment>
+		<segment id="72" relname="antithesis">то у абхазов и грузин не будет даже возможности для установления добрососедских отношений.</segment>
+		<segment id="73" relname="antithesis">##### В 1992 году,</segment>
+		<segment id="74" relname="antithesis">начав войну в Абхазии,</segment>
+		<segment id="75" relname="antithesis">Эдуард Шеварднадзе объективно способствовал победе абхазского сепаратистского проекта.</segment>
+		<segment id="76" relname="antithesis">В 2006 году Михаил Саакашвили,</segment>
+		<segment id="77" relname="antithesis">вводя подразделения Грузии в верхнюю часть Кодори,</segment>
+		<segment id="78" relname="antithesis">снова продемонстрировал,</segment>
+		<segment id="79" relname="antithesis">что для официального Тбилиси есть «свои жители Абхазии» (это её грузинская община, беженцы, временно перемещённые лица) и «чужаки» (абхазы).</segment>
+		<segment id="80" relname="antithesis">Военные же действия в Южной Осетии дали абхазам негативный опыт и возможный отрицательный паттерн для будущего.</segment>
+		<segment id="81" relname="antithesis">Таким образом, в течение 17 лет Тбилиси по крайней мере трижды отталкивал Абхазию от себя.</segment>
+		<segment id="82" relname="antithesis">Абхазы платили тем же (изгнание грузинского населения).</segment>
+		<segment id="83" relname="antithesis">Насколько в этой связи обоснованно считать успешную реинтеграцию двух конфликтующих сторон возможной,</segment>
+		<segment id="84" relname="antithesis">необходимым и,</segment>
+		<segment id="85" relname="antithesis">главное, реалистичным делом?</segment>
+		<segment id="86" relname="antithesis">Риторический вопрос.</segment>
+    </body>
+</rst>
