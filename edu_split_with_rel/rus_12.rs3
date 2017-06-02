@@ -1,0 +1,135 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Односторонний уход Израиля из всех поселений (21 в секторе Газа и четыре на Западном берегу) создал новую реальность для палестинцев.</segment>
+		<segment id="2" relname="antithesis">То,</segment>
+		<segment id="3" relname="antithesis">как палестинцы захотят отреагировать на эти изменившиеся обстоятельства,</segment>
+		<segment id="4" relname="antithesis">вполне может определить,</segment>
+		<segment id="5" relname="antithesis">действительно ли они наконец добьются создания независимого государства.</segment>
+		<segment id="6" relname="antithesis">Так что этот момент может оказаться самым значительным шансом для палестинцев.</segment>
+		<segment id="7" relname="antithesis">Или,</segment>
+		<segment id="8" relname="antithesis">говоря словами Аббы Эбана,</segment>
+		<segment id="9" relname="antithesis">это может быть еще один шанс упустить свой шанс.</segment>
+		<segment id="10" relname="antithesis">##### Реакция палестинцев в значительной степени зависит от того,</segment>
+		<segment id="11" relname="antithesis">как палестинское государство будет справляться с растущей мощью палестинских исламских движений,</segment>
+		<segment id="12" parent="11" relname="elaboration">которые, несомненно, ожидают,</segment>
+		<segment id="13" relname="antithesis">что получат существенную долю власти в секторе Газа после ухода израильтян.</segment>
+		<segment id="14" relname="antithesis">Возобновят ли вооруженные группы свою борьбу против Израиля,</segment>
+		<segment id="15" relname="antithesis">или же палестинские власти примут меры по нейтрализации этих нападений или противодействию им?</segment>
+		<segment id="16" relname="antithesis">До какой степени «Фатх»,</segment>
+		<segment id="17" relname="antithesis">– светское движение,</segment>
+		<segment id="18" relname="antithesis">возглавляемое палестинским президентом Аббасом,</segment>
+		<segment id="19" relname="antithesis">– и исламистский «Хамас» готовы прийти к взаимопониманию по вопросу о том, как действовать после прекращения огня?</segment>
+		<segment id="20" relname="antithesis">##### Аббас и другие официальные лица Палестинской администрации подчеркивают необходимость в «едином режиме, единой юридической системе и политическом плюрализме».</segment>
+		<segment id="21" relname="antithesis">Аббас также хочет,</segment>
+		<segment id="22" parent="21" relname="purpose">чтобы оружие находилось только в одних руках – у Палестинской администрации.</segment>
+		<segment id="23" relname="antithesis">Он успешно убедил палестинских боевиков прекратить огонь</segment>
+		<segment id="24" relname="antithesis">и показать израильтянам и всему миру,</segment>
+		<segment id="25" relname="antithesis">что ликвидация поселений не обязательно влечет за собой израильское-палестинское насилие.</segment>
+		<segment id="26" relname="antithesis">##### Но сможет ли он превратить это достижение в продолжительное перемирие, мирные выборы и прочную власть ПА в секторе Газа и на севере Западного берега?</segment>
+		<segment id="27" parent="28" relname="condition">Если нет,</segment>
+		<segment id="28" relname="antithesis">то это приведет к еще одному поражению на пути к достижению законной цели палестинцев – созданию жизнеспособного государства.</segment>
+		<segment id="29" relname="antithesis">##### Трудность поставленной задачи едва ли можно переоценить.</segment>
+		<segment id="30" relname="antithesis">«Хамас» начал интенсивную кампанию в СМИ,</segment>
+		<segment id="31" relname="antithesis">пытаясь представить уход израильтян как победу своей «вооруженной борьбы».</segment>
+		<segment id="32" relname="antithesis">Кампания и ее темы отражают внутреннюю борьбу за контроль над сектором Газа и другими управляемыми ПА территориями,</segment>
+		<segment id="33" relname="antithesis">и она подчеркивает решимость «Хамаса» не складывать оружия</segment>
+		<segment id="34" relname="antithesis">и продолжать «вооруженную борьбу» на Западном берегу.</segment>
+		<segment id="35" relname="antithesis">##### «Хамас» также раскрыл две “военные тайны” во время эвакуации.</segment>
+		<segment id="36" relname="antithesis">Первая из них – это новая ракета под названием «Саджил»,</segment>
+		<segment id="37" parent="36" relname="elaboration">которая имеет радиус поражения 15 километров</segment>
+		<segment id="38" relname="antithesis">и может долетать до других израильских городов и поселков.</segment>
+		<segment id="39" relname="antithesis">Вторая – «Куассамитки»,</segment>
+		<segment id="40" relname="antithesis">молодые женщины,</segment>
+		<segment id="41" relname="antithesis">занимающиеся боевой подготовкой.</segment>
+		<segment id="42" relname="antithesis">«Хамас» раскрыл эти секреты одновременно с прекращением огня,</segment>
+		<segment id="43" parent="42" relname="purpose">чтобы создать впечатление,</segment>
+		<segment id="44" relname="antithesis">что его военная стратегия нагнетания напряжения взяла верх.</segment>
+		<segment id="45" relname="antithesis">##### Согласно одному из лозунгов «Хамаса» на улицах Газы во время ухода израильтян, «четыре года жертв стоят больше,</segment>
+		<segment id="46" relname="antithesis">чем десять лет переговоров».</segment>
+		<segment id="47" relname="antithesis">Точно так же Мохамед Деиф, лидер военного крыла «Хамаса»,</segment>
+		<segment id="48" relname="antithesis">утверждал в недавнем видеоинтервью:</segment>
+		<segment id="49" relname="antithesis">урок сектора Газа состоит в том,</segment>
+		<segment id="50" relname="antithesis">что Израиль можно выдворить силой с Западного берега, из Иерусалима и Хайфы.</segment>
+		<segment id="51" relname="antithesis">##### Все это рассчитано на подкрепление единственного положения: уход израильтян из сектора Газа – заслуга «Хамаса».</segment>
+		<segment id="52" relname="antithesis">В обзоре,</segment>
+		<segment id="53" relname="antithesis">опубликованном на сайте,</segment>
+		<segment id="54" relname="antithesis">связанном с «Хамасом»,</segment>
+		<segment id="55" relname="antithesis">утверждалось,</segment>
+		<segment id="56" relname="antithesis">что на счету этой организации 54 % всех израильтян, убитых в ходе вооруженной борьбы палестинцев, и этот подсчет трупов подается «Хамасом» как успех.</segment>
+		<segment id="57" relname="antithesis">##### При таких обстоятельствах кто же будет управлять освободившимися областями,</segment>
+		<segment id="58" parent="59" relname="condition">пока не проведены выборы?</segment>
+		<segment id="59" relname="antithesis">Как будут распределяться доходы от налогообложения между теми,</segment>
+		<segment id="60" relname="antithesis">кто претендует на лидерство в движении сопротивления,</segment>
+		<segment id="61" relname="antithesis">и теми,</segment>
+		<segment id="62" parent="63" relname="attribution">кто утверждает,</segment>
+		<segment id="63" relname="antithesis">что только они имеют легитимное право управлять территориями?</segment>
+		<segment id="64" relname="antithesis">##### Эти проблемы – не из тех,</segment>
+		<segment id="65" relname="antithesis">решение которых можно отложить.</segment>
+		<segment id="66" relname="antithesis">Кто-то, например, должен быстро принять решение о распределении земли и строящихся квартир в городе, уже известном под названием Халифа бин Заид и находящемся на месте бывшего израильского поселения в секторе Газа.</segment>
+		<segment id="67" parent="68" relname="condition">##### Пока ни на один из этих вопросов ответа нет.</segment>
+		<segment id="68" relname="antithesis">Когда «Хамас» потребовал создания палестинской администрации для руководства областями,</segment>
+		<segment id="69" relname="antithesis">освобожденными Израилем,</segment>
+		<segment id="70" relname="antithesis">Аббас отклонил это требование,</segment>
+		<segment id="71" relname="antithesis">соглашаясь самое большее на «контрольный комитет»,</segment>
+		<segment id="72" parent="71" relname="elaboration">в котором будут участвовать представители «Хамаса».</segment>
+		<segment id="73" relname="antithesis">В любом случае,</segment>
+		<segment id="74" relname="antithesis">не будет никакого «дележа территорий»,</segment>
+		<segment id="75" parent="76" relname="condition">пока Израиль не уйдет полностью и пока руины не будут убраны.</segment>
+		<segment id="76" relname="antithesis">Тогда,</segment>
+		<segment id="77" relname="antithesis">в ходе подготовки к выборам,</segment>
+		<segment id="78" relname="antithesis">начнется жесткая политическая борьба.</segment>
+		<segment id="79" relname="antithesis">##### Независимо от того,</segment>
+		<segment id="80" relname="antithesis">что случится на следующий день после окончательного ухода Израиля из сектора Газа,</segment>
+		<segment id="81" relname="antithesis">нельзя уйти от того факта,</segment>
+		<segment id="82" relname="antithesis">что возможности «Хамаса» для военных действий сильно сократились.</segment>
+		<segment id="83" relname="antithesis">Строительство разделительной стены на Западном берегу привело к тому,</segment>
+		<segment id="84" relname="antithesis">что «дотянуться» до Израиля для боевиков «Хамаса» стало почти невозможно.</segment>
+		<segment id="85" relname="antithesis">Кроме того, после повторной оккупации городов Западного берега в апреле 2002 года израильтяне арестовали около 7000 палестинцев,</segment>
+		<segment id="86" relname="antithesis">предположительно связанных с «Хамасом»,</segment>
+		<segment id="87" relname="antithesis">«Фатхом»,</segment>
+		<segment id="88" relname="antithesis">и другими палестинскими группами.</segment>
+		<segment id="89" relname="antithesis">Продолжать вооруженную борьбу «Хамасу» будет нелегко.</segment>
+		<segment id="90" relname="antithesis">##### «Хамас» знает это</segment>
+		<segment id="91" relname="antithesis">и поэтому сосредотачивает внимание на уходе израильтян из сектора Газа,</segment>
+		<segment id="92" relname="antithesis">стремясь эксплуатировать эту победу</segment>
+		<segment id="93" relname="antithesis">и требуя свою долю при новом порядке.</segment>
+		<segment id="94" relname="antithesis">Эта организация впервые согласилась участвовать в назначенных на январь 2006 года выборах палестинского Законодательного Совета,</segment>
+		<segment id="95" relname="antithesis">и ожидают,</segment>
+		<segment id="96" relname="antithesis">что она получит в нем много мест.</segment>
+		<segment id="97" relname="antithesis">Это,</segment>
+		<segment id="98" relname="antithesis">конечно, укрепило бы ее центральную роль в палестинской политике – и точно так же это усугубило бы вызов,</segment>
+		<segment id="99" relname="antithesis">брошенный Аббасу.</segment>
+    </body>
+</rst>

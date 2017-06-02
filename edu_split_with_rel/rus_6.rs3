@@ -1,0 +1,96 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### В то время как внимание всего мира сосредоточено на Ираке, Северной Корее и возможном конфликте с Ираном в связи с его ядерной программой,</segment>
+		<segment id="2" relname="antithesis">Косово сошло с экранов радаров.</segment>
+		<segment id="3" relname="antithesis">Однако этому невниманию скоро придет конец,</segment>
+		<segment id="4" parent="3" relname="cause-effect">поскольку решение осудьбе этой провинции уже не за горами.</segment>
+		<segment id="5" relname="antithesis">##### Соединенные Штаты и их европейские друзья неоднократно заявляли о своем намерении принять трудное решение по вопросу отделения Косово от Сербии до конца текущего года.</segment>
+		<segment id="6" relname="antithesis">Это решение,</segment>
+		<segment id="7" relname="antithesis">являющееся жизненно необходимым для будущего нестабильного региона,</segment>
+		<segment id="8" relname="antithesis">станет испытанием решимости и единства стран Запада.</segment>
+		<segment id="9" relname="antithesis">##### Переговоры в этом году в Вене при посредничестве ООН показали,</segment>
+		<segment id="10" relname="antithesis">что соглашения между Косово и Сербией по "окончательному статусу" Косово не будет.</segment>
+		<segment id="11" relname="antithesis">Переговоры продолжаются,</segment>
+		<segment id="12" relname="antithesis">но,</segment>
+		<segment id="13" relname="antithesis">как дипломатично сообщил Совету Безопасности представитель ООН на переговорах и бывший президент Финляндии Мартти Ахтисаари,</segment>
+		<segment id="14" relname="antithesis">пользы от них практически нет.</segment>
+		<segment id="15" relname="antithesis">##### Никакой сербский лидер не согласится на предоставление независимости Косово,</segment>
+		<segment id="16" relname="antithesis">потому что национализм остается доминирующей политической силой в стране.</segment>
+		<segment id="17" relname="antithesis">Действительно, премьер-министр Воислав Коштуница - защитник сербского национализма</segment>
+		<segment id="18" relname="antithesis">- всячески старается подорвать работу временного правительства Косово.</segment>
+		<segment id="19" relname="antithesis">Он спешит провести в текущем месяце национальный референдум по принятию новой конституции страны без серьезных дебатов в парламенте или обычной работы по ознакомлению населения с текстом документа.</segment>
+		<segment id="20" relname="antithesis">Главная цель новой конституции заключается в ее преамбуле,</segment>
+		<segment id="21" parent="20" relname="elaboration">которая закрепляет Косово как неотделимую часть Сербии.</segment>
+		<segment id="22" parent="23" relname="attribution">##### Этнические албанцы в Косово заявляют,</segment>
+		<segment id="23" relname="antithesis">что для них неприемлема любая связь с Сербией,</segment>
+		<segment id="24" relname="antithesis">какой бы незначительной она не была.</segment>
+		<segment id="25" relname="antithesis">В 1990-х годах они фактически отвергли сербское правление в Косово,</segment>
+		<segment id="26" relname="antithesis">создав параллельные ведомства.</segment>
+		<segment id="27" relname="antithesis">Их вынужденный массовый исход из страны в 1999 году и последующее вмешательство НАТО,</segment>
+		<segment id="28" relname="antithesis">положившее конец сербскому правлению и создавшее квазигосударство под управлением ООН,</segment>
+		<segment id="29" relname="antithesis">сделали неприемлемым любой выбор кроме независимости.</segment>
+		<segment id="30" relname="antithesis">##### В течение следующих двух месяцев Контактная группа по Балканам,</segment>
+		<segment id="31" relname="antithesis">включающая США, Великобританию, Францию, Германию, Италию и Россию,</segment>
+		<segment id="32" relname="antithesis">рассмотрит рекомендации Ахтисаари по окончательному статусу Косово и,</segment>
+		<segment id="33" relname="antithesis">возможно, направит свое предложение в Совет Безопасности,</segment>
+		<segment id="34" parent="33" relname="elaboration">который должен принять окончательное решение.</segment>
+		<segment id="35" relname="antithesis">Публично все члены Контактной группы стараются оставить вопрос об окончательном статусе Косово открытым,</segment>
+		<segment id="36" parent="37" relname="attribution">но неофициально США и некоторые их союзники сообщили,</segment>
+		<segment id="37" relname="antithesis">что предложат провозгласить независимость Косово в текущем году.</segment>
+		<segment id="38" relname="antithesis">##### Некоторые члены Совета Безопасности (в частности Россия и Китай) относятся скептически или настроены против подобного диктата,</segment>
+		<segment id="39" relname="antithesis">и мало какие страны и правительства поддерживают идею разделения территории другой страны, независимо от обстоятельств.</segment>
+		<segment id="40" relname="antithesis">Одобрит ли Совет Безопасности независимость Косово,</segment>
+		<segment id="41" relname="antithesis">в значительной степени зависит от способности предотвратить вето со стороны России,</segment>
+		<segment id="42" relname="antithesis">что потребует значительных дипломатических усилий.</segment>
+		<segment id="43" relname="antithesis">##### Также важна и природа дарованной независимости.</segment>
+		<segment id="44" relname="antithesis">Необходимо обеспечить безопасность</segment>
+		<segment id="45" relname="antithesis">и защитить меньшинства независимого Косово.</segment>
+		<segment id="46" relname="antithesis">Северное Косово, в настоящее время в основном находящееся под контролем Белграда,</segment>
+		<segment id="47" relname="antithesis">не должно быть обделенным во всех отношениях кроме имени.</segment>
+		<segment id="48" parent="49" relname="purpose">Чтобы уменьшить удар для Сербии,</segment>
+		<segment id="49" relname="antithesis">Совет Безопасности не должен допустить предоставления независимости таким образом,</segment>
+		<segment id="50" relname="antithesis">что в результате страна не сможет эффективно функционировать.</segment>
+		<segment id="51" parent="52" relname="condition">##### Если Совет Безопасности не сможет принять решения по окончательному статусу Косово,</segment>
+		<segment id="52" relname="antithesis">это приведет к тяжелым последствиям:</segment>
+		<segment id="53" relname="antithesis">Косово провозгласит независимость в одностороннем порядке,</segment>
+		<segment id="54" relname="antithesis">и всем странам придется решать,</segment>
+		<segment id="55" relname="antithesis">признать или не признать новообразованное государство.</segment>
+		<segment id="56" parent="57" relname="condition">Если это произойдет,</segment>
+		<segment id="57" relname="antithesis">то существует вероятность того,</segment>
+		<segment id="58" relname="antithesis">что сербы в Северном Косово провозгласят собственную независимость.</segment>
+		<segment id="59" relname="antithesis">Как минимум,</segment>
+		<segment id="60" relname="antithesis">Сербия будет вести серьезную кампанию против признания независимости Косово.</segment>
+    </body>
+</rst>

@@ -1,0 +1,98 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Бывший сирийский член парламента и политический заключенный Мамун аль-Хомси, курдский активист Дженгизхан Хассо из Исполнительного Совета Национальной Ассамблеи Курдистана и я недавно встретились с президентом Джорджем В.</segment>
+		<segment id="2" relname="antithesis">Бушем в его кабинете в Белом Доме.</segment>
+		<segment id="3" relname="antithesis">Советник по национальной безопасности Стивен Хэдли, заместитель советника по национальной безопасности Эллиот Эбрамс, советник по национальной безопасности вице-президента Джон Ханна и несколько других чиновников тоже присутствовали на встрече,</segment>
+		<segment id="4" parent="3" relname="elaboration">которая продлилась один час.</segment>
+		<segment id="5" relname="antithesis">##### Следом за конференцией в Аннаполисе,</segment>
+		<segment id="6" parent="5" relname="elaboration">которая свела вместе представителей всех арабских государств</segment>
+		<segment id="7" parent="6" relname="elaboration">– включая Сирию –</segment>
+		<segment id="8" relname="antithesis">и Израиль,</segment>
+		<segment id="9" relname="antithesis">многие наблюдатели считали нашу встречу сигналом об отказе администрации Буша нормализовать двусторонние отношения с Сирией или заключать какие-либо соглашения или сделки с ее режимом.</segment>
+		<segment id="10" relname="antithesis">##### В самом деле, эти взгляды, возможно, не так далеки от истины.</segment>
+		<segment id="11" relname="antithesis">Так как в разговоре с нами Буш не пытался скрыть своего презрения к правителям Сирии,</segment>
+		<segment id="12" relname="antithesis">и он отклонил возможность прямых переговоров или какого-либо улучшения в отношениях.</segment>
+		<segment id="13" relname="antithesis">По существу, негативный дословный язык Буша во время нашей встречи перевесил “положительный язык тела”,</segment>
+		<segment id="14" parent="13" relname="elaboration">который,</segment>
+		<segment id="15" relname="antithesis">по словам посла Сирии в Соединенных Штатах Имада Мустафы,</segment>
+		<segment id="16" relname="antithesis">он заметил во время его короткой встречи с госсекретарем Кондолизой Райс на конференции в Аннаполисе.</segment>
+		<segment id="17" relname="antithesis">А все мы знаем,</segment>
+		<segment id="18" relname="antithesis">где последняя инстанция.</segment>
+		<segment id="19" relname="antithesis">##### Со своей стороны мы подчеркнули ухудшающееся положение с правами человека в Сирии.</segment>
+		<segment id="20" relname="antithesis">Действительно, как только закончилась наша встреча,</segment>
+		<segment id="21" relname="antithesis">и притом,</segment>
+		<segment id="22" relname="antithesis">что весь мир отмечал Международный день защиты прав человека,</segment>
+		<segment id="23" relname="antithesis">сирийский режим начал массированную кампанию арестов и запугивания,</segment>
+		<segment id="24" relname="antithesis">направленную против некоторых наиболее известных диссидентов страны.</segment>
+		<segment id="25" relname="antithesis">Хотя многие были освобождены в течение нескольких часов,</segment>
+		<segment id="26" relname="antithesis">некоторые остаются в тюрьме.</segment>
+		<segment id="27" relname="antithesis">##### Этот эпизод также подчеркивает необходимость в том,</segment>
+		<segment id="28" parent="27" relname="purpose">чтобы продолжать придавать особое значение поддержке прав человека и демократии.</segment>
+		<segment id="29" relname="antithesis">Действительно, растущий цинизм в этом отношении – это опасная тенденция,</segment>
+		<segment id="30" relname="antithesis">потому что это один вопрос,</segment>
+		<segment id="31" parent="30" relname="elaboration">который все еще привлекает народ Ближнего Востока</segment>
+		<segment id="32" relname="antithesis">и может сильно помочь в борьбе западных держав за то,</segment>
+		<segment id="33" parent="32" relname="purpose">чтобы завоевать умы и души в нашем регионе.</segment>
+		<segment id="34" relname="antithesis">##### “План свободы” Америки не является причиной ее сегодняшних мучений на Ближнем Востоке.</segment>
+		<segment id="35" relname="antithesis">Проблемой было отсутствие последовательности в продвижении этого плана, неспособность получить более широкую международную поддержку для этого плана и поведение самих США,</segment>
+		<segment id="36" parent="35" relname="elaboration">которые представили его скорее как военный план, а не План Маршалла.</segment>
+		<segment id="37" relname="antithesis">##### Какой бы ни была причина этих недостатков, урок,</segment>
+		<segment id="38" parent="37" relname="elaboration">который должны извлечь высокопоставленные политики США и Европы,</segment>
+		<segment id="39" relname="antithesis">состоит в том,</segment>
+		<segment id="40" relname="antithesis">что цель</segment>
+		<segment id="41" parent="40" relname="elaboration">– содействие демократизации и модернизации –</segment>
+		<segment id="42" relname="antithesis">остается в силе,</segment>
+		<segment id="43" relname="antithesis">несмотря на необходимость в изменении тактики.</segment>
+		<segment id="44" relname="antithesis">##### Отказ от плана свободы вновь бы подтвердил все еще популярное мнение о том,</segment>
+		<segment id="45" relname="antithesis">что все,</segment>
+		<segment id="46" relname="antithesis">что в действительности волнует США на Ближнем Востоке – это нефть и израильская безопасность за счет всего прочего, включая региональное развитие и благосостояние арабских и мусульманских народов.</segment>
+		<segment id="47" relname="antithesis">Это убеждение продолжает облегчать вербовку экстремистскими группами,</segment>
+		<segment id="48" relname="antithesis">и ему нужно эффективно противостоять,</segment>
+		<segment id="49" parent="48" relname="purpose">чтобы предотвратить образование новых фронтов в войне с террором.</segment>
+		<segment id="50" relname="antithesis">##### Правда, план свободы не изменит отношение людей в один миг,</segment>
+		<segment id="51" relname="antithesis">но если следовать ему последовательно в течение долгого времени с двупартийной поддержкой в США</segment>
+		<segment id="52" parent="51" relname="elaboration">– и более постоянной поддержкой в Европе –</segment>
+		<segment id="53" relname="antithesis">у него будет шанс добиться серьезных успехов.</segment>
+		<segment id="54" relname="antithesis">##### Здесь много “если”,</segment>
+		<segment id="55" relname="antithesis">но активисты,</segment>
+		<segment id="56" parent="55" relname="elaboration">которые поддерживают демократию,</segment>
+		<segment id="57" relname="antithesis">могут лишь жить надеждой или,</segment>
+		<segment id="58" relname="antithesis">как выразился покойный сирийский драматург Сааделлах Ваннус,</segment>
+		<segment id="59" relname="antithesis">они обречены надеяться.</segment>
+		<segment id="60" relname="antithesis">##### Несмотря на противоречивую репутацию Буша,</segment>
+		<segment id="61" relname="antithesis">он, кажется, все еще разделяет эту надежду.</segment>
+		<segment id="62" relname="antithesis">Будет ли это верно в отношении следующего президента Америки?</segment>
+    </body>
+</rst>

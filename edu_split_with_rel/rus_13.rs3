@@ -1,0 +1,142 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Сокрушительная победа Хамас над Фатх на выборах,</segment>
+		<segment id="2" relname="antithesis">прошедших на этой неделе,</segment>
+		<segment id="3" relname="antithesis">ставит палестинских людей на распутье.</segment>
+		<segment id="4" relname="antithesis">Исламистская политическая партия,</segment>
+		<segment id="5" parent="4" relname="elaboration">которая раньше не принимала участия в национальной политике</segment>
+		<segment id="6" relname="antithesis">и которая отвергает политику переговоров Фатх с Израилем,</segment>
+		<segment id="7" relname="antithesis">теперь руководит Палестиной.</segment>
+		<segment id="8" relname="antithesis">##### Хамас получила 76 из 132 мест в Палестинском Законодательном Совете</segment>
+		<segment id="9" relname="antithesis">и может рассчитывать на поддержку четырех независимых депутатов.</segment>
+		<segment id="10" relname="antithesis">В целом,</segment>
+		<segment id="11" relname="antithesis">это составляет 60% мест в Парламенте,</segment>
+		<segment id="12" relname="antithesis">полученных почти в каждом районе на Западном Берегу и в секторе Газа.</segment>
+		<segment id="13" relname="antithesis">Хамас пришла в избирательную политику только недавно,</segment>
+		<segment id="14" relname="antithesis">но ее сокрушительной победе предшествовал широкий успех на муниципальных выборах.</segment>
+		<segment id="15" relname="antithesis">Подходящий момент для вступления в политику для Хамас наступил.</segment>
+		<segment id="16" relname="antithesis">##### Согласно палестинскому закону,</segment>
+		<segment id="17" relname="antithesis">Махмуд Аббас, палестинский президент,</segment>
+		<segment id="18" relname="antithesis">теперь должен попросить Хамас сформировать новое правительство.</segment>
+		<segment id="19" relname="antithesis">Со своей стороны чиновники Фатх, по-видимому, не хотят быть в правительстве,</segment>
+		<segment id="20" relname="antithesis">возглавляемом Хамас.</segment>
+		<segment id="21" parent="22" relname="attribution">Хотя Хамас сказала,</segment>
+		<segment id="22" relname="antithesis">что она стремится сформировать такую коалицию,</segment>
+		<segment id="23" relname="antithesis">оскорбительное поражение Фатх оставило этой партии мало доверия в качестве руководящего партнера.</segment>
+		<segment id="24" parent="25" relname="condition">##### Пока старшие лидеры Фатх объявили о</segment>
+		<segment id="25" relname="antithesis">том,</segment>
+		<segment id="26" relname="antithesis">что они будут лояльной оппозицией в Парламенте,</segment>
+		<segment id="27" relname="antithesis">оставляя правительственную ответственность Хамас.</segment>
+		<segment id="28" relname="antithesis">Вместо этого им нужно будет сосредоточиться на восстановлении и активизации Фатх.</segment>
+		<segment id="29" relname="antithesis">##### Хамас хорошо осознает шок,</segment>
+		<segment id="30" parent="29" relname="elaboration">который вызвала ее победа.</segment>
+		<segment id="31" parent="32" relname="condition">Если Фатх отказывается от формирования коалиции,</segment>
+		<segment id="32" relname="antithesis">Хамас может предпочесть правительство независимых политических деятелей и технократов.</segment>
+		<segment id="33" relname="antithesis">Маловероятно,</segment>
+		<segment id="34" relname="antithesis">что Хамас сформирует правительство,</segment>
+		<segment id="35" relname="antithesis">состоящее из сторонников жесткого политического курса.</segment>
+		<segment id="36" relname="antithesis">Политическая безопасность и экономические обстоятельства палестинцев требуют сформировать правительство,</segment>
+		<segment id="37" parent="36" relname="elaboration">которое сосредоточится на решении проблем, а не на идеологической чистоте.</segment>
+		<segment id="38" relname="antithesis">##### Самая неотложная проблема,</segment>
+		<segment id="39" relname="antithesis">стоящая перед новым правительством,</segment>
+		<segment id="40" relname="antithesis">это буйное беззаконие и анархия во всем палестинском обществе.</segment>
+		<segment id="41" relname="antithesis">Убийства, похищения людей и вымогательство достигли рекордных отметок.</segment>
+		<segment id="42" relname="antithesis">Вооруженные люди прибегают к похищению людей</segment>
+		<segment id="43" parent="42" relname="purpose">для того, чтобы получить работу,</segment>
+		<segment id="44" relname="antithesis">освободить членов семьи из тюрьмы</segment>
+		<segment id="45" relname="antithesis">и отомстить.</segment>
+		<segment id="46" relname="antithesis">##### Часто люди,</segment>
+		<segment id="47" relname="antithesis">замешанные в этих преступлениях,</segment>
+		<segment id="48" relname="antithesis">связаны с местными бандами или даже милицией больших кланов.</segment>
+		<segment id="49" relname="antithesis">В оппозиции Хамас категорически отказывалась собирать незаконное оружие.</segment>
+		<segment id="50" relname="antithesis">Теперь ей придется иметь дело с палестинским обществом,</segment>
+		<segment id="51" parent="50" relname="elaboration">которое вооружено до зубов с уровнем бедности 70% и безработицей 35%.</segment>
+		<segment id="52" relname="antithesis">##### После того, как она извлекла выгоду из подавляющего политического неприятия Фатх,</segment>
+		<segment id="53" relname="antithesis">Хамас теперь будут оценивать по тому,</segment>
+		<segment id="54" relname="antithesis">как она использует свою новую власть.</segment>
+		<segment id="55" relname="antithesis">Впервые политические часы отсчитывают время для Хамас.</segment>
+		<segment id="56" relname="antithesis">Старшие чиновники Хамас хорошо осознают этот вызов</segment>
+		<segment id="57" relname="antithesis">и обещали полную перестройку палестинских коммунальных услуг и администрации.</segment>
+		<segment id="58" relname="antithesis">Больше чем что-нибудь еще,</segment>
+		<segment id="59" relname="antithesis">успех Хамас в ближайшие месяцы будет измеряться ее ответом на эти проблемы.</segment>
+		<segment id="60" relname="antithesis">##### Сможет ли Хамас выкорчевать коррупцию и некомпетентность</segment>
+		<segment id="61" relname="antithesis">и предоставить услуги справедливо и эффективно?</segment>
+		<segment id="62" relname="antithesis">Как повлияют ее выборы на приток иностранной помощи,</segment>
+		<segment id="63" parent="62" relname="elaboration">которая составляет главный компонент национального бюджета, в Палестину?</segment>
+		<segment id="64" relname="antithesis">##### Первая международная реакция на победу Хамас была критической.</segment>
+		<segment id="65" relname="antithesis">Администрация Буша объявила,</segment>
+		<segment id="66" relname="antithesis">что она не будет иметь дело с правительством Хамас,</segment>
+		<segment id="67" relname="antithesis">потому что Хамас остается преданным разрушению Израиля.</segment>
+		<segment id="68" relname="antithesis">Это, на самом деле, язык соглашения Хамас 1988 г.</segment>
+		<segment id="69" relname="antithesis">##### Интересно,</segment>
+		<segment id="70" relname="antithesis">однако, что избирательная платформа Хамас объединила разные подходы к вопросу о палестинском государстве.</segment>
+		<segment id="71" relname="antithesis">С одной стороны Хамас впервые согласилась с созданием палестинского государства на Западном Берегу и в секторе Газа с Восточным Иерусалимом в качестве его столицы.</segment>
+		<segment id="72" relname="antithesis">С другой стороны платформа повторяет отказ Хамас уступить даже дюйм исторической земли Палестины.</segment>
+		<segment id="73" relname="antithesis">##### Сможет ли Хамас фактически преобразиться в более умеренную организацию - невозможно сказать прямо сейчас.</segment>
+		<segment id="74" relname="antithesis">Но ясно,</segment>
+		<segment id="75" relname="antithesis">что Хамас теперь является уязвимым перед общественным мнением,</segment>
+		<segment id="76" relname="antithesis">и как руководящей власти ей придется иметь дело с международной реакцией на ее победу.</segment>
+		<segment id="77" parent="78" relname="attribution">##### Сразу же после выборов старший чиновник Хамас Махмуд аль-Захар сказал,</segment>
+		<segment id="78" relname="antithesis">что Хамас будет поддерживать перемирие с Израилем,</segment>
+		<segment id="79" parent="78" relname="elaboration">которое началось в феврале прошлого года,</segment>
+		<segment id="80" parent="79" relname="condition">если Израиль сделает то же самое.</segment>
+		<segment id="81" relname="antithesis">Возможно, Хамас сигнализирует о том,</segment>
+		<segment id="82" relname="antithesis">что он не будет провоцировать Израиль.</segment>
+		<segment id="83" relname="antithesis">Может быть, руководящий долг Хамас подтолкнет ее к непрерывным обсуждениям с Соединенными Штатами и международным сообществом.</segment>
+		<segment id="84" relname="antithesis">##### В любом случае,</segment>
+		<segment id="85" relname="antithesis">несмотря на результаты выборов,</segment>
+		<segment id="86" relname="antithesis">и даже без Фатх в правительстве Аббас остается ответственным за переговоры с Израилем.</segment>
+		<segment id="87" relname="antithesis">Он быстро призвал к возобновлению мирных переговоров,</segment>
+		<segment id="88" relname="antithesis">хотя Израиль, как и США,</segment>
+		<segment id="89" relname="antithesis">отказался иметь дело с Хамас.</segment>
+		<segment id="90" relname="antithesis">##### Палестинцы вошли на незнакомую с политической точки зрения территорию.</segment>
+		<segment id="91" relname="antithesis">Они толпами пришли,</segment>
+		<segment id="92" parent="91" relname="purpose">чтобы проголосовать на выборах,</segment>
+		<segment id="93" parent="92" relname="elaboration">которые бывший президент США Джимми Картер назвал честными, справедливыми и неотмеченными насилием.</segment>
+		<segment id="94" relname="antithesis">Они выбрали партию,</segment>
+		<segment id="95" parent="94" relname="elaboration">которая призывала к “реформам и переменам” в ответ на десятилетие насилия и беззакония.</segment>
+		<segment id="96" relname="antithesis">И палестинцы приняли мнение Хамас о том,</segment>
+		<segment id="97" relname="antithesis">что переговоры,</segment>
+		<segment id="98" relname="antithesis">основанные на Соглашениях Осло,</segment>
+		<segment id="99" relname="antithesis">не смогли добиться прав и политических амбиций для палестинцев.</segment>
+		<segment id="100" relname="antithesis">##### Добившись победы,</segment>
+		<segment id="101" relname="antithesis">Хамас возьмет на себя ответственность за палестинскую сторону в израильско-палестинском конфликте.</segment>
+		<segment id="102" relname="antithesis">При том,</segment>
+		<segment id="103" relname="antithesis">что на карту поставлено будущее палестинцев</segment>
+		<segment id="104" parent="103" relname="elaboration">– не говоря уже о будущем Израиля и Ближнего Востока –</segment>
+		<segment id="105" parent="106" relname="attribution">никто не может сказать,</segment>
+		<segment id="106" relname="antithesis">справится ли Хамас с этой задачей.</segment>
+    </body>
+</rst>

@@ -1,0 +1,154 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### В отчаянном стремлении удержать власть,</segment>
+		<segment id="2" relname="antithesis">Первез Мушарраф отверг конституционную систему Пакистана</segment>
+		<segment id="3" parent="4" relname="attribution">и объявил о</segment>
+		<segment id="4" relname="antithesis">введении чрезвычайного положения.</segment>
+		<segment id="5" relname="antithesis">Его цель?</segment>
+		<segment id="6" relname="antithesis">Задушить независимую судебную власть и свободные средства информации.</segment>
+		<segment id="7" relname="antithesis">Искусно, хотя и бессовестно,</segment>
+		<segment id="8" relname="antithesis">он попытался оправдать данное действие стремлением установить стабильность</segment>
+		<segment id="9" relname="antithesis">и начать более эффективную борьбу с терроризмом.</segment>
+		<segment id="10" relname="antithesis">Это крайне далеко от действительности.</segment>
+		<segment id="11" parent="12" relname="condition">Если судить по пакистанской истории,</segment>
+		<segment id="12" relname="antithesis">его решение установить военное положение может оказаться той самой последней каплей из пословицы,</segment>
+		<segment id="13" parent="12" relname="elaboration">которая переполнит чашу терпения народа.</segment>
+		<segment id="14" relname="antithesis">##### Генерал Мушарраф появился на национальной сцене Пакистана 12 октября 1999 года,</segment>
+		<segment id="15" relname="antithesis">свергнув законно избранное правительство</segment>
+		<segment id="16" parent="17" relname="attribution">и объявив о</segment>
+		<segment id="17" relname="antithesis">начале амбициозного проекта по «строительству нации».</segment>
+		<segment id="18" relname="antithesis">Многие пакистанцы, лишённые иллюзий в отношении политического класса Пакистана,</segment>
+		<segment id="19" relname="antithesis">молчаливо согласились с его приходом к власти,</segment>
+		<segment id="20" relname="antithesis">думая,</segment>
+		<segment id="21" relname="antithesis">что он сможет что-то изменить.</segment>
+		<segment id="22" relname="antithesis">Террористические атаки в Америке 11 сентября 2001 года позволили Мушаррафу попасть в центр внимания на международной арене,</segment>
+		<segment id="23" parent="22" relname="cause-effect">поскольку он согласился уничтожить Талибан</segment>
+		<segment id="24" relname="antithesis">и поддержать войну с терроризмом,</segment>
+		<segment id="25" relname="antithesis">возглавляемую Соединёнными Штатами.</segment>
+		<segment id="26" relname="antithesis">##### Мушарраф пресёк деятельность некоторых воинственных группировок религиозных фанатиков,</segment>
+		<segment id="27" relname="antithesis">действовавших на территории Пакистана, а также группировок,</segment>
+		<segment id="28" relname="antithesis">нападавших на индийские войска в Кашмире.</segment>
+		<segment id="29" relname="antithesis">В результате,</segment>
+		<segment id="30" relname="antithesis">Пакистан получил американскую финансовую помощь и оружие.</segment>
+		<segment id="31" relname="antithesis">Стараясь подтвердить свои союзнические намерения,</segment>
+		<segment id="32" relname="antithesis">Мушарраф (впервые после получения Пакистаном независимости) отправил пакистанскую армию в контролируемые племенами районы,</segment>
+		<segment id="33" relname="antithesis">граничащие с Афганистаном.</segment>
+		<segment id="34" relname="antithesis">Результаты данных операций против Талибана и Аль-Каеды оказались неоднозначными.</segment>
+		<segment id="35" relname="antithesis">##### Хотя США рассматривали Мушаррафа как сторонника изменений,</segment>
+		<segment id="36" relname="antithesis">он так и не добился политической легитимности в стране,</segment>
+		<segment id="37" relname="antithesis">а его политика считалась изобилующей противоречиями.</segment>
+		<segment id="38" relname="antithesis">Например, он сотрудничал с исламистскими политическими силами</segment>
+		<segment id="39" parent="38" relname="elaboration">(которые в 2004 г. проголосовали за конституционные изменения,</segment>
+		<segment id="40" relname="antithesis">узаконивающие его положение и действия)</segment>
+		<segment id="41" relname="antithesis">. В то же время, он сместил на второй план умеренных политических лидеров,</segment>
+		<segment id="42" relname="antithesis">образующих основную группу политиков,</segment>
+		<segment id="43" relname="antithesis">заявляя о том,</segment>
+		<segment id="44" relname="antithesis">что он борется за «просвещённую умеренность».</segment>
+		<segment id="45" relname="antithesis">Серия плохо спланированных военных операций в контролируемых племенами районах ещё больше осложнила ситуацию в нестабильном приграничном регионе.</segment>
+		<segment id="46" relname="antithesis">##### В марте прошлого года Мушарраф сделал свой самый смелый шаг,</segment>
+		<segment id="47" relname="antithesis">отстранив от должности главного судью Верховного суда Ифтихара Чаудхри.</segment>
+		<segment id="48" relname="antithesis">К удивлению многих, правовое сообщество страны организовало всенародное движение с целью восстановить главного судью в его должности.</segment>
+		<segment id="49" relname="antithesis">Сотни тысяч обычных людей потребовали соблюдения принципа верховенства закона и главенства Конституции,</segment>
+		<segment id="50" relname="antithesis">придав смелости судебной системе</segment>
+		<segment id="51" relname="antithesis">и изменив политическую динамику страны.</segment>
+		<segment id="52" relname="antithesis">Историческое решение самого Верховного суда,</segment>
+		<segment id="53" parent="52" relname="elaboration">которое Мушаррафу оставалось только принять,</segment>
+		<segment id="54" relname="antithesis">восстановило главного судью в его должности в июле.</segment>
+		<segment id="55" relname="antithesis">##### Затем воодушевлённая судебная власть стала и дальше выносить решения против правительственных действий,</segment>
+		<segment id="56" relname="antithesis">приведя правительство в замешательство – в особенности,</segment>
+		<segment id="57" relname="antithesis">его разведывательные органы.</segment>
+		<segment id="58" relname="antithesis">Правительственным чиновником пришлось отвечать за действия,</segment>
+		<segment id="59" parent="58" relname="elaboration">которые обычно были за пределами действия закона,</segment>
+		<segment id="60" relname="antithesis">начиная жестокими избиениями журналистов</segment>
+		<segment id="61" relname="antithesis">и заканчивая незаконным лишением свободы для «обеспечения национальной безопасности».</segment>
+		<segment id="62" relname="antithesis">##### Мушарраф и его политические союзники попытались приспособиться к данной новой реальности,</segment>
+		<segment id="63" relname="antithesis">но их терпение иссякло,</segment>
+		<segment id="64" relname="antithesis">когда Верховный суд принял к рассмотрению петиции против решения Мушаррафа участвовать в президентских выборах.</segment>
+		<segment id="65" relname="antithesis">В соответствии с Конституцией (первоначально провозглашённой в 1973 г. законно избранным парламентом), лицо,</segment>
+		<segment id="66" relname="antithesis">занимающее военную должность,</segment>
+		<segment id="67" relname="antithesis">не может участвовать в выборах.</segment>
+		<segment id="68" relname="antithesis">Мушарраф не был готов отдать свою военную должность,</segment>
+		<segment id="69" relname="antithesis">но хотел быть ещё и гражданским лицом - президентом.</segment>
+		<segment id="70" relname="antithesis">Несмотря на обещания оставить свою военную должность,</segment>
+		<segment id="71" relname="antithesis">в случае если его изберут президентом,</segment>
+		<segment id="72" relname="antithesis">его репутация не исполнять свои обещания не давала покоя судебной власти.</segment>
+		<segment id="73" relname="antithesis">##### Судебные разбирательства,</segment>
+		<segment id="74" relname="antithesis">длившиеся в течение последних нескольких недель,</segment>
+		<segment id="75" relname="antithesis">заставили Мушаррафа поволноваться.</segment>
+		<segment id="76" relname="antithesis">Решение судебного совета,</segment>
+		<segment id="77" relname="antithesis">состоящего из 11 членов,</segment>
+		<segment id="78" relname="antithesis">легко могло быть вынесено и не в его пользу.</segment>
+		<segment id="79" relname="antithesis">Получив легальную поддержку,</segment>
+		<segment id="80" relname="antithesis">Мушарраф решил теперь пренебречь принципом главенства Конституции,</segment>
+		<segment id="81" relname="antithesis">отстранив ведущих судей Верховного суда и провинциальных судов первой инстанции</segment>
+		<segment id="82" relname="antithesis">и подавляя средства информации.</segment>
+		<segment id="83" relname="antithesis">С тех пор начались аресты юристов, активистов по борьбе за права человека и политических лидеров.</segment>
+		<segment id="84" relname="antithesis">##### Данные действия вызвали широкое народное негодование.</segment>
+		<segment id="85" relname="antithesis">Вместо того,</segment>
+		<segment id="86" parent="85" relname="purpose">чтобы признать свою ответственность за ухудшение безопасности в стране</segment>
+		<segment id="87" relname="antithesis">(о чём свидетельствуют регулярные взрывы террористов-смертников) и за усиление талибанизации контролируемых племенами районов,</segment>
+		<segment id="88" relname="antithesis">Мушарраф попытался взвалить вину на судебную систему и средства информации.</segment>
+		<segment id="89" relname="antithesis">Действительно, в некоторых случаях активность судебной системы была очевидна</segment>
+		<segment id="90" relname="antithesis">(хотя она находился в рамках конституционного права)</segment>
+		<segment id="91" relname="antithesis">, да и средства информации делали ошибки;</segment>
+		<segment id="92" relname="antithesis">но поверить в то,</segment>
+		<segment id="93" relname="antithesis">что подобные действия могут быть связаны с религиозным экстремизмом и поддержкой военного восстания невозможно.</segment>
+		<segment id="94" relname="antithesis">##### Маловероятно,</segment>
+		<segment id="95" relname="antithesis">что последний манёвр Мушаррафа будет успешным,</segment>
+		<segment id="96" parent="95" relname="cause-effect">поскольку поддержка его народом находится на самом низком уровне.</segment>
+		<segment id="97" relname="antithesis">Вооружённые силы Пакистана</segment>
+		<segment id="98" relname="antithesis">(являющиеся постоянной мишенью террористов-смертников)</segment>
+		<segment id="99" relname="antithesis">деморализованы.</segment>
+		<segment id="100" relname="antithesis">Трудно себе представить их вместе с Мушаррафом,</segment>
+		<segment id="101" parent="100" relname="condition">если разразится гражданский конфликт.</segment>
+		<segment id="102" relname="antithesis">Слабый,</segment>
+		<segment id="103" relname="antithesis">уставший</segment>
+		<segment id="104" relname="antithesis">и дезориентированный Мушарраф также не способен эффективно бороться с воинственными исламистами</segment>
+		<segment id="105" relname="antithesis">и установить в Пакистане политическую стабильность.</segment>
+		<segment id="106" relname="antithesis">##### Оппозиционные политические партии сближаются,</segment>
+		<segment id="107" relname="antithesis">а экс-премьер-министр Беназир Бхутто,</segment>
+		<segment id="108" relname="antithesis">несмотря на успешность своих переговоров по разделению властных полномочий с Мушаррафом,</segment>
+		<segment id="109" relname="antithesis">резко осудила его действия.</segment>
+		<segment id="110" relname="antithesis">Сложившуюся ситуацию придётся разрешать организациям по борьбе за права человека, ассоциациям средств информации и юридическим организациям,</segment>
+		<segment id="111" relname="antithesis">что столкнёт их с силами безопасности.</segment>
+		<segment id="112" relname="antithesis">##### Террористы могут также воспользоваться ситуацией,</segment>
+		<segment id="113" relname="antithesis">напав на армию,</segment>
+		<segment id="114" relname="antithesis">занятую другими делами,</segment>
+		<segment id="115" relname="antithesis">и на политические силы,</segment>
+		<segment id="116" relname="antithesis">связанные с Мушаррафом.</segment>
+		<segment id="117" relname="antithesis">В случае продолжительных протестов и потенциального насилия высшие военные командные чины могут решить сместить Мушаррафа,</segment>
+		<segment id="118" relname="antithesis">что не станет чем-то беспрецедентным в хронически неспокойной истории Пакистана.</segment>
+    </body>
+</rst>

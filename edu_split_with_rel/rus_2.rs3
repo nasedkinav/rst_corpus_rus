@@ -1,0 +1,115 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Никого не удивляет тот факт,</segment>
+		<segment id="2" relname="antithesis">что во время первых лет правления задачей нового молодого лидера арабского государства должно стать доказательство своего статуса и правопреемственности.</segment>
+		<segment id="3" relname="antithesis">Сирийский президент Башар-аль Ассад,</segment>
+		<segment id="4" parent="3" relname="elaboration">который сменил на этом посту своего отца Хафиз-аль-Ассада,</segment>
+		<segment id="5" relname="antithesis">должен был настоятельно продемонстрировать,</segment>
+		<segment id="6" relname="antithesis">что он контролирует ситуацию в стране даже в большей степени,</segment>
+		<segment id="7" relname="antithesis">чем другие новые арабские лидеры, такие как король Иордании Абдула или король Марокко Мухамед.</segment>
+		<segment id="8" relname="antithesis">Выбор Башар-аль-Ассада президентом страны через несколько минут после смерти Ассада 10 июня 2000 года ошеломил всю государственную систему Сирии,</segment>
+		<segment id="9" parent="8" relname="concession">несмотря на то,</segment>
+		<segment id="10" relname="antithesis">что общественное мнение подготавливалось к этому шагу в течение нескольких лет.</segment>
+		<segment id="11" relname="antithesis">##### Не предоставив общественности четкой и эффективной программы внутренних реформ,</segment>
+		<segment id="12" relname="antithesis">молодой президент попытался возместить провалы во внутренней политике достижениями в международных делах.</segment>
+		<segment id="13" relname="antithesis">В этой связи арабо-израильский конфликт предоставил президенту возможность проявить лидерские способности, особенно после избрания Ариеля Шарона, политика,</segment>
+		<segment id="14" parent="13" relname="elaboration">которого ругают в арабском мире,</segment>
+		<segment id="15" relname="antithesis">на пост премьер-министра Израиля.</segment>
+		<segment id="16" relname="antithesis">##### Во время последней встречи на высшем уровне лидеров арабских государств,</segment>
+		<segment id="17" relname="antithesis">прошедшей в Бейруте,</segment>
+		<segment id="18" relname="antithesis">молодой президент сыграл на отсутствии глав Египта, Ливии и Палестины,</segment>
+		<segment id="19" parent="18" relname="purpose">чтобы навязать контакт с аудиторией из Сирии и в других арабских странах.</segment>
+		<segment id="20" relname="antithesis">В хорошо отрепетированном и уверенном выступлении,</segment>
+		<segment id="21" relname="antithesis">напоминающем манеру своего отца,</segment>
+		<segment id="22" relname="antithesis">Башар-аль-Ассад обратился к своим коллегам с просьбой поддержать палестинцев в их праве на сопротивление</segment>
+		<segment id="23" relname="antithesis">и разорвать отношения с Израилем,</segment>
+		<segment id="24" relname="antithesis">призывал к примирению между Кувейтом и Ираком</segment>
+		<segment id="25" relname="antithesis">и поддержал мирные инициативы саудовского принца Абдулы.</segment>
+		<segment id="26" relname="antithesis">##### В глазах сирийской общественности молодой президент,</segment>
+		<segment id="27" relname="antithesis">выдвинувший такие требования,</segment>
+		<segment id="28" relname="antithesis">предстал как политик,</segment>
+		<segment id="29" parent="28" relname="elaboration">который глубоко понимает насущные вопросы дня.</segment>
+		<segment id="30" relname="antithesis">Такое уверенное выступление придало сирийскому президенту больший статус.</segment>
+		<segment id="31" relname="antithesis">Еще важнее то обстоятельство,</segment>
+		<segment id="32" relname="antithesis">что это выступление отвлекло внимание от экономических и политических реформ внутри Сирии по крайней мере в настоящей момент.</segment>
+		<segment id="33" relname="antithesis">##### Первоначально,</segment>
+		<segment id="34" relname="antithesis">вступление в должность президента Башара было ознаменовано умеренной,</segment>
+		<segment id="35" relname="antithesis">но заметной политической оттепелью.</segment>
+		<segment id="36" relname="antithesis">Относительно открытые обсуждения проходили в популярных форумах и частных дискуссионных клубах,</segment>
+		<segment id="37" parent="36" relname="elaboration">которые широко распространились по стране.</segment>
+		<segment id="38" relname="antithesis">Через несколько месяцев деятельность этих клубов была резко остановлено,</segment>
+		<segment id="39" relname="antithesis">так как служба безопасности вынудила принять рад строгих правил,</segment>
+		<segment id="40" parent="39" relname="elaboration">по которым эти открытые собрания должны быть прекращены.</segment>
+		<segment id="41" relname="antithesis">Кратковременность сирийской «оттепели» нанесла удар по ожиданиям сирийской интеллигенции и профессионалов, как молодых, так и зрелых.</segment>
+		<segment id="42" relname="antithesis">##### Этот удар ощущался еще острее,</segment>
+		<segment id="43" relname="antithesis">после того как стало понятно,</segment>
+		<segment id="44" relname="antithesis">что закрытие этих популярных форумов не вызовет широкой общественной реакции.</segment>
+		<segment id="45" relname="antithesis">Осознав,</segment>
+		<segment id="46" relname="antithesis">что новое правительство вновь оттесняет сирийскую интеллигенцию на политические задворки,</segment>
+		<segment id="47" relname="antithesis">интеллектуалы обратили свой взор на Шарона и растущий конфликт между израильтянами и палестинцами.</segment>
+		<segment id="48" relname="antithesis">Проблема Палестины отвлекла внимание от внутренних проблем страны,</segment>
+		<segment id="49" relname="antithesis">предоставив сирийским интеллектуалам политически безопасный способ дать выход своим разочарованиям.</segment>
+		<segment id="50" relname="antithesis">##### Что же до сирийских обывателей, представляющих аморфную смесь из средних граждан и политического консенсуса, у них не только отсутствует симпатия к интеллигенции,</segment>
+		<segment id="51" relname="antithesis">но и вообще какой-нибудь систематический интерес к внутренней политике.</segment>
+		<segment id="52" relname="antithesis">Основная забота среднего гражданина Сирии</segment>
+		<segment id="53" relname="antithesis">- это реальное улучшение уровня жизни и сокращение безработицы.</segment>
+		<segment id="54" relname="antithesis">##### Сирийские обыватели предпочитают не обсуждать более широкий спектр преобразований, такие как реформа гражданского права, права женщин и роль религии в обществе.</segment>
+		<segment id="55" relname="antithesis">К сожалению или к счастью,</segment>
+		<segment id="56" relname="antithesis">ограничения в этих сферах жизни постоянны</segment>
+		<segment id="57" relname="antithesis">и всем понятны в Сирии.</segment>
+		<segment id="58" relname="antithesis">Оспаривать их в тяжелое и нестабильное время - нежелательная перспектива.</segment>
+		<segment id="59" relname="antithesis">##### Пассивность сирийского общества</segment>
+		<segment id="60" relname="antithesis">- это результат молчаливого соглашения между государством и народом.</segment>
+		<segment id="61" relname="antithesis">Государство не заигрывает с социальными вопросами,</segment>
+		<segment id="62" relname="antithesis">а народ не вовлекается во внутреннюю политику.</segment>
+		<segment id="63" relname="antithesis">Одновременно,</segment>
+		<segment id="64" relname="antithesis">с взаимного согласия,</segment>
+		<segment id="65" relname="antithesis">арабо-изриальский конфликт является вопросом,</segment>
+		<segment id="66" parent="65" relname="elaboration">по которому разворачиваются дебаты как в сирийском правительстве,</segment>
+		<segment id="67" relname="antithesis">так и среди подданных.</segment>
+		<segment id="68" relname="antithesis">##### Под предлогом арабо-израильского конфликта,</segment>
+		<segment id="69" parent="68" relname="elaboration">который красноречиво обсуждается во всех слоях сирийского общества,</segment>
+		<segment id="70" relname="antithesis">замалчивается подавление основных свобод.</segment>
+		<segment id="71" relname="antithesis">То,</segment>
+		<segment id="72" relname="antithesis">что кажется политическим конфликтом,</segment>
+		<segment id="73" relname="antithesis">приобрело социо-культурные аспекты.</segment>
+		<segment id="74" relname="antithesis">##### Поэтому правомерно поставить вопрос может ли сирийский президент действительно выйти с реальной инициативой по разрешению арабо-израильского конфликта.</segment>
+		<segment id="75" relname="antithesis">Несмотря на диктаторский характер режима президент аль Ассад по-прежнему должен удовлетворять общественное настроение в отношении Израиля.</segment>
+		<segment id="76" relname="antithesis">В случае предательства этого консенсуса появляется риск того,</segment>
+		<segment id="77" relname="antithesis">что народ мобилизуется на обсуждение внутренних проблем.</segment>
+		<segment id="78" relname="antithesis">Это явление характерно для всего Ближнего Востока,</segment>
+		<segment id="79" relname="antithesis">а Сирия представляет наиболее яркий пример.</segment>
+    </body>
+</rst>

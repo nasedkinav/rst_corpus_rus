@@ -1,0 +1,138 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Кремль опять провоцирует Запад в связи с долгим и болезненным процессом предоставления формальной независимости Косово.</segment>
+		<segment id="2" relname="antithesis">В отличие от скандала с американской системой противоракетной обороны в Европе, этот конфликт не подает признаков урегулирования</segment>
+		<segment id="3" relname="antithesis">и угрожает еще больше осложнить и без того нелегкие отношения между Россией и Западом.</segment>
+		<segment id="4" relname="antithesis">##### Россия постоянно ставила палки в колеса усилиям Запада,</segment>
+		<segment id="5" relname="antithesis">направленным на создание независимого Косово.</segment>
+		<segment id="6" relname="antithesis">После года переговоров между Сербией и Косово Кремль отклонил приведенные в докладе посредника ООН рекомендации о предоставлении Косово контролируемой независимости,</segment>
+		<segment id="7" relname="antithesis">не позволил Совету Безопасности принять этот доклад</segment>
+		<segment id="8" relname="antithesis">и настоял на дополнительных трехмесячных переговорах между Сербией и Косово</segment>
+		<segment id="9" relname="antithesis">- даже</segment>
+		<segment id="10" relname="antithesis">после того, как компромисс стал невозможным.</segment>
+		<segment id="11" relname="antithesis">##### Три недели тому назад в Совете Безопасности ООН Россия опять настаивала на том,</segment>
+		<segment id="12" relname="antithesis">что любое соглашение требует одобрения Сербии и Косово</segment>
+		<segment id="13" relname="antithesis">и что необходимы дальнейшие переговоры.</segment>
+		<segment id="14" relname="antithesis">Россия прекрасно понимает,</segment>
+		<segment id="15" relname="antithesis">что такие переговоры будут безрезультатными,</segment>
+		<segment id="16" relname="antithesis">но считает,</segment>
+		<segment id="17" relname="antithesis">что еще один казалось бы невинный призыв к дальнейшим переговорам поколеблет единство ЕС,</segment>
+		<segment id="18" relname="antithesis">что, по-видимому, является главной целью Путина.</segment>
+		<segment id="19" relname="antithesis">Дальнейшее промедление может также привести к вспышке насилия в Косово</segment>
+		<segment id="20" relname="antithesis">и подорвать международную поддержку независимости.</segment>
+		<segment id="21" relname="antithesis">##### Ненависть,</segment>
+		<segment id="22" parent="21" relname="elaboration">которую Путин питает к 'раболепным' отношениям с Западом ельцинской эпохи,</segment>
+		<segment id="23" relname="antithesis">подогревает его сопротивление.</segment>
+		<segment id="24" relname="antithesis">Но промедление со стороны Запада в решении вопроса о статусе Косово позволила этому сопротивлению набрать силу.</segment>
+		<segment id="25" relname="antithesis">Действительно, Запад все время неправильно интерпретировал намерения России в отношении Косово.</segment>
+		<segment id="26" parent="27" relname="attribution">Многие утверждали,</segment>
+		<segment id="27" relname="antithesis">что Кремль старается отсрочить неизбежное,</segment>
+		<segment id="28" relname="antithesis">но в конечном счете не станет чинить препятствий независимости.</segment>
+		<segment id="29" relname="antithesis">Сегодня,</segment>
+		<segment id="30" relname="antithesis">в последнюю минуту Россия остается верна своей обструкционистской позиции,</segment>
+		<segment id="31" relname="antithesis">а президентские выборы в марте, скорее всего, только усилят антизападные настроения.</segment>
+		<segment id="32" relname="antithesis">##### Так что же может сделать Путин,</segment>
+		<segment id="33" relname="antithesis">когда Соединенные Штаты и большинство стран-членов Европейского Союза в ближайшие месяцы признают независимость Косово без благословения ООН,</segment>
+		<segment id="34" relname="antithesis">как они сегодня планируют?</segment>
+		<segment id="35" relname="antithesis">##### Маловероятно,</segment>
+		<segment id="36" parent="35" relname="purpose">чтобы Кремль попытался совершить еще одну военную интервенцию в Косово</segment>
+		<segment id="37" relname="antithesis">(их попытка в 1999 году высадить войска в аэропорту Приштины закончилась полным фиаско)</segment>
+		<segment id="38" relname="antithesis">, но у него есть ряд альтернатив,</segment>
+		<segment id="39" parent="38" relname="elaboration">которые должны заставить Запад задуматься.</segment>
+		<segment id="40" relname="antithesis">##### Поддержка Кремля способствовала националистической непримиримости Сербии в отношении Косово.</segment>
+		<segment id="41" relname="antithesis">По словам России,</segment>
+		<segment id="42" relname="antithesis">она не даст Сербии карт-бланш,</segment>
+		<segment id="43" relname="antithesis">но, скорее всего, поддержит усилия сербского правительства по изоляции и дестабилизации независимого Косово.</segment>
+		<segment id="44" relname="antithesis">##### Тогда как сама Сербия выступала против разделения Косово,</segment>
+		<segment id="45" relname="antithesis">Россия может поддержать предложение Сербии об отделении населенного сербами севера территории,</segment>
+		<segment id="46" relname="antithesis">что откроет 'ящик Пандоры'</segment>
+		<segment id="47" relname="antithesis">и может спровоцировать раздел Сербии,</segment>
+		<segment id="48" relname="antithesis">Боснии и Македонии.</segment>
+		<segment id="49" relname="antithesis">Такое предложение может найти некоторую поддержку в Европе и других странах как приемлемый компромисс,</segment>
+		<segment id="50" relname="antithesis">даже если это снова дестабилизирует Балканы.</segment>
+		<segment id="51" relname="antithesis">##### Россия,</segment>
+		<segment id="52" relname="antithesis">конечно же,</segment>
+		<segment id="53" relname="antithesis">продолжит свои дипломатические усилия,</segment>
+		<segment id="54" relname="antithesis">направленные на то,</segment>
+		<segment id="55" parent="54" relname="purpose">чтобы убедить мир,</segment>
+		<segment id="56" relname="antithesis">что переговоры являются единственным путем решения проблемы,</segment>
+		<segment id="57" relname="antithesis">и что она не может быть решена вне ООН.</segment>
+		<segment id="58" relname="antithesis">Это найдет поддержку у многих стран-членов ООН, включая государства,</segment>
+		<segment id="59" relname="antithesis">имеющие крупные недовольные национальные меньшинства.</segment>
+		<segment id="60" relname="antithesis">##### Россия может предпринять шаги не только на Балканах, но и на Кавказе с его самопровозглашенными независимыми регионами, особенно в Грузии.</segment>
+		<segment id="61" relname="antithesis">Провозглашение независимости Косово, скорее всего, приведет к аналогичному провозглашению независимости со стороны отколовшегося от Грузии региона - Абхазии,</segment>
+		<segment id="62" parent="61" relname="elaboration">которую Россия вполне может признать.</segment>
+		<segment id="63" parent="65" relname="condition">Если Грузия предпримет военные действия,</segment>
+		<segment id="64" parent="63" relname="purpose">чтобы предотвратить это,</segment>
+		<segment id="65" relname="antithesis">российские военные могут ответить силой,</segment>
+		<segment id="66" relname="antithesis">создав ситуацию,</segment>
+		<segment id="67" parent="66" relname="elaboration">которая может выйти из-под контроля.</segment>
+		<segment id="68" relname="antithesis">##### В то время как США и ЕС не хотят осложнения отношений с Россией,</segment>
+		<segment id="69" relname="antithesis">они не должны отступать перед лицом упорства России;</segment>
+		<segment id="70" relname="antithesis">на карту поставлен вопрос безопасности Европы.</segment>
+		<segment id="71" relname="antithesis">Но они также должны продолжать усилия по предотвращению конфронтации с Россией на всех фронтах.</segment>
+		<segment id="72" relname="antithesis">##### Запад должен дать ясно понять Сербии,</segment>
+		<segment id="73" relname="antithesis">что решительно отреагирует на любые попытки эскалации насилия и раздела Косово.</segment>
+		<segment id="74" relname="antithesis">Дополнительное присутствие войск НАТО, помимо запланированной миссии ЕС, для контроля независимости Косово было бы очень кстати.</segment>
+		<segment id="75" relname="antithesis">##### Путинская Россия,</segment>
+		<segment id="76" relname="antithesis">не придающая большого значения власти закона,</segment>
+		<segment id="77" relname="antithesis">преподносит свои дипломатические усилия под маской соблюдения норм международного права, в частности резолюции 1244 Совета Безопасности ООН,</segment>
+		<segment id="78" relname="antithesis">положившей конец войне в Косово.</segment>
+		<segment id="79" relname="antithesis">Давно уже пора начать дипломатическое наступление,</segment>
+		<segment id="80" parent="79" relname="purpose">чтобы ослабить аргументы России, а также напомнить миру о том,</segment>
+		<segment id="81" relname="antithesis">что произошло в Косово.</segment>
+		<segment id="82" relname="antithesis">##### В резолюции 1244 не говорится о том,</segment>
+		<segment id="83" relname="antithesis">что Косово должно оставаться в составе Сербии,</segment>
+		<segment id="84" relname="antithesis">как на том настаивают Россия и Сербия;</segment>
+		<segment id="85" relname="antithesis">не исключает она и независимость Косово.</segment>
+		<segment id="86" relname="antithesis">Действительно, любой благоразумный человек,</segment>
+		<segment id="87" relname="antithesis">прочтя эту резолюцию, особенно в контексте конфликтов на Балканах в течение последних двух десятилетий,</segment>
+		<segment id="88" relname="antithesis">признал бы,</segment>
+		<segment id="89" relname="antithesis">что независимость Косово отвечает целям резолюции и сохранения контроля ООН над этой провинцией на протяжении последних восьми лет.</segment>
+		<segment id="90" relname="antithesis">##### Что касается Абхазии,</segment>
+		<segment id="91" relname="antithesis">то Запад должен отметить уникальный характер Косово</segment>
+		<segment id="92" relname="antithesis">и подчеркнуть колоссальные усилия,</segment>
+		<segment id="93" relname="antithesis">прилагаемые им там с 1999 года.</segment>
+		<segment id="94" relname="antithesis">Мир должен дать ясно понять,</segment>
+		<segment id="95" relname="antithesis">что военное вмешательство России в Абхазии неприемлемо,</segment>
+		<segment id="96" relname="antithesis">одновременно удерживая правительство Грузии от военного реагирования на любую провокацию.</segment>
+		<segment id="97" relname="antithesis">##### То,</segment>
+		<segment id="98" relname="antithesis">как Россия отреагирует на поддержку Западом предстоящего провозглашения независимости Косово,</segment>
+		<segment id="99" relname="antithesis">станет проверкой нашего прогресса со времен холодной войны.</segment>
+		<segment id="100" relname="antithesis">Посредством осторожного управления процессом независимости Косово и стараний улучшить отношения с Россией Запад может смягчить самые тяжелые последствия этой конфронтации.</segment>
+		<segment id="101" relname="antithesis">В любом случае,</segment>
+		<segment id="102" relname="antithesis">новая холодная война может стать немного холоднее.</segment>
+    </body>
+</rst>

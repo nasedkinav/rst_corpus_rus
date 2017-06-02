@@ -1,0 +1,152 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### Недавно Соединенные Штаты добились сомнительной чести похвастаться самым большим на земле количеством заключенных,</segment>
+		<segment id="2" relname="antithesis">содержащихся в тюрьмах и изоляторах предварительного заключения.</segment>
+		<segment id="3" relname="antithesis">Они достигли этого зенита,</segment>
+		<segment id="4" relname="antithesis">превзойдя стесненную в деньгах Россию - на протяжении долгого времени бывшую их единственным соперником, в качестве общества массового лишения свободы</segment>
+		<segment id="5" relname="antithesis">- после того как Россия освободила тысячи заключенных,</segment>
+		<segment id="6" parent="5" relname="purpose">чтобы сэкономить на этом деньги.</segment>
+		<segment id="7" relname="antithesis">А несколькими годами раньше,</segment>
+		<segment id="8" relname="antithesis">когда Америка бросилась больше чем когда-либо сажать в тюрьмы людей за самые мелкие правонарушения,</segment>
+		<segment id="9" relname="antithesis">абсолютное количество американских заключенных превзошло число заключенных в Китае</segment>
+		<segment id="10" relname="antithesis">- несмотря на то,</segment>
+		<segment id="11" relname="antithesis">что население Китая более чем в четыре раза превышает население Америки.</segment>
+		<segment id="12" relname="antithesis">Согласно исследованиям,</segment>
+		<segment id="13" relname="antithesis">проведенным министерством внутренних дел Великобритании,</segment>
+		<segment id="14" relname="antithesis">Америка в настоящее время держит в тюрьме более одной пятой заключенных во всем мире.</segment>
+		<segment id="15" relname="antithesis">##### В этом есть некоторая горькая ирония.</segment>
+		<segment id="16" relname="antithesis">Ведь Америка на самом деле является землей свободы, местом,</segment>
+		<segment id="17" relname="antithesis">где те, кто часто страдал от несправедливости где-то в других местах,</segment>
+		<segment id="18" relname="antithesis">могут наладить свою жизнь по-новому.</segment>
+		<segment id="19" relname="antithesis">Как трагично поэтому то,</segment>
+		<segment id="20" relname="antithesis">что за последние двадцать лет политические лидеры страны так часто пытались справиться с многими самыми вредоносными побочными эффектами нищеты - от хронического употребления наркотиков и налаживания уличной торговли ими до попрошайничества, принадлежности к какой-нибудь банде и нанесения граффити на стены общественных зданий</segment>
+		<segment id="21" relname="antithesis">- используя для этого массовое заключение под стражу.</segment>
+		<segment id="22" relname="antithesis">##### Как вдвойне трагично то,</segment>
+		<segment id="23" relname="antithesis">что это произошло вкупе с политическими нападками на программу президента Л.</segment>
+		<segment id="24" relname="antithesis">Джонсона «Великое общество»,</segment>
+		<segment id="25" relname="antithesis">введенную в действие в 1960-е годы</segment>
+		<segment id="26" relname="antithesis">и направленную на борьбу с бедностью;</segment>
+		<segment id="27" relname="antithesis">что инвестиции на развитие инфраструктуры, государственного образования, здравоохранения и профессиональное обучение, которые могли бы сократить преступность более эффективно,</segment>
+		<segment id="28" relname="antithesis">вместо этого в широких масштабах расходуются государством на строительство новых тюрем для заключения сотен тысяч мелких правонарушителей.</segment>
+		<segment id="29" relname="antithesis">При таком порочном круге преступлений, наказаний и отсутствия необходимых инвестиций на улучшение благосостояния бедных групп населения,</segment>
+		<segment id="30" relname="antithesis">нет ничего удивительного в том,</segment>
+		<segment id="31" relname="antithesis">что заселенность тюрем возросла до такой степени.</segment>
+		<segment id="32" relname="antithesis">##### Цифры,</segment>
+		<segment id="33" relname="antithesis">стоящие за этой расползающейся тюремной системой,</segment>
+		<segment id="34" relname="antithesis">исключительно впечатляющи.</segment>
+		<segment id="35" relname="antithesis">Приблизительно два миллиона американцев в настоящее время отбывают сроки в тюрьмах или изоляторах предварительного заключения, и из них более миллиона - за преступления,</segment>
+		<segment id="36" relname="antithesis">не связанные с насилием</segment>
+		<segment id="37" relname="antithesis">(преобладают преступления,</segment>
+		<segment id="38" relname="antithesis">связанные с употреблением наркотиков и их продажей в небольших количествах)</segment>
+		<segment id="39" relname="antithesis">. Из расчета на тысячу жителей в США процент заключенных в пять раз выше,</segment>
+		<segment id="40" relname="antithesis">чем в Англии,</segment>
+		<segment id="41" relname="antithesis">в шесть раз выше,</segment>
+		<segment id="42" relname="antithesis">чем в Канаде,</segment>
+		<segment id="43" relname="antithesis">и в семь раз выше,</segment>
+		<segment id="44" relname="antithesis">чем в Германии.</segment>
+		<segment id="45" relname="antithesis">##### Где-то около 10% афроамериканцев в возрасте от 20 до 30 лет проводят это время за решеткой.</segment>
+		<segment id="46" relname="antithesis">В некоторых штатах,</segment>
+		<segment id="47" relname="antithesis">где единственного уголовного преступления достаточно</segment>
+		<segment id="48" parent="47" relname="purpose">для того, чтобы лишить преступника права участия в выборах,</segment>
+		<segment id="49" relname="antithesis">свыше четверти афроамериканцев мужского пола лишены гражданских прав.</segment>
+		<segment id="50" relname="antithesis">В столь сильно подвергаемой сомнению победе президента Буша на выборах, по-видимому, не последнюю роль сыграло то,</segment>
+		<segment id="51" relname="antithesis">что во Флориде проживает много людей,</segment>
+		<segment id="52" relname="antithesis">лишенных гражданских прав.</segment>
+		<segment id="53" relname="antithesis">##### Начиная с 1980 года,</segment>
+		<segment id="54" relname="antithesis">фактически был возведен «индустриальный тюремный комплекс»,</segment>
+		<segment id="55" relname="antithesis">строительство которого поощрялось получающими от этого высокие доходы строительными компаниями и лоббистами профсоюзов тюремной охраны.</segment>
+		<segment id="56" relname="antithesis">Несколько штатов, и среди них Калифорния,</segment>
+		<segment id="57" relname="antithesis">тратят на тюрьмы больше,</segment>
+		<segment id="58" relname="antithesis">чем на высшее образование.</segment>
+		<segment id="59" parent="61" relname="concession">Несмотря на то,</segment>
+		<segment id="60" relname="antithesis">что число преступлений за последние десять лет существенно уменьшилось,</segment>
+		<segment id="61" relname="antithesis">(большинство криминалистов больше связывают это с демографией</segment>
+		<segment id="62" relname="antithesis">- просто в последнее время стало меньше молодых людей</segment>
+		<segment id="63" relname="antithesis">- чем с лишением свободы)</segment>
+		<segment id="64" relname="antithesis">населенность тюрем продолжала стремительно расти.</segment>
+		<segment id="65" relname="antithesis">Большая часть этого роста связана скорее с тем,</segment>
+		<segment id="66" relname="antithesis">что общественность ощущает воображаемую волну преступности,</segment>
+		<segment id="67" relname="antithesis">и с тем,</segment>
+		<segment id="68" relname="antithesis">как она воспринимает людей с «бандитской» внешностью, а также с реакцией политиков на периодически появляющиеся газетные заголовки об убийствах,</segment>
+		<segment id="69" relname="antithesis">чем с каким-либо реальным уровнем преступности.</segment>
+		<segment id="70" relname="antithesis">##### Реальное число так называемых злостных преступлений на самом деле снизилось;</segment>
+		<segment id="71" relname="antithesis">среди тех,</segment>
+		<segment id="72" relname="antithesis">кто отбывает длительные сроки за решеткой,</segment>
+		<segment id="73" relname="antithesis">увеличилось число мелких хулиганов, наркоманов и душевно больных людей.</segment>
+		<segment id="74" relname="antithesis">В Америке сейчас в пять раз больше заключенных,</segment>
+		<segment id="75" relname="antithesis">чем было в 1980 году.</segment>
+		<segment id="76" relname="antithesis">##### Одна из наиболее пугающих доработок - это распространение так называемых законов «Три судимости и ты вне игры».</segment>
+		<segment id="77" relname="antithesis">Калифорнийская версия этих законов,</segment>
+		<segment id="78" parent="77" relname="elaboration">за которую проголосовали граждане на референдуме 1993 года и которую привели в действие законодатели в 1994 году,</segment>
+		<segment id="79" relname="antithesis">предусматривает пожизненное заключение для любого преступника,</segment>
+		<segment id="80" relname="antithesis">ранее имевшего две судимости по серьезным обвинениям</segment>
+		<segment id="81" relname="antithesis">и признанного виновным в совершении любого третьего уголовного преступления.</segment>
+		<segment id="82" relname="antithesis">К концу прошлого года в Калифорнии по этому закону отбывали пожизненное заключение около 7000 человек.</segment>
+		<segment id="83" relname="antithesis">Из них многие тысячи отбывают пожизненное заключение за незначительные «третьи судимости»,</segment>
+		<segment id="84" relname="antithesis">а именно: незначительные преступления связанные с наркотиками, кражи из автомобилей,</segment>
+		<segment id="85" relname="antithesis">мелкое мошенничество, кражи со взломом и вождение автомобиля в нетрезвом состоянии</segment>
+		<segment id="86" relname="antithesis">(даже нанесение граффити с размером ущерба 400 долларов и выше считается уголовным преступлением согласно новой классификации).</segment>
+		<segment id="87" relname="antithesis">##### Один такой человек, Билли Очоа, пятидесятивосьмилетний наркоман со стажем,</segment>
+		<segment id="88" relname="antithesis">употребляющий героин,</segment>
+		<segment id="89" relname="antithesis">отбывает сейчас наказание в супермаксе (тюрьме особо строгого режима) сроком в общей сложности 326 лет за то,</segment>
+		<segment id="90" relname="antithesis">что мошенническим путем получил социальное пособие на сумму 2100 долларов.</segment>
+		<segment id="91" relname="antithesis">Поскольку Очоа за последние несколько десятилетий отбывал наказание за несколько грабежей со взломом,</segment>
+		<segment id="92" relname="antithesis">то когда его поймали в Лос-Анджелесе за тем,</segment>
+		<segment id="93" relname="antithesis">что он мошенническим путем получал талоны на бесплатное питание и ночлег,</segment>
+		<segment id="94" relname="antithesis">его дело в суде попало под действие закона о «трех судимостях»,</segment>
+		<segment id="95" relname="antithesis">и ему был вынесен приговор по тринадцати отдельным пунктам,</segment>
+		<segment id="96" parent="95" relname="elaboration">согласно которому он должен отбывать заключение в одной самых строгих в Америке тюрем с очень строгим режимом содержания заключенных.</segment>
+		<segment id="97" relname="antithesis">Приговор,</segment>
+		<segment id="98" relname="antithesis">вынесенный Очоа,</segment>
+		<segment id="99" relname="antithesis">помимо того, что он нелепо жесток, может, в конечном счете, обойтись налогоплательщикам в миллион долларов.</segment>
+		<segment id="100" relname="antithesis">##### Во многих американских тюрьмах строгого режима заключенные постоянно находятся фактически в изоляции.</segment>
+		<segment id="101" relname="antithesis">Их кормят в своих камерах,</segment>
+		<segment id="102" relname="antithesis">только полчаса в день разрешают заниматься физическими упражнениями,</segment>
+		<segment id="103" relname="antithesis">не всегда позволяют смотреть телевизор</segment>
+		<segment id="104" relname="antithesis">и слушать радио,</segment>
+		<segment id="105" relname="antithesis">или даже приукрашать бетонные стены камер</segment>
+		<segment id="106" relname="antithesis">- есть официальные заключения,</segment>
+		<segment id="107" relname="antithesis">что такие условия привели многих из них в состояние серьезного психоза.</segment>
+		<segment id="108" relname="antithesis">Америка,</segment>
+		<segment id="109" relname="antithesis">как могло до этого дойти?</segment>
+		<segment id="110" relname="antithesis">##### Сейчас,</segment>
+		<segment id="111" relname="antithesis">когда весь мир смотрит,</segment>
+		<segment id="112" relname="antithesis">как Америка сражается,</segment>
+		<segment id="113" relname="antithesis">защищая свои ценности,</segment>
+		<segment id="114" relname="antithesis">наступило время обратить внимание на эти крайности ее системы уголовного правосудия.</segment>
+		<segment id="115" relname="antithesis">Это трагедия,</segment>
+		<segment id="116" relname="antithesis">когда великая демократическая держава имеет такую уродливую и обширную систему тюрем, разрушающую ее репутацию и ее государственное устройство.</segment>
+    </body>
+</rst>

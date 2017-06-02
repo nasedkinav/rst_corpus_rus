@@ -1,0 +1,120 @@
+<rst>
+    <header>
+        <relations>
+			<rel name="antithesis" type="rst" />
+			<rel name="attribution" type="rst" />
+			<rel name="attribution1" type="rst" />
+			<rel name="attribution2" type="rst" />
+			<rel name="background" type="rst" />
+			<rel name="cause-effect" type="rst" />
+			<rel name="concession" type="rst" />
+			<rel name="conclusion" type="rst" />
+			<rel name="condition" type="rst" />
+			<rel name="elaboration" type="rst" />
+			<rel name="evaluation" type="rst" />
+			<rel name="evidence" type="rst" />
+			<rel name="interpretation-evaluation" type="rst" />
+			<rel name="interpretation" type="rst" />
+			<rel name="motivation" type="rst" />
+			<rel name="non_volitional_cause" type="rst" />
+			<rel name="non_volitional_effect" type="rst" />
+			<rel name="preparation" type="rst" />
+			<rel name="purpose" type="rst" />
+			<rel name="solutionhood" type="rst" />
+			<rel name="volitional_cause" type="rst" />
+			<rel name="volitional_effect" type="rst" />
+			<rel name="comparison" type="multinuc" />
+			<rel name="contrast" type="multinuc" />
+			<rel name="joint" type="multinuc" />
+			<rel name="restatement" type="multinuc" />
+			<rel name="same-unit" type="multinuc" />
+			<rel name="sequence" type="multinuc" />
+        </relations>
+    </header>
+    <body>
+		<segment id="1" relname="antithesis">##### ﻿Несмотря на частые заверения в обратном,</segment>
+		<segment id="2" relname="antithesis">фундаментальная проблема на Ближнем Востоке состоит не во вмешательстве Запада.</segment>
+		<segment id="3" relname="antithesis">Напротив, реальная проблема в том,</segment>
+		<segment id="4" relname="antithesis">что западные державы, сколько они ни вмешиваются,</segment>
+		<segment id="5" relname="antithesis">оказываются не в состоянии ни вести войну,</segment>
+		<segment id="6" relname="antithesis">ни наладить диалог.</segment>
+		<segment id="7" relname="antithesis">В результате все жители региона находятся в заложниках у ближневосточных диктаторских режимов и множащихся террористов.</segment>
+		<segment id="8" relname="antithesis">##### Сторонники иракской войны не понимали,</segment>
+		<segment id="9" relname="antithesis">какие сложности связаны с ведением эффективной войны за либерализацию и демократизацию.</segment>
+		<segment id="10" relname="antithesis">В результате их политика просто привела к устранению двух основных конкурентов Ирана в регионе: Талибана и режима Саддама Хусейна.</segment>
+		<segment id="11" relname="antithesis">Это дало Ирану превосходный шанс выдвинуться на роль регионального гегемона,</segment>
+		<segment id="12" relname="antithesis">и не похоже,</segment>
+		<segment id="13" relname="antithesis">чтоб лидеры Ирана позволили этому шансу ускользнуть.</segment>
+		<segment id="14" relname="antithesis">##### Сторонники диалога с Ираном и его союзницей – Сирией,</segment>
+		<segment id="15" relname="antithesis">например, бывший госсекретарь США Джеймс Бейкер,</segment>
+		<segment id="16" relname="antithesis">находятся под влиянием заблуждения,</segment>
+		<segment id="17" relname="antithesis">что они действительно смогут добиться взаимопонимания,</segment>
+		<segment id="18" parent="17" relname="elaboration">которое позволит США красиво уйти из Ирака</segment>
+		<segment id="19" relname="antithesis">и будет содействовать стабилизации в этой истерзанной стране.</segment>
+		<segment id="20" relname="antithesis">Это заблуждение основано на двух ложных предположениях:</segment>
+		<segment id="21" relname="antithesis">что Иран и Сирия могут добиться успеха в Ираке,</segment>
+		<segment id="22" relname="antithesis">где США потерпели неудачу,</segment>
+		<segment id="23" relname="antithesis">и что международное сообщество может себе позволить заплатить ту цену,</segment>
+		<segment id="24" parent="23" relname="elaboration">которая требуется для обеспечения их сотрудничества.</segment>
+		<segment id="25" relname="antithesis">##### Да,</segment>
+		<segment id="26" relname="antithesis">Сирия и Иран играют важную роль в поддержке иракских повстанцев,</segment>
+		<segment id="27" relname="antithesis">и Сирия по-прежнему поощряет переброску боевиков-исламистов и оружия по всей ее границе с Ираком.</segment>
+		<segment id="28" relname="antithesis">Но идея о том,</segment>
+		<segment id="29" relname="antithesis">что эту деятельность можно остановить волевым решением – наивна.</segment>
+		<segment id="30" relname="antithesis">##### Во-первых, интересы шиитских сообществ в Ираке и Иране не совпадают.</segment>
+		<segment id="31" relname="antithesis">Иракские шииты никогда не подчинялись иранскому диктату,</segment>
+		<segment id="32" relname="antithesis">и многие из них участвовали в войне Саддама Хусейна против Ирана в 1980 году.</segment>
+		<segment id="33" relname="antithesis">В конце концов, иракские шииты – арабы, и если они сейчас</segment>
+		<segment id="34" relname="antithesis">и готовы координировать свою деятельность с собратьями-персами,</segment>
+		<segment id="35" relname="antithesis">то главной их целью всегда будет оставаться обеспечение независимого курса,</segment>
+		<segment id="36" relname="antithesis">и как можно скорее,</segment>
+		<segment id="37" relname="antithesis">несмотря даже на то,</segment>
+		<segment id="38" relname="antithesis">что они при этом продолжают конфликтовать между собой в Ираке.</segment>
+		<segment id="39" relname="antithesis">Убедить их разрешить свои внутренние противоречия Ирану будет ничуть не легче,</segment>
+		<segment id="40" relname="antithesis">чем США.</segment>
+		<segment id="41" relname="antithesis">##### Президент Сирии Башер Аль-Ассад сталкивается с аналогичной дилеммой.</segment>
+		<segment id="42" relname="antithesis">Хотя он открыл сирийскую границу для боевиков</segment>
+		<segment id="43" relname="antithesis">и предоставил свободу действий сторонникам Саддама, этот его выбор, возможно, не вполне добровольный.</segment>
+		<segment id="44" relname="antithesis">Сирия помогала Саддаму действовать в обход программы ООН «Нефть в обмен на продовольствие»,</segment>
+		<segment id="45" relname="antithesis">и в результате иракские деньги начали оседать у жителей приграничных регионов,</segment>
+		<segment id="46" parent="45" relname="elaboration">которые по обычаям, диалекту и мировоззрению всегда были ближе к иракским соседям,</segment>
+		<segment id="47" relname="antithesis">чем к своим землякам-сирийцам.</segment>
+		<segment id="48" relname="antithesis">В отсутствие денежных вливаний от властей местные жители стали лояльны иракским баасистам,</segment>
+		<segment id="49" parent="48" relname="elaboration">которые помогли им улучшить жизнь.</segment>
+		<segment id="50" relname="antithesis">Действительно, даже местные службы безопасности не желали подчиниться приказам о закрытии границ,</segment>
+		<segment id="51" relname="antithesis">поступавшим от Ассада и его клики.</segment>
+		<segment id="52" relname="antithesis">##### При таких обстоятельствах создается впечатление,</segment>
+		<segment id="53" relname="antithesis">что ни Сирия, ни Иран не в состоянии устроить в Иране ничего, кроме кровопролития.</segment>
+		<segment id="54" relname="antithesis">Тогда какая польза от предлагаемого диалога между США и этими государствами – кроме продолжения поддержки их коррумпированных, но амбициозных режимов?</segment>
+		<segment id="55" relname="antithesis">##### Ситуация еще более осложняется,</segment>
+		<segment id="56" parent="55" relname="condition">если принять во внимание расследование ООН убийства бывшего премьер-министра Ливана Рафика Аль-Харири.</segment>
+		<segment id="57" relname="antithesis">Ассад хочет,</segment>
+		<segment id="58" parent="57" relname="purpose">чтобы это событие было предано забвению –</segment>
+		<segment id="59" relname="antithesis">и сторонники диалога думают,</segment>
+		<segment id="60" relname="antithesis">что могут выполнить его пожелание,</segment>
+		<segment id="61" relname="antithesis">в надежде разрушить союз Сирии с Ираном.</segment>
+		<segment id="62" relname="antithesis">##### Но это просто очередное ошибочное</segment>
+		<segment id="63" relname="antithesis">(не говоря уже о том,</segment>
+		<segment id="64" relname="antithesis">что аморальное)</segment>
+		<segment id="65" relname="antithesis">предположение.</segment>
+		<segment id="66" relname="antithesis">Союзу Сирии и Ирана более двух десятков лет, и верность ему была открыто провозглашена двумя правящими режимами не далее как в январе 2005 года.</segment>
+		<segment id="67" relname="antithesis">Действительно, сейчас власти двух стран срослись как сиамские близнецы.</segment>
+		<segment id="68" relname="antithesis">Недавний отказ Ассада посетить встречу на высшем уровне в Тегеране с участием руководителей Ирана и Ирака был просто тактическим ходом,</segment>
+		<segment id="69" relname="antithesis">рассчитанным на привлечение симпатий сторонников диалога.</segment>
+		<segment id="70" relname="antithesis">##### На самом деле Иран вложил в Сирию сотни миллионов долларов,</segment>
+		<segment id="71" relname="antithesis">а объем двусторонней торговли достигает миллиардов долларов в год.</segment>
+		<segment id="72" relname="antithesis">Влияние Ирана на службы безопасности Сирии растет</segment>
+		<segment id="73" relname="antithesis">и ширится,</segment>
+		<segment id="74" relname="antithesis">а кроме того,</segment>
+		<segment id="75" relname="antithesis">Иран финансирует создание шиитского сирийского ополчения, в качестве компенсации за падение влияния Ассада в армии и в среде алавитского меньшинства.</segment>
+		<segment id="76" relname="antithesis">##### Ассад не может закрывать на все это глаза.</segment>
+		<segment id="77" relname="antithesis">Никакая сделка не будет для него достаточно привлекательной,</segment>
+		<segment id="78" relname="antithesis">даже если частью ее станет возвращение Голанских высот.</segment>
+		<segment id="79" relname="antithesis">Для Ассада и его сторонников выживание важнее суверенитета.</segment>
+		<segment id="80" relname="antithesis">##### И то,</segment>
+		<segment id="81" relname="antithesis">что известные комментаторы и политические деятели рекомендуют вступить в диалог с Сирией и/или с Ираном – свидетельство того,</segment>
+		<segment id="82" relname="antithesis">насколько непоследовательными и отстраненными стали западные державы по отношению к живым реалиям самого беспокойного региона мира.</segment>
+		<segment id="83" relname="antithesis">Такова,</segment>
+		<segment id="84" relname="antithesis">по всей видимости, цена их самонадеянности.</segment>
+    </body>
+</rst>
